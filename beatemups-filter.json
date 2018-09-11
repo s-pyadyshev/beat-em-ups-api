@@ -1,42 +1,161 @@
 [{
-    "platform": ["Arcade"],
-    "developer": ["Jaleco"],
-    "publisher": ["Jaleco"],
-    "releasedate": ["Jan '91"],
-    "otherPlatforms": "",
-    "series": "$series",
-    "players": [2],
-    "structure": ["Linear"],
-    "difficulty": ["Medium"],
-    "gangsize": ["Average (5)"],
-    "variety": ["None"],
-    "playtime": ["0:45"],
-    "buttons": ["Attack, Jump"],
-    "combos": ["Static"],
-    "grabs": ["Contact"],
-    "dashing": ["Attack only"],
-    "EnemyHBars": ["Yes"],
-    "itemPickup": ["Button"],
-    "itemStay": ["Fade"],
-    "weaponsStay": ["Hold"],
-    "deathBlow": ["Health"],
-    "friendlyFire": ["Yes"],
-    "charSwitch": ["On Death"],
-    "groundHit": ["No"],
-    "revive": ["Knockdown + Invincibility"],
-    "restore": ["End of Stage"],
-    "artStyle": ["Cartoony"],
-    "sprites": ["Large"],
-    "setting": ["Urban"],
-    "focus": ["Hand-to-Hand"],
-    "music": ["Jazzy"],
-    "tone": ["Lighthearted"],
-    "fighters": [2],
-    "stages": [6],
-    "enemies": ["?"],
-    "bosses": [6],
-    "weapons": [3],
-    "lives": [3],
-    "continues": [1],
-    "extend": ["N/A"]
-}]
+        "platform": ["Arcade"],
+        "description": "platform"
+    },
+    {
+        "developer": ["Jaleco"],
+        "description": "Who developed this game"
+    },
+    {
+        "publisher": ["Jaleco"],
+        "description": "Who published this game"
+    },
+    {
+        "releasedate": ["Jan '91"],
+        "description": "Initial release date/country"
+    },
+    {
+        "otherPlatforms": "",
+        "description": "Other platforms you can play this game on"
+    },
+    {
+        "series": "$series",
+        "description": "Series"
+    },
+    {
+        "players": [1, 2, 3, 4],
+        "description": "Number of simultaneous human players"
+    },
+    {
+        "structure": ["Linear"],
+        "description": "Game structure. It can be linear, branching, or stage select."
+    },
+    {
+        "difficulty": ["Medium"],
+        "description": "Overall game difficulty"
+    },
+    {
+        "gangsize": ["Average (5)"],
+        "description": "Maximum number of onscreen opponents"
+    },
+    {
+        "variety": ["None"],
+        "description": "Variety elements such as bonus rounds, shooter sections, or RPG mechanics"
+    },
+    {
+        "playtime": ["0:45"],
+        "description": "Average time necessary to beat the game"
+    },
+    {
+        "buttons": ["Attack, Jump"],
+        "description": "List of buttons used to control the game"
+    },
+    {
+        "combos": ["Static"],
+        "description": "The nature of the combo attack in this game. Linear always plays the same sequence, distance means different attacks come out based on distance from opponents, and freeform means you can change your combo with directionals or button presses."
+    },
+    {
+        "grabs": ["Contact"],
+        "description": "The nature of grabs in this game. Contact means you touch the opponent any time, while after stun means you have to hit them a few times first."
+    },
+    {
+        "dashing": ["Attack only"],
+        "description": "How dashes are executed, if they exist at all."
+    },
+    {
+        "EnemyHBars": ["Yes"],
+        "description": "Are enemy health bars displayed? Do they have names?"
+    },
+    {
+        "itemPickup": ["Button"],
+        "description": "How you pick up items. Either by just coming in contact with them or pressing a button when nearby."
+    },
+    {
+        "itemStay": ["Fade"],
+        "description": "How long items remain in the game. Either they fade away after some time or stay forever."
+    },
+    {
+        "weaponsStay": ["Hold"],
+        "description": "How long weapons last. Either they have durability or ammo and are expended after a few hits, or they last as long as you hold them."
+    },
+    {
+        "deathBlow": ["Health"],
+        "description": "How death-blow attacks work. They can take some health, require energy, or sometimes require stock."
+    },
+    {
+        "friendlyFire": ["Yes"],
+        "description": "Whether or not your attacks affect other players."
+    },
+    {
+        "charSwitch": ["On Death"],
+        "description": "When you can switch characters. Usually on death, but sometimes between stages or not at all."
+    },
+    {
+        "groundHit": ["No"],
+        "description": "If you can attack grounded opponents."
+    },
+    {
+        "revive": ["Knockdown + Invincibility"],
+        "description": "What happens when you come back from death. Can grant invincibility, knockdown, and/or an attack."
+    },
+    {
+        "restore": ["End of Stage"],
+        "description": "When your health is restored. Usually after a stage is over but sometimes through RPG mechanics and sometimes only by eating food."
+    },
+    {
+        "artStyle": ["Cartoony"],
+        "description": "The game's overall artistic style."
+    },
+    {
+        "sprites": ["Large"],
+        "description": "The size of the character sprites."
+    },
+    {
+        "setting": ["Urban"],
+        "description": "The game's aesthetic setting."
+    },
+    {
+        "focus": ["Hand-to-Hand"],
+        "description": "What the combat engine focuses on. Can be hand-to-hand, weapons, and rarely projectiles."
+    },
+    {
+        "music": ["Jazzy"],
+        "description": "Overall musical style."
+    },
+    {
+        "tone": ["Lighthearted"],
+        "description": "The game's overall tone. Can be humorous, lighthearted, or serious."
+    },
+    {
+        "fighters": [2],
+        "description": "Number of playable characters."
+    },
+    {
+        "stages": [6],
+        "description": "Total number of stages, aka levels or rounds."
+    },
+    {
+        "enemies": ["?"],
+        "description": "Total number of unique enemies. Generally color-swaps are not counted."
+    },
+    {
+        "bosses": [6],
+        "description": "Total number of unique bosses."
+    },
+    {
+        "weapons": [3],
+        "description": "How many usable weapons there are in the game. This refers only to items, not to weapons permanently equipped by a character in weapons-based brawlers."
+    },
+    {
+        "lives": [3],
+        "description": "Number of lives per credit."
+    },
+    {
+        "continues": [1],
+        "description": "How many continues you get for a credit."
+    },
+    {
+        "extend": ["N/A"],
+        "description": "Point score that awards an extra life once achieved."
+    }
+]
