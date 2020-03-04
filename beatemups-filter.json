@@ -64,7 +64,7 @@
         "options": ["Attack, Jump"]
     },
     {
-        "names": "combos",
+        "name": "combos",
         "description": "The nature of the combo attack in this game. Linear always plays the same sequence, distance means different attacks come out based on distance from opponents, and freeform means you can change your combo with directionals or button presses.",
         "options": ["Static"]
     },
@@ -151,7 +151,7 @@
     {
         "name": "music",
         "description": "Overall musical style.",
-        "options": ["Jazzy"]
+        "options": ["80's rock", "80's Synth", "Anime", "Arabian", "Atmospheric", "Cartoony", "Electronic", "Electronic Medieval", "Hip Hop", "Hard Rock", "Japanese", "Jazzy", "Medieval", "Metal", "Rock", "Rockabilly", "Techno", "Weird"]
     },
     {
         "name": "tone",
@@ -169,7 +169,7 @@
         "options": [3, 4, 5, 6, 7, 8]
     },
     {
-        "enemies": "enemies",
+        "name": "enemies",
         "description": "Total number of unique enemies. Generally color-swaps are not counted.",
         "options": [8, 16]
     },
