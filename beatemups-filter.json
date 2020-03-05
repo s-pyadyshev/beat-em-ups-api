@@ -1,22 +1,22 @@
 [{
         "name": "platform",
         "description": "platform",
-        "options": ["Arcade"]
+        "options": ["Arcade", "GBA", "Game Boy", "Game Gear", "Genesis", "NES", "PC", "PC Engine", "PS3", "PSP", "Playstation", "SMS", "SNES", "Saturn"]
     },
     {
         "name": "developer",
         "description": "Who developed this game",
-        "options": ["Jaleco"]
+        "options": ["Agenda", "Almanic Corp.", "Alpha Denshi", "Appaloosa", "Arc System Works", "Arcade Zone LTD", "Atari", "Ballistic", "Bandai", "Banpresto", "Beam Software", "Biox", "Blizzard", "Bomber Games", "Brezzasoft", "Capcom", "Cream", "Data East", "Digital Eclipse", "East Technology", "Electronic Devices", "Eurocom Entertainment", "Fill-In Cafe", "IGS", "ITL", "Inter State", "Irem", "Jaleco", "Jorudan", "Kaneko", "Kid", "Koei", "Konami", "Magifact", "Malibu", "Midway", "Million", "NEC Interchannel", "Naps Team", "Natsume", "Never Ending Soft", "Noise Factory", "Novotrade", "Now Production", "Opera House", "Rare", "Realtime Associates", "SNK", "Sales Curve Interactive", "Sculptured Software", "Sega", "Seibu Kaihatsu", "Seta Corp.", "Software Creations", "Strata", "Sun L", "Sun-Tec", "SunSoft", "TAD Corp.", "Taito", "Technos", "Tecmo", "The Behemoth", "Toaplan", "Torus Games", "Treasure", "UNICO", "Ubisoft", "Video System", "Virgin Interactive", "WayForward", "Webfoot Technologies", "Westone", "Winds", "WinkySoft", null]
     },
     {
         "name": "publisher",
         "description": "Who published this game",
-        "options": ["Jaleco"]
+        "options": ["Acclaim", "Accolade", "Activision", "Atari", "Atlus", "Bandai", "Banpresto", "Bomber Games", "Brezzasoft", "Capcom", "Culture Brain", "Data East", "Den'Z", "Destination Software", "Dreamworks/NCS", "Electronic Devices", "Fabtek", "Flying Edge", "Fox Interactive", "Hudson", "IGS", "Irem", "Jaleco", "Kaneko", "Kemco", "Konami", "MTO", "Ma-Ba", "Magifact", "Majesco", "Mindscape Inc.", "NEC Interchannel", "Namco", "Naxat Soft", "Never Ending Soft", "Nichibitsu", "Nintendo", "Nippon Telenet", "Noise Factory", "PalSoft", "Playmates", "Pop", "Rare", "Romstar", "SNK", "Sega", "SegaSoft", "Seibu Kaihatsu", "Seika Corp.", "Sony Imagesoft", "Strata", "SunSoft", "Taito", "Takara", "Tec Toy", "Technos", "Tecmo", "The Behemoth", "Toaplan", "TradeWest", "UNICO", "Ubisoft", "Varie", "Vic Tokai", "Video System", "Virgin Interactive", null]
     },
     {
         "name": "releasedate",
         "description": "Initial release date/country",
-        "options": ["Jan '91"]
+        "options": ["Apr '11", "Apr '89", "Apr '92", "Apr '92Dec '92", "Apr '92Mar '92", "Apr '93", "Apr '93Feb '93", "Apr '94", "Apr '94Jun '94", "Apr '94Mar '94", "Aug '05", "Aug '05Mar '05", "Aug '08", "Aug '10Oct '10", "Aug '88", "Aug '90Jul '90", "Aug '91", "Aug '92", "Aug '92Jul '92", "Aug '93", "Aug '93May '93", "Aug '94", "Aug '95Mar '95", "Aug '97", "Dec '86May '86", "Dec '89", "Dec '90", "Dec '91", "Dec '91Nov '91", "Dec '93", "Dec '94", "Dec '95", "Feb '01", "Feb '91", "Feb '91Mar '90", "Feb '92Dec '91", "Feb '92Jul '91", "Feb '93", "Feb '93Sep '92", "Feb '95", "Feb '96", "Jan '00", "Jan '01", "Jan '87", "Jan '88", "Jan '88Apr '87", "Jan '89", "Jan '90", "Jan '90Apr '89", "Jan '90Dec '89", "Jan '91", "Jan '91Jan '91", "Jan '92", "Jan '92Feb '93", "Jan '92Jan '93", "Jan '92Nov '92", "Jan '92Oct '91", "Jan '93", "Jan '94", "Jan '95", "Jan '96", "Jan '96Dec '95", "Jan '99", "Jul '86", "Jul '91", "Jul '91Dec '91", "Jul '92", "Jul '93", "Jul '93Jul '93", "Jul '93Jun '93", "Jul '94", "Jun '88Apr '88", "Jun '89", "Jun '89Aug '88", "Jun '93", "Jun '93Jan '94", "Jun '94", "Jun '94Dec '93", "Jun '94Mar '92", "Mar '07Mar '07", "Mar '90", "Mar '92", "Mar '93", "Mar '93Dec '92", "Mar '93Mar '93Jan '94", "Mar '94Dec '93", "Mar '95", "Mar '97Mar '97", "May '04Mar '04", "May '90", "May '91", "May '93", "May '94", "May '97May '97", "Nov '01Nov '01", "Nov '03Mar '04", "Nov '03Nov '02", "Nov '91", "Nov '91Jan '94", "Nov '93", "Nov '94Apr '95", "Nov '94Mar '94", "Nov '95", "Oct '88", "Oct '91", "Oct '92Oct '92", "Oct '93", "Oct '94Oct '94Oct '94", "Sep '01May '01", "Sep '01Oct '01", "Sep '06Aug '06", "Sep '12Dec '13", "Sep '89Jun '89", "Sep '90Oct '91", "Sep '91", "Sep '91Dec '90", "Sep '92", "Sep '93", "Sep '93Jan '93", "Sep '94", "Sep '94May '95", "Sep '95", null]
     },
     {
         "name": "otherPlatforms",
@@ -31,171 +31,171 @@
     {
         "name": "players",
         "description": "Number of simultaneous human players",
-        "options": [1, 2, 3, 4]
+        "options": [1, 2, 3, 4, 6, null]
     },
     {
         "name": "structure",
         "description": "Game structure. It can be linear, branching, or stage select.",
-        "options": ["Linear", "Stage select"]
+        "options": ["Branching", "Linear", "Open World", "Open world", "Semi-branching", "Stage Select", "Stage select", null]
     },
     {
         "name": "difficulty",
         "description": "Overall game difficulty",
-        "options": ["Easy", "Medium", "Hard"]
+        "options": ["Broken", "Brutal", "Casual", "Easy", "Hard", "Hardcore", "Medium", null]
     },
     {
         "name": "gangsize",
         "description": "Maximum number of onscreen opponents",
-        "options": ["Average (5)"]
+        "options": ["7 (Large)", "Average (5)", "Average (6)", "Duo (2)", "Gigantic (10+)", "Gigantic (9)", "Gigantic (9+)", "Huge (7)", "Huge (8)", "Huge (9)", "Huge (Max 7)", "Large (5)", "Large (6)", "Large (7)", "Medium (5)", "Quartet (4)", "Small (4)", "Small (5)", "Trio (3)", null]
     },
     {
         "name": "variety",
         "description": "Variety elements such as bonus rounds, shooter sections, or RPG mechanics",
-        "options": ["None"]
+        "options": ["Bonus stage", "Bonus stages", "Bonus stages, vehicle stages", "Climbing stages", "Climbing, Autoscrolling", "Cooking", "Customization", "Driving", "Exploration", "Fighting game", "Fighting sections", "Finess Trick", "Hidden areas", "Mission goals", "Morality system", "None", "Pirate stuff", "Platforming", "Platforming, Minigames", "Platforming, Vehicles", "Platforming, vehicles", "Plenty", "RPG Elements", "RPG Elements, Bonus stages", "RPG elements", "RPG, Strategy", "Rollerskating", "Running stages", "Scrolling stages", "Shooter sections", "Shooter stages", "Shootin', Drivin'", "Shootin', Platforming", "Shooting, platforming", "Timer", "Tons", "Tons and tons", "Upgrades", "Vehicle Stage", "Vehicle section", "Vehicle sections", "Vehicle stages", "Vehicles", "Vehicles, Shooting, Platforming", "Vs. mode", "Vs. stages", "Vs., Vehicles, Minigames", null]
     },
     {
         "name": "playtime",
         "description": "Average time necessary to beat the game",
-        "options": ["0:45"]
+        "options": ["0:10", "0:15", "0:20", "0:30", "0:35", "0:40", "0:45", "0:50", "10:00", "1:00", "1:15", "1:30", "1:40", "1:45", "2:00", "2:30", "3:00", null]
     },
     {
         "name": "buttons",
         "description": "List of buttons used to control the game",
-        "options": ["Attack, Jump"]
+        "options": ["Attack, Jump", "Attack, Jump, Change, Use", "Attack, Jump, Extra Joy", "Attack, Jump, Grab, Grenade", "Attack, Jump, Item, Magic", "Attack, Jump, Low attack, Grab, Block", "Attack, Jump, Magic", "Attack, Jump, Projectile", "Attack, Jump, Run, Special", "Attack, Jump, Select, Use", "Attack, Jump, Shoot", "Attack, Jump, Special", "Attack, Jump, Special 1, Special 2", "Attack, Jump, Special, DP On, DP Off", "Attack, Jump, Special, Magic", "Attack, Jump, Special, Roll", "Attack, Jump, Special, Web", "Attack, Jump, Summon", "Attack, Jump, Switch", "Attack, Jump, Taunt", "Attack, Jump, Transform", "Attack, Jump, Web", "Attack, jump", "Attack1, Attack2, Jump, Switch", "Jump, Attack", "Jump, Attack, Magic", "Jump, Kick, Punch", "Left, Jump, Right", "Left, Right", "Left, Right, Jump", "Left, right", "Light, Medium, Fierce, Jump", "Punch x2, Kick x2, Guard", "Punch, Jump, Kick", "Punch, Jump, Kick, Recover, Special", "Punch, Kick", "Punch, Kick, Guard", "Punch, Kick, Jump", "Punch, Kick, Jump, Block", "Punch, Kick, Jump, Block, Charge", "Punch, Kick, Jump, Crouch", "Punch, Kick, Jump, Magic", "Punch, Kick, Jump, Special", "Punch, Kick, Weapon, Jump", "Punch, Weapon, Jump, Block", "Punch1, Punch2, Kick1, Kick2, Jump, Possess", "Slash, Punch, Jump, Projectile", "Slice, Sever, Jump, Transform", "Weak, Strong, Jump, Special", "Weak, Strong, Musou", "Weak, Strong, Special, Shoot", null]
     },
     {
         "name": "combos",
         "description": "The nature of the combo attack in this game. Linear always plays the same sequence, distance means different attacks come out based on distance from opponents, and freeform means you can change your combo with directionals or button presses.",
-        "options": ["Static"]
+        "options": ["Distance", "Dynamic", "Freeform", "Linear", "No", "Smokeman only", "Static", null]
     },
     {
         "name": "grabs",
         "description": "The nature of grabs in this game. Contact means you touch the opponent any time, while after stun means you have to hit them a few times first.",
-        "options": ["Contact"]
+        "options": ["After Stun", "After knockdown", "After stun", "After stun/block", "Auto", "Button", "Close attack", "Contact", "Contact, After Stun", "Dash only", "N/A", "No", "Vs. grounded", "While jumping", "Yes", null]
     },
     {
         "name": "dashing",
         "description": "How dashes are executed, if they exist at all.",
-        "options": ["Attack only"]
+        "options": ["Attack only", "Auto", "Automatic", "Button", "Double tap", "Double-tap", "Double-tap, Button", "No", "Perceval only", "Skate only", "Yes", null]
     },
     {
         "name": "EnemyHBars",
         "description": "Are enemy health bars displayed? Do they have names?",
-        "options": ["Yes"]
+        "options": ["+ Name", "+ Names", "Boss + Name", "Boss Only", "Bosses", "Bosses + Name", "Bosses + Names", "Bosses + name", "Bosses only", "No", "Yes", null]
     },
     {
         "name": "itemPickup",
         "description": "How you pick up items. Either by just coming in contact with them or pressing a button when nearby.",
-        "options": ["Button"]
+        "options": ["Button", "Button, Contact", "Contact", "N/A", null]
     },
     {
         "name": "itemStay",
         "description": "How long items remain in the game. Either they fade away after some time or stay forever.",
-        "options": ["Fade"]
+        "options": ["Area", "Fade", "Forever", "Forever (except Torch)", "N/A", "Stay", "Weapons fade, health stay", null]
     },
     {
         "name": "weaponsStay",
         "description": "How long weapons last. Either they have durability or ammo and are expended after a few hits, or they last as long as you hold them.",
-        "options": ["Hold"]
+        "options": ["Ammo", "Ammo, Durability", "Ammo, Hold", "Ammo/Hold", "Area", "Durability", "Durability/Ammo", "Duration", "Forever", "Hold", "Hold/Ammo", "N/A", "No", "Permanent", "Stock", "Time", "Until death", null]
     },
     {
         "name": "deathBlow",
         "description": "How death-blow attacks work. They can take some health, require energy, or sometimes require stock.",
-        "options": ["Health"]
+        "options": ["Energy", "Energy/Health", "Health", "Health, Stock", "Health, charge", "N/A", "No", "No damage", "Stock", "Stun", "Throw", "Yes", null]
     },
     {
         "name": "friendlyFire",
         "description": "Whether or not your attacks affect other players.",
-        "options": ["Yes", "No"]
+        "options": ["Always", "N/A", "No", "Optional", "Yes", null]
     },
     {
         "name": "charSwitch",
         "description": "When you can switch characters. Usually on death, but sometimes between stages or not at all.",
-        "options": ["On Death"]
+        "options": ["Always", "Button", "Campaign", "End of stage", "N/A", "No", "On death", "Shop", "Stock", "Story", null]
     },
     {
         "name": "groundHit",
         "description": "If you can attack grounded opponents.",
-        "options": ["Yes", "No"]
+        "options": ["Bosses only", "No", "Throws", "Yes", null]
     },
     {
         "name": "revive",
         "description": "What happens when you come back from death. Can grant invincibility, knockdown, and/or an attack.",
-        "options": ["Knockdown + Invincibility"]
+        "options": ["Checkpoint", "Invincibility", "Invincibility + Attack", "Invincibility + Knockdown", "Invincibility + knockdown", "Invincibility Attack", "Invincible + Attack", "Invinciblity", "Invinicibility", "Knockdown", "Knockdown + Invincibility", "N/A", "New area", null]
     },
     {
         "name": "restore",
         "description": "When your health is restored. Usually after a stage is over but sometimes through RPG mechanics and sometimes only by eating food.",
-        "options": ["End of Stage"]
+        "options": ["Assessment Day", "Cooking only", "End of Stage", "End of stage", "Food Only", "Food only", "N/A", "New area", "On Level Up", "On level up", "Shop", "Shops only", null]
     },
     {
         "name": "artStyle",
         "description": "The game's overall artistic style.",
-        "options": ["Cartoony"]
+        "options": ["Anime", "CGI", "Cartoony", "Chibi", "Comic", "Comic book", "Old-school anime", "Realistic", "Ren & Stimpy", "Semi-cartoony", "Semi-realistic", null]
     },
     {
         "name": "sprites",
         "description": "The size of the character sprites.",
-        "options": ["Large"]
+        "options": ["Big", "Gigantic", "Huge", "Large", "Medium", "Small", null]
     },
     {
         "name": "setting",
         "description": "The game's aesthetic setting.",
-        "options": ["Urban"]
+        "options": ["90's", "Anime", "Arabian Nights", "Bayou", "Cartoon", "Comic", "Futuristic", "Futuristic Urban", "Futuristic, Prehistoric", "Horror", "Japan", "Jungle", "Medieval", "Medieval China", "Medieval Fantasy", "Medieval Japan", "Medieval fantasy", "Military", "Mountain", "Pirate", "Post-apocalyptic", "Post-apocalyptic supernatural", "Sci-fi", "Supernatural", "Urban", "Urban, Futuristic", "Urban, Jungle", "Urban/Space", "Video Game", "Video game", null]
     },
     {
         "name": "focus",
         "description": "What the combat engine focuses on. Can be hand-to-hand, weapons, and rarely projectiles.",
-        "options": ["Hand-to-Hand"]
+        "options": ["Hack 'n' Slash", "Hack 'n' slash", "Hand-to-Hand", "Hand-to-Hand + Weapons", "Hand-to-hand", "Hand-to-hand, Weapons", "Hand-to-hand, projectiles", "Hand-to-hand/Projectiles", "Hand-to-hand/Weapons", "Weapons", "Weapons, Hand-to-hand", "Weapons, Projectiles", "Weapons/Hand-to-hand", "Weapons/Projectiles", null]
     },
     {
         "name": "music",
         "description": "Overall musical style.",
-        "options": ["80's rock", "80's Synth", "Anime", "Arabian", "Atmospheric", "Cartoony", "Electronic", "Electronic Medieval", "Hip Hop", "Hard Rock", "Japanese", "Jazzy", "Medieval", "Metal", "Rock", "Rockabilly", "Techno", "Weird"]
+        "options": ["80's Rock", "80's Synth", "Animanaguchi", "Anime", "Arabian", "Atmospheric", "Batman", "Cartoony", "Chinese", "Crap", "Electronic", "Electronic Medieval", "Hard Rock", "Hip Hop", "Hip hop", "Horror", "House", "Japanese", "Jazzy", "Konami", "Konami Funk", "Medieval", "Metal", "Party Techno", "Pirate", "Rock", "Rockabilly", "Techno", "Techno/Rock", "Turtles Music", "Turtles music", "Video Game", "Video game", "Weird", "Zuntata", null]
     },
     {
         "name": "tone",
         "description": "The game's overall tone. Can be humorous, lighthearted, or serious.",
-        "options": ["Lighthearted"]
+        "options": ["Humorous", "Lighthearted", "Semi-serious", "Serious", "Seroius", null]
     },
     {
         "name": "fighters",
         "description": "Number of playable characters.",
-        "options": [1, 2, 3, 4]
+        "options": [1, 2, 3, 4, 5, 6, 7, 8, 12, 18, 20, 31, null]
     },
     {
         "name": "stages",
         "description": "Total number of stages, aka levels or rounds.",
-        "options": [3, 4, 5, 6, 7, 8]
+        "options": [4, 5, 6, 7, 8, 9, 10, 16, null]
     },
     {
         "name": "enemies",
         "description": "Total number of unique enemies. Generally color-swaps are not counted.",
-        "options": [8, 16]
+        "options": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 19, 20, null]
     },
     {
         "name": "bosses",
         "description": "Total number of unique bosses.",
-        "options": [6, 7]
+        "options": [2, 3, 4, 5, 6, 7, 8, 12, 13, null]
     },
     {
         "name": "weapons",
         "description": "How many usable weapons there are in the game. This refers only to items, not to weapons permanently equipped by a character in weapons-based brawlers.",
-        "options": [3, 4, 5]
+        "options": [0, 2, 3, 4, 5, 6, 7, 8, 10, 12, 20, null]
     },
     {
         "name": "lives",
         "description": "Number of lives per credit.",
-        "options": [3, 4]
+        "options": [1, 2, 3, 4, 5, 9, null]
     },
     {
         "name": "continues",
         "description": "How many continues you get for a credit.",
-        "options": [1, 2, 3]
+        "options": [0, 1, 2, 3, 9, "Infinite", null]
     },
     {
         "name": "extend",
         "description": "Point score that awards an extra life once achieved.",
-        "options": ["N/A", 200]
+        "options": [200, 20000, 30000, 50000, 100000, 200000, 400000, "N/A", null]
     }
 ]
