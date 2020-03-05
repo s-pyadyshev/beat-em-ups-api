@@ -5529,7 +5529,7 @@
         "otherPlatforms": null,
         "series": "$series",
         "players": 2,
-        "structure": "Stage Select",
+        "structure": "Stage select",
         "difficulty": "Medium",
         "gangsize": "Large (6)",
         "variety": "Bonus stages",

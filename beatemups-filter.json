@@ -36,7 +36,7 @@
     {
         "name": "structure",
         "description": "Game structure. It can be linear, branching, or stage select.",
-        "options": ["Branching", "Linear", "Open World", "Open world", "Semi-branching", "Stage Select", "Stage select", null]
+        "options": ["Branching", "Linear", "Open World", "Open world", "Semi-branching", "Stage select", null]
     },
     {
         "name": "difficulty",
