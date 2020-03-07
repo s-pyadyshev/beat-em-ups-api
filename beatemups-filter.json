@@ -71,17 +71,17 @@
     {
         "name": "grabs",
         "description": "The nature of grabs in this game. Contact means you touch the opponent any time, while after stun means you have to hit them a few times first.",
-        "options": ["After Stun", "After knockdown", "After stun", "After stun/block", "Auto", "Button", "Close attack", "Contact", "Contact, After Stun", "Dash only", "N/A", "No", "Vs. grounded", "While jumping", "Yes", null]
+        "options": ["After knockdown", "After stun", "After stun/block", "Auto", "Button", "Close attack", "Contact", "Contact, After stun", "Dash only", "N/A", "No", "Vs. grounded", "While jumping", "Yes", null]
     },
     {
         "name": "dashing",
         "description": "How dashes are executed, if they exist at all.",
-        "options": ["Attack only", "Auto", "Automatic", "Button", "Double-tap", "Double-tap, Button", "No", "Perceval only", "Skate only", "Yes", null]
+        "options": ["Attack only", "Auto", "Button", "Double-tap", "Double-tap, Button", "No", "Perceval only", "Skate only", "Yes", null]
     },
     {
         "name": "EnemyHBars",
         "description": "Are enemy health bars displayed? Do they have names?",
-        "options": ["+ Name", "+ Names", "Boss + Name", "Boss Only", "Bosses", "Bosses + Name", "Bosses + Names", "Bosses + name", "Bosses only", "No", "Yes", null]
+        "options": ["+ Names", "Bosses", "Bosses + Names", "Bosses only", "No", "Yes", null]
     },
     {
         "name": "itemPickup",
@@ -96,7 +96,7 @@
     {
         "name": "weaponsStay",
         "description": "How long weapons last. Either they have durability or ammo and are expended after a few hits, or they last as long as you hold them.",
-        "options": ["Ammo", "Ammo, Durability", "Ammo, Hold", "Ammo/Hold", "Area", "Durability", "Durability/Ammo", "Duration", "Forever", "Hold", "Hold/Ammo", "N/A", "No", "Permanent", "Stock", "Time", "Until death", null]
+        "options": ["Ammo", "Ammo, Durability", "Ammo, Hold", "Area", "Durability", "Durability/Ammo", "Duration", "Forever", "Hold", "N/A", "No", "Permanent", "Stock", "Time", "Until death", null]
     },
     {
         "name": "deathBlow",
@@ -111,7 +111,7 @@
     {
         "name": "charSwitch",
         "description": "When you can switch characters. Usually on death, but sometimes between stages or not at all.",
-        "options": ["Always", "Button", "Campaign", "End of stage", "N/A", "No", "On death", "Shop", "Stock", "Story", null]
+        "options": ["Always", "Button", "End of stage", "N/A", "No", "On death", "Shop", "Stock", "Story", null]
     },
     {
         "name": "groundHit",
@@ -121,7 +121,7 @@
     {
         "name": "revive",
         "description": "What happens when you come back from death. Can grant invincibility, knockdown, and/or an attack.",
-        "options": ["Checkpoint", "Invincibility", "Invincibility + Attack", "Invincibility + Knockdown", "Invincibility + knockdown", "Invincibility Attack", "Invincible + Attack", "Invinciblity", "Invinicibility", "Knockdown", "Knockdown + Invincibility", "N/A", "New area", null]
+        "options": ["Checkpoint", "Invincibility", "Invincibility + Attack", "Invincibility + Knockdown", "Invinciblity", "Knockdown", "N/A", "New area", null]
     },
     {
         "name": "restore",
