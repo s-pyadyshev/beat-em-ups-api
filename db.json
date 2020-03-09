@@ -5510,7 +5510,7 @@
         "stages": null,
         "enemies": null,
         "bosses": null,
-        "weapons": null,
+        "weapons": [null],
         "lives": null,
         "continues": null,
         "extend": null,
