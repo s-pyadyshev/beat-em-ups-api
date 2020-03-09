@@ -181,7 +181,7 @@
     {
         "name": "weapons",
         "description": "How many usable weapons there are in the game. This refers only to items, not to weapons permanently equipped by a character in weapons-based brawlers.",
-        "options": [0, 2, 3, 4, 5, 6, 7, 8, 10, 12, 20, "sticks", "grenades", null]
+        "options": [0, 2, 3, 4, 5, 6, 7, 8, 10, 12, 20, "stick", "grenade", null]
     },
     {
         "name": "lives",
