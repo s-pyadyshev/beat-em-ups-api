@@ -146,12 +146,12 @@
     {
         "name": "focus",
         "description": "What the combat engine focuses on. Can be hand-to-hand, weapons, and rarely projectiles.",
-        "options": ["Hack 'n' Slash", "Hack 'n' slash", "Hand-to-Hand", "Hand-to-Hand + Weapons", "Hand-to-hand", "Hand-to-hand, Weapons", "Hand-to-hand, projectiles", "Hand-to-hand/Projectiles", "Hand-to-hand/Weapons", "Projectiles", "Weapons", "Weapons, Hand-to-hand", "Weapons, Projectiles", "Weapons/Hand-to-hand", "Weapons/Projectiles", null]
+        "options": ["Hack 'n' Slash", "Hack 'n' slash", "Hand-to-hand", "Hand-to-hand, Weapons", "Hand-to-hand, projectiles", "Hand-to-hand/Projectiles", "Hand-to-hand/Weapons", "Projectiles", "Weapons", "Weapons, Hand-to-hand", "Weapons, Projectiles", "Weapons/Projectiles", null]
     },
     {
         "name": "music",
         "description": "Overall musical style.",
-        "options": ["80's Rock", "80's Synth", "90's music", "Animanaguchi", "Anime", "Arabian", "Atmospheric", "Batman", "Cartoony", "Chinese", "Crap", "Electronic", "Electronic Medieval", "Hard Rock", "Hip hop", "Horror", "House", "Japanese", "Jazzy", "Konami", "Konami Funk", "Medieval", "Metal", "Party Techno", "Pirate", "Rock", "Rockabilly", "Techno", "Techno/Rock", "Turtles Music", "Turtles music", "Video Game", "Video game", "Weird", "Zuntata", null]
+        "options": ["80's Rock", "80's Synth", "90's music", "Anime", "Arabian", "Atmospheric", "Batman", "Cartoony", "Chinese", "Chiptune Rock", "Crap", "Electronic", "Electronic Medieval", "Hard Rock", "Hip hop", "Horror", "House", "Japanese", "Jazzy", "Konami", "Konami Funk", "Medieval", "Metal", "Party Techno", "Pirate", "Rock", "Rockabilly", "Techno", "Techno/Rock", "Turtles Music", "Turtles music", "Video Game", "Video game", "Weird", "Zuntata", null]
     },
     {
         "name": "tone",
