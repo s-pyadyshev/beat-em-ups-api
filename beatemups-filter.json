@@ -51,7 +51,7 @@
     {
         "name": "variety",
         "description": "Variety elements such as bonus rounds, shooter sections, or RPG mechanics",
-        "options": ["Bonus stage", "Bonus stages", "Bonus stages, vehicle stages", "Climbing stages", "Climbing, Autoscrolling", "Cooking", "Customization", "Driving", "Exploration", "Fighting game", "Fighting sections", "Finess Trick", "Hidden areas", "Mission goals", "Morality system", "None", "Objectives", "Pirate stuff", "Platforming", "Platforming, Minigames", "Platforming, Vehicles", "Platforming, vehicles", "Plenty", "RPG Elements", "RPG Elements, Bonus stages", "RPG Elements, Vehicles", "RPG, Strategy", "Rollerskating", "Running stages", "Scrolling stages", "Shooter sections", "Shooter stages", "Shootin', Drivin'", "Shootin', Platforming", "Shooting, platforming", "Shooting, Running", "Timer", "Tons", "Tons and tons", "Upgrades", "Vehicle Stage", "Vehicle section", "Vehicle sections", "Vehicle stages", "Vehicles", "Vehicles, Shooting, Platforming", "VS. bonus game", "Vs. mode", "Vs. stages", "Vs., Vehicles, Minigames", null]
+        "options": ["Bonus stages", "Bonus stages, vehicle stages", "Climbing stages", "Climbing, Autoscrolling", "Cooking", "Customization", "Driving", "Exploration", "Fighting game", "Fighting sections", "Finess Trick", "Hidden areas", "Mission goals", "Morality system", "None", "Objectives", "Pirate stuff", "Platforming", "Platforming, Minigames", "Platforming, Vehicles", "Platforming, vehicles", "Plenty", "RPG Elements", "RPG Elements, Bonus stages", "RPG Elements, Vehicles", "RPG, Strategy", "Rollerskating", "Running stages", "Scrolling stages", "Shooter sections", "Shooter stages", "Shootin', Drivin'", "Shootin', Platforming", "Shooting, platforming", "Shooting, Running", "Timer", "Tons", "Tons and tons", "Upgrades", "Vehicle Stage", "Vehicle section", "Vehicle sections", "Vehicle stages", "Vehicles", "Vehicles, Shooting, Platforming", "VS. bonus game", "Vs. mode", "Vs. stages", "Vs., Vehicles, Minigames", null]
     },
     {
         "name": "playtime",
@@ -141,17 +141,17 @@
     {
         "name": "setting",
         "description": "The game's aesthetic setting.",
-        "options": ["90's", "Anime", "Arabian Nights", "Bayou", "Cartoon", "Chinese Mythology", "Comic", "Futuristic", "Futuristic Urban", "Futuristic, Prehistoric", "Horror", "Gotham", "Japan", "Jungle", "Medieval", "Medieval China", "Medieval Fantasy", "Medieval Japan", "Medieval fantasy", "Military", "Mountain", "Near future", "Pirate", "Post-apocalyptic", "Post-apocalyptic supernatural", "Sci-fi", "Supernatural", "Theme Park", "Urban", "Urban, Futuristic", "Urban, Jungle", "Urban/Space", "Video Game", "Video game", null]
+        "options": ["90's", "Anime", "Arabian Nights", "Bayou", "Cartoon", "Chinese Mythology", "Comic", "Futuristic", "Futuristic Urban", "Futuristic, Prehistoric", "Horror", "Gotham", "Japan", "Jungle", "Medieval", "Medieval China", "Medieval Fantasy", "Medieval Japan", "Medieval fantasy", "Military", "Mountain", "Near future", "Pirate", "Post-apocalyptic", "Post-apocalyptic supernatural", "Sci-fi", "Supernatural", "Theme Park", "Urban", "Urban, Futuristic", "Urban, Jungle", "Urban/Space", "Video game", null]
     },
     {
         "name": "focus",
         "description": "What the combat engine focuses on. Can be hand-to-hand, weapons, and rarely projectiles.",
-        "options": ["Hack 'n' Slash", "Hack 'n' slash", "Hand-to-hand", "Hand-to-hand, Weapons", "Hand-to-hand, projectiles", "Hand-to-hand/Projectiles", "Hand-to-hand/Weapons", "Projectiles", "Weapons", "Weapons, Hand-to-hand", "Weapons, Projectiles", "Weapons/Projectiles", null]
+        "options": ["Hack 'n' Slash", "Hack 'n' slash", "Hand-to-hand", "Hand-to-hand, Weapons", "Hand-to-hand, projectiles",  "Hand-to-hand/projectiles", "Hand-to-hand/Weapons", "Projectiles", "Weapons", "Weapons, Hand-to-hand", "Weapons, Projectiles", "Weapons/Projectiles", null]
     },
     {
         "name": "music",
         "description": "Overall musical style.",
-        "options": ["80's Rock", "80's Synth", "90's music", "Anime", "Arabian", "Atmospheric", "Batman", "Cartoony", "Chinese", "Chiptune Rock", "Crap", "Electronic", "Electronic Medieval", "Hard Rock", "Hip hop", "Horror", "House", "Japanese", "Jazzy", "Konami", "Konami Funk", "Medieval", "Metal", "Party Techno", "Pirate", "Rock", "Rockabilly", "Techno", "Techno/Rock", "Turtles Music", "Turtles music", "Video Game", "Video game", "Weird", "Zuntata", null]
+        "options": ["80's Rock", "80's Synth", "90's music", "Anime", "Arabian", "Atmospheric", "Batman", "Cartoony", "Chinese", "Chiptune Rock", "Crap", "Electronic", "Electronic Medieval", "Hard Rock", "Hip hop", "Horror", "House", "Japanese", "Jazzy", "Konami", "Konami Funk", "Medieval", "Metal", "Party Techno", "Pirate", "Rock", "Rockabilly", "Techno", "Techno/Rock", "Turtles music", "Video game", "Weird", "Zuntata", null]
     },
     {
         "name": "tone",
