@@ -6,12 +6,12 @@
     {
         "name": "developer",
         "description": "Who developed this game",
-        "options": ["Agenda", "Almanic Corp.", "Alpha Denshi", "Appaloosa", "Arc System Works", "Arcade Zone LTD", "Atari", "Ballistic", "Bandai", "Banpresto", "Beam Software", "Biox", "Blizzard", "Bomber Games", "Brezzasoft", "Capcom", "Cream", "Data East", "Digital Eclipse", "East Technology", "Electronic Devices", "Eurocom", "Eurocom Entertainment", "Fill-In Cafe", "Iguana", "IGS", "ITL", "Inter State", "Irem", "Jaleco", "Jorudan", "Kaneko", "Kid", "Koei", "Konami", "Leland Corp.", "Magifact", "Malibu", "Midway", "Million", "MTO", "NEC Interchannel", "Naps Team", "Natsume", "Never Ending Soft", "Noise Factory", "Novotrade", "Now Production", "Ocean", "Opera House", "Radical Entertainment", "Rare", "Realtime Associates", "SNK", "Sales Curve Interactive", "Sculptured Software", "Sega", "Seibu Kaihatsu", "Seta Corp.", "Software Creations", "Strata", "Sun L", "Sun-Tec", "SunSoft", "TAD Corp.", "Taito", "Technos", "Tecmo", "The Behemoth", "Toaplan", "Torus Games", "Treasure", "UNICO", "Ubisoft", "Vanillaware", "Video System", "Virgin Interactive", "WayForward", "Webfoot Technologies", "Westone", "Winds", "WinkySoft", null]
+        "options": ["Agenda", "Almanic Corp.", "Alpha Denshi", "Appaloosa", "Arc System Works", "Arcade Zone LTD", "Atari", "Ballistic", "Bandai", "Banpresto", "Beam Software", "Biox", "Blizzard", "Bomber Games", "Brezzasoft", "Capcom", "Cream", "Data East", "Digital Eclipse", "East Technology", "Electronic Devices", "Eurocom", "Eurocom Entertainment", "Fill-In Cafe", "Iguana", "IGS", "ITL", "Inter State", "Irem", "Jaleco", "Jorudan", "Kaneko", "Kid", "Koei", "Konami", "Leland Corp.", "Magifact", "Malibu", "Midway", "Million", "MTO", "NEC Interchannel", "Naps Team", "Natsume", "Never Ending Soft", "Noise Factory", "Novotrade", "Now Production", "Ocean", "Opera House", "Radical Entertainment", "Rare", "Realtime Associates", "SNK", "Sales Curve Interactive", "Sculptured Software", "Sega", "Seibu Kaihatsu", "Seta Corp.", "Software Creations", "Strata", "Sun L", "Sun-Tec", "SunSoft", "TAD Corp.", "Taito", "Technos", "Tecmo", "The Behemoth", "Toaplan", "Torus Games", "Treasure", "UNICO", "Ubisoft", "Vanillaware", "Video System", "Virgin Interactive", "WayForward", "Webfoot Technologies", "Westone", "Winds", "WinkySoft"]
     },
     {
         "name": "publisher",
         "description": "Who published this game",
-        "options": ["Acclaim", "Accolade", "Activision", "Atari", "Atlus", "Bandai", "Banpresto", "Bomber Games", "Brezzasoft", "Capcom", "Culture Brain", "Data East", "Den'Z", "Destination Software", "Dreamworks/NCS", "Electronic Devices", "Fabtek", "Flying Edge", "Fox Interactive", "Hudson", "IGS", "Irem", "Jaleco", "Kaneko", "Kemco", "Konami", "Leland Corp.", "MTO", "Ma-Ba", "Magifact", "Majesco", "Mindscape Inc.", "Motown Games", "NEC Interchannel", "Namco", "Naxat Soft", "Never Ending Soft", "Nichibitsu", "Nintendo", "Nippon Telenet", "Noise Factory", "PalSoft", "Playmates", "Pop", "Rare", "Romstar", "SNK", "Sega", "SegaSoft", "Seibu Kaihatsu", "Seika Corp.", "Sony Imagesoft", "Strata", "SunSoft", "Taito", "Takara", "Tec Toy", "Technos", "Tecmo", "The Behemoth", "Toaplan", "TradeWest", "UNICO", "Ubisoft", "Varie", "Vic Tokai", "Video System", "Virgin Interactive", "Warner Bros", null]
+        "options": ["Acclaim", "Accolade", "Activision", "Atari", "Atlus", "Bandai", "Banpresto", "Bomber Games", "Brezzasoft", "Capcom", "Culture Brain", "Data East", "Den'Z", "Destination Software", "Dreamworks/NCS", "Electronic Devices", "Fabtek", "Flying Edge", "Fox Interactive", "Hudson", "IGS", "Irem", "Jaleco", "Kaneko", "Kemco", "Konami", "Leland Corp.", "MTO", "Ma-Ba", "Magifact", "Majesco", "Mindscape Inc.", "Motown Games", "NEC Interchannel", "Namco", "Naxat Soft", "Never Ending Soft", "Nichibitsu", "Nintendo", "Nippon Telenet", "Noise Factory", "PalSoft", "Playmates", "Pop", "Rare", "Romstar", "SNK", "Sega", "SegaSoft", "Seibu Kaihatsu", "Seika Corp.", "Sony Imagesoft", "Strata", "SunSoft", "Taito", "Takara", "Tec Toy", "Technos", "Tecmo", "The Behemoth", "Toaplan", "TradeWest", "UNICO", "Ubisoft", "Varie", "Vic Tokai", "Video System", "Virgin Interactive", "Warner Bros"]
     },
     {
         "name": "releasedate",
@@ -31,22 +31,22 @@
     {
         "name": "players",
         "description": "Number of simultaneous human players",
-        "options": [1, 2, 3, 4, 6, null]
+        "options": [1, 2, 3, 4, 6]
     },
     {
         "name": "structure",
         "description": "Game structure. It can be linear, branching, or stage select.",
-        "options": ["Branching", "Linear", "Open world", "Semi-branching", "Stage select", null]
+        "options": ["Branching", "Linear", "Open world", "Semi-branching", "Stage select"]
     },
     {
         "name": "difficulty",
         "description": "Overall game difficulty",
-        "options": ["Broken", "Brutal", "Casual", "Easy", "Hard", "Hardcore", "Medium", null]
+        "options": ["Broken", "Brutal", "Casual", "Easy", "Hard", "Hardcore", "Medium"]
     },
     {
         "name": "gangsize",
         "description": "Maximum number of onscreen opponents",
-        "options": ["7 (Large)", "Average (5)", "Average (6)", "Duo (2)", "Gigantic (10+)", "Gigantic (9)", "Gigantic (9+)", "Huge (7)", "Huge (8)", "Huge (9)", "Huge (Max 7)", "Large (5)", "Large (6)", "Large (7)", "Medium (5)", "Quartet (4)", "Small (4)", "Small (5)", "Trio (3)", null]
+        "options": ["7 (Large)", "Average (5)", "Average (6)", "Duo (2)", "Gigantic (10+)", "Gigantic (9)", "Gigantic (9+)", "Huge (7)", "Huge (8)", "Huge (9)", "Huge (Max 7)", "Large (5)", "Large (6)", "Large (7)", "Medium (5)", "Quartet (4)", "Small (4)", "Small (5)", "Trio (3)"]
     },
     {
         "name": "variety",
@@ -56,7 +56,7 @@
     {
         "name": "playtime",
         "description": "Average time necessary to beat the game",
-        "options": ["0:10", "0:15", "0:20", "0:30", "0:35", "0:40", "0:45", "0:50", "10:00", "1:00", "1:15", "1:30", "1:40", "1:45", "2:00", "2:30", "3:00", null]
+        "options": ["0:10", "0:15", "0:20", "0:30", "0:35", "0:40", "0:45", "0:50", "10:00", "1:00", "1:15", "1:30", "1:40", "1:45", "2:00", "2:30", "3:00"]
     },
     {
         "name": "buttons",
@@ -66,102 +66,102 @@
     {
         "name": "combos",
         "description": "The nature of the combo attack in this game. Linear always plays the same sequence, distance means different attacks come out based on distance from opponents, and freeform means you can change your combo with directionals or button presses.",
-        "options": ["Distance", "Dynamic", "Freeform", "Linear", "No", "Smokeman only", "Static", null]
+        "options": ["Distance", "Dynamic", "Freeform", "Linear", "No", "Smokeman only", "Static"]
     },
     {
         "name": "grabs",
         "description": "The nature of grabs in this game. Contact means you touch the opponent any time, while after stun means you have to hit them a few times first.",
-        "options": ["After knockdown", "After stun", "After stun/block", "Auto", "Button", "Close attack", "Contact", "Contact, After stun", "Dash only", "N/A", "No", "Vs. grounded", "While jumping", "Yes", null]
+        "options": ["After knockdown", "After stun", "After stun/block", "Auto", "Button", "Close attack", "Contact", "Contact, After stun", "Dash only", "N/A", "No", "Vs. grounded", "While jumping", "Yes"]
     },
     {
         "name": "dashing",
         "description": "How dashes are executed, if they exist at all.",
-        "options": ["Attack only", "Auto", "Button", "Double-tap", "Double-tap, Button", "No", "Perceval only", "Skate only", "Yes", null]
+        "options": ["Attack only", "Auto", "Button", "Double-tap", "Double-tap, Button", "No", "Perceval only", "Skate only", "Yes"]
     },
     {
         "name": "EnemyHBars",
         "description": "Are enemy health bars displayed? Do they have names?",
-        "options": ["+ Names", "Bosses", "Bosses + Names", "Bosses only", "No", "Yes", null]
+        "options": ["+ Names", "Bosses", "Bosses + Names", "Bosses only", "No", "Yes"]
     },
     {
         "name": "itemPickup",
         "description": "How you pick up items. Either by just coming in contact with them or pressing a button when nearby.",
-        "options": ["Button", "Button, Contact", "Contact", "N/A", null]
+        "options": ["Button", "Button, Contact", "Contact", "N/A"]
     },
     {
         "name": "itemStay",
         "description": "How long items remain in the game. Either they fade away after some time or stay forever.",
-        "options": ["Area", "Fade", "Forever", "Forever (except Torch)", "N/A", "Stay", "Weapons fade, health stay", null]
+        "options": ["Area", "Fade", "Forever", "Forever (except Torch)", "N/A", "Stay", "Weapons fade, health stay"]
     },
     {
         "name": "weaponsStay",
         "description": "How long weapons last. Either they have durability or ammo and are expended after a few hits, or they last as long as you hold them.",
-        "options": ["Ammo", "Ammo, Durability", "Ammo, Hold", "Area", "Durability", "Durability/Ammo", "Duration", "Forever", "Hold", "N/A", "No", "Permanent", "Stock", "Time", "Until death", null]
+        "options": ["Ammo", "Ammo, Durability", "Ammo, Hold", "Area", "Durability", "Durability/Ammo", "Duration", "Forever", "Hold", "N/A", "No", "Permanent", "Stock", "Time", "Until death"]
     },
     {
         "name": "deathBlow",
         "description": "How death-blow attacks work. They can take some health, require energy, or sometimes require stock.",
-        "options": ["Energy", "Energy/Health", "Health", "Health, Stock", "Health, charge", "N/A", "No", "No damage", "Stock", "Stun", "Throw", "Yes", null]
+        "options": ["Energy", "Energy/Health", "Health", "Health, Stock", "Health, charge", "N/A", "No", "No damage", "Stock", "Stun", "Throw", "Yes"]
     },
     {
-        "name": "friendlyFire",
+        "name": "Friendly Fire",
         "description": "Whether or not your attacks affect other players.",
-        "options": ["Always", "N/A", "No", "Optional", "Yes", null]
+        "options": ["Always", "N/A", "No", "Optional", "Yes"]
     },
     {
         "name": "charSwitch",
         "description": "When you can switch characters. Usually on death, but sometimes between stages or not at all.",
-        "options": ["Always", "Button", "End of stage", "N/A", "No", "On death", "Shop", "Stock", "Story", null]
+        "options": ["Always", "Button", "End of stage", "N/A", "No", "On death", "Shop", "Stock", "Story"]
     },
     {
         "name": "groundHit",
         "description": "If you can attack grounded opponents.",
-        "options": ["Bosses only", "No", "Throws", "Yes", null]
+        "options": ["Bosses only", "No", "Throws", "Yes"]
     },
     {
         "name": "revive",
         "description": "What happens when you come back from death. Can grant invincibility, knockdown, and/or an attack.",
-        "options": ["Checkpoint", "Invincibility", "Invincibility + Attack", "Invincibility + Knockdown", "Invinciblity", "Knockdown", "N/A", "New area", null]
+        "options": ["Checkpoint", "Invincibility", "Invincibility + Attack", "Invincibility + Knockdown", "Invinciblity", "Knockdown", "N/A", "New area"]
     },
     {
         "name": "restore",
         "description": "When your health is restored. Usually after a stage is over but sometimes through RPG mechanics and sometimes only by eating food.",
-        "options": ["Assessment Day", "Cooking only", "End of stage", "Food Only", "Food only", "Items only", "N/A", "New area", "On Level Up", "On level up", "Shop", "Shops only", null]
+        "options": ["Assessment Day", "Cooking only", "End of stage", "Food Only", "Food only", "Items only", "N/A", "New area", "On Level Up", "On level up", "Shop", "Shops only"]
     },
     {
         "name": "artStyle",
         "description": "The game's overall artistic style.",
-        "options": ["Anime", "CGI", "Cartoony", "Chibi", "Comic", "Comic book", "H.R. Giger", "Old-school anime", "Realistic", "Ren & Stimpy", "Semi-cartoony", "Semi-realistic", "Vanillaware", null]
+        "options": ["Anime", "CGI", "Cartoony", "Chibi", "Comic", "Comic book", "H.R. Giger", "Old-school anime", "Realistic", "Ren & Stimpy", "Semi-cartoony", "Semi-realistic", "Vanillaware"]
     },
     {
         "name": "sprites",
         "description": "The size of the character sprites.",
-        "options": ["Big", "Gigantic", "Huge", "Large", "Medium", "Small", null]
+        "options": ["Big", "Gigantic", "Huge", "Large", "Medium", "Small"]
     },
     {
         "name": "setting",
         "description": "The game's aesthetic setting.",
-        "options": ["90's", "Anime", "Arabian Nights", "Bayou", "Cartoon", "Chinese Mythology", "Comic", "Futuristic", "Futuristic Urban", "Futuristic, Prehistoric", "Horror", "Gotham", "Japan", "Jungle", "Medieval", "Medieval China", "Medieval Fantasy", "Medieval Japan", "Medieval fantasy", "Military", "Mountain", "Near future", "Pirate", "Post-apocalyptic", "Post-apocalyptic supernatural", "Sci-fi", "Supernatural", "Theme Park", "Urban", "Urban, Futuristic", "Urban, Jungle", "Urban/Space", "Video game", null]
+        "options": ["90's", "Anime", "Arabian Nights", "Bayou", "Cartoon", "Chinese Mythology", "Comic", "Futuristic", "Futuristic Urban", "Futuristic, Prehistoric", "Horror", "Gotham", "Japan", "Jungle", "Medieval", "Medieval China", "Medieval Fantasy", "Medieval Japan", "Medieval fantasy", "Military", "Mountain", "Near future", "Pirate", "Post-apocalyptic", "Post-apocalyptic supernatural", "Sci-fi", "Supernatural", "Theme Park", "Urban", "Urban, Futuristic", "Urban, Jungle", "Urban/Space", "Video game"]
     },
     {
         "name": "focus",
         "description": "What the combat engine focuses on. Can be hand-to-hand, weapons, and rarely projectiles.",
-        "options": ["Hack 'n' Slash", "Hack 'n' slash", "Hand-to-hand", "Hand-to-hand, Weapons", "Hand-to-hand, projectiles",  "Hand-to-hand/projectiles", "Hand-to-hand/Weapons", "Projectiles", "Weapons", "Weapons, Hand-to-hand", "Weapons, Projectiles", "Weapons/Projectiles", null]
+        "options": ["Hack 'n' Slash", "Hack 'n' slash", "Hand-to-hand", "Hand-to-hand, Weapons", "Hand-to-hand, projectiles",  "Hand-to-hand/projectiles", "Hand-to-hand/Weapons", "Projectiles", "Weapons", "Weapons, Hand-to-hand", "Weapons, Projectiles", "Weapons/Projectiles"]
     },
     {
         "name": "music",
         "description": "Overall musical style.",
-        "options": ["80's Rock", "80's Synth", "90's music", "Anime", "Arabian", "Atmospheric", "Batman", "Cartoony", "Chinese", "Chiptune Rock", "Crap", "Electronic", "Electronic Medieval", "Hard Rock", "Hip hop", "Horror", "House", "Japanese", "Jazzy", "Konami", "Konami Funk", "Medieval", "Metal", "Party Techno", "Pirate", "Rock", "Rockabilly", "Techno", "Techno/Rock", "Turtles music", "Video game", "Weird", "Zuntata", null]
+        "options": ["80's Rock", "80's Synth", "90's music", "Anime", "Arabian", "Atmospheric", "Batman", "Cartoony", "Chinese", "Chiptune Rock", "Crap", "Electronic", "Electronic Medieval", "Hard Rock", "Hip hop", "Horror", "House", "Japanese", "Jazzy", "Konami", "Konami Funk", "Medieval", "Metal", "Party Techno", "Pirate", "Rock", "Rockabilly", "Techno", "Techno/Rock", "Turtles music", "Video game", "Weird", "Zuntata"]
     },
     {
         "name": "tone",
         "description": "The game's overall tone. Can be humorous, lighthearted, or serious.",
-        "options": ["Humorous", "Lighthearted", "Semi-serious", "Serious", null]
+        "options": ["Humorous", "Lighthearted", "Semi-serious", "Serious"]
     },
     {
         "name": "fighters",
         "description": "Number of playable characters.",
-        "options": [1, 2, 3, 4, 5, 6, 7, 8, 12, 18, 20, 31, null]
+        "options": [1, 2, 3, 4, 5, 6, 7, 8, 12, 18, 20, 31]
     },
     {
         "name": "stages",
