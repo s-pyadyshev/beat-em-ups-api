@@ -1,6 +1,6 @@
 [{
         "name": "platform",
-        "filterName": "platform",
+        "filterName": "Platform",
         "description": "Platform",
         "options": ["Arcade", "GBA", "Game Boy", "Game Gear", "Genesis", "NES", "PC", "PC Engine", "PS3", "PSP", "Playstation", "SMS", "SNES", "Saturn"]
     },
