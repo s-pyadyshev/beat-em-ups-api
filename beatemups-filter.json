@@ -176,7 +176,7 @@
         "name": "focus",
         "filterName": "Focus",
         "description": "What the combat engine focuses on. Can be hand-to-hand, weapons, and rarely projectiles.",
-        "options": ["Hack 'n' Slash", "Hack 'n' slash", "Hand-to-hand", "Hand-to-hand, Weapons", "Hand-to-hand, projectiles",  "Hand-to-hand/projectiles", "Hand-to-hand/Weapons", "Projectiles", "Weapons", "Weapons, Hand-to-hand", "Weapons, Projectiles", "Weapons/Projectiles"]
+        "options": ["Hack 'n' slash", "Hand-to-hand", "Hand-to-hand, Weapons", "Hand-to-hand, projectiles",  "Hand-to-hand/projectiles", "Hand-to-hand/Weapons", "Projectiles", "Weapons", "Weapons, Hand-to-hand", "Weapons, Projectiles", "Weapons/Projectiles"]
     },
     {
         "name": "music",
