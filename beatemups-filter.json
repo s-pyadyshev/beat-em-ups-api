@@ -62,7 +62,7 @@
         "name": "variety",
         "filterName": "Variety",
         "description": "Variety elements such as bonus rounds, shooter sections, or RPG mechanics",
-        "options": ["Bonus stages", "Bonus stages, vehicle stages", "Climbing stages", "Climbing, Autoscrolling", "Cooking", "Customization", "Driving", "Exploration", "Fighting game", "Fighting sections", "Finess Trick", "Hidden areas", "Mission goals", "Morality system", "None", "Objectives", "Pirate stuff", "Platforming", "Platforming, Minigames", "Platforming, Vehicles", "Platforming, vehicles", "Plenty", "RPG Elements", "RPG Elements, Bonus stages", "RPG Elements, Vehicles", "RPG, Strategy", "Rollerskating", "Running stages", "Scrolling stages", "Shooter sections", "Shooter stages", "Shootin', Drivin'", "Shootin', Platforming", "Shooting, platforming", "Shooting, Running", "Timer", "Tons", "Tons and tons", "Upgrades", "Vehicle Stage", "Vehicle section", "Vehicle sections", "Vehicle stages", "Vehicles", "Vehicles, Shooting, Platforming", "VS. bonus game", "Vs. mode", "Vs. stages", "Vs., Vehicles, Minigames", null]
+        "options": ["Bonus stages", "Climbing", "Autoscrolling", "Cooking", "Customization", "Driving", "Exploration", "Fighting game", "Fighting sections", "Finess Trick", "Hidden areas", "Mission goals", "Morality system", "None", "Objectives", "Pirate stuff", "Platforming", "Plenty", "RPG Elements", "RPG", "Rollerskating", "Running", "Running stages", "Scrolling stages", "Shooter sections", "Shooter stages", "Shooting", "Strategy", "Timer", "Tons", "Tons and tons", "Upgrades", "Vehicle stage", "Vehicle section", "Vehicle sections", "Vehicle stages", "Vehicles", "VS. bonus game", "VS. mode", "VS. stages", null]
     },
     {
         "name": "playtime",
