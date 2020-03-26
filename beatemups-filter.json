@@ -32,7 +32,7 @@
         "name": "series",
         "filterName": "Series",
         "description": "Series",
-        "options": ["Battletoads", "Double Dragon", "Kunio kun", "Streets of Rage"]
+        "options": ["Alien Storm", "Battletoads", "Double Dragon", "Golden Axe", "Kunio-kun", "Streets of Rage"]
     },
     {
         "name": "players",
