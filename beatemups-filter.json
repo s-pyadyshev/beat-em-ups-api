@@ -23,12 +23,6 @@
         "options": ["Apr '11", "Apr '89", "Apr '92", "Apr '92Dec '92", "Apr '92Mar '92", "Apr '93", "Apr '93Feb '93", "Apr '94", "Apr '94Jun '94", "Apr '94Mar '94", "Aug '05", "Aug '05Mar '05", "Aug '08", "Aug '10Oct '10", "Aug '88", "Aug '90Jul '90", "Aug '91", "Aug '92", "Aug '92Jul '92", "Aug '93", "Aug '93May '93", "Aug '94", "Aug '95Mar '95", "Aug '97", "Aug '13Jul '13", "Dec '86May '86", "Dec '89", "Dec '90", "Dec '91", "Dec '91Nov '91", "Dec '93", "Dec '94", "Dec '95", "Feb '01", "Feb '91", "Feb '91Mar '90", "Feb '92Dec '91", "Feb '92Jul '91", "Feb '93", "Feb '93Sep '92", "Feb '95", "Feb '96", "Jan '00", "Jan '01", "Jan '87", "Jan '88", "Jan '88Apr '87", "Jan '89", "Jan '90", "Jan '90Apr '89", "Jan '90Dec '89", "Jan '91", "Jan '91Jan '91", "Jan '92", "Jan '92Feb '93", "Jan '92Jan '93", "Jan '92Nov '92", "Jan '92Oct '91", "Jan '93", "Jan '94", "Jan '95", "Jan '96", "Jan '96Jan '96", "Jan '96Dec '95", "Jan '99", "Jul '86", "Jul '91", "Jul '91Dec '91", "Jul '92", "Jul '93", "Jul '93Jul '93", "Jul '93Jun '93", "Jul '94", "Jun '88Apr '88", "Jun '89", "Jun '89Aug '88", "Jun '93", "Jun '93Jan '94", "Jun '94", "Jun '94Dec '93", "Jun '94Mar '92", "Mar '07Mar '07", "Mar '90", "Mar '92", "Mar '93", "Mar '93Dec '92", "Mar '93Mar '93Jan '94", "Mar '94Dec '93", "Mar '95", "Mar '97Mar '97", "Mar '03", "May '04Mar '04", "May '90", "May '91", "May '93", "May '94", "May '97May '97", "Nov '01Nov '01", "Nov '03Mar '04", "Nov '03Nov '02", "Nov '91", "Nov '91Jan '94", "Nov '93", "Nov '94Apr '95", "Nov '94Mar '94", "Nov '94Aug '94", "Nov '95", "Oct '88", "Oct '91", "Oct '92Oct '92", "Oct '93", "Oct '94Oct '94Oct '94", "Oct '06Nov '06", "Sep '01May '01", "Sep '01Oct '01", "Sep '06Aug '06", "Sep '12Dec '13", "Sep '89Jun '89", "Sep '90Oct '91", "Sep '91", "Sep '91Dec '90", "Sep '92", "Sep '93", "Sep '93Jan '93", "Sep '94", "Sep '94May '95", "Sep '95", null]
     },
     {
-        "name": "otherPlatforms",
-        "filterName": "Other Platforms",
-        "description": "Other platforms you can play this game on",
-        "options": ["NES"]
-    },
-    {
         "name": "series",
         "filterName": "Series",
         "description": "Series",
