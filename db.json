@@ -75,6 +75,10 @@
         }
     },
     {
+        "name": "99Vidas",
+        "missing": true
+    },
+    {
         "name": "Advance Guardian Heroes",
         "platform": "GBA",
         "about": "\n\nAdvance Guardian Heroes is a pseudo-sequel to Treasure's unusual Saturn brawler. Unlike its predecessor, this game uses a standard free-roaming brawler system rather than the three lane setup of the original. It still features magic attacks and light RPG elements, though. Additionally, it adds a unique death system where you have the option to play through the rest of the stage with invincibility when you die (although it's Game Over when you finish the level.) \n",
