@@ -992,7 +992,7 @@
         "developer": "Rare",
         "publisher": "Rare",
         "releasedate": "Jan '94",
-        "otherPlatforms": null,
+        "otherPlatforms": ["gameboy", "genesis", "nes"],
         "series": "Battletoads",
         "players": 3,
         "structure": "Linear",
