@@ -185,6 +185,12 @@
         "options": ["Humorous", "Lighthearted", "Semi-serious", "Serious"]
     },
     {
+        "name": "gore",
+        "filterName": "Gore",
+        "description": "Gore",
+        "options": ["Blood", "Decapitation"]
+    },
+    {
         "name": "fighters",
         "filterName": "Fighters",
         "description": "Number of playable characters.",

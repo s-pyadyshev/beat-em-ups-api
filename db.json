@@ -1020,7 +1020,7 @@
         "focus": "Hand-to-hand",
         "music": "Metal",
         "tone": "Humorous",
-        "gore": ["blood", "decapitation"],
+        "gore": ["Blood", "Decapitation"],
         "fighters": 3,
         "stages": 5,
         "enemies": null,
