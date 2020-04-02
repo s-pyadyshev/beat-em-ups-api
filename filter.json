@@ -2,7 +2,7 @@
         "name": "platform",
         "filterName": "Platform",
         "description": "Platform",
-        "options": ["3DS", "Arcade", "Flash", "GBA", "Game Boy", "Game Gear", "Genesis", "NES", "PC", "PC Engine", "PS3", "PSP", "Playstation", "SMS", "SNES", "Saturn"]
+        "options": ["3DS", "Arcade", "Flash", "GBA", "Game Boy", "Game Gear", "Genesis", "NES", "PC", "PC Engine", "PS2", "PS3", "PS4", "PSP", "Playstation", "SMS", "SNES", "Saturn"]
     },
     {
         "name": "developer",
@@ -26,7 +26,7 @@
         "name": "series",
         "filterName": "Series",
         "description": "Series",
-        "options": ["Alien Storm", "Battletoads", "Double Dragon", "Final Fight", "Golden Axe", "Kunio-kun", "Streets of Rage"]
+        "options": ["Alien Storm", "Battletoads", "Double Dragon", "Final Fight", "Golden Axe", "Kunio-kun", "Streets of Rage", "Yakuza"]
     },
     {
         "name": "players",
