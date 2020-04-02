@@ -2,7 +2,7 @@
         "name": "platform",
         "filterName": "Platform",
         "description": "Platform",
-        "options": ["Arcade", "GBA", "Game Boy", "Game Gear", "Genesis", "NES", "PC", "PC Engine", "PS3", "PSP", "Playstation", "SMS", "SNES", "Saturn"]
+        "options": ["3DS", "Arcade", "Flash", "GBA", "Game Boy", "Game Gear", "Genesis", "NES", "PC", "PC Engine", "PS3", "PSP", "Playstation", "SMS", "SNES", "Saturn"]
     },
     {
         "name": "developer",
@@ -218,7 +218,7 @@
         "name": "weapons",
         "filterName": "Weapons",
         "description": "How many usable weapons there are in the game. This refers only to items, not to weapons permanently equipped by a character in weapons-based brawlers.",
-        "options": [0, 2, 3, 4, 5, 6, 7, 8, 10, 12, 20, "bottle", "chain whip", "dragon", "incendiary bomb", "hammer", "hand grenade", "iron claw", "iron pipe", "gun", "knife", "nunchaku", "pistol", "sai", "shuriken", "stick", "sword", "whip", null]
+        "options": [0, 2, 3, 4, 5, 6, 7, 8, 10, 12, 20, "Bottle", "Chain whip", "Dragon", "Incendiary bomb", "Hammer", "Hand grenade", "Iron claw", "Iron pipe", "Gun", "Knife", "Nunchaku", "Pistol", "Sai", "Shuriken", "Stick", "Sword", "Whip", null]
     },
     {
         "name": "lives",
