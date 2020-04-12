@@ -20,7 +20,7 @@
         "name": "releaseYear",
         "filterName": "Release Year",
         "description": "Initial release year",
-        "options": ["1987", "1988", "1989", "1990", null]
+        "options": [1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, null]
     },
     {
         "name": "series",
@@ -187,7 +187,7 @@
     {
         "name": "gore",
         "filterName": "Gore",
-        "description": "Blood: blood is shown during hits or only using some weapons like knife or gun. Brutality: Mortal Kombat style combo causes opponent explosion to pieces. Decapitation: opponents may lose the head. Mutilation: opponents may lose their limbs.",
+        "description": "Blood: blood is shown during hits or only using some weapons like knife or gun.\nBrutality: Mortal Kombat style combo causes opponent explosion to pieces.\nDecapitation: opponents may lose the head.\nMutilation: opponents may lose their limbs.",
         "options": ["Blood", "Brutality", "Decapitation", "Mutilation"]
     },
     {
@@ -218,7 +218,7 @@
         "name": "weapons",
         "filterName": "Weapons",
         "description": "How many usable weapons there are in the game. This refers only to items, not to weapons permanently equipped by a character in weapons-based brawlers.",
-        "options": [0, 2, 3, 4, 5, 6, 7, 8, 10, 12, 20, "Bottle", "Chain whip", "Dragon", "Incendiary bomb", "Hammer", "Hand grenade", "Iron claw", "Iron pipe", "Gun", "Knife", "Nunchaku", "Pistol", "Sai", "Shuriken", "Stick", "Sword", "Whip", null]
+        "options": [0, 2, 3, 4, 5, 6, 7, 8, 10, 12, 20, "Bottle", "Chain whip", "Dragon", "Incendiary bomb", "Hammer", "Hand grenade", "Iron claw", "Iron pipe", "Gun", "Knife", "Nunchaku", "Pistol", "Projectile", "Sai", "Shuriken", "Stick", "Sword", "Whip", null]
     },
     {
         "name": "lives",
