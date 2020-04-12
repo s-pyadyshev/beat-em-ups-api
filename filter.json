@@ -20,7 +20,7 @@
         "name": "releaseYear",
         "filterName": "Release Year",
         "description": "Initial release year",
-        "options": ["1987", "1988", "1989", "1990"]
+        "options": ["1987", "1988", "1989", "1990", null]
     },
     {
         "name": "series",
