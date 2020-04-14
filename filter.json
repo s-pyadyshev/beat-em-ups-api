@@ -1,4 +1,5 @@
-[{
+[
+    {
         "name": "platform",
         "filterName": "Platform",
         "description": "Platform",
@@ -26,7 +27,7 @@
         "name": "series",
         "filterName": "Series",
         "description": "Series",
-        "options": ["Alien Storm", "Battletoads", "Double Dragon", "Dungeons and Dragons", "Dynamite Dux", "Final Fight", "Golden Axe", "Kunio-kun", "Spikeout", "Streets of Rage", "Yakuza"]
+        "options": ["Alien Storm", "Battletoads", "D.J. Boy", "Denjin Makai", "Double Dragon", "Dungeons and Dragons", "Dynamite Dux", "Final Fight", "Golden Axe", "Kunio-kun", "Spikeout", "Streets of Rage", "Yakuza"]
     },
     {
         "name": "players",
@@ -78,9 +79,9 @@
     },
     {
         "name": "grabs",
-        "filterName": "Grabs",
+        "filterName": "Grabs / Throws",
         "description": "The nature of grabs in this game. Contact means you touch the opponent any time, while after stun means you have to hit them a few times first.",
-        "options": ["After knockdown", "After stun", "After stun/block", "Auto", "Button", "Close attack", "Contact", "Contact, After stun", "Dash only", "N/A", "No", "Vs. grounded", "While jumping", "Yes"]
+        "options": ["After stun", "After stun/block", "After stun/Vs. grounded", "Auto", "Button", "Close attack", "Contact", "Contact, After stun", "Dash only", "N/A", "No", "Vs. grounded", "While jumping", "Yes"]
     },
     {
         "name": "dashing",
