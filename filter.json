@@ -3,7 +3,7 @@
         "name": "platform",
         "filterName": "Platform",
         "description": "Platform",
-        "options": ["3DS", "Arcade", "Flash", "GBA", "Game Boy", "Game Gear", "Genesis", "NES", "PC", "PC Engine", "PS2", "PS3", "PS4", "PSP", "Playstation", "SMS", "SNES", "Saturn"]
+        "options": ["3DS", "Arcade", "Flash", "GBA", "Game Boy", "Game Gear", "Genesis", "NES", "PC", "PC Engine", "PS2", "PS3", "PS4", "PSP", "Playstation", "Sega CD", "SMS", "SNES", "Saturn", "X68000"]
     },
     {
         "name": "developer",
@@ -27,7 +27,7 @@
         "name": "series",
         "filterName": "Series",
         "description": "Series",
-        "options": ["Alien Storm", "Battletoads", "D.J. Boy", "Denjin Makai", "Double Dragon", "Dungeons and Dragons", "Dynamite Dux", "Final Fight", "Golden Axe", "Kunio-kun", "Spikeout", "Streets of Rage", "Yakuza"]
+        "options": ["Alien Storm", "Battletoads", "D.J. Boy", "Denjin Makai", "Double Dragon", "Dungeons and Dragons", "Dynamite Dux", "Final Fight", "Golden Axe", "Kunio-kun", "Lugaru", "Spikeout", "Streets of Rage", "Yakuza"]
     },
     {
         "name": "players",
