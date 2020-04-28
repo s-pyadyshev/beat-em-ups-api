@@ -23,7 +23,8 @@
       "SMS",
       "SNES",
       "Saturn",
-      "X68000"
+      "X68000",
+      "ZX Spectrum"
     ]
   },
   {
@@ -254,9 +255,11 @@
       "Final Fight",
       "Golden Axe",
       "Kunio-kun",
+      "Legend",
       "Lugaru",
       "Spikeout",
       "Streets of Rage",
+      "Target: Renegade",
       "Teenage Mutant Ninja Turtles",
       "Yakuza"
     ]
