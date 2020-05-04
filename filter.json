@@ -800,13 +800,13 @@
     "name": "fighters",
     "filterName": "Fighters",
     "description": "Number of playable characters.",
-    "options": [1, 2, 3, 4, 5, 6, 7, 8, 12, 18, 20, 31]
+    "options": [1, 2, 3, 4, 5, 6, 7, 8, 12, 17, 18, 20, 31]
   },
   {
     "name": "stages",
     "filterName": "Stages",
     "description": "Total number of stages, aka levels or rounds.",
-    "options": [4, 5, 6, 7, 8, 9, 10, 16, null]
+    "options": [4, 5, 6, 7, 8, 9, 10, 12, 16, null]
   },
   {
     "name": "enemies",
@@ -818,7 +818,7 @@
     "name": "bosses",
     "filterName": "Bosses",
     "description": "Total number of unique bosses.",
-    "options": [2, 3, 4, 5, 6, 7, 8, 12, 13, null]
+    "options": [2, 3, 4, 5, 6, 7, 8, 10, 12, 13, null]
   },
   {
     "name": "weapons",
