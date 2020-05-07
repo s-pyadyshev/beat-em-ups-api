@@ -1,0 +1,20 @@
+[
+  {
+    "name": "lives",
+    "filterName": "Lives",
+    "description": "Number of lives per credit.",
+    "options": [1, 2, 3, 4, 5, 9, null]
+  },
+  {
+    "name": "continues",
+    "filterName": "Continues",
+    "description": "How many continues you get for a credit.",
+    "options": [0, 1, 2, 3, 9, "Infinite", null]
+  },
+  {
+    "name": "extend",
+    "filterName": "Extend",
+    "description": "Point score that awards an extra life once achieved.",
+    "options": [200, 20000, 30000, 50000, 100000, 200000, 400000, "N/A", null]
+  }
+]
