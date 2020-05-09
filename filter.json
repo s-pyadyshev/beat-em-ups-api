@@ -30,6 +30,12 @@
     ]
   },
   {
+    "name": "perspective",
+    "filterName": "Perspective",
+    "description": "2D, 2.5D or 3D",
+    "options": ["2D", "2.5D", "3D"]
+  },
+  {
     "name": "developer",
     "filterName": "Developer",
     "description": "Who developed this game",
@@ -53,7 +59,9 @@
       "Capcom Production Studio 8",
       "Cream",
       "Data East",
+      "DGRM",
       "Digital Eclipse",
+      "Dimps",
       "Dotemu",
       "East Technology",
       "Electronic Devices",
@@ -141,6 +149,7 @@
       "Data East",
       "Den'Z",
       "Destination Software",
+      "DGRM",
       "Dotemu",
       "Dreamworks/NCS",
       "Electronic Devices",
@@ -178,6 +187,7 @@
       "Rare",
       "Rockstar Games",
       "Romstar",
+      "Sammy Corp.",
       "SNK",
       "Sega",
       "SegaSoft",
@@ -738,6 +748,7 @@
       "Hand-to-hand, projectiles",
       "Hand-to-hand/projectiles",
       "Hand-to-hand/Weapons",
+      "Platformer",
       "Projectiles",
       "Weapons",
       "Weapons, Hand-to-hand",
