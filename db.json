@@ -10,7 +10,7 @@
     "releasedate": "Jan '91",
     "releaseYear": 1991,
     "otherPlatforms": null,
-    "series": false,
+    "series": null,
     "players": 2,
     "structure": "Linear",
     "difficulty": "Medium",
@@ -54,6 +54,7 @@
       "http://www.punchpedia.com/games/arc/64thst/img/ss04.png",
       "http://www.punchpedia.com/games/arc/64thst/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -133,6 +134,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -217,6 +219,7 @@
       "http://www.punchpedia.com/games/gba/agheroes/img/ss04.png",
       "http://www.punchpedia.com/games/gba/agheroes/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -301,6 +304,7 @@
       "http://www.punchpedia.com/games/arc/astorm/img/ss04.png",
       "http://www.punchpedia.com/games/arc/astorm/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -385,6 +389,7 @@
       "http://www.punchpedia.com/games/gen/astorm/img/ss04.png",
       "http://www.punchpedia.com/games/gen/astorm/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -469,6 +474,7 @@
       "http://www.punchpedia.com/games/sms/astorm/img/ss04.png",
       "http://www.punchpedia.com/games/sms/astorm/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -553,6 +559,7 @@
       "http://www.punchpedia.com/games/arc/avp/img/ss04.png",
       "http://www.punchpedia.com/games/arc/avp/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -637,6 +644,7 @@
       "http://www.punchpedia.com/games/snes/avp/img/ss04.png",
       "http://www.punchpedia.com/games/snes/avp/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -721,6 +729,7 @@
       "http://www.punchpedia.com/games/pce/anesan/img/ss04.png",
       "http://www.punchpedia.com/games/pce/anesan/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -805,6 +814,7 @@
       "http://www.punchpedia.com/games/arc/afight/img/ss04.png",
       "http://www.punchpedia.com/games/arc/afight/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -889,6 +899,7 @@
       "http://www.punchpedia.com/games/arc/amagic/img/ss04.png",
       "http://www.punchpedia.com/games/arc/amagic/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -973,6 +984,7 @@
       "http://www.punchpedia.com/games/arc/awarriors/img/ss04.png",
       "http://www.punchpedia.com/games/arc/awarriors/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -1057,6 +1069,7 @@
       "http://www.punchpedia.com/games/arc/asterix/img/ss04.png",
       "http://www.punchpedia.com/games/arc/asterix/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -1141,6 +1154,7 @@
       "http://www.punchpedia.com/games/arc/brapboys/img/ss04.png",
       "http://www.punchpedia.com/games/arc/brapboys/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -1220,6 +1234,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -1299,6 +1314,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -1378,6 +1394,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -1457,6 +1474,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -1536,6 +1554,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -1620,6 +1639,7 @@
       "http://www.punchpedia.com/games/arc/batman/img/ss04.png",
       "http://www.punchpedia.com/games/arc/batman/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -1704,6 +1724,7 @@
       "http://www.punchpedia.com/games/snes/batman/img/ss04.png",
       "http://www.punchpedia.com/games/snes/batman/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -1788,6 +1809,7 @@
       "http://www.punchpedia.com/games/nes/batman/img/ss04.png",
       "http://www.punchpedia.com/games/nes/batman/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -1867,6 +1889,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -1951,10 +1974,91 @@
       "http://www.punchpedia.com/games/arc/bcircuit/img/ss04.png",
       "http://www.punchpedia.com/games/arc/bcircuit/img/ss05.png"
     ],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Battle_Circuit",
       "https://gamefaqs.gamespot.com/arcade/574650-battle-circuit/"
     ],
+    "beatemupBingo": {
+      "go": false,
+      "sunsetEnding": false,
+      "healthMeat": false,
+      "sleevelessJacket": false,
+      "bossWithGun": false,
+      "fireBombs": false,
+      "twowordTitle": false,
+      "throwingKnife": false,
+      "subwayStage": false,
+      "exproWrestler": false,
+      "steelPipe": false,
+      "kindnappedFemale": false,
+      "specialDrainsHealth": false,
+      "oilDrums": false,
+      "clowns": false,
+      "yellowRedHealthBar": false,
+      "dominatrix": false,
+      "powerSpeedBalance": false,
+      "elevatorScene": false,
+      "mansionStage": false,
+      "mohawks": false,
+      "buildingSite": false,
+      "fatCharginMen": false,
+      "sharpSuits": false,
+      "graffiti": false
+    }
+  },
+  {
+    "missing": true,
+    "name": "Battle Zeque Den",
+    "platform": "SNES",
+    "perspective": "2D",
+    "about": "about",
+    "trivia": "trivia",
+    "developer": "developer",
+    "publisher": "publisher",
+    "releasedate": "releasedate",
+    "releaseYear": "releasedate",
+    "otherPlatforms": null,
+    "series": null,
+    "players": 1,
+    "structure": "structure",
+    "difficulty": "difficulty",
+    "gangsize": "gangsize",
+    "variety": ["None"],
+    "playtime": "playtime",
+    "buttons": "buttons",
+    "combos": "combos",
+    "grabs": "grabs",
+    "dashing": "dashing",
+    "enemyHBars": "enemyHBars",
+    "itemPickup": "itemPickup",
+    "itemStay": "itemStay",
+    "weaponsStay": "weaponsStay",
+    "deathBlow": "deathBlow",
+    "friendlyFire": "friendlyFire",
+    "charSwitch": "charSwitch",
+    "groundHit": "groundHit",
+    "revive": "revive",
+    "restore": "restore",
+    "artStyle": "artStyle",
+    "sprites": "sprites",
+    "setting": "setting",
+    "focus": "focus",
+    "music": "music",
+    "tone": "tone",
+    "fighters": null,
+    "stages": null,
+    "enemies": null,
+    "bosses": null,
+    "weapons": [null],
+    "lives": null,
+    "continues": null,
+    "extend": "N/A",
+    "overallReview": "overallReview",
+    "cover": "",
+    "images": [""],
+    "videos": [],
+    "links": [],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -2038,6 +2142,7 @@
       "http://www.punchpedia.com/games/sms/bmaniacs/img/ss04.png",
       "http://www.punchpedia.com/games/sms/bmaniacs/img/ss05.png"
     ],
+    "videos": [],
     "links": ["https://tcrf.net/Battlemaniacs"],
     "beatemupBingo": {
       "go": false,
@@ -2123,6 +2228,7 @@
       "http://www.punchpedia.com/games/arc/btoads/img/ss04.png",
       "http://www.punchpedia.com/games/arc/btoads/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -2207,6 +2313,7 @@
       "http://www.punchpedia.com/games/nes/btoads/img/ss04.png",
       "http://www.punchpedia.com/games/nes/btoads/img/ss05.png"
     ],
+    "videos": [],
     "links": ["https://battletoads.fandom.com/wiki/Battletoads_(video_game)"],
     "beatemupBingo": {
       "go": false,
@@ -2291,6 +2398,7 @@
       "http://www.punchpedia.com/games/gb/btoads/img/ss04.png",
       "http://www.punchpedia.com/games/gb/btoads/img/ss05.png"
     ],
+    "videos": [],
     "links": [
       "https://battletoads.fandom.com/wiki/Battletoads_(Game_Boy)",
       "https://tcrf.net/Battletoads_(Game_Boy)"
@@ -2378,6 +2486,7 @@
       "http://www.punchpedia.com/games/gen/btoads/img/ss04.png",
       "http://www.punchpedia.com/games/gen/btoads/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -2462,6 +2571,7 @@
       "http://www.punchpedia.com/games/snes/btadd/img/ss04.png",
       "http://www.punchpedia.com/games/snes/btadd/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -2546,6 +2656,7 @@
       "http://www.punchpedia.com/games/nes/btadd/img/ss04.png",
       "http://www.punchpedia.com/games/nes/btadd/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -2630,6 +2741,7 @@
       "http://www.punchpedia.com/games/gb/btadd/img/ss04.png",
       "http://www.punchpedia.com/games/gb/btadd/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -2714,6 +2826,7 @@
       "http://www.punchpedia.com/games/gen/btadd/img/ss04.png",
       "http://www.punchpedia.com/games/gen/btadd/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -2798,6 +2911,7 @@
       "http://www.punchpedia.com/games/snes/bmaniacs/img/ss04.png",
       "http://www.punchpedia.com/games/snes/bmaniacs/img/ss05.png"
     ],
+    "videos": [],
     "links": [
       "https://battletoads.fandom.com/wiki/Battletoads_in_Battlemaniacs",
       "https://tcrf.net/Battletoads_in_Battlemaniacs_(SNES)"
@@ -2885,6 +2999,7 @@
       "http://www.punchpedia.com/games/gb/btoadsrr/img/ss04.png",
       "http://www.punchpedia.com/games/gb/btoadsrr/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -2964,6 +3079,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -3048,6 +3164,7 @@
       "http://www.punchpedia.com/games/snes/bebeskids/img/ss04.png",
       "http://www.punchpedia.com/games/snes/bebeskids/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -3127,6 +3244,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -3211,6 +3329,7 @@
       "http://www.punchpedia.com/games/gen/smoon/img/ss04.png",
       "http://www.punchpedia.com/games/gen/smoon/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -3264,7 +3383,7 @@
     "dashing": "No",
     "enemyHBars": "No",
     "itemPickup": "Button",
-    "itemStay": "itemStay",
+    "itemStay": "Fade",
     "weaponsStay": "N/A",
     "deathBlow": "Health",
     "friendlyFire": "No",
@@ -3272,11 +3391,11 @@
     "groundHit": "No",
     "revive": "Invincibility + Knockdown",
     "restore": "Food only",
-    "artStyle": "artStyle",
+    "artStyle": "Semi-realistic",
     "sprites": "Big",
     "setting": "Urban",
     "focus": "Hand-to-hand",
-    "music": "music",
+    "music": "Video game",
     "tone": "Semi-serious",
     "fighters": 2,
     "stages": 6,
@@ -3296,6 +3415,7 @@
       "https://4.bp.blogspot.com/-lBKhfhpLZyw/W5arEPXtwJI/AAAAAAAAfdo/d1E0ImadRs8vBJR8LKO3QbZkoxf7VWs7wCLcBGAs/s1600/bt21.png",
       "https://1.bp.blogspot.com/-CuLm2GknwKU/W5arEuPtsqI/AAAAAAAAfd0/aN25gg5X2csHDuelFvV44qyTDxTLwef_gCLcBGAs/s1600/bt24.png"
     ],
+    "videos": ["https://www.youtube.com/embed/F7H-j31xE8I"],
     "links": [
       "http://retrovania-vgjunk.blogspot.com/2018/09/black-touch-96-arcade.html",
       "http://lunaticobscurity.blogspot.com/2018/03/black-touch-96-arcade.html"
@@ -3383,6 +3503,7 @@
       "http://www.punchpedia.com/games/arc/bmaster/img/ss04.png",
       "http://www.punchpedia.com/games/arc/bmaster/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -3467,6 +3588,7 @@
       "http://www.punchpedia.com/games/snes/bbrothers/img/ss04.png",
       "http://www.punchpedia.com/games/snes/bbrothers/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -3546,6 +3668,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -3630,6 +3753,7 @@
       "http://www.punchpedia.com/games/arc/bforce/img/ss04.png",
       "http://www.punchpedia.com/games/arc/bforce/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -3670,7 +3794,7 @@
     "releasedate": "Sep '92",
     "releaseYear": 1992,
     "otherPlatforms": "",
-    "series": false,
+    "series": null,
     "players": 4,
     "structure": "Linear",
     "difficulty": "Casual",
@@ -3714,6 +3838,7 @@
       "http://www.punchpedia.com/games/arc/bucky/img/ss04.png",
       "http://www.punchpedia.com/games/arc/bucky/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -3754,7 +3879,7 @@
     "releasedate": "May '91",
     "releaseYear": 1991,
     "otherPlatforms": null,
-    "series": false,
+    "series": null,
     "players": 2,
     "structure": "Linear",
     "difficulty": "Hard",
@@ -3798,6 +3923,7 @@
       "http://www.punchpedia.com/games/arc/bfight/img/ss04.png",
       "http://www.punchpedia.com/games/arc/bfight/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -3838,7 +3964,7 @@
     "releasedate": "Apr '93",
     "releaseYear": 1993,
     "otherPlatforms": null,
-    "series": false,
+    "series": null,
     "players": 3,
     "structure": "Linear",
     "difficulty": "Medium",
@@ -3882,6 +4008,7 @@
       "http://www.punchpedia.com/games/arc/dinos/img/ss04.png",
       "http://www.punchpedia.com/games/arc/dinos/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -3961,6 +4088,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -4045,6 +4173,7 @@
       "http://www.punchpedia.com/games/arc/camerica/img/ss04.png",
       "http://www.punchpedia.com/games/arc/camerica/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -4129,6 +4258,7 @@
       "http://www.punchpedia.com/games/snes/camerica/img/ss04.png",
       "http://www.punchpedia.com/games/snes/camerica/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -4213,6 +4343,7 @@
       "http://www.punchpedia.com/games/gen/camerica/img/ss04.png",
       "http://www.punchpedia.com/games/gen/camerica/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -4297,6 +4428,7 @@
       "http://www.punchpedia.com/games/arc/ccommando/img/ss04.png",
       "http://www.punchpedia.com/games/arc/ccommando/img/ss05.png"
     ],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/Captain_Commando"],
     "beatemupBingo": {
       "go": false,
@@ -4381,6 +4513,7 @@
       "http://www.punchpedia.com/games/snes/ccommando/img/ss04.png",
       "http://www.punchpedia.com/games/snes/ccommando/img/ss05.png"
     ],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/Captain_Commando"],
     "beatemupBingo": {
       "go": false,
@@ -4465,6 +4598,7 @@
       "http://www.punchpedia.com/games/ps3/ccrashers/img/ss04.png",
       "http://www.punchpedia.com/games/ps3/ccrashers/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -4549,6 +4683,7 @@
       "http://www.punchpedia.com/games/snes/charawars/img/ss04.png",
       "http://www.punchpedia.com/games/snes/charawars/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -4629,6 +4764,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -4713,6 +4849,7 @@
       "http://www.punchpedia.com/games/snes/cliffhanger/img/ss04.png",
       "http://www.punchpedia.com/games/snes/cliffhanger/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -4797,6 +4934,7 @@
       "http://www.punchpedia.com/games/snes/cpgalivan2/img/ss04.png",
       "http://www.punchpedia.com/games/snes/cpgalivan2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -4876,6 +5014,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Cowboy_Bebop:_Tsuioku_no_Serenade"
     ],
@@ -4962,6 +5101,7 @@
       "http://www.punchpedia.com/games/pce/cowolf/img/ss04.png",
       "http://www.punchpedia.com/games/pce/cowolf/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -5046,6 +5186,7 @@
       "http://www.punchpedia.com/games/arc/cfighters/img/ss04.png",
       "http://www.punchpedia.com/games/arc/cfighters/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -5125,6 +5266,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/Crimson_Tears"],
     "beatemupBingo": {
       "go": false,
@@ -5166,7 +5308,7 @@
     "releasedate": "releasedate",
     "releaseYear": "releasedate",
     "otherPlatforms": null,
-    "series": false,
+    "series": null,
     "players": 1,
     "structure": "structure",
     "difficulty": "difficulty",
@@ -5204,6 +5346,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -5283,6 +5426,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -5323,7 +5467,7 @@
     "releasedate": "Apr '92",
     "releaseYear": 1992,
     "otherPlatforms": null,
-    "series": false,
+    "series": null,
     "players": 2,
     "structure": "Linear",
     "difficulty": "Easy",
@@ -5367,6 +5511,7 @@
       "http://www.punchpedia.com/games/gen/cjustice/img/ss04.png",
       "http://www.punchpedia.com/games/gen/cjustice/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -5407,7 +5552,7 @@
     "releasedate": "Jan '91",
     "releaseYear": 1991,
     "otherPlatforms": null,
-    "series": false,
+    "series": null,
     "players": 4,
     "structure": "Linear",
     "difficulty": "Broken",
@@ -5451,6 +5596,7 @@
       "http://www.punchpedia.com/games/arc/ddcrew/img/ss04.png",
       "http://www.punchpedia.com/games/arc/ddcrew/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -5535,6 +5681,7 @@
       "http://www.punchpedia.com/games/arc/djboy/img/ss04.png",
       "http://www.punchpedia.com/games/arc/djboy/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -5619,6 +5766,7 @@
       "http://www.punchpedia.com/games/gen/djboy/img/ss04.png",
       "http://www.punchpedia.com/games/gen/djboy/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -5698,6 +5846,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": ["https://www.newgrounds.com/portal/view/254456"],
     "beatemupBingo": {
       "go": false,
@@ -5782,6 +5931,7 @@
       "http://www.punchpedia.com/games/gba/dsword/img/ss04.png",
       "http://www.punchpedia.com/games/gba/dsword/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -5862,6 +6012,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -5941,6 +6092,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Cowboy_Bebop:_Tsuioku_no_Serenade"
     ],
@@ -6022,6 +6174,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": ["https://medium.com/@katcolonel/demolish-fist-144374d24bf4"],
     "beatemupBingo": {
       "go": false,
@@ -6106,6 +6259,7 @@
       "http://www.punchpedia.com/games/arc/dmakai/img/ss04.png",
       "http://www.punchpedia.com/games/arc/dmakai/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -6185,6 +6339,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/Die_Hard_Arcade"],
     "beatemupBingo": {
       "go": false,
@@ -6269,6 +6424,7 @@
       "http://www.punchpedia.com/games/arc/ddragon/img/ss04.png",
       "http://www.punchpedia.com/games/arc/ddragon/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -6353,6 +6509,7 @@
       "http://www.punchpedia.com/games/nes/ddragon/img/ss04.png",
       "http://www.punchpedia.com/games/nes/ddragon/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -6437,6 +6594,7 @@
       "http://www.punchpedia.com/games/gb/ddragon/img/ss04.png",
       "http://www.punchpedia.com/games/gb/ddragon/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -6521,6 +6679,7 @@
       "http://www.punchpedia.com/games/gen/ddragon/img/ss04.png",
       "http://www.punchpedia.com/games/gen/ddragon/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -6605,6 +6764,7 @@
       "http://www.punchpedia.com/games/sms/ddragon/img/ss04.png",
       "http://www.punchpedia.com/games/sms/ddragon/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -6689,6 +6849,7 @@
       "http://www.punchpedia.com/games/gg/ddragon/img/ss04.png",
       "http://www.punchpedia.com/games/gg/ddragon/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -6773,6 +6934,7 @@
       "http://www.punchpedia.com/games/gb/ddragon3/img/ss04.png",
       "http://www.punchpedia.com/games/gb/ddragon3/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -6857,6 +7019,7 @@
       "http://www.punchpedia.com/games/gba/ddragona/img/ss04.png",
       "http://www.punchpedia.com/games/gba/ddragona/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -6941,6 +7104,7 @@
       "http://www.punchpedia.com/games/gb/ddragon2/img/ss04.png",
       "http://www.punchpedia.com/games/gb/ddragon2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -7025,6 +7189,7 @@
       "http://www.punchpedia.com/games/arc/ddragon2/img/ss04.png",
       "http://www.punchpedia.com/games/arc/ddragon2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -7115,6 +7280,7 @@
       "http://www.punchpedia.com/games/nes/ddragon2/img/ss04.png",
       "http://www.punchpedia.com/games/nes/ddragon2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -7199,6 +7365,7 @@
       "http://www.punchpedia.com/games/gen/ddragon2/img/ss04.png",
       "http://www.punchpedia.com/games/gen/ddragon2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -7283,6 +7450,7 @@
       "http://www.punchpedia.com/games/pce/ddragon2/img/ss04.png",
       "http://www.punchpedia.com/games/pce/ddragon2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -7367,6 +7535,7 @@
       "http://www.punchpedia.com/games/gen/ddragon3/img/ss04.png",
       "http://www.punchpedia.com/games/gen/ddragon3/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -7451,6 +7620,7 @@
       "http://www.punchpedia.com/games/arc/ddragon3/img/ss04.png",
       "http://www.punchpedia.com/games/arc/ddragon3/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -7543,6 +7713,7 @@
       "http://www.punchpedia.com/games/nes/ddragon3/img/ss04.png",
       "http://www.punchpedia.com/games/nes/ddragon3/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -7622,6 +7793,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -7706,6 +7878,7 @@
       "http://www.punchpedia.com/games/ps3/ddragonn/img/ss04.png",
       "http://www.punchpedia.com/games/ps3/ddragonn/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -7790,6 +7963,7 @@
       "http://www.punchpedia.com/games/arc/downtown/img/ss04.png",
       "http://www.punchpedia.com/games/arc/downtown/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -7874,6 +8048,7 @@
       "http://www.punchpedia.com/games/pce/rcransom/img/ss04.png",
       "http://www.punchpedia.com/games/pce/rcransom/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -7958,6 +8133,7 @@
       "http://www.punchpedia.com/games/nes/jidaigeki/img/ss04.png",
       "http://www.punchpedia.com/games/nes/jidaigeki/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -8042,6 +8218,7 @@
       "http://www.punchpedia.com/games/gb/jidaigeki/img/ss04.png",
       "http://www.punchpedia.com/games/gb/jidaigeki/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -8126,6 +8303,7 @@
       "http://www.punchpedia.com/games/snes/dview/img/ss04.png",
       "http://www.punchpedia.com/games/snes/dview/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -8210,6 +8388,7 @@
       "http://www.punchpedia.com/games/ps3/dcrown/img/ss04.png",
       "http://www.punchpedia.com/games/ps3/dcrown/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -8294,6 +8473,7 @@
       "http://www.punchpedia.com/games/gba/dbgt/img/ss04.png",
       "http://www.punchpedia.com/games/gba/dbgt/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -8378,6 +8558,7 @@
       "http://www.punchpedia.com/games/arc/dmagic/img/ss04.png",
       "http://www.punchpedia.com/games/arc/dmagic/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -8462,6 +8643,7 @@
       "http://www.punchpedia.com/games/arc/ddsom/img/ss04.png",
       "http://www.punchpedia.com/games/arc/ddsom/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -8546,6 +8728,7 @@
       "http://www.punchpedia.com/games/arc/ddtod/img/ss04.png",
       "http://www.punchpedia.com/games/arc/ddtod/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -8625,6 +8808,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/Dynamite_Cop"],
     "beatemupBingo": {
       "go": false,
@@ -8709,6 +8893,7 @@
       "http://www.punchpedia.com/games/arc/ddux/img/ss04.png",
       "http://www.punchpedia.com/games/arc/ddux/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -8793,6 +8978,7 @@
       "http://www.punchpedia.com/games/sms/ddux/img/ss04.png",
       "http://www.punchpedia.com/games/sms/ddux/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -8877,6 +9063,7 @@
       "http://www.punchpedia.com/games/gba/dwarriorsa/img/ss04.png",
       "http://www.punchpedia.com/games/gba/dwarriorsa/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -8961,6 +9148,7 @@
       "http://www.punchpedia.com/games/arc/dynwars/img/ss04.png",
       "http://www.punchpedia.com/games/arc/dynwars/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -9045,6 +9233,7 @@
       "http://www.punchpedia.com/games/pce/tenchi/img/ss04.png",
       "http://www.punchpedia.com/games/pce/tenchi/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -9087,7 +9276,7 @@
     "releaseYear": "releasedate",
     "otherPlatforms": null,
     "series": "N/A",
-    "players": 2,
+    "players": 3,
     "structure": "structure",
     "difficulty": "difficulty",
     "gangsize": "gangsize",
@@ -9125,6 +9314,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -9204,6 +9394,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -9288,6 +9479,7 @@
       "http://www.punchpedia.com/games/arc/ffight/img/ss04.png",
       "http://www.punchpedia.com/games/arc/ffight/img/ss05.png"
     ],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/Final_Fight_(video_game)"],
     "beatemupBingo": {
       "go": true,
@@ -9372,6 +9564,7 @@
       "http://www.punchpedia.com/games/snes/ffight/img/ss04.png",
       "http://www.punchpedia.com/games/snes/ffight/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -9451,6 +9644,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -9535,6 +9729,7 @@
       "http://www.punchpedia.com/games/snes/ffight2/img/ss04.png",
       "http://www.punchpedia.com/games/snes/ffight2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -9619,6 +9814,7 @@
       "http://www.punchpedia.com/games/snes/ffight3/img/ss04.png",
       "http://www.punchpedia.com/games/snes/ffight3/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -9703,6 +9899,7 @@
       "http://www.punchpedia.com/games/snes/ffightguy/img/ss04.png",
       "http://www.punchpedia.com/games/snes/ffightguy/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -9787,6 +9984,7 @@
       "http://www.punchpedia.com/games/gba/ffightone/img/ss04.png",
       "http://www.punchpedia.com/games/gba/ffightone/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -9866,6 +10064,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Cowboy_Bebop:_Tsuioku_no_Serenade"
     ],
@@ -9952,6 +10151,7 @@
       "http://www.punchpedia.com/games/arc/gpolis/img/ss04.png",
       "http://www.punchpedia.com/games/arc/gpolis/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -10036,6 +10236,7 @@
       "http://www.punchpedia.com/games/arc/gcrusaders/img/ss04.png",
       "http://www.punchpedia.com/games/arc/gcrusaders/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -10120,6 +10321,7 @@
       "http://www.punchpedia.com/games/nes/goemon2/img/ss04.png",
       "http://www.punchpedia.com/games/nes/goemon2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -10204,6 +10406,7 @@
       "http://www.punchpedia.com/games/snes/goemon2/img/ss04.png",
       "http://www.punchpedia.com/games/snes/goemon2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -10288,6 +10491,7 @@
       "http://www.punchpedia.com/games/snes/goemon4/img/ss04.png",
       "http://www.punchpedia.com/games/snes/goemon4/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -10372,6 +10576,7 @@
       "http://www.punchpedia.com/games/nes/goemon/img/ss04.png",
       "http://www.punchpedia.com/games/nes/goemon/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -10456,6 +10661,7 @@
       "http://www.punchpedia.com/games/gb/goemon/img/ss04.png",
       "http://www.punchpedia.com/games/gb/goemon/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -10540,6 +10746,7 @@
       "http://www.punchpedia.com/games/arc/gangwars/img/ss04.png",
       "http://www.punchpedia.com/games/arc/gangwars/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -10619,6 +10826,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/Gekido"],
     "beatemupBingo": {
       "go": false,
@@ -10703,6 +10911,7 @@
       "http://www.punchpedia.com/games/gba/gekidoa/img/ss04.png",
       "http://www.punchpedia.com/games/gba/gekidoa/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -10787,6 +10996,7 @@
       "http://www.punchpedia.com/games/snes/gchaser/img/ss04.png",
       "http://www.punchpedia.com/games/snes/gchaser/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -10866,6 +11076,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/God_Hand"],
     "beatemupBingo": {
       "go": false,
@@ -10950,6 +11161,7 @@
       "http://www.punchpedia.com/games/arc/goldenaxe/img/ss04.png",
       "http://www.punchpedia.com/games/arc/goldenaxe/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -11034,6 +11246,7 @@
       "http://www.punchpedia.com/games/gen/goldenaxe/img/ss04.png",
       "http://www.punchpedia.com/games/gen/goldenaxe/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -11118,6 +11331,7 @@
       "http://www.punchpedia.com/games/sms/goldenaxe/img/ss04.png",
       "http://www.punchpedia.com/games/sms/goldenaxe/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -11202,6 +11416,7 @@
       "http://www.punchpedia.com/games/pce/goldenaxe/img/ss04.png",
       "http://www.punchpedia.com/games/pce/goldenaxe/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -11286,6 +11501,7 @@
       "http://www.punchpedia.com/games/gen/goldenaxe2/img/ss04.png",
       "http://www.punchpedia.com/games/gen/goldenaxe2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -11370,6 +11586,7 @@
       "http://www.punchpedia.com/games/gen/goldenaxe3/img/ss04.png",
       "http://www.punchpedia.com/games/gen/goldenaxe3/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -11454,6 +11671,7 @@
       "http://www.punchpedia.com/games/arc/goldenaxe2/img/ss04.png",
       "http://www.punchpedia.com/games/arc/goldenaxe2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -11538,6 +11756,7 @@
       "http://www.punchpedia.com/games/snes/gourmet/img/ss04.png",
       "http://www.punchpedia.com/games/snes/gourmet/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -11622,6 +11841,7 @@
       "http://www.punchpedia.com/games/arc/growl/img/ss04.png",
       "http://www.punchpedia.com/games/arc/growl/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -11706,6 +11926,7 @@
       "http://www.punchpedia.com/games/gen/growl/img/ss04.png",
       "http://www.punchpedia.com/games/gen/growl/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -11790,6 +12011,7 @@
       "http://www.punchpedia.com/games/sat/gheroes/img/ss04.png",
       "http://www.punchpedia.com/games/sat/gheroes/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -11874,6 +12096,7 @@
       "http://www.punchpedia.com/games/arc/ghood/img/ss04.png",
       "http://www.punchpedia.com/games/arc/ghood/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -11958,6 +12181,7 @@
       "http://www.punchpedia.com/games/arc/dmakai2/img/ss04.png",
       "http://www.punchpedia.com/games/arc/dmakai2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -12042,6 +12266,7 @@
       "http://www.punchpedia.com/games/psp/ggearj/img/ss04.png",
       "http://www.punchpedia.com/games/psp/ggearj/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -12126,6 +12351,7 @@
       "http://www.punchpedia.com/games/arc/hachoo/img/ss04.png",
       "http://www.punchpedia.com/games/arc/hachoo/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -12210,6 +12436,7 @@
       "http://www.punchpedia.com/games/arc/hook/img/ss04.png",
       "http://www.punchpedia.com/games/arc/hook/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -12294,6 +12521,7 @@
       "http://www.punchpedia.com/games/arc/ikari3/img/ss04.png",
       "http://www.punchpedia.com/games/arc/ikari3/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -12378,6 +12606,7 @@
       "http://www.punchpedia.com/games/nes/ikari3/img/ss04.png",
       "http://www.punchpedia.com/games/nes/ikari3/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -12462,6 +12691,7 @@
       "http://www.punchpedia.com/games/snes/icommando/img/ss04.png",
       "http://www.punchpedia.com/games/snes/icommando/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -12546,6 +12776,7 @@
       "http://www.punchpedia.com/games/gba/jchana/img/ss04.png",
       "http://www.punchpedia.com/games/gba/jchana/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -12625,6 +12856,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -12704,6 +12936,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -12783,6 +13016,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -12867,6 +13101,7 @@
       "http://www.punchpedia.com/games/snes/wildcats/img/ss04.png",
       "http://www.punchpedia.com/games/snes/wildcats/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -12951,6 +13186,7 @@
       "http://www.punchpedia.com/games/arc/jdredd/img/ss04.png",
       "http://www.punchpedia.com/games/arc/jdredd/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -13035,6 +13271,7 @@
       "http://www.punchpedia.com/games/gba/jlhflash/img/ss04.png",
       "http://www.punchpedia.com/games/gba/jlhflash/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -13119,6 +13356,7 @@
       "http://www.punchpedia.com/games/snes/krider/img/ss04.png",
       "http://www.punchpedia.com/games/snes/krider/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -13203,6 +13441,7 @@
       "http://www.punchpedia.com/games/arc/kblazers/img/ss04.png",
       "http://www.punchpedia.com/games/arc/kblazers/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -13287,6 +13526,7 @@
       "http://www.punchpedia.com/games/arc/kodragons/img/ss04.png",
       "http://www.punchpedia.com/games/arc/kodragons/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -13371,6 +13611,7 @@
       "http://www.punchpedia.com/games/snes/kodragons/img/ss04.png",
       "http://www.punchpedia.com/games/snes/kodragons/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -13455,6 +13696,7 @@
       "http://www.punchpedia.com/games/snes/komonsters2/img/ss04.png",
       "http://www.punchpedia.com/games/snes/komonsters2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -13539,6 +13781,7 @@
       "http://www.punchpedia.com/games/arc/kotm2/img/ss04.png",
       "http://www.punchpedia.com/games/arc/kotm2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -13623,6 +13866,7 @@
       "http://www.punchpedia.com/games/arc/knights/img/ss04.png",
       "http://www.punchpedia.com/games/arc/knights/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -13707,6 +13951,7 @@
       "http://www.punchpedia.com/games/snes/knights/img/ss04.png",
       "http://www.punchpedia.com/games/snes/knights/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -13791,6 +14036,7 @@
       "http://www.punchpedia.com/games/arc/kov/img/ss04.png",
       "http://www.punchpedia.com/games/arc/kov/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -13875,6 +14121,7 @@
       "http://www.punchpedia.com/games/arc/kov2/img/ss04.png",
       "http://www.punchpedia.com/games/arc/kov2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -13959,6 +14206,87 @@
       "http://www.punchpedia.com/games/arc/kbash/img/ss04.png",
       "http://www.punchpedia.com/games/arc/kbash/img/ss05.png"
     ],
+    "videos": [],
+    "links": [],
+    "beatemupBingo": {
+      "go": false,
+      "sunsetEnding": false,
+      "healthMeat": false,
+      "sleevelessJacket": false,
+      "bossWithGun": false,
+      "fireBombs": false,
+      "twowordTitle": false,
+      "throwingKnife": false,
+      "subwayStage": false,
+      "exproWrestler": false,
+      "steelPipe": false,
+      "kindnappedFemale": false,
+      "specialDrainsHealth": false,
+      "oilDrums": false,
+      "clowns": false,
+      "yellowRedHealthBar": false,
+      "dominatrix": false,
+      "powerSpeedBalance": false,
+      "elevatorScene": false,
+      "mansionStage": false,
+      "mohawks": false,
+      "buildingSite": false,
+      "fatCharginMen": false,
+      "sharpSuits": false,
+      "graffiti": false
+    }
+  },
+  {
+    "missing": true,
+    "name": "Kouryuu no Mimi",
+    "platform": "SNES",
+    "perspective": "2D",
+    "about": "about",
+    "trivia": "trivia",
+    "developer": "developer",
+    "publisher": "publisher",
+    "releasedate": "releasedate",
+    "releaseYear": "releasedate",
+    "otherPlatforms": null,
+    "series": null,
+    "players": 1,
+    "structure": "structure",
+    "difficulty": "difficulty",
+    "gangsize": "gangsize",
+    "variety": ["None"],
+    "playtime": "playtime",
+    "buttons": "buttons",
+    "combos": "combos",
+    "grabs": "grabs",
+    "dashing": "dashing",
+    "enemyHBars": "enemyHBars",
+    "itemPickup": "itemPickup",
+    "itemStay": "itemStay",
+    "weaponsStay": "weaponsStay",
+    "deathBlow": "deathBlow",
+    "friendlyFire": "friendlyFire",
+    "charSwitch": "charSwitch",
+    "groundHit": "groundHit",
+    "revive": "revive",
+    "restore": "restore",
+    "artStyle": "artStyle",
+    "sprites": "sprites",
+    "setting": "setting",
+    "focus": "focus",
+    "music": "music",
+    "tone": "tone",
+    "fighters": null,
+    "stages": null,
+    "enemies": null,
+    "bosses": null,
+    "weapons": [null],
+    "lives": null,
+    "continues": null,
+    "extend": "N/A",
+    "overallReview": "overallReview",
+    "cover": "",
+    "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -14043,6 +14371,7 @@
       "http://www.punchpedia.com/games/snes/legend/img/ss04.png",
       "http://www.punchpedia.com/games/snes/legend/img/ss05.png"
     ],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Legend_(1994_video_game)",
       "https://strategywiki.org/wiki/Legend_(SNES)"
@@ -14126,6 +14455,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Legend_(1994_video_game)",
       "https://strategywiki.org/wiki/Legend_(PlayStation)",
@@ -14214,6 +14544,7 @@
       "http://www.punchpedia.com/games/snes/lmninja/img/ss04.png",
       "http://www.punchpedia.com/games/snes/lmninja/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -14254,7 +14585,7 @@
     "releasedate": "Jan '92",
     "releaseYear": 1992,
     "otherPlatforms": null,
-    "series": false,
+    "series": null,
     "players": 2,
     "structure": "Linear",
     "difficulty": "Medium",
@@ -14298,6 +14629,7 @@
       "http://www.punchpedia.com/games/arc/legion/img/ss04.png",
       "http://www.punchpedia.com/games/arc/legion/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -14382,6 +14714,7 @@
       "http://www.punchpedia.com/games/nes/lweapon/img/ss04.png",
       "http://www.punchpedia.com/games/nes/lweapon/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -14461,6 +14794,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/Lugaru"],
     "beatemupBingo": {
       "go": false,
@@ -14540,7 +14874,90 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/Mad_Max_(2015_video_game)"],
+    "beatemupBingo": {
+      "go": false,
+      "sunsetEnding": false,
+      "healthMeat": false,
+      "sleevelessJacket": false,
+      "bossWithGun": false,
+      "fireBombs": false,
+      "twowordTitle": false,
+      "throwingKnife": false,
+      "subwayStage": false,
+      "exproWrestler": false,
+      "steelPipe": false,
+      "kindnappedFemale": false,
+      "specialDrainsHealth": false,
+      "oilDrums": false,
+      "clowns": false,
+      "yellowRedHealthBar": false,
+      "dominatrix": false,
+      "powerSpeedBalance": false,
+      "elevatorScene": false,
+      "mansionStage": false,
+      "mohawks": false,
+      "buildingSite": false,
+      "fatCharginMen": false,
+      "sharpSuits": false,
+      "graffiti": false
+    }
+  },
+  {
+    "missing": true,
+    "name": "Marvel Super Heroes In War of the Gems",
+    "platform": "SNES",
+    "perspective": "2D",
+    "about": "about",
+    "trivia": "trivia",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "releasedate": "releasedate",
+    "releaseYear": 1996,
+    "otherPlatforms": null,
+    "series": null,
+    "players": 1,
+    "structure": "structure",
+    "difficulty": "difficulty",
+    "gangsize": "gangsize",
+    "variety": ["None"],
+    "playtime": "playtime",
+    "buttons": "buttons",
+    "combos": "combos",
+    "grabs": "grabs",
+    "dashing": "dashing",
+    "enemyHBars": "enemyHBars",
+    "itemPickup": "itemPickup",
+    "itemStay": "itemStay",
+    "weaponsStay": "weaponsStay",
+    "deathBlow": "deathBlow",
+    "friendlyFire": "friendlyFire",
+    "charSwitch": "charSwitch",
+    "groundHit": "groundHit",
+    "revive": "revive",
+    "restore": "restore",
+    "artStyle": "artStyle",
+    "sprites": "sprites",
+    "setting": "setting",
+    "focus": "focus",
+    "music": "music",
+    "tone": "tone",
+    "fighters": null,
+    "stages": null,
+    "enemies": null,
+    "bosses": null,
+    "weapons": [null],
+    "lives": null,
+    "continues": null,
+    "extend": "N/A",
+    "overallReview": "overallReview",
+    "cover": "",
+    "images": [""],
+    "videos": [],
+    "links": [
+      "https://en.wikipedia.org/wiki/Marvel_Super_Heroes_In_War_of_the_Gems"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -14624,6 +15041,7 @@
       "http://www.punchpedia.com/games/gen/mazinsaga/img/ss04.png",
       "http://www.punchpedia.com/games/gen/mazinsaga/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -14708,6 +15126,7 @@
       "http://www.punchpedia.com/games/arc/mforce/img/ss04.png",
       "http://www.punchpedia.com/games/arc/mforce/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -14792,6 +15211,7 @@
       "http://www.punchpedia.com/games/nes/mffight/img/ss04.png",
       "http://www.punchpedia.com/games/nes/mffight/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -14871,6 +15291,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -14955,6 +15376,7 @@
       "http://www.punchpedia.com/games/arc/msmashers/img/ss04.png",
       "http://www.punchpedia.com/games/arc/msmashers/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -15039,6 +15461,7 @@
       "http://www.punchpedia.com/games/arc/mnation/img/ss04.png",
       "http://www.punchpedia.com/games/arc/mnation/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -15123,6 +15546,7 @@
       "http://www.punchpedia.com/games/gen/mfighter/img/ss04.png",
       "http://www.punchpedia.com/games/gen/mfighter/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -15207,6 +15631,7 @@
       "http://www.punchpedia.com/games/arc/kunio/img/ss04.png",
       "http://www.punchpedia.com/games/arc/kunio/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -15291,6 +15716,7 @@
       "http://www.punchpedia.com/games/nes/kunio/img/ss04.png",
       "http://www.punchpedia.com/games/nes/kunio/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -15370,6 +15796,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -15454,6 +15881,7 @@
       "http://www.punchpedia.com/games/gb/kunio/img/ss04.png",
       "http://www.punchpedia.com/games/gb/kunio/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -15533,6 +15961,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -15612,6 +16041,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -15697,6 +16127,7 @@
       "http://www.punchpedia.com/games/arc/nslashers/img/ss04.png",
       "http://www.punchpedia.com/games/arc/nslashers/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -15847,6 +16278,7 @@
       "http://www.punchpedia.com/games/arc/nclowns/img/ss04.png",
       "http://www.punchpedia.com/games/arc/nclowns/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -15931,6 +16363,7 @@
       "http://www.punchpedia.com/games/arc/ngaiden/img/ss04.png",
       "http://www.punchpedia.com/games/arc/ngaiden/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -16010,6 +16443,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -16094,6 +16528,7 @@
       "http://www.punchpedia.com/games/arc/olegend/img/ss04.png",
       "http://www.punchpedia.com/games/arc/olegend/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -16173,6 +16608,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/Overgrowth_(video_game)"],
     "beatemupBingo": {
       "go": false,
@@ -16257,6 +16693,7 @@
       "http://www.punchpedia.com/games/arc/pow/img/ss04.png",
       "http://www.punchpedia.com/games/arc/pow/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -16341,6 +16778,7 @@
       "http://www.punchpedia.com/games/nes/pow/img/ss04.png",
       "http://www.punchpedia.com/games/nes/pow/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -16425,6 +16863,7 @@
       "http://www.punchpedia.com/games/psx/pbandit/img/ss04.png",
       "http://www.punchpedia.com/games/psx/pbandit/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -16509,6 +16948,7 @@
       "http://www.punchpedia.com/games/arc/pulirula/img/ss04.png",
       "http://www.punchpedia.com/games/arc/pulirula/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -16588,6 +17028,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -16672,6 +17113,7 @@
       "http://www.punchpedia.com/games/arc/renegade/img/ss04.png",
       "http://www.punchpedia.com/games/arc/renegade/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -16756,6 +17198,7 @@
       "http://www.punchpedia.com/games/nes/renegade/img/ss04.png",
       "http://www.punchpedia.com/games/nes/renegade/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -16840,6 +17283,7 @@
       "http://www.punchpedia.com/games/sms/renegade/img/ss04.png",
       "http://www.punchpedia.com/games/sms/renegade/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -16924,6 +17368,7 @@
       "http://www.punchpedia.com/games/arc/riotcity/img/ss04.png",
       "http://www.punchpedia.com/games/arc/riotcity/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -17008,6 +17453,7 @@
       "http://www.punchpedia.com/games/snes/rturf/img/ss04.png",
       "http://www.punchpedia.com/games/snes/rturf/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -17092,6 +17538,7 @@
       "http://www.punchpedia.com/games/nes/rcransom/img/ss04.png",
       "http://www.punchpedia.com/games/nes/rcransom/img/ss05.png"
     ],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/River_City_Ransom",
       "https://tcrf.net/River_City_Ransom"
@@ -17174,6 +17621,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -17258,6 +17706,7 @@
       "http://www.punchpedia.com/games/gba/rcransomex/img/ss04.png",
       "http://www.punchpedia.com/games/gba/rcransomex/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -17337,6 +17786,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -17416,6 +17866,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -17495,6 +17946,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -17579,6 +18031,7 @@
       "http://www.punchpedia.com/games/arc/roboarmy/img/ss04.png",
       "http://www.punchpedia.com/games/arc/roboarmy/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -17663,6 +18116,7 @@
       "http://www.punchpedia.com/games/arc/rollergames/img/ss04.png",
       "http://www.punchpedia.com/games/arc/rollergames/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -17747,6 +18201,7 @@
       "http://www.punchpedia.com/games/nes/rollergames/img/ss04.png",
       "http://www.punchpedia.com/games/nes/rollergames/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -17831,6 +18286,7 @@
       "http://www.punchpedia.com/games/arc/smoon/img/ss04.png",
       "http://www.punchpedia.com/games/arc/smoon/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -17915,6 +18371,7 @@
       "http://www.punchpedia.com/games/snes/smoon/img/ss04.png",
       "http://www.punchpedia.com/games/snes/smoon/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -17999,6 +18456,7 @@
       "http://www.punchpedia.com/games/snes/smoonr/img/ss04.png",
       "http://www.punchpedia.com/games/snes/smoonr/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -18083,6 +18541,7 @@
       "http://www.punchpedia.com/games/ps3/spilgrim/img/ss04.png",
       "http://www.punchpedia.com/games/ps3/spilgrim/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -18167,6 +18626,7 @@
       "http://www.punchpedia.com/games/arc/sengoku/img/ss04.png",
       "http://www.punchpedia.com/games/arc/sengoku/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -18251,6 +18711,7 @@
       "http://www.punchpedia.com/games/arc/sengoku2/img/ss04.png",
       "http://www.punchpedia.com/games/arc/sengoku2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -18335,6 +18796,7 @@
       "http://www.punchpedia.com/games/arc/sengoku3/img/ss04.png",
       "http://www.punchpedia.com/games/arc/sengoku3/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -18419,6 +18881,7 @@
       "http://www.punchpedia.com/games/arc/sforce/img/ss04.png",
       "http://www.punchpedia.com/games/arc/sforce/img/ss05.png"
     ],
+    "videos": [],
     "links": [
       "https://tcrf.net/Shadow_Force",
       "https://gamefaqs.gamespot.com/arcade/568695-shadow-force"
@@ -18506,6 +18969,7 @@
       "http://www.punchpedia.com/games/snes/kuniob/img/ss04.png",
       "http://www.punchpedia.com/games/snes/kuniob/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -18590,7 +19054,88 @@
       "http://www.punchpedia.com/games/snes/kunio/img/ss04.png",
       "http://www.punchpedia.com/games/snes/kunio/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
+    "beatemupBingo": {
+      "go": false,
+      "sunsetEnding": false,
+      "healthMeat": false,
+      "sleevelessJacket": false,
+      "bossWithGun": false,
+      "fireBombs": false,
+      "twowordTitle": false,
+      "throwingKnife": false,
+      "subwayStage": false,
+      "exproWrestler": false,
+      "steelPipe": false,
+      "kindnappedFemale": false,
+      "specialDrainsHealth": false,
+      "oilDrums": false,
+      "clowns": false,
+      "yellowRedHealthBar": false,
+      "dominatrix": false,
+      "powerSpeedBalance": false,
+      "elevatorScene": false,
+      "mansionStage": false,
+      "mohawks": false,
+      "buildingSite": false,
+      "fatCharginMen": false,
+      "sharpSuits": false,
+      "graffiti": false
+    }
+  },
+  {
+    "missing": true,
+    "name": "Shounen Ninja Sasuke",
+    "platform": "SNES",
+    "perspective": "2.5D",
+    "about": "about",
+    "trivia": "trivia",
+    "developer": "SunSoft",
+    "publisher": "SunSoft",
+    "releasedate": "releasedate",
+    "releaseYear": 1994,
+    "otherPlatforms": null,
+    "series": null,
+    "players": 1,
+    "structure": "structure",
+    "difficulty": "difficulty",
+    "gangsize": "gangsize",
+    "variety": ["None"],
+    "playtime": "playtime",
+    "buttons": "buttons",
+    "combos": "combos",
+    "grabs": "grabs",
+    "dashing": "dashing",
+    "enemyHBars": "enemyHBars",
+    "itemPickup": "itemPickup",
+    "itemStay": "itemStay",
+    "weaponsStay": "weaponsStay",
+    "deathBlow": "deathBlow",
+    "friendlyFire": "friendlyFire",
+    "charSwitch": "charSwitch",
+    "groundHit": "groundHit",
+    "revive": "revive",
+    "restore": "restore",
+    "artStyle": "artStyle",
+    "sprites": "sprites",
+    "setting": "setting",
+    "focus": "focus",
+    "music": "music",
+    "tone": "tone",
+    "fighters": null,
+    "stages": null,
+    "enemies": null,
+    "bosses": null,
+    "weapons": [null],
+    "lives": null,
+    "continues": null,
+    "extend": "N/A",
+    "overallReview": "overallReview",
+    "cover": "",
+    "images": [""],
+    "videos": [],
+    "links": ["https://en.wikipedia.org/wiki/Shounen_Ninja_Sasuke"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -18674,6 +19219,7 @@
       "http://www.punchpedia.com/games/gen/shui/img/ss04.png",
       "http://www.punchpedia.com/games/gen/shui/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -18758,6 +19304,7 @@
       "http://www.punchpedia.com/games/arc/sdragon/img/ss04.png",
       "http://www.punchpedia.com/games/arc/sdragon/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -18842,6 +19389,7 @@
       "http://www.punchpedia.com/games/arc/sacbones/img/ss04.png",
       "http://www.punchpedia.com/games/arc/sacbones/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -18921,6 +19469,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/Sleeping_Dogs_(video_game)"],
     "beatemupBingo": {
       "go": false,
@@ -19005,6 +19554,7 @@
       "http://www.punchpedia.com/games/snes/sbman/img/ss04.png",
       "http://www.punchpedia.com/games/snes/sbman/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -19089,6 +19639,7 @@
       "http://www.punchpedia.com/games/snes/sbman2/img/ss04.png",
       "http://www.punchpedia.com/games/snes/sbman2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -19173,6 +19724,7 @@
       "http://www.punchpedia.com/games/snes/spiderman/img/ss04.png",
       "http://www.punchpedia.com/games/snes/spiderman/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -19257,6 +19809,7 @@
       "http://www.punchpedia.com/games/snes/spiderman2/img/ss04.png",
       "http://www.punchpedia.com/games/snes/spiderman2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -19341,6 +19894,7 @@
       "http://www.punchpedia.com/games/gen/spiderman/img/ss04.png",
       "http://www.punchpedia.com/games/gen/spiderman/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -19425,6 +19979,7 @@
       "http://www.punchpedia.com/games/arc/spiderman/img/ss04.png",
       "http://www.punchpedia.com/games/arc/spiderman/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -19504,6 +20059,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/SpikeOut"],
     "beatemupBingo": {
       "go": false,
@@ -19583,6 +20139,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/Spikeout:_Battle_Street"],
     "beatemupBingo": {
       "go": false,
@@ -19662,6 +20219,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": ["https://www.mobygames.com/game/spikers-battle"],
     "beatemupBingo": {
       "go": false,
@@ -19746,6 +20304,7 @@
       "http://www.punchpedia.com/games/gen/shouse3/img/ss04.png",
       "http://www.punchpedia.com/games/gen/shouse3/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -19825,6 +20384,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -19909,6 +20469,7 @@
       "http://www.punchpedia.com/games/snes/sprotectors/img/ss04.png",
       "http://www.punchpedia.com/games/snes/sprotectors/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -19993,6 +20554,7 @@
       "http://www.punchpedia.com/games/gen/streets/img/ss04.png",
       "http://www.punchpedia.com/games/gen/streets/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -20077,6 +20639,7 @@
       "http://www.punchpedia.com/games/sms/streets/img/ss04.png",
       "http://www.punchpedia.com/games/sms/streets/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -20161,6 +20724,7 @@
       "http://www.punchpedia.com/games/gg/streets/img/ss04.png",
       "http://www.punchpedia.com/games/gg/streets/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -20245,6 +20809,7 @@
       "http://www.punchpedia.com/games/gen/streets2/img/ss04.png",
       "http://www.punchpedia.com/games/gen/streets2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -20329,6 +20894,7 @@
       "http://www.punchpedia.com/games/gg/streets2/img/ss04.png",
       "http://www.punchpedia.com/games/gg/streets2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -20413,6 +20979,7 @@
       "http://www.punchpedia.com/games/sms/streets2/img/ss04.png",
       "http://www.punchpedia.com/games/sms/streets2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -20497,6 +21064,7 @@
       "http://www.punchpedia.com/games/gen/streets3/img/ss04.png",
       "http://www.punchpedia.com/games/gen/streets3/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -20581,6 +21149,7 @@
       "https://www.dotemu.com/wp-content/uploads/2018/08/StreetsOfRage4-0007-1024x576.png",
       "https://www.dotemu.com/wp-content/uploads/2018/08/StreetsOfRage4-0010-1024x576.png"
     ],
+    "videos": [],
     "links": [
       "https://www.streets4rage.com/",
       "https://en.wikipedia.org/wiki/Streets_of_Rage_4/",
@@ -20669,6 +21238,7 @@
       "http://www.punchpedia.com/games/pc/streets/img/ss04.png",
       "http://www.punchpedia.com/games/pc/streets/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -20753,6 +21323,7 @@
       "http://www.punchpedia.com/games/snes/sddragon/img/ss04.png",
       "http://www.punchpedia.com/games/snes/sddragon/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -20893,6 +21464,7 @@
       "http://www.punchpedia.com/games/nes/trenegade/img/ss04.png",
       "http://www.punchpedia.com/games/nes/trenegade/img/ss05.png"
     ],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/Target:_Renegade"],
     "beatemupBingo": {
       "go": false,
@@ -20972,6 +21544,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": ["", "", "", "", ""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -21056,6 +21629,7 @@
       "http://www.punchpedia.com/games/arc/tmnt/img/ss04.png",
       "http://www.punchpedia.com/games/arc/tmnt/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -21140,6 +21714,7 @@
       "http://www.punchpedia.com/games/gb/tmnt2/img/ss04.png",
       "http://www.punchpedia.com/games/gb/tmnt2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -21224,6 +21799,7 @@
       "http://www.punchpedia.com/games/nes/tmnt2/img/ss04.png",
       "http://www.punchpedia.com/games/nes/tmnt2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -21308,6 +21884,7 @@
       "http://www.punchpedia.com/games/nes/tmnt3/img/ss04.png",
       "http://www.punchpedia.com/games/nes/tmnt3/img/ss05.png"
     ],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_III:_The_Manhattan_Project"
     ],
@@ -21394,6 +21971,7 @@
       "http://www.punchpedia.com/games/snes/tmnt/img/ss04.png",
       "http://www.punchpedia.com/games/snes/tmnt/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -21472,6 +22050,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -21556,6 +22135,7 @@
       "http://www.punchpedia.com/games/arc/tmnt2/img/ss04.png",
       "http://www.punchpedia.com/games/arc/tmnt2/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -21640,6 +22220,7 @@
       "http://www.punchpedia.com/games/nes/abbilly/img/ss04.png",
       "http://www.punchpedia.com/games/nes/abbilly/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -21724,6 +22305,7 @@
       "http://www.punchpedia.com/games/arc/aoheroes/img/ss04.png",
       "http://www.punchpedia.com/games/arc/aoheroes/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -21803,6 +22385,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/The_Bouncer_(video_game)"],
     "beatemupBingo": {
       "go": false,
@@ -21887,6 +22470,7 @@
       "http://www.punchpedia.com/games/arc/ctribes/img/ss04.png",
       "http://www.punchpedia.com/games/arc/ctribes/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -21971,6 +22555,7 @@
       "http://www.punchpedia.com/games/snes/ctribes/img/ss04.png",
       "http://www.punchpedia.com/games/snes/ctribes/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -22055,6 +22640,7 @@
       "http://www.punchpedia.com/games/arc/cokings/img/ss04.png",
       "http://www.punchpedia.com/games/arc/cokings/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -22139,6 +22725,7 @@
       "http://www.punchpedia.com/games/snes/superman/img/ss04.png",
       "http://www.punchpedia.com/games/snes/superman/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -22218,6 +22805,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -22302,7 +22890,88 @@
       "http://www.punchpedia.com/games/arc/theglad/img/ss04.png",
       "http://www.punchpedia.com/games/arc/theglad/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
+    "beatemupBingo": {
+      "go": false,
+      "sunsetEnding": false,
+      "healthMeat": false,
+      "sleevelessJacket": false,
+      "bossWithGun": false,
+      "fireBombs": false,
+      "twowordTitle": false,
+      "throwingKnife": false,
+      "subwayStage": false,
+      "exproWrestler": false,
+      "steelPipe": false,
+      "kindnappedFemale": false,
+      "specialDrainsHealth": false,
+      "oilDrums": false,
+      "clowns": false,
+      "yellowRedHealthBar": false,
+      "dominatrix": false,
+      "powerSpeedBalance": false,
+      "elevatorScene": false,
+      "mansionStage": false,
+      "mohawks": false,
+      "buildingSite": false,
+      "fatCharginMen": false,
+      "sharpSuits": false,
+      "graffiti": false
+    }
+  },
+  {
+    "missing": true,
+    "name": "The Great Battle II: Last Fighter Twin",
+    "platform": "SNES",
+    "perspective": "2.5D",
+    "about": "about",
+    "trivia": "trivia",
+    "developer": "Banpresto",
+    "publisher": "Banpresto",
+    "releasedate": "releasedate",
+    "releaseYear": 1992,
+    "otherPlatforms": null,
+    "series": null,
+    "players": 2,
+    "structure": "structure",
+    "difficulty": "difficulty",
+    "gangsize": "gangsize",
+    "variety": ["None"],
+    "playtime": "playtime",
+    "buttons": "buttons",
+    "combos": "combos",
+    "grabs": "grabs",
+    "dashing": "dashing",
+    "enemyHBars": "enemyHBars",
+    "itemPickup": "itemPickup",
+    "itemStay": "itemStay",
+    "weaponsStay": "weaponsStay",
+    "deathBlow": "deathBlow",
+    "friendlyFire": "friendlyFire",
+    "charSwitch": "charSwitch",
+    "groundHit": "groundHit",
+    "revive": "revive",
+    "restore": "restore",
+    "artStyle": "artStyle",
+    "sprites": "sprites",
+    "setting": "setting",
+    "focus": "focus",
+    "music": "music",
+    "tone": "tone",
+    "fighters": null,
+    "stages": null,
+    "enemies": null,
+    "bosses": null,
+    "weapons": [null],
+    "lives": null,
+    "continues": null,
+    "extend": "N/A",
+    "overallReview": "overallReview",
+    "cover": "",
+    "images": [""],
+    "videos": [],
+    "links": [""],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -22386,6 +23055,7 @@
       "http://www.punchpedia.com/games/arc/silkroad/img/ss04.png",
       "http://www.punchpedia.com/games/arc/silkroad/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -22470,6 +23140,87 @@
       "http://www.punchpedia.com/games/arc/nkids/img/ss04.png",
       "http://www.punchpedia.com/games/arc/nkids/img/ss05.png"
     ],
+    "videos": [],
+    "links": [],
+    "beatemupBingo": {
+      "go": false,
+      "sunsetEnding": false,
+      "healthMeat": false,
+      "sleevelessJacket": false,
+      "bossWithGun": false,
+      "fireBombs": false,
+      "twowordTitle": false,
+      "throwingKnife": false,
+      "subwayStage": false,
+      "exproWrestler": false,
+      "steelPipe": false,
+      "kindnappedFemale": false,
+      "specialDrainsHealth": false,
+      "oilDrums": false,
+      "clowns": false,
+      "yellowRedHealthBar": false,
+      "dominatrix": false,
+      "powerSpeedBalance": false,
+      "elevatorScene": false,
+      "mansionStage": false,
+      "mohawks": false,
+      "buildingSite": false,
+      "fatCharginMen": false,
+      "sharpSuits": false,
+      "graffiti": false
+    }
+  },
+  {
+    "missing": true,
+    "name": "The Ninja Warriors",
+    "platform": "SNES",
+    "perspective": "2D",
+    "about": "The game was first released in Japan, published by Taito as The Ninja Warriors Again.",
+    "trivia": "trivia",
+    "developer": "developer",
+    "publisher": "publisher",
+    "releasedate": "releasedate",
+    "releaseYear": 1994,
+    "otherPlatforms": null,
+    "series": null,
+    "players": 1,
+    "structure": "structure",
+    "difficulty": "difficulty",
+    "gangsize": "gangsize",
+    "variety": ["None"],
+    "playtime": "playtime",
+    "buttons": "buttons",
+    "combos": "combos",
+    "grabs": "grabs",
+    "dashing": "dashing",
+    "enemyHBars": "enemyHBars",
+    "itemPickup": "itemPickup",
+    "itemStay": "itemStay",
+    "weaponsStay": "weaponsStay",
+    "deathBlow": "deathBlow",
+    "friendlyFire": "friendlyFire",
+    "charSwitch": "charSwitch",
+    "groundHit": "groundHit",
+    "revive": "revive",
+    "restore": "restore",
+    "artStyle": "artStyle",
+    "sprites": "sprites",
+    "setting": "setting",
+    "focus": "focus",
+    "music": "music",
+    "tone": "tone",
+    "fighters": null,
+    "stages": null,
+    "enemies": null,
+    "bosses": null,
+    "weapons": [null],
+    "lives": null,
+    "continues": null,
+    "extend": "N/A",
+    "overallReview": "overallReview",
+    "cover": "",
+    "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -22554,6 +23305,7 @@
       "http://www.punchpedia.com/games/snes/pkeepers/img/ss04.png",
       "http://www.punchpedia.com/games/snes/pkeepers/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -22638,6 +23390,7 @@
       "http://www.punchpedia.com/games/snes/darkwater/img/ss04.png",
       "http://www.punchpedia.com/games/snes/darkwater/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -22722,6 +23475,7 @@
       "http://www.punchpedia.com/games/arc/punisher/img/ss04.png",
       "http://www.punchpedia.com/games/arc/punisher/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -22806,6 +23560,7 @@
       "http://www.punchpedia.com/games/gen/punisher/img/ss04.png",
       "http://www.punchpedia.com/games/gen/punisher/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -22885,6 +23640,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -22964,6 +23720,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -23099,6 +23856,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -23183,6 +23941,7 @@
       "http://www.punchpedia.com/games/snes/tick/img/ss04.png",
       "http://www.punchpedia.com/games/snes/tick/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -23267,6 +24026,7 @@
       "http://www.punchpedia.com/games/gen/tick/img/ss04.png",
       "http://www.punchpedia.com/games/gen/tick/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -23346,6 +24106,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/The_Warriors_(video_game)"],
     "beatemupBingo": {
       "go": false,
@@ -23430,6 +24191,7 @@
       "http://www.punchpedia.com/games/sat/tddwarves/img/ss04.png",
       "http://www.punchpedia.com/games/sat/tddwarves/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -23514,6 +24276,7 @@
       "http://www.punchpedia.com/games/gba/tmnt/img/ss04.png",
       "http://www.punchpedia.com/games/gba/tmnt/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -23593,6 +24356,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": ["http://gaminghell.co.uk/TomoyoFighterPerfect.html"],
     "beatemupBingo": {
       "go": false,
@@ -23677,6 +24441,7 @@
       "http://www.punchpedia.com/games/arc/tturf/img/ss04.png",
       "http://www.punchpedia.com/games/arc/tturf/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -23761,6 +24526,7 @@
       "http://www.punchpedia.com/games/snes/ufokamen/img/ss04.png",
       "http://www.punchpedia.com/games/snes/ufokamen/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -23845,6 +24611,7 @@
       "http://www.punchpedia.com/games/arc/uccops/img/ss04.png",
       "http://www.punchpedia.com/games/arc/uccops/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -23929,6 +24696,7 @@
       "http://www.punchpedia.com/games/snes/uccops/img/ss04.png",
       "http://www.punchpedia.com/games/snes/uccops/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -24008,6 +24776,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Urban_Reign",
       "https://tekken.fandom.com/wiki/Urban_Reign"
@@ -24095,6 +24864,7 @@
       "http://www.punchpedia.com/games/arc/vendetta/img/ss04.png",
       "http://www.punchpedia.com/games/arc/vendetta/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": true,
@@ -24179,6 +24949,7 @@
       "http://www.punchpedia.com/games/arc/vstorm/img/ss04.png",
       "http://www.punchpedia.com/games/arc/vstorm/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -24258,6 +25029,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -24337,6 +25109,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -24421,6 +25194,7 @@
       "http://www.punchpedia.com/games/arc/wblade/img/ss04.png",
       "http://www.punchpedia.com/games/arc/wblade/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -24505,6 +25279,7 @@
       "http://www.punchpedia.com/games/arc/wof/img/ss04.png",
       "http://www.punchpedia.com/games/arc/wof/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -24590,6 +25365,7 @@
       "http://www.punchpedia.com/games/arc/wildfang/img/ss04.png",
       "http://www.punchpedia.com/games/arc/wildfang/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -24674,7 +25450,88 @@
       "http://www.punchpedia.com/games/arc/xmen/img/ss04.png",
       "http://www.punchpedia.com/games/arc/xmen/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
+    "beatemupBingo": {
+      "go": false,
+      "sunsetEnding": false,
+      "healthMeat": false,
+      "sleevelessJacket": false,
+      "bossWithGun": false,
+      "fireBombs": false,
+      "twowordTitle": false,
+      "throwingKnife": false,
+      "subwayStage": false,
+      "exproWrestler": false,
+      "steelPipe": false,
+      "kindnappedFemale": false,
+      "specialDrainsHealth": false,
+      "oilDrums": false,
+      "clowns": false,
+      "yellowRedHealthBar": false,
+      "dominatrix": false,
+      "powerSpeedBalance": false,
+      "elevatorScene": false,
+      "mansionStage": false,
+      "mohawks": false,
+      "buildingSite": false,
+      "fatCharginMen": false,
+      "sharpSuits": false,
+      "graffiti": false
+    }
+  },
+  {
+    "missing": true,
+    "name": "X-Men: Mutant Apocalypse",
+    "platform": "SNES",
+    "perspective": "2D",
+    "about": "about",
+    "trivia": "trivia",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "releasedate": "releasedate",
+    "releaseYear": 1994,
+    "otherPlatforms": null,
+    "series": null,
+    "players": 1,
+    "structure": "structure",
+    "difficulty": "difficulty",
+    "gangsize": "gangsize",
+    "variety": ["None"],
+    "playtime": "playtime",
+    "buttons": "buttons",
+    "combos": "combos",
+    "grabs": "grabs",
+    "dashing": "dashing",
+    "enemyHBars": "enemyHBars",
+    "itemPickup": "itemPickup",
+    "itemStay": "itemStay",
+    "weaponsStay": "weaponsStay",
+    "deathBlow": "deathBlow",
+    "friendlyFire": "friendlyFire",
+    "charSwitch": "charSwitch",
+    "groundHit": "groundHit",
+    "revive": "revive",
+    "restore": "restore",
+    "artStyle": "artStyle",
+    "sprites": "sprites",
+    "setting": "setting",
+    "focus": "focus",
+    "music": "music",
+    "tone": "tone",
+    "fighters": null,
+    "stages": null,
+    "enemies": null,
+    "bosses": null,
+    "weapons": [null],
+    "lives": null,
+    "continues": null,
+    "extend": "N/A",
+    "overallReview": "overallReview",
+    "cover": "",
+    "images": [""],
+    "videos": [],
+    "links": ["https://en.wikipedia.org/wiki/X-Men:_Mutant_Apocalypse"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -24758,6 +25615,7 @@
       "http://www.punchpedia.com/games/gba/xmen/img/ss04.png",
       "http://www.punchpedia.com/games/gba/xmen/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -24837,6 +25695,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -24916,6 +25775,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -24995,6 +25855,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -25074,6 +25935,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -25153,6 +26015,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -25232,6 +26095,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -25311,6 +26175,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -25390,6 +26255,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -25469,6 +26335,7 @@
     "overallReview": "overallReview",
     "cover": "",
     "images": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -25553,6 +26420,7 @@
       "http://www.punchpedia.com/games/arc/zteam/img/ss04.png",
       "http://www.punchpedia.com/games/arc/zteam/img/ss05.png"
     ],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -25637,6 +26505,7 @@
       "http://www.punchpedia.com/games/snes/zoku/img/ss04.png",
       "http://www.punchpedia.com/games/snes/zoku/img/ss05.png"
     ],
+    "videos": [],
     "links": []
   }
 ]
