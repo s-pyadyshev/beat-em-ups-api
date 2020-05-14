@@ -26,6 +26,7 @@
       "SNES",
       "Saturn",
       "Switch",
+      "Wii",
       "X68000",
       "ZX Spectrum"
     ]
@@ -96,6 +97,7 @@
       "Now Production",
       "Ocean",
       "Opera House",
+      "PlatinumGames",
       "Radical Entertainment",
       "Rare",
       "Realtime Associates",
@@ -128,7 +130,8 @@
       "Webfoot Technologies",
       "Westone",
       "Winds",
-      "WinkySoft"
+      "WinkySoft",
+      "Wolf Team"
     ]
   },
   {
@@ -212,7 +215,8 @@
       "Vic Tokai",
       "Video System",
       "Virgin Interactive",
-      "Warner Bros"
+      "Warner Bros",
+      "Wolf Team"
     ]
   },
   {
