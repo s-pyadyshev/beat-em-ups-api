@@ -20,6 +20,7 @@
       "PS3",
       "PS4",
       "PSP",
+      "PS Vita",
       "Playstation",
       "Sega CD",
       "SMS",
@@ -38,6 +39,12 @@
     "options": ["2D", "2.5D", "3D"]
   },
   {
+    "name": "country",
+    "filterName": "Country",
+    "description": "Country",
+    "options": ["Brazil", "Japan", "USA"]
+  },
+  {
     "name": "developer",
     "filterName": "Developer",
     "description": "Who developed this game",
@@ -49,6 +56,7 @@
       "Arc System Works",
       "Arcade Zone LTD",
       "Atari",
+      "Avit-Niigata",
       "Ballistic",
       "Bandai",
       "Banpresto",
@@ -69,6 +77,7 @@
       "Electronic Devices",
       "Eurocom",
       "Eurocom Entertainment",
+      "Extend Mode",
       "Fill-In Cafe",
       "Handheld Games",
       "Iguana",
@@ -99,6 +108,7 @@
       "Ocean",
       "Opera House",
       "PlatinumGames",
+      "QuByte Interactive",
       "Radical Entertainment",
       "Rare",
       "Realtime Associates",
@@ -109,6 +119,7 @@
       "Sega",
       "Seibu Kaihatsu",
       "Seta Corp.",
+      "Ska Studios",
       "Software Creations",
       "Strata",
       "Sun L",
@@ -158,6 +169,7 @@
       "Dotemu",
       "Dreamworks/NCS",
       "Electronic Devices",
+      "Extend Mode",
       "Fabtek",
       "Flying Edge",
       "Fox Interactive",
@@ -180,6 +192,7 @@
       "Motown Games",
       "NEC Interchannel",
       "Namco",
+      "Natsume",
       "Naxat Soft",
       "Never Ending Soft",
       "Nichibitsu",
@@ -189,6 +202,7 @@
       "PalSoft",
       "Playmates",
       "Pop",
+      "QuByte Interactive",
       "Rare",
       "Rockstar Games",
       "Romstar",
@@ -198,6 +212,7 @@
       "SegaSoft",
       "Seibu Kaihatsu",
       "Seika Corp.",
+      "Ska Studios",
       "Sony Imagesoft",
       "Squaresoft",
       "Strata",
@@ -270,6 +285,7 @@
     "options": [
       "Alien Storm",
       "Battletoads",
+      "Crime Fighters",
       "D.J. Boy",
       "Denjin Makai",
       "Die Hard Arcade",
@@ -287,6 +303,7 @@
       "Target: Renegade",
       "The Tick",
       "Teenage Mutant Ninja Turtles",
+      "Watchmen",
       "Yakuza"
     ]
   },
@@ -294,7 +311,7 @@
     "name": "players",
     "filterName": "Players",
     "description": "Number of simultaneous human players",
-    "options": [1, 2, 3, 4, 6]
+    "options": [1, 2, 3, 4, 6, 8]
   },
   {
     "name": "structure",
@@ -327,7 +344,6 @@
     "filterName": "Gang Size",
     "description": "Maximum number of onscreen opponents",
     "options": [
-      "7 (Large)",
       "Average (5)",
       "Average (6)",
       "Duo (2)",
@@ -384,6 +400,7 @@
       "Shooting",
       "Stealth",
       "Strategy",
+      "Survival mode",
       "Team attack",
       "Team battle",
       "Timer",
@@ -481,6 +498,7 @@
       "Punch, Kick, Jump, Crouch",
       "Punch, Kick, Jump, Magic",
       "Punch, Kick, Jump, Special",
+      "Punch, Kick, Jump, Super, Special",
       "Punch, Kick, Weapon, Jump",
       "Punch, Weapon, Jump, Block",
       "Punch1, Punch2, Kick1, Kick2, Jump, Possess",
@@ -783,6 +801,7 @@
       "Batman",
       "Cartoony",
       "Chinese",
+      "Chiptune",
       "Chiptune Rock",
       "Crap",
       "Electronic",
