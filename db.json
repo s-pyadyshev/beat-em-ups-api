@@ -8112,8 +8112,8 @@
     "platform": "NES",
     "perspective": "2.5D",
     "about": "\n\nDouble Dragon III: The Sacred Stones is the final chapter in Technos' genre-defining brawler trilogy. It's the only version of the game that was actually developed by Technos. It's a globe-hopping adventure that's notable for its brutal difficulty and innovative character system. You unlock additional fighter by beating bosses and can switch between characters at any time, although each character only has one life for the entire game.\n",
-    "trivia": "This is the only version of Double Dragon III that was developed by Technos, and it's easily the best.Chin claims you killed his brother. This is a reference to the Chin enemies in Double Dragon 1 on the NES.",
-    "country": "country",
+    "trivia": "This is the only version of Double Dragon III that was developed by Technos, and it's easily the best. Chin claims you killed his brother. This is a reference to the Chin enemies in Double Dragon 1 on the NES.",
+    "country": "Japan",
     "developer": "Technos",
     "publisher": "Acclaim",
     "releasedate": "Feb '91",
@@ -8148,8 +8148,8 @@
     "tone": "Serious",
     "fighters": 4,
     "stages": 5,
-    "enemies": null,
-    "bosses": null,
+    "enemies": 6,
+    "bosses": 6,
     "weapons": [
       "Bottle",
       "Iron claw",
@@ -8161,7 +8161,7 @@
     ],
     "lives": 1,
     "continues": 0,
-    "extend": null,
+    "extend": "N/A",
     "overallReview": "Double Dragon III is definitely the worst in the trilogy, but it's still a great brawler. Its graphics and music are a big step down from the last game, and the combat is a lot simpler this time around. At least it's really hard, introduces a cool aerial throw, and adds the new character gimmick, so it's not a re-hash. It also has little platforming.",
     "cover": "http://www.punchpedia.com/games/nes/ddragon3/img/poster.png",
     "images": [
@@ -8172,7 +8172,10 @@
       "http://www.punchpedia.com/games/nes/ddragon3/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://en.wikipedia.org/wiki/Double_Dragon_III:_The_Sacred_Stones",
+      "https://doubledragon.kontek.net/games/dd3/chardd3nes.html"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -17123,7 +17126,6 @@
     }
   },
   {
-    "missing": true,
     "name": "Nekketsu Oyako",
     "platform": "Playstation",
     "perspective": "2.5D",
@@ -17139,23 +17141,23 @@
     "players": 2,
     "structure": "Linear",
     "difficulty": "Medium",
-    "gangsize": "Gigantic (9+)",
-    "variety": ["None"],
+    "gangsize": "Gigantic (10)",
+    "variety": ["Timer"],
     "playtime": "1:15",
     "buttons": "Attack, Jump, Special",
     "combos": "Linear",
     "grabs": "Contact",
     "dashing": "Double-tap",
-    "enemyHBars": "Bosses + Enemies",
+    "enemyHBars": "Bosses + Names",
     "itemPickup": "Button",
     "itemStay": "Stay",
     "weaponsStay": "Ammo, Forever",
     "deathBlow": "Health",
-    "friendlyFire": "friendlyFire",
-    "charSwitch": "charSwitch",
-    "groundHit": "Yes",
-    "revive": "revive",
-    "restore": "restore",
+    "friendlyFire": "No",
+    "charSwitch": "No",
+    "groundHit": "No",
+    "revive": "Invincibility + Knockdown",
+    "restore": "Food only",
     "artStyle": "Anime",
     "sprites": "Huge",
     "setting": "Futuristic",
@@ -17165,7 +17167,7 @@
     "fighters": 3,
     "stages": 5,
     "enemies": null,
-    "bosses": null,
+    "bosses": 6,
     "weapons": [
       "Bazooka",
       "Boomerang disc",
@@ -17175,11 +17177,19 @@
       "Rifle"
     ],
     "lives": null,
-    "continues": null,
-    "extend": "N/A",
+    "continues": "Infinite",
+    "extend": null,
     "overallReview": "overallReview",
-    "cover": "",
-    "images": [""],
+    "cover": "https://www.video-games-museum.com/en/boxart/Playstation/36188-Nekketsu-Oyako.jpg",
+    "images": [
+      "https://www.video-games-museum.com/en/screenshots/Playstation/1/36188-title-Nekketsu-Oyako.jpg",
+      "https://www.video-games-museum.com/en/screenshots/Playstation/2/36188-menu-Nekketsu-Oyako.jpg",
+      "https://www.video-games-museum.com/en/screenshots/Playstation/3/36188-ingame-Nekketsu-Oyako.jpg",
+      "https://www.video-games-museum.com/en/screenshots/Playstation/4/36188-ingame-Nekketsu-Oyako.jpg",
+      "https://r.mprd.se/media/images/176745-Nekketsu_Oyako_(Japan)-1491746389.png",
+      "https://r.mprd.se/media/images/176745-Nekketsu_Oyako_(Japan)-1491746453.png",
+      "https://r.mprd.se/media/images/176745-Nekketsu_Oyako_(Japan)-1491746421.png"
+    ],
     "videos": [
       "https://www.youtube.com/embed/2pxKXRgWGbk",
       "https://www.youtube.com/embed/VA41ZXhg5u4"
@@ -17190,7 +17200,9 @@
       "https://adventuresinvideogames.blogspot.com/2016/03/nekketsu-oyako-sony-playstation.html",
       "http://www.rvgfanatic.com/7506/1026215.html",
       "https://obscurevideogames.com/2013/05/18/nekketsu-oyako-for-sega-saturn-information-and-review/",
-      "https://tcrf.net/Nekketsu_Oyako_(PlayStation)"
+      "https://gameexhibition.wordpress.com/2016/01/28/nekketsu-oyako/",
+      "https://tcrf.net/Nekketsu_Oyako_(PlayStation)",
+      "https://www.romhacking.net/games/583/"
     ],
     "beatemupBingo": {
       "go": false,
