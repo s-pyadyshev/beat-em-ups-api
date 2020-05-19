@@ -42,7 +42,7 @@
     "name": "country",
     "filterName": "Country",
     "description": "Country",
-    "options": ["Brazil", "Japan", "USA"]
+    "options": ["Brazil", "Italy", "Japan", "USA"]
   },
   {
     "name": "developer",

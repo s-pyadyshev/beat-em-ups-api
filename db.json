@@ -16447,13 +16447,13 @@
     "perspective": "2.5D",
     "about": "\n\nMug Smashers is an early 90's western-developed two-player arcade brawler that's basically a combination of Combatribes and Final Fight. It has suspiciously similar sprites and music to the former but plays more like the latter with its scrolling stages and lack of ground attacks or tornado throws. It has an absurd visual style including a main character that's wearing red leopard pants and white sunglasses.\n",
     "trivia": "The characters sprites in this game were clearly traced from Combatribes. Also, the stage over music was stolen from that game.Most of the enemies in this game are rip-offs of Final Fight. Most notably, there's a guy who looks identical to Andore (including the wallet chain thing) but has sunglasses.",
-    "country": "country",
+    "country": "Italy",
     "developer": "Electronic Devices",
     "publisher": "Electronic Devices",
     "releasedate": "Jan '90",
     "releaseYear": 1990,
     "otherPlatforms": null,
-    "series": "$series",
+    "series": null,
     "players": 2,
     "structure": "Linear",
     "difficulty": "Hard",
@@ -16489,7 +16489,7 @@
     "continues": null,
     "extend": null,
     "overallReview": "Mug Smashers is decent. Although it blatantly plagiarizes sprites and music from Combatribes, its gameplay isn't as tight or deep as Technos' masterpiece. However, its combat is still fairly varied and satisfying thanks to its large movesets. It has a surprisingly strong personality featuring plenty of goofy character designs.",
-    "cover": "http://www.punchpedia.com/games/arc/msmashers/img/poster.png",
+    "cover": "http://www.punchpedia.com/games/arc/msmashers/img/ss01.png",
     "images": [
       "http://www.punchpedia.com/games/arc/msmashers/img/ss01.png",
       "http://www.punchpedia.com/games/arc/msmashers/img/ss02.png",
@@ -16498,7 +16498,10 @@
       "http://www.punchpedia.com/games/arc/msmashers/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://www.mobygames.com/game/arcade/mug-smashers",
+      "https://gametrog.com/game-reviews/arcade-games/mug-smashers-arcade-mame-review/"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
