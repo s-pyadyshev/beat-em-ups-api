@@ -128,6 +128,7 @@
       "TAD Corp.",
       "Taito",
       "Technos",
+      "Technosoft",
       "Tecmo",
       "The Behemoth",
       "Toaplan",
@@ -569,14 +570,7 @@
     "name": "enemyHBars",
     "filterName": "Enemy Health Bars",
     "description": "Are enemy health bars displayed? Do they have names?",
-    "options": [
-      "+ Names",
-      "Bosses",
-      "Bosses + Names",
-      "Bosses only",
-      "No",
-      "Yes"
-    ]
+    "options": ["Bosses + Names", "Bosses only", "No", "Yes"]
   },
   {
     "name": "itemPickup",
@@ -604,6 +598,7 @@
     "description": "How long weapons last. Either they have durability or ammo and are expended after a few hits, or they last as long as you hold them.",
     "options": [
       "Ammo",
+      "Ammo, Forever",
       "Ammo, Durability",
       "Ammo, Hold",
       "Area",
@@ -885,6 +880,8 @@
       "Axe",
       "Barbwire bat",
       "Bat",
+      "Bazooka",
+      "Boomerang disc",
       "Bottle",
       "Butterfly knife",
       "Butterfly sword",
@@ -895,6 +892,7 @@
       "Crowbar",
       "Dragon",
       "Galvanized pipe",
+      "Grenade",
       "Gun",
       "Hammer",
       "Hand grenade",
@@ -905,9 +903,11 @@
       "Katana",
       "Knife",
       "Lin's saber",
+      "Machine gun",
       "Nunchaku",
       "Pistol",
       "Projectile",
+      "Rifle",
       "Sai",
       "Shinkai's katana",
       "Shovel",
