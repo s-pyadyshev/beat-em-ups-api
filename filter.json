@@ -65,6 +65,7 @@
       "Blizzard",
       "Bomber Games",
       "Brezzasoft",
+      "Bungie West",
       "Capcom",
       "Capcom Production Studio 8",
       "Cream",
@@ -175,6 +176,7 @@
       "Fabtek",
       "Flying Edge",
       "Fox Interactive",
+      "Gathering of Developers",
       "Guard Crush Games",
       "Hudson",
       "IGS",
@@ -444,6 +446,7 @@
       "3:00",
       "4:00",
       "5:00",
+      "6:00",
       "8:30",
       "10:00"
     ]
@@ -503,6 +506,7 @@
       "Punch, Kick, Jump, Block",
       "Punch, Kick, Jump, Block, Charge",
       "Punch, Kick, Jump, Crouch",
+      "Punch, Kick, Jump, Crouch, Use hypo, Reload",
       "Punch, Kick, Jump, Magic",
       "Punch, Kick, Jump, Special",
       "Punch, Kick, Jump, Super, Special",
@@ -779,7 +783,6 @@
       "Hand-to-hand",
       "Hand-to-hand, Weapons",
       "Hand-to-hand, projectiles",
-      "Hand-to-hand/projectiles",
       "Hand-to-hand/Weapons",
       "Platformer",
       "Projectiles",
@@ -854,7 +857,7 @@
     "name": "stages",
     "filterName": "Stages",
     "description": "Total number of stages, aka levels or rounds.",
-    "options": [4, 5, 6, 7, 8, 9, 10, 12, 16, null]
+    "options": [4, 5, 6, 7, 8, 9, 10, 12, 14, 16, null]
   },
   {
     "name": "enemies",
