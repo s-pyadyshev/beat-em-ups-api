@@ -5,6 +5,7 @@
     "description": "Platform",
     "options": [
       "3DS",
+      "Amiga",
       "Arcade",
       "Dreamcast",
       "Flash",
@@ -29,6 +30,9 @@
       "Switch",
       "Wii",
       "X68000",
+      "Xbox",
+      "Xbox 360",
+      "Xbox One",
       "ZX Spectrum"
     ]
   },
@@ -42,7 +46,7 @@
     "name": "country",
     "filterName": "Country",
     "description": "Country",
-    "options": ["Brazil", "Italy", "Japan", "USA"]
+    "options": ["Brazil", "Italy", "Japan", "Poland", "South Korea", "USA"]
   },
   {
     "name": "developer",
