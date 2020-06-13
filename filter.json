@@ -46,7 +46,15 @@
     "name": "country",
     "filterName": "Country",
     "description": "Country",
-    "options": ["Brazil", "Italy", "Japan", "Poland", "South Korea", "USA"]
+    "options": [
+      "Brazil",
+      "Italy",
+      "Japan",
+      "Poland",
+      "South Korea",
+      "UK",
+      "USA"
+    ]
   },
   {
     "name": "developer",
@@ -70,6 +78,7 @@
       "Bomber Games",
       "Brezzasoft",
       "Bungie West",
+      "Califourways",
       "Capcom",
       "Capcom Production Studio 8",
       "Cream",
@@ -119,6 +128,7 @@
       "Rare",
       "Realtime Associates",
       "Rockstar Toronto",
+      "Rocksteady Studios",
       "SNK",
       "Sales Curve Interactive",
       "Sculptured Software",
@@ -169,6 +179,7 @@
       "Banpresto",
       "Bomber Games",
       "Brezzasoft",
+      "Califourways",
       "Capcom",
       "Culture Brain",
       "Data East",
@@ -243,6 +254,7 @@
       "Video System",
       "Virgin Interactive",
       "Warner Bros",
+      "Warner Bros. Interactive Entertainment",
       "Wolf Team"
     ]
   },
@@ -387,6 +399,7 @@
       "Battle Royale",
       "Bonus stages",
       "Boss Rush",
+      "Challenge mode",
       "Climbing",
       "Cooking",
       "Crafting",
@@ -524,6 +537,7 @@
       "Punch1, Punch2, Kick1, Kick2, Jump, Possess",
       "Slash, Punch, Jump, Projectile",
       "Slice, Sever, Jump, Transform",
+      "Strike, Counter, Stun",
       "Weak, Strong, Jump, Block",
       "Weak, Strong, Jump, Magic",
       "Weak, Strong, Jump, Select, Use",
@@ -751,6 +765,7 @@
       "90's",
       "Anime",
       "Arabian Nights",
+      "Asylum",
       "Bayou",
       "Cartoon",
       "Chinese Mythology",
@@ -817,7 +832,6 @@
       "Chinese",
       "Chiptune",
       "Chiptune Rock",
-      "Crap",
       "Electronic",
       "Electronic Medieval",
       "Grunge",
@@ -904,6 +918,7 @@
       "Barbwire bat",
       "Barrel",
       "Bat",
+      "Batman weapons",
       "Bazooka",
       "Bone",
       "Bonfire drum",
