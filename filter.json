@@ -48,6 +48,7 @@
     "description": "Country",
     "options": [
       "Brazil",
+      "Canada",
       "Italy",
       "Japan",
       "Poland",
@@ -308,6 +309,7 @@
     "filterName": "Series",
     "description": "Series",
     "options": [
+      "Alien vs. Predator",
       "Alien Storm",
       "Battletoads",
       "Crime Fighters",
@@ -319,6 +321,7 @@
       "Dynamite Dux",
       "Final Fight",
       "Golden Axe",
+      "Growl",
       "Kunio-kun",
       "Legend",
       "Lugaru",
