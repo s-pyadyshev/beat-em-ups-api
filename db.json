@@ -3455,7 +3455,6 @@
     }
   },
   {
-    "missing": true,
     "name": "Big Fight: Big Trouble in the Atlantic Ocean",
     "platform": "Arcade",
     "perspective": "2.5D",
@@ -3503,7 +3502,7 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": "overallReview",
-    "cover": "https://www.mobygames.com/images/shots/l/830707-big-fight-arcade-screenshot-start-screen.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/f/f1/BigFight_arcadeflyer.png",
     "images": [
       "https://www.mobygames.com/images/shots/l/830717-big-fight-arcade-screenshot-spin-attack.png",
       "https://www.mobygames.com/images/shots/l/830718-big-fight-arcade-screenshot-a-lot-of-enemies.png",
