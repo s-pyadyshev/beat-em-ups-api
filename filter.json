@@ -55,6 +55,7 @@
       "Japan",
       "Poland",
       "South Korea",
+      "Sweden",
       "UK",
       "USA"
     ]
@@ -71,6 +72,7 @@
       "Arc System Works",
       "Arcade Zone LTD",
       "Atari",
+      "Avalanche Studios",
       "Avit-Niigata",
       "Ballistic",
       "Bandai",
@@ -556,6 +558,7 @@
       "Slice, Sever, Jump, Transform",
       "Strike, Counter, Stun",
       "Weak, Strong",
+      "Weak, Strong, Counter, Grab, Run",
       "Weak, Strong, Jump, Block",
       "Weak, Strong, Jump, Magic",
       "Weak, Strong, Jump, Select, Use",
