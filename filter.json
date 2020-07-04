@@ -548,6 +548,7 @@
       "Punch, Kick, Dive",
       "Punch, Kick, Guard",
       "Punch, Kick, Jump",
+      "Punch, Kick, Jump, Back kick",
       "Punch, Kick, Jump, Block",
       "Punch, Kick, Jump, Block, Charge",
       "Punch, Kick, Jump, Crouch",
@@ -904,7 +905,7 @@
     "name": "fighters",
     "filterName": "Fighters",
     "description": "Number of playable characters.",
-    "options": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 17, 18, 20, 31, 59]
+    "options": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 15, 17, 18, 20, 31, 59]
   },
   {
     "name": "stages",
