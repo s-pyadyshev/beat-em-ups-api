@@ -496,7 +496,8 @@
       "5:00",
       "6:00",
       "8:30",
-      "10:00"
+      "10:00",
+      "12:00"
     ]
   },
   {
@@ -504,6 +505,7 @@
     "filterName": "Buttons",
     "description": "List of buttons used to control the game",
     "options": [
+      "Attack, Block, Dodge",
       "Attack, Dodge, Grapple, Run, Taunt, Partner command",
       "Attack, Guard, Magic",
       "Attack, Jump",
@@ -956,6 +958,7 @@
       "Bat",
       "Batman weapons",
       "Bazooka",
+      "Bomb",
       "Bone",
       "Bonfire drum",
       "Boomerang disc",

@@ -1384,6 +1384,7 @@
     }
   },
   {
+    "multigenre": true,
     "name": "Batman: Arkham Asylum",
     "platform": "PC",
     "perspective": "3D",
@@ -1478,6 +1479,7 @@
     }
   },
   {
+    "multigenre": true,
     "missing": true,
     "name": "Batman: Arkham City",
     "platform": "PC",
@@ -1559,6 +1561,7 @@
     }
   },
   {
+    "multigenre": true,
     "missing": true,
     "name": "Batman: Arkham Origins",
     "platform": "PC",
@@ -1640,6 +1643,7 @@
     }
   },
   {
+    "multigenre": true,
     "missing": true,
     "name": "Batman: Arkham Origins Blackgate",
     "platform": "PC",
@@ -1721,6 +1725,7 @@
     }
   },
   {
+    "multigenre": true,
     "missing": true,
     "name": "Batman: Arkham Knight",
     "platform": "PC",
@@ -2675,7 +2680,7 @@
     "perspective": "2.5D",
     "about": "\n\nBattletoads for the Game Boy is a unique 'Toads game that takes the basic gameplay mechanics from the NES original and creates entirely new enemies, stages, and bosses. Like other games in the series, it has very little pure brawler gameplay and instead focuses on variety sections such as action-platformer stages and space shootin'.\n",
     "trivia": "Despite the title, this is actually an original Battletoads game. Ironically, Battletoads in Ragnarok's World is a straight port of the original NES Battletoads. This is the only Battletoads game with a horizontally-scrolling space shooter section.",
-    "country": "country",
+    "country": "UK",
     "developer": "Rare",
     "publisher": "TradeWest",
     "releasedate": "Nov '91Jan '94",
@@ -2765,7 +2770,7 @@
     "perspective": "2.5D",
     "about": "\n\nBattletoads is a port of the NES classic from Rare. It's known for its steep difficulty, excellent music, and tons of variety. This port is faithful to the original but has tons of glitches.\n",
     "trivia": "There are hidden warps in stages 1, 3, 4, 6, 10. But using warps defeats the purpose of Battletoads: extreme challenge!You can get tons of extra lives. Even though it looks like you're full, the counter keeps going. Try to get as many extra lives as possible in stage 2 by repeatedly beating crows against the wall.",
-    "country": "country",
+    "country": "UK",
     "developer": "Rare",
     "publisher": "TradeWest",
     "releasedate": null,
@@ -2936,7 +2941,7 @@
     "platform": "NES",
     "perspective": "2.5D",
     "about": "\n\nBattletoads & Double Dragon: The Ultimate Team is a crossover brawler from Rare that features your two favorite brawler franchises together for the first time. It plays a lot more like a 'Toads game than Double Dragon, with a strong emphasis on vehicle and platforming sections over combat. However, its difficulty is far more tame.\n",
-    "trivia": "This game was made possible because TradeWest was the publisher for both the original Battletoads and Double Dragon games in North America.This version has a slightly longer story than the other ports which explains that the Dark Queen's spaceship came out of the moon.",
+    "trivia": "This game was made possible because TradeWest was the publisher for both the original Battletoads and Double Dragon games in North America. This version has a slightly longer story than the other ports which explains that the Dark Queen's spaceship came out of the moon.",
     "country": "UK",
     "developer": "Rare",
     "publisher": "TradeWest",
@@ -3022,8 +3027,8 @@
     "platform": "Game Boy",
     "perspective": "2.5D",
     "about": "\n\nBattletoads & Double Dragon: The Ultimate Team is a crossover brawler from Rare that features your two favorite brawler franchises together for the first time. It plays a lot more like a 'Toads game than Double Dragon, with a strong emphasis on vehicle and platforming sections over combat. However, its difficulty is far more tame. The Game Boy port is remarkably similar to the NES version (including all stages) yet it lacks two player support.\n",
-    "trivia": "This port is nearly identical to the NES version of the game, except that the bike section scrolls a lot slower and it lacks two player support. This version is also easier, mostly due to the Game Boy's limitations.Both Battletoads and Double Dragon were published by TradeWest in the US, which is why this game exists.",
-    "country": "country",
+    "trivia": "This port is nearly identical to the NES version of the game, except that the bike section scrolls a lot slower and it lacks two player support. This version is also easier, mostly due to the Game Boy's limitations. Both Battletoads and Double Dragon were published by TradeWest in the US, which is why this game exists.",
+    "country": "UK",
     "developer": "Rare",
     "publisher": "TradeWest",
     "releasedate": "Dec '93",
@@ -3109,7 +3114,7 @@
     "perspective": "2.5D",
     "about": "\n\nBattletoads & Double Dragon: The Ultimate Team is a crossover brawler from Rare. It's combat is more similar to Battletoads than DD. It features exaggerated finisher attacks and a ton of alternate gameplay modes.\n",
     "trivia": "Battletoads and Double Dragon has also been ported to NES, SNES, and Game Boy. The Genesis version was the last to be released and features re-done character artwork.The Game Over music is unique to this version.",
-    "country": "country",
+    "country": "UK",
     "developer": "Rare",
     "publisher": "TradeWest",
     "releasedate": "Feb '93",
@@ -3196,7 +3201,7 @@
     "perspective": "2.5D",
     "about": "\n\nBattletoads in Battlemaniacs is the sequel to Rare's love-it-or-hate-it brawler on the NES. Like its predecessors, it features extremely difficult memorization-based gameplay with a ton of variety. Unfortunately, this game has less than half the stages of the original and some of them are just rehashes, such as the high-speed bike section.\n",
     "trivia": "With the exception of the checkerboard bonus stages, each and every stage in this game is just a rehash of the original Battletoads.There's a heavily scaled-back version of this game on the Sega Master System, but it was only released in Brazil.",
-    "country": "country",
+    "country": "UK",
     "developer": "Rare",
     "publisher": "TradeWest",
     "releasedate": "Jun '93Jan '94",
@@ -3287,7 +3292,7 @@
     "perspective": "2.5D",
     "about": "\n\nBattletoads in Ragnarok's World is a port of the original NES 'Toads game to the Game Boy. Although it maintains the original's mechanics and focus on variety, it lacks two player support and has about half as many stages. The levels it does include are arguably the most memorable, such as the rappelling section, hoverbike stage, and snake area.\n",
     "trivia": "Despite the title, this is a straight port of the original NES Battletoads but with missing content and stages. Ironically, Battletoads on the Game Boy is a completely original game.The stages missing from this port include Surf City, Volkmire's Inferno, Intruder Excluder, Terra Tubes and Rat Race. The other seven stages are included and almost identical to the original, however.",
-    "country": "country",
+    "country": "UK",
     "developer": "Rare",
     "publisher": "TradeWest",
     "releasedate": "Jun '93",
@@ -5823,7 +5828,6 @@
   },
   {
     "multigenre": true,
-    "missing": true,
     "name": "Comix Zone",
     "platform": "Genesis",
     "perspective": "2D",
@@ -5838,43 +5842,53 @@
     "series": null,
     "players": 1,
     "structure": "Semi-branching",
-    "difficulty": "difficulty",
-    "gangsize": "gangsize",
+    "difficulty": "Hard",
+    "gangsize": "Duo (2)",
     "variety": ["Platforming"],
-    "playtime": "playtime",
-    "buttons": "buttons",
-    "combos": "combos",
+    "playtime": "0:30",
+    "buttons": "Attack, Jump",
+    "combos": "Freeform",
     "grabs": "Button",
     "dashing": "No",
     "enemyHBars": "No",
     "itemPickup": "Button",
-    "itemStay": "Stay",
-    "weaponsStay": "Stay",
-    "deathBlow": "deathBlow",
+    "itemStay": "Forever",
+    "weaponsStay": "Ammo",
+    "deathBlow": "Health",
     "friendlyFire": "N/A",
     "charSwitch": "N/A",
     "groundHit": "No",
-    "revive": "revive",
-    "restore": "restore",
+    "revive": "N/A",
+    "restore": "Food only",
     "artStyle": "Comic",
-    "sprites": "sprites",
+    "sprites": "Large",
     "setting": "Comic",
     "focus": "Hand-to-hand",
     "music": ["Grunge", "Rock"],
     "tone": "Serious",
     "fighters": 1,
-    "stages": null,
+    "stages": 3,
     "enemies": null,
-    "bosses": null,
-    "weapons": [null],
+    "bosses": 3,
+    "weapons": ["Bomb", "Grenade", "Knife"],
     "lives": null,
     "continues": null,
     "extend": "N/A",
     "overallReview": "overallReview",
-    "cover": "",
-    "images": [""],
-    "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Comix_Zone"],
+    "cover": "https://www.mobygames.com/images/covers/l/13114-comix-zone-genesis-front-cover.jpg",
+    "images": [
+      "https://www.mobygames.com/images/shots/l/33846-comix-zone-genesis-screenshot-liberty-statue-and-mutants-look.gif",
+      "https://www.mobygames.com/images/shots/l/33851-comix-zone-genesis-screenshot-hanging-on-the-railing-and-battling.gif",
+      "https://www.mobygames.com/images/shots/l/33856-comix-zone-genesis-screenshot-crossing-a-bridge.gif",
+      "https://www.mobygames.com/images/shots/l/33857-comix-zone-genesis-screenshot-fighting-strange-things-in-a.gif",
+      "https://www.mobygames.com/images/shots/l/33859-comix-zone-genesis-screenshot-creepy-things-coming-out-of-nowhere.gif"
+    ],
+    "videos": ["https://www.youtube.com/embed/h4iFNeV4_ik"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Comix_Zone",
+      "https://gamefaqs.gamespot.com/genesis/10975-comix-zone",
+      "https://www.mobygames.com/game/genesis/comix-zone"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -5909,10 +5923,10 @@
     "perspective": "2.5D",
     "about": "\n\nCosmo Police Galivan II: Arrow of Justice is a weird Japan-only brawler from Nichibitsu. It's single player only, although it has three playable characters and RPG-style skillpoints that can be allocated at the end of each stage for extra health, damage, defense, and speed. Although its gameplay is shallow and it only has four enemies, it's unbelievably weird and has some really memorable bosses.\n",
     "trivia": "The first Cosmo Police Galivan was an exploratory action platformer on the NES.The RPG-style end of stage leveling up mechanic seen in this game was first used in Gang Wars for the arcade.",
-    "country": "country",
+    "country": "Japan",
     "developer": "Cream",
     "publisher": "Nichibitsu",
-    "releasedate": "Jun '93",
+    "releasedate": "11.6.1993",
     "releaseYear": 1993,
     "otherPlatforms": null,
     "series": "$series",
@@ -5960,7 +5974,9 @@
       "http://www.punchpedia.com/games/snes/cpgalivan2/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://www.mobygames.com/game/cosmo-police-galivan-ii-arrow-of-justice"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -13176,7 +13192,7 @@
     "perspective": "2.5D",
     "about": "\n\nGhost Chaser Densei is a port of the arcade brawler Denjin Makai. Like the original, it's a futuristic take on Final Fight with more moves and advanced energy-based charge attacks. Although it's lacking half of the playable characters and some of the stages of the original, it's still a deep brawler with plenty of bizarre enemies and a phenomenal soundtrack.\n",
     "trivia": "This version changed the arcade's combat a little bit by adding co-op screen-filling special attacks. Playable characters that were removed from this version are now fought as bosses.",
-    "country": "country",
+    "country": "Japan",
     "developer": "WinkySoft",
     "publisher": "Banpresto",
     "releasedate": "Sep '94",
@@ -17677,7 +17693,6 @@
     }
   },
   {
-    "missing": true,
     "name": "Lugaru HD",
     "platform": "PC",
     "perspective": "3D",
@@ -17725,9 +17740,18 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": "overallReview",
-    "cover": "",
-    "images": [""],
-    "videos": [],
+    "cover": "https://steamcdn-a.akamaihd.net/steam/apps/25010/header.jpg?t=1586267846",
+    "images": [
+      "http://www.wolfire.com/lugaru/screens/3.jpg",
+      "http://www.wolfire.com/lugaru/screens/6.jpg",
+      "http://www.wolfire.com/lugaru/screens/7.jpg",
+      "http://www.wolfire.com/lugaru/screens/8.jpg",
+      "http://www.wolfire.com/lugaru/screens/11.jpg",
+      "http://www.wolfire.com/lugaru/screens/12.jpg",
+      "http://www.wolfire.com/lugaru/screens/16.jpg",
+      "http://www.wolfire.com/lugaru/screens/29.jpg"
+    ],
+    "videos": ["https://www.youtube.com/embed/LWTxaAj5w-4"],
     "links": [
       "http://www.wolfire.com/lugaru",
       "https://en.wikipedia.org/wiki/Lugaru",
@@ -17765,7 +17789,6 @@
   },
   {
     "multigenre": true,
-    "missing": true,
     "name": "Mad Max",
     "platform": "PC",
     "perspective": "3D",
@@ -17781,13 +17804,13 @@
     "players": 1,
     "structure": "Open world",
     "difficulty": "Medium",
-    "gangsize": "gangsize",
-    "variety": ["Driving", "RPG Elements", "Vehicles"],
-    "playtime": "playtime",
-    "buttons": "buttons",
-    "combos": "combos",
+    "gangsize": "Gigantic (10+)",
+    "variety": ["Driving", "Customization", "RPG Elements", "Vehicles"],
+    "playtime": "12:00",
+    "buttons": "Attack, Block, Dodge",
+    "combos": "Dynamic",
     "grabs": "Auto",
-    "dashing": "dashing",
+    "dashing": "Button",
     "enemyHBars": "Bosses only",
     "itemPickup": "Button",
     "itemStay": "Forever",
@@ -17802,7 +17825,7 @@
     "sprites": null,
     "setting": "Post-apocalyptic",
     "focus": "Hand-to-hand",
-    "music": ["music"],
+    "music": ["Atmospheric"],
     "tone": "Serious",
     "fighters": 1,
     "stages": null,
@@ -17821,10 +17844,18 @@
     "extend": "N/A",
     "overallReview": "overallReview",
     "cover": "https://www.mobygames.com/images/covers/l/604350-mad-max-linux-front-cover.jpg",
-    "images": [""],
-    "videos": [],
+    "images": [
+      "https://steamcdn-a.akamaihd.net/steam/apps/234140/ss_b8abff49c2bb74a12ca6659d991df6d8bd8ce9e1.1920x1080.jpg?t=1570058879",
+      "https://steamcdn-a.akamaihd.net/steam/apps/234140/ss_4695195fc9ac64c6b8d1e88607e31de7824ba81b.1920x1080.jpg?t=1570058879",
+      "https://steamcdn-a.akamaihd.net/steam/apps/234140/ss_5bdfbd80ed9e413c544fb3cfb5531c40dc2b42dc.1920x1080.jpg?t=1570058879",
+      "https://steamcdn-a.akamaihd.net/steam/apps/234140/ss_94c69f2b292e09efbd209567005606f16dce22e4.1920x1080.jpg?t=1570058879",
+      "https://steamcdn-a.akamaihd.net/steam/apps/234140/ss_f4e9e5f0320e7af367427444870c6a764fad12d8.1920x1080.jpg?t=1570058879",
+      "https://steamcdn-a.akamaihd.net/steam/apps/234140/ss_17a7cc27c3299d351a90658b18a494fd97ded015.1920x1080.jpg?t=1570058879"
+    ],
+    "videos": ["https://www.youtube.com/embed/nXazawyX9Ew"],
     "links": [
       "https://en.wikipedia.org/wiki/Mad_Max_(2015_video_game)",
+      "https://store.steampowered.com/app/234140/Mad_Max/",
       "https://gamefaqs.gamespot.com/pc/719736-mad-max",
       "https://www.mobygames.com/game/windows/mad-max_",
       "https://www.pcgamingwiki.com/wiki/Mad_Max"
@@ -19753,6 +19784,7 @@
     }
   },
   {
+    "multigenre": true,
     "name": "Oni",
     "platform": "PC",
     "perspective": "3D",
@@ -26499,7 +26531,7 @@
     "releasedate": "2.10.2014",
     "releaseYear": 2014,
     "otherPlatforms": null,
-    "series": null,
+    "series": "Teenage Mutant Ninja Turtles",
     "players": 2,
     "structure": "structure",
     "difficulty": "difficulty",
@@ -28992,6 +29024,7 @@
     }
   },
   {
+    "multigenre": true,
     "missing": true,
     "name": "The Warriors",
     "platform": "PS2",
@@ -31170,6 +31203,7 @@
     }
   },
   {
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza",
     "platform": "PS2",
@@ -31251,6 +31285,7 @@
     }
   },
   {
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza 2",
     "platform": "PS2",
@@ -31332,6 +31367,7 @@
     }
   },
   {
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza 3",
     "platform": "PS3",
@@ -31413,6 +31449,7 @@
     }
   },
   {
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza 4",
     "platform": "PS3",
@@ -31494,6 +31531,7 @@
     }
   },
   {
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza 5",
     "platform": "PS3",
@@ -31575,6 +31613,7 @@
     }
   },
   {
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza 0",
     "platform": "PC",
@@ -31656,6 +31695,7 @@
     }
   },
   {
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza 6",
     "platform": "PS4",
@@ -31737,6 +31777,7 @@
     }
   },
   {
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza Kiwami",
     "platform": "PC",
@@ -31818,6 +31859,7 @@
     }
   },
   {
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza Kiwami 2",
     "platform": "PC",
