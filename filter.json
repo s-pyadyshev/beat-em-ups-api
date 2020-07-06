@@ -363,6 +363,12 @@
     "options": [1, 2, 3, 4, 6, 8]
   },
   {
+    "name": "multigenre",
+    "filterName": "Multigenre",
+    "description": "Multigenre or true beat'em up",
+    "options": ["Yes"]
+  },
+  {
     "name": "structure",
     "filterName": "Structure",
     "description": "Game structure. It can be linear, branching, or stage select.",
