@@ -1384,7 +1384,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Batman: Arkham Asylum",
     "platform": "PC",
     "perspective": "3D",
@@ -1479,7 +1479,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Batman: Arkham City",
     "platform": "PC",
@@ -1561,7 +1561,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Batman: Arkham Origins",
     "platform": "PC",
@@ -1643,7 +1643,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Batman: Arkham Origins Blackgate",
     "platform": "PC",
@@ -1725,7 +1725,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Batman: Arkham Knight",
     "platform": "PC",
@@ -2483,7 +2483,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Battlemaniacs",
     "platform": "SMS",
     "perspective": "2.5D",
@@ -2670,7 +2670,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Battletoads",
     "platform": "NES",
     "perspective": "2.5D",
@@ -2757,7 +2757,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Battletoads",
     "platform": "Game Boy",
     "perspective": "2.5D",
@@ -2847,7 +2847,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Battletoads",
     "platform": "Genesis",
     "perspective": "2.5D",
@@ -2905,6 +2905,102 @@
     ],
     "videos": [],
     "links": [],
+    "beatemupBingo": {
+      "go": false,
+      "sunsetEnding": false,
+      "healthMeat": false,
+      "sleevelessJacket": false,
+      "bossWithGun": false,
+      "fireBombs": false,
+      "twowordTitle": false,
+      "throwingKnife": false,
+      "subwayStage": false,
+      "exproWrestler": false,
+      "steelPipe": false,
+      "kindnappedFemale": false,
+      "specialDrainsHealth": false,
+      "oilDrums": false,
+      "clowns": false,
+      "yellowRedHealthBar": false,
+      "dominatrix": false,
+      "powerSpeedBalance": false,
+      "elevatorScene": false,
+      "mansionStage": false,
+      "mohawks": false,
+      "buildingSite": false,
+      "fatCharginMen": false,
+      "sharpSuits": false,
+      "graffiti": false
+    }
+  },
+  {
+    "multigenre": true,
+    "name": "Battletoads",
+    "platform": "PC",
+    "perspective": "2.5D",
+    "about": "about",
+    "trivia": "trivia",
+    "country": "UK",
+    "developer": "Dlala Studios",
+    "publisher": "Microsoft Studios",
+    "releasedate": "20.8.2020",
+    "releaseYear": 2020,
+    "otherPlatforms": null,
+    "series": "Battletoads",
+    "players": 3,
+    "structure": "Linear",
+    "difficulty": "Hard",
+    "gangsize": "Large (6)",
+    "variety": [
+      "Mini-games",
+      "Platforming",
+      "Shooter stages",
+      "Vehicle stages"
+    ],
+    "playtime": "3:00",
+    "buttons": "Attack, Jump, Evade, Morph attack, Launcher attack, Tongue",
+    "combos": "Freeform",
+    "grabs": "No",
+    "dashing": "No",
+    "enemyHBars": "Bosses only",
+    "itemPickup": "Button",
+    "itemStay": "N/A",
+    "weaponsStay": "N/A",
+    "deathBlow": "N/A",
+    "friendlyFire": "No",
+    "charSwitch": "On death",
+    "groundHit": "No",
+    "revive": "Invincibility",
+    "restore": "Food only",
+    "artStyle": "Cartoony",
+    "sprites": null,
+    "setting": "Futuristic",
+    "focus": "Hand-to-hand",
+    "music": ["Metal", "Rock"],
+    "tone": "Humorous",
+    "fighters": 3,
+    "stages": null,
+    "enemies": null,
+    "bosses": null,
+    "weapons": [null],
+    "lives": null,
+    "continues": null,
+    "extend": "N/A",
+    "overallReview": "overallReview",
+    "cover": "https://steamcdn-a.akamaihd.net/steam/apps/1244950/header.jpg?t=1597942754",
+    "images": [
+      "https://steamcdn-a.akamaihd.net/steam/apps/1244950/ss_7456f0a26e327c07ed723e6f6cb84d56bf78559e.1920x1080.jpg?t=1597942754",
+      "https://steamcdn-a.akamaihd.net/steam/apps/1244950/ss_866ab8c52f63b815ae4a558ffb5655f87786071b.1920x1080.jpg?t=1597942754",
+      "https://steamcdn-a.akamaihd.net/steam/apps/1244950/ss_3575cec81e8d6b45656722fa1bb8be36ed08a705.1920x1080.jpg?t=1597942754",
+      "https://steamcdn-a.akamaihd.net/steam/apps/1244950/ss_0d471197b6f03e4bdf4cec882dbf047cf811ada9.1920x1080.jpg?t=1597942754",
+      "https://steamcdn-a.akamaihd.net/steam/apps/1244950/ss_5b29e20444f5e74f6bd1ed8db79e168e963b479e.1920x1080.jpg?t=1597942754"
+    ],
+    "videos": ["https://www.youtube.com/embed/Aqgamn5mjQg"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Battletoads_(2020_video_game)",
+      "https://store.steampowered.com/app/1244950/Battletoads/",
+      "https://www.rare.co.uk/games/battletoads"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -3278,7 +3374,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Battletoads in Battlemaniacs",
     "platform": "SNES",
     "perspective": "2.5D",
@@ -3369,7 +3465,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Battletoads in Ragnarok's World",
     "platform": "Game Boy",
     "perspective": "2.5D",
@@ -5921,7 +6017,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Comix Zone",
     "platform": "Genesis",
     "perspective": "2D",
@@ -6682,47 +6778,46 @@
     }
   },
   {
-    "missing": true,
     "name": "Cutthroat Island",
     "platform": "Genesis",
     "perspective": "2.5D",
     "about": "about",
     "trivia": "trivia",
-    "country": "country",
-    "developer": "developer",
-    "publisher": "publisher",
+    "country": "UK",
+    "developer": "Software Creations",
+    "publisher": "Acclaim",
     "releasedate": "releasedate",
     "releaseYear": 1995,
-    "otherPlatforms": ["SNES"],
-    "series": null,
+    "otherPlatforms": ["Game Boy", "Game Gear", "SNES"],
+    "series": "Cutthroat Island",
     "players": 2,
-    "structure": "structure",
-    "difficulty": "difficulty",
-    "gangsize": "gangsize",
-    "variety": ["None"],
-    "playtime": "playtime",
-    "buttons": "buttons",
-    "combos": "combos",
-    "grabs": "grabs",
-    "dashing": "dashing",
-    "enemyHBars": "enemyHBars",
-    "itemPickup": "itemPickup",
-    "itemStay": "itemStay",
-    "weaponsStay": "weaponsStay",
-    "deathBlow": "deathBlow",
-    "friendlyFire": "friendlyFire",
-    "charSwitch": "charSwitch",
-    "groundHit": "groundHit",
-    "revive": "revive",
-    "restore": "restore",
-    "artStyle": "artStyle",
-    "sprites": "sprites",
-    "setting": "setting",
-    "focus": "focus",
-    "music": ["music"],
-    "tone": "tone",
-    "fighters": null,
-    "stages": null,
+    "structure": "Linear",
+    "difficulty": "Medium",
+    "gangsize": "Trio (3)",
+    "variety": ["Platforming", "Vehicle stage"],
+    "playtime": "0:40",
+    "buttons": "Weak, Strong, Jump, Block",
+    "combos": "Freeform",
+    "grabs": "Contact",
+    "dashing": "Double-tap",
+    "enemyHBars": "Bosses + Names",
+    "itemPickup": "Contact",
+    "itemStay": "Stay",
+    "weaponsStay": "Durability/Ammo",
+    "deathBlow": "No damage",
+    "friendlyFire": "N/A",
+    "charSwitch": "N/A",
+    "groundHit": "No",
+    "revive": "Invincibility",
+    "restore": "Food only",
+    "artStyle": "Cartoony",
+    "sprites": "Small",
+    "setting": "Pirate stuff",
+    "focus": "Weapons, Hand-to-hand",
+    "music": ["Video game"],
+    "tone": "Serious",
+    "fighters": 2,
+    "stages": 10,
     "enemies": null,
     "bosses": null,
     "weapons": [null],
@@ -6730,10 +6825,24 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": "overallReview",
-    "cover": "",
-    "images": [""],
-    "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Cutthroat_Island_(video_game)"],
+    "cover": "https://www.mobygames.com/images/covers/l/675875-cutthroat-island-genesis-front-cover.jpg",
+    "images": [
+      "https://www.mobygames.com/images/shots/l/99698-cutthroat-island-genesis-screenshot-first-level.gif",
+      "https://www.mobygames.com/images/shots/l/638425-cutthroat-island-genesis-screenshot-you-can-hit-the-guys-but.png",
+      "https://www.mobygames.com/images/shots/l/638427-cutthroat-island-genesis-screenshot-you-can-enter-many-houses.png",
+      "https://www.mobygames.com/images/shots/l/638429-cutthroat-island-genesis-screenshot-a-fight-with-two-fat-guys.png",
+      "https://www.mobygames.com/images/shots/l/638432-cutthroat-island-genesis-screenshot-boss-fight-a-gun-definitely.png",
+      "https://www.mobygames.com/images/shots/l/638437-cutthroat-island-genesis-screenshot-on-board-of-morning-star.png",
+      "https://www.mobygames.com/images/shots/l/638439-cutthroat-island-genesis-screenshot-morgan-regains-consciousness.png",
+      "https://www.mobygames.com/images/shots/l/638443-cutthroat-island-genesis-screenshot-the-perilous-cliffs.png",
+      "https://www.mobygames.com/images/shots/l/638451-cutthroat-island-genesis-screenshot-final-showdown.png"
+    ],
+    "videos": ["https://www.youtube.com/embed/SOKOctn1QaM"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Cutthroat_Island_(video_game)",
+      "https://www.mobygames.com/game/cutthroat-island",
+      "https://gamefaqs.gamespot.com/genesis/915988-cutthroat-island"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -6741,7 +6850,7 @@
       "sleevelessJacket": false,
       "bossWithGun": false,
       "fireBombs": false,
-      "twowordTitle": false,
+      "twowordTitle": true,
       "throwingKnife": false,
       "subwayStage": false,
       "exproWrestler": false,
@@ -12200,7 +12309,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Fist Of The North Star: Lost Paradise",
     "platform": "PS4",
@@ -12374,20 +12483,20 @@
     "trivia": "trivia",
     "country": "country",
     "developer": "developer",
-    "publisher": "publisher",
+    "publisher": "Devolver Digital",
     "releasedate": "18.9.2013",
     "releaseYear": 2013,
     "otherPlatforms": ["PS4", "PS Vita", "Xbox 360"],
     "series": null,
     "players": 1,
-    "structure": "structure",
+    "structure": "Linear",
     "difficulty": "difficulty",
-    "gangsize": "gangsize",
+    "gangsize": "Gigantic (10+)",
     "variety": ["None"],
-    "playtime": "playtime",
+    "playtime": "3:00",
     "buttons": "buttons",
     "combos": "combos",
-    "grabs": "grabs",
+    "grabs": "Button",
     "dashing": "dashing",
     "enemyHBars": "enemyHBars",
     "itemPickup": "itemPickup",
@@ -12402,10 +12511,10 @@
     "artStyle": "artStyle",
     "sprites": "sprites",
     "setting": "setting",
-    "focus": "focus",
+    "focus": "Hand-to-hand",
     "music": ["music"],
-    "tone": "tone",
-    "fighters": null,
+    "tone": "Lighthearted",
+    "fighters": 2,
     "stages": null,
     "enemies": null,
     "bosses": null,
@@ -12414,9 +12523,16 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": "overallReview",
-    "cover": "",
-    "images": [""],
-    "videos": [],
+    "cover": "https://steamcdn-a.akamaihd.net/steam/apps/244810/header.jpg?t=1568667345",
+    "images": [
+      "https://steamcdn-a.akamaihd.net/steam/apps/244810/ss_7994c1bd5a9cdfc3fd1f38cf5d5144f032cb2085.1920x1080.jpg?t=1568667345",
+      "https://steamcdn-a.akamaihd.net/steam/apps/244810/ss_5a31561124079e9e0f4a4ae5b4dc1b0762dcb533.1920x1080.jpg?t=1568667345",
+      "https://steamcdn-a.akamaihd.net/steam/apps/244810/ss_de492242871cdccd53779b947f751398db91f332.1920x1080.jpg?t=1568667345",
+      "https://steamcdn-a.akamaihd.net/steam/apps/244810/ss_aea594c9b3abbfd045ca46a81bfbcd882d374543.1920x1080.jpg?t=1568667345",
+      "https://steamcdn-a.akamaihd.net/steam/apps/244810/ss_3f26117f3ccf35b6725740054a02547c92929ada.1920x1080.jpg?t=1568667345",
+      "https://steamcdn-a.akamaihd.net/steam/apps/244810/ss_5a944da68a48b89a5144d70efee54d32df010d1c.1920x1080.jpg?t=1568667345"
+    ],
+    "videos": ["https://www.youtube.com/embed/0idWOssPQEQ"],
     "links": [
       "https://en.wikipedia.org/wiki/Foul_Play_(video_game)",
       "https://store.steampowered.com/app/244810/Foul_Play/"
@@ -17933,7 +18049,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Lost Castle",
     "platform": "PC",
@@ -18110,7 +18226,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Mad Max",
     "platform": "PC",
     "perspective": "3D",
@@ -20192,7 +20308,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Oni",
     "platform": "PC",
     "perspective": "3D",
@@ -23855,7 +23971,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Sleeping Dogs",
     "platform": "PC",
     "perspective": "3D",
@@ -25865,7 +25981,7 @@
   {
     "missing": true,
     "name": "Streets of Red : Devil's Dare Deluxe",
-    "platform": "platform",
+    "platform": "PC",
     "perspective": "2.5D",
     "about": "about",
     "trivia": "trivia",
@@ -25914,7 +26030,9 @@
     "cover": "",
     "images": [""],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://store.steampowered.com/app/946650/Streets_of_Red__Devils_Dare_Deluxe/"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -29435,7 +29553,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "The Warriors",
     "platform": "PS2",
@@ -30388,7 +30506,7 @@
     "series": null,
     "players": 4,
     "structure": "Linear",
-    "difficulty": "Hard",
+    "difficulty": "Hardcore",
     "gangsize": "Medium (5)",
     "variety": [
       "Battle Royale",
@@ -30457,10 +30575,16 @@
     "overallReview": "overallReview",
     "cover": "https://www.mobygames.com/images/covers/l/169639-urban-reign-playstation-2-front-cover.png",
     "images": [
-      "https://psmedia.playstation.com/is/image/psmedia/urbanreign_sc002?$MediaCarousel_Original$",
-      "https://psmedia.playstation.com/is/image/psmedia/urbanreign_sc007?$MediaCarousel_Original$",
+      "https://psmedia.playstation.com/is/image/psmedia/urbanreign_sc004?$MediaCarousel_Original$",
+      "https://gamespot1.cbsistatic.com/uploads/original/mig/3/0/8/0/673080-927659_20050630_005.jpg",
+      "https://theps2vault.files.wordpress.com/2010/05/urban_reign1.jpg",
+      "https://theps2vault.files.wordpress.com/2010/05/urban_reign3.jpg?w=1000&h=",
+      "https://www.fightersgeneration.com/np/games/urban22.jpg",
+      "https://gamespot1.cbsistatic.com/uploads/original/mig/5/7/2/7/685727-927659_20050912_105.jpg",
+      "https://gamespot1.cbsistatic.com/uploads/original/mig/5/8/4/2/665842-927659_20050519_006.jpg",
+      "https://gamespot1.cbsistatic.com/uploads/original/mig/5/8/4/5/665845-927659_20050519_009.jpg",
+      "https://gamespot1.cbsistatic.com/uploads/original/mig/5/8/4/7/665847-927659_20050519_011.jpg",
       "https://assets1.ignimgs.com/2005/09/11/urban-reign-20050911005142612-1243656.jpg?width=1400",
-      "https://assets2.ignimgs.com/2005/09/11/urban-reign-20050911005103660-1243620.jpg?width=1400",
       "https://assets2.ignimgs.com/2005/09/11/urban-reign-20050911005116816-1243639.jpg?width=1400",
       "https://assets2.ignimgs.com/2005/09/11/urban-reign-20050911005114488-1243635.jpg?width=1400",
       "https://assets2.ignimgs.com/2005/09/11/urban-reign-20050911005125332-1243653.jpg?width=1400"
@@ -30472,7 +30596,8 @@
       "https://gamefaqs.gamespot.com/ps2/927659-urban-reign",
       "https://www.mobygames.com/game/urban-reign",
       "https://darkstalker90gaming.com/tag/urban-reign/",
-      "http://geekatana.blogspot.com/2019/09/urban-reign-dark-souls-of-beatem-up.html"
+      "http://geekatana.blogspot.com/2019/09/urban-reign-dark-souls-of-beatem-up.html",
+      "https://www.fightersgeneration.com/games/urbanreign.html"
     ],
     "beatemupBingo": {
       "go": false,
@@ -31712,7 +31837,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza",
     "platform": "PS2",
@@ -31794,7 +31919,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza 2",
     "platform": "PS2",
@@ -31876,7 +32001,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza 3",
     "platform": "PS3",
@@ -31958,7 +32083,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza 4",
     "platform": "PS3",
@@ -32040,7 +32165,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza 5",
     "platform": "PS3",
@@ -32122,7 +32247,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza 0",
     "platform": "PC",
@@ -32204,7 +32329,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza 6",
     "platform": "PS4",
@@ -32286,7 +32411,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza Kiwami",
     "platform": "PC",
@@ -32368,7 +32493,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza Kiwami 2",
     "platform": "PC",
