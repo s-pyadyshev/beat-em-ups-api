@@ -709,7 +709,7 @@
     "name": "itemPickup",
     "filterName": "Item Pickup",
     "description": "How you pick up items. Either by just coming in contact with them or pressing a button when nearby.",
-    "options": ["Button", "Button, Contact", "Contact", "N/A"]
+    "options": ["Button", "Button, Contact", "Contact", "N/A", null]
   },
   {
     "name": "itemStay",
@@ -722,7 +722,8 @@
       "Forever (except Torch)",
       "N/A",
       "Stay",
-      "Weapons fade, health stay"
+      "Weapons fade, health stay",
+      null
     ]
   },
   {
@@ -746,7 +747,8 @@
       "Permanent",
       "Stock",
       "Time",
-      "Until death"
+      "Until death",
+      null
     ]
   },
   {
@@ -765,7 +767,8 @@
       "Stock",
       "Stun",
       "Throw",
-      "Yes"
+      "Yes",
+      null
     ]
   },
   {
@@ -830,7 +833,8 @@
       "New area",
       "On level up",
       "Shop",
-      "Shops only"
+      "Shops only",
+      null
     ]
   },
   {
