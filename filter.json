@@ -61,6 +61,7 @@
       "Hungary",
       "Italy",
       "Japan",
+      "Netherlands",
       "Poland",
       "Slovakia",
       "South Korea",
@@ -122,6 +123,7 @@
       "Frankenstein Studio",
       "Freedom Factory Studios",
       "Handheld Games",
+      "Hi-Bit Studios",
       "Iguana",
       "IGS",
       "ITL",
@@ -253,6 +255,7 @@
       "Frankenstein Studio",
       "Gathering of Developers",
       "Guard Crush Games",
+      "Hi-Bit Studios",
       "Hudson",
       "IGS",
       "Interabang Entertainment",
@@ -1035,7 +1038,7 @@
     "name": "bosses",
     "filterName": "Bosses",
     "description": "Total number of unique bosses.",
-    "options": [2, 3, 4, 5, 6, 7, 8, 10, 12, 13, 16, null]
+    "options": [0, 2, 3, 4, 5, 6, 7, 8, 10, 12, 13, 16, null]
   },
   {
     "name": "weapons",
