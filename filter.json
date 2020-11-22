@@ -191,6 +191,7 @@
       "Taito",
       "Tatsumi",
       "Team17 Digital Ltd",
+      "Team2Bit",
       "Technos",
       "Technosoft",
       "Tecmo",
@@ -226,6 +227,7 @@
       "Acclaim",
       "Accolade",
       "Activision",
+      "Adult Swim Games",
       "Arc System Works",
       "Atari",
       "Atlus",
@@ -649,6 +651,7 @@
       "Punch, Kick, Jump, Grab",
       "Punch, Kick, Jump, Grab, Dash, Sample, Inject Life, Inject Berserk",
       "Punch, Kick, Jump, Grab, Roll, Strafe, Counter",
+      "Punch, Kick, Jump, Grab, Special",
       "Punch, Kick, Jump, Magic",
       "Punch, Kick, Jump, Special",
       "Punch, Kick, Jump, Special, Back Jump, Run",
@@ -860,6 +863,7 @@
       "Food, Arrest",
       "Food, Combos",
       "Food, items",
+      "Food, Special",
       "Items only",
       "N/A",
       "New area",
@@ -1020,13 +1024,33 @@
     "name": "fighters",
     "filterName": "Fighters",
     "description": "Number of playable characters.",
-    "options": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 15, 17, 18, 20, 31, 59]
+    "options": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      15,
+      17,
+      18,
+      19,
+      20,
+      31,
+      59
+    ]
   },
   {
     "name": "stages",
     "filterName": "Stages",
     "description": "Total number of stages, aka levels or rounds.",
-    "options": [1, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 22, null]
+    "options": [1, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 22, 50, null]
   },
   {
     "name": "enemies",
