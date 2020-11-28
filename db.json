@@ -138,13 +138,13 @@
     "continues": 1,
     "extend": "N/A",
     "overallReview": "64th Street is aite, I guess. As far as Final Fight knock-offs go, you could do a lot worse. At least it has huge sprites. Its strengths are the throwing enemies into the background gimmick and its goofy personality. The music ain't nothing special, though. Jaleco would later go on to develop the Rushing Beat series of games.",
-    "cover": "http://punchpedia.com/games/arc/64thst/img/poster.png",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/64thst/img/poster.png",
     "images": [
-      "http://punchpedia.com/games/arc/64thst/img/ss01.png",
-      "http://punchpedia.com/games/arc/64thst/img/ss02.png",
-      "http://punchpedia.com/games/arc/64thst/img/ss03.png",
-      "http://punchpedia.com/games/arc/64thst/img/ss04.png",
-      "http://punchpedia.com/games/arc/64thst/img/ss05.png"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/64thst/img/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/64thst/img/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/64thst/img/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/64thst/img/ss04.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/64thst/img/ss05.png"
     ],
     "videos": [],
     "links": ["https://en.wikipedia.org/wiki/64th_Street:_A_Detective_Story"],
