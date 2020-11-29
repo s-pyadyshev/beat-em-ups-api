@@ -810,7 +810,7 @@
     "name": "friendlyFire",
     "filterName": "Friendly Fire",
     "description": "Whether or not your attacks affect other players.",
-    "options": ["Always", "N/A", "No", "Optional", "Yes"]
+    "options": ["Always", "N/A", "No", "Optional", "Yes", null]
   },
   {
     "name": "charSwitch",

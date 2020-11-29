@@ -7708,7 +7708,7 @@
     "perspective": "2.5D",
     "about": "\n\nCyborg Justice is a strange Euro-brawler that features few yet powerful enemies and customizable fighters. It's similar to fighting games in that it has several advanced techniques, but it's crippled by extreme imbalance.\n",
     "trivia": "A cyborg that looks a lot like the ones in this game appears in the movie Wreck-It Ralph.This is the only brawler with completely customizable fighters. Too bad the customization doesn't matter because the strongest attack is available to all configurations.",
-    "country": "country",
+    "country": "Hungary",
     "developer": "Novotrade",
     "publisher": "Sega",
     "releasedate": "Apr '92",
@@ -8531,7 +8531,7 @@
     "deathBlow": "Health",
     "friendlyFire": "No",
     "charSwitch": "On death",
-    "groundHit": "No",
+    "groundHit": "Yes",
     "revive": "Invincibility",
     "restore": "Items only",
     "artStyle": "Semi-realistic",
@@ -26457,7 +26457,6 @@
     }
   },
   {
-    "missing": true,
     "name": "Spikers Battle",
     "platform": "Arcade",
     "perspective": "3D",
@@ -26473,10 +26472,10 @@
     "players": 2,
     "structure": "Linear",
     "difficulty": "Hard",
-    "gangsize": "gangsize",
+    "gangsize": "Trio (3)",
     "variety": ["None"],
-    "playtime": "playtime",
-    "buttons": "buttons",
+    "playtime": "0:30",
+    "buttons": "Punch, Kick, Jump",
     "combos": "Freeform",
     "grabs": "Contact",
     "dashing": "Double-tap",
@@ -26484,8 +26483,8 @@
     "itemPickup": "Button",
     "itemStay": "Stay",
     "weaponsStay": "Stay",
-    "deathBlow": "Energy",
-    "friendlyFire": "friendlyFire",
+    "deathBlow": "Stock",
+    "friendlyFire": null,
     "charSwitch": "N/A",
     "groundHit": "Yes",
     "revive": "New area",
@@ -26494,7 +26493,7 @@
     "sprites": null,
     "setting": "Urban",
     "focus": "Hand-to-hand, Weapons",
-    "music": ["Rock"],
+    "music": ["Electronic"],
     "tone": "Serious",
     "fighters": 8,
     "stages": null,
@@ -26506,11 +26505,19 @@
     "extend": "N/A",
     "overallReview": "overallReview",
     "cover": "https://segaretro.org/images/7/71/SpikersBattle_NAOMI_JP_Flyer1.jpg",
-    "images": [""],
-    "videos": [],
+    "images": [
+      "https://www.mobygames.com/images/shots/l/974150-spikers-battle-arcade-screenshot-choose-1-out-of-8-fighters.png",
+      "https://www.mobygames.com/images/shots/l/974149-spikers-battle-arcade-screenshot-the-cabinet-shows-examples.png",
+      "https://www.mobygames.com/images/shots/l/974152-spikers-battle-arcade-screenshot-the-gameplay-is-divided-into.png",
+      "https://www.mobygames.com/images/shots/l/974156-spikers-battle-arcade-screenshot-fighting-the-hitman-clones.png",
+      "https://www.mobygames.com/images/shots/l/974155-spikers-battle-arcade-screenshot-round-1.png"
+    ],
+    "videos": ["https://www.youtube.com/embed/uvEx9d2wI6M"],
     "links": [
       "https://www.mobygames.com/game/spikers-battle",
-      "https://segaretro.org/Spikers_Battle"
+      "https://segaretro.org/Spikers_Battle",
+      "https://gamefaqs.gamespot.com/arcade/568822-spikers-battle",
+      "http://lunaticobscurity.blogspot.com/2019/04/spikers-battle-arcade.html"
     ],
     "beatemupBingo": {
       "go": false,
@@ -26537,7 +26544,7 @@
       "buildingSite": false,
       "fatCharginMen": false,
       "sharpSuits": false,
-      "graffiti": false
+      "graffiti": true
     }
   },
   {
@@ -32450,7 +32457,7 @@
     "artStyle": "Realistic",
     "sprites": null,
     "setting": "Urban",
-    "focus": "Hand-to-hand",
+    "focus": "Hand-to-hand, Weapons",
     "music": ["Rock"],
     "tone": "Serious",
     "fighters": 59,
