@@ -583,7 +583,8 @@
       "6:00",
       "8:30",
       "10:00",
-      "12:00"
+      "12:00",
+      "30:00"
     ]
   },
   {
@@ -663,6 +664,7 @@
       "Punch, Kick, Weapon, Jump",
       "Punch, Weapon, Jump, Block",
       "Punch1, Punch2, Kick1, Kick2, Jump, Possess",
+      "Rush Combo, Heavy Attack, Evade, Grab, Guard, Fighting Stance, Switch style, Taunt",
       "Slash, Punch, Jump, Projectile",
       "Slice, Sever, Jump, Transform",
       "Strike, Counter, Stun",
@@ -865,6 +867,7 @@
       "Food only",
       "Food, Arrest",
       "Food, Combos",
+      "Food, Heat Action",
       "Food, items",
       "Food, Special",
       "Items only",
