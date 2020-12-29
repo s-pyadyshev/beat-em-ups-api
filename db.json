@@ -1,6 +1,6 @@
 [
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "198X",
     "platform": "PC",
     "perspective": "2.5D",
@@ -1731,7 +1731,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Batman: Arkham Asylum",
     "platform": "PC",
     "perspective": "3D",
@@ -1826,7 +1826,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Batman: Arkham Asylum",
     "platform": "PS3",
     "perspective": "3D",
@@ -1920,7 +1920,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Batman: Arkham Asylum",
     "platform": "PS4",
     "perspective": "3D",
@@ -2017,7 +2017,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Batman: Arkham Asylum",
     "platform": "Xbox 360",
     "perspective": "3D",
@@ -2113,7 +2113,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Batman: Arkham Asylum",
     "platform": "Xbox One",
     "perspective": "3D",
@@ -2209,7 +2209,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "missing": true,
     "name": "Batman: Arkham City",
     "platform": "PC",
@@ -2291,7 +2291,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Batman: Arkham Origins",
     "platform": "PC",
     "perspective": "3D",
@@ -2383,7 +2383,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "missing": true,
     "name": "Batman: Arkham Origins Blackgate",
     "platform": "PC",
@@ -2465,7 +2465,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "missing": true,
     "name": "Batman: Arkham Knight",
     "platform": "PC",
@@ -3223,7 +3223,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Battlemaniacs",
     "platform": "SMS",
     "perspective": "2.5D",
@@ -3410,7 +3410,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Battletoads",
     "platform": "NES",
     "perspective": "2.5D",
@@ -3497,7 +3497,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Battletoads",
     "platform": "Game Boy",
     "perspective": "2.5D",
@@ -3587,7 +3587,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Battletoads",
     "platform": "Genesis",
     "perspective": "2.5D",
@@ -3674,7 +3674,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Battletoads",
     "platform": "PC",
     "perspective": "2.5D",
@@ -4114,7 +4114,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Battletoads in Battlemaniacs",
     "platform": "SNES",
     "perspective": "2.5D",
@@ -4205,7 +4205,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Battletoads in Ragnarok's World",
     "platform": "Game Boy",
     "perspective": "2.5D",
@@ -6848,7 +6848,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Comix Zone",
     "platform": "Genesis",
     "perspective": "2D",
@@ -13527,7 +13527,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "missing": true,
     "name": "Fist Of The North Star: Lost Paradise",
     "platform": "PS4",
@@ -17717,7 +17717,7 @@
   },
   {
     "missing": true,
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Judgment",
     "platform": "PS4",
     "perspective": "2.5D",
@@ -19623,7 +19623,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "missing": true,
     "name": "Lost Castle",
     "platform": "PC",
@@ -19800,7 +19800,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Mad Max",
     "platform": "PC",
     "perspective": "3D",
@@ -22035,7 +22035,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Oni",
     "platform": "PC",
     "perspective": "3D",
@@ -25718,7 +25718,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Sleeping Dogs",
     "platform": "PC",
     "perspective": "3D",
@@ -26824,7 +26824,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/sprotectors/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/sprotectors/img/ss05.png"
     ],
-    "videos": [],
+    "videos": [
+      "https://www.youtube.com/embed/yEhWyHJZeus"
+    ],
     "links": ["https://en.wikipedia.org/wiki/Stone_Protectors"],
     "beatemupBingo": {
       "go": false,
@@ -31521,7 +31523,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "missing": true,
     "name": "The Warriors",
     "platform": "PS2",
@@ -33443,7 +33445,7 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": "overallReview",
-    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/wulverblade/cover.png",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/wulverblade/cover.jpg",
     "images": [
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/wulverblade/ss01.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/wulverblade/ss02.jpg",
@@ -33827,7 +33829,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "missing": true,
     "name": "Yakuza",
     "platform": "PS2",
@@ -33909,7 +33911,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "missing": true,
     "name": "Yakuza 2",
     "platform": "PS2",
@@ -33991,7 +33993,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "missing": true,
     "name": "Yakuza 3",
     "platform": "PS3",
@@ -34073,7 +34075,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "missing": true,
     "name": "Yakuza 4",
     "platform": "PS3",
@@ -34155,7 +34157,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "missing": true,
     "name": "Yakuza 5",
     "platform": "PS3",
@@ -34237,7 +34239,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "name": "Yakuza 0",
     "platform": "PC",
     "perspective": "3D",
@@ -34348,7 +34350,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "missing": true,
     "name": "Yakuza 6: The Song of Life",
     "platform": "PS4",
@@ -34430,7 +34432,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "missing": true,
     "name": "Yakuza Kiwami",
     "platform": "PC",
@@ -34512,7 +34514,7 @@
     }
   },
   {
-    "multigenre": true,
+    "multigenre": "Yes",
     "missing": true,
     "name": "Yakuza Kiwami 2",
     "platform": "PC",
