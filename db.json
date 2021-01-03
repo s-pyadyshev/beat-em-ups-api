@@ -2549,11 +2549,11 @@
     "overallReview": "overallReview",
     "cover": "https://www.mobygames.com/images/covers/l/309591-batman-arkham-knight-windows-front-cover.jpg",
     "images": [
-      "https://www.mobygames.com/images/promo/l/14392-batman-arkham-knight-screenshot.jpg",
-      "https://www.mobygames.com/images/promo/l/110571-batman-arkham-knight-screenshot.jpg",
-      "https://www.mobygames.com/images/promo/l/110574-batman-arkham-knight-screenshot.jpg",
-      "https://www.mobygames.com/images/shots/l/810984-batman-arkham-knight-windows-screenshot-batman-gliding-through.jpg",
-      "https://www.mobygames.com/images/shots/l/810987-batman-arkham-knight-windows-screenshot-controlling-the-batmobile.jpg"
+      "https://assets1.ignimgs.com/2014/08/16/batman-arkham-knight-gamescom-083jpg-0d2cc1.jpg?width=1400",
+      "https://assets1.ignimgs.com/2014/08/16/batman-arkham-knight-gamescom-086jpg-0d2cc3.jpg?width=1400",
+      "https://assets1.ignimgs.com/2015/05/28/baksshot160jpg-f9390f.jpg?width=1400",
+      "https://assets1.ignimgs.com/2015/05/28/baksshot141jpg-f93910.jpg?width=1400",
+      "https://assets1.ignimgs.com/2015/05/28/baksshot146jpg-f93912.jpg?width=1400"
     ],
     "videos": [
       "https://www.youtube.com/embed/1v9y-w3OJMM"
@@ -12712,7 +12712,6 @@
     }
   },
   {
-    "missing": true,
     "name": "Electronic Popple",
     "platform": "DOS",
     "perspective": "2.5D",
@@ -12734,25 +12733,26 @@
     ],
     "playtime": "1:30",
     "buttons": "Attack, Jump, Item",
-    "combos": null,
+    "combos": "Static",
     "grabs": "Contact",
     "dashing": "Double-tap",
     "enemyHBars": "Bosses",
     "itemPickup": "Button",
-    "itemStay": null,
-    "weaponsStay": null,
-    "deathBlow": null,
-    "friendlyFire": null,
-    "charSwitch": null,
+    "itemStay": "Stay",
+    "weaponsStay": "Stay",
+    "deathBlow": "Health",
+    "friendlyFire": "Yes",
+    "charSwitch": "No",
     "groundHit": "No",
     "revive": "Invincibility",
-    "restore": null,
+    "restore": "Food, On level up",
     "artStyle": "Cartoony",
     "sprites": null,
     "setting": "Computer",
     "focus": "Hand-to-hand",
     "music": [
       "Electronic",
+      "Rock",
       "Synth"
     ],
     "tone": "Lighthearted",
@@ -12801,7 +12801,7 @@
       "exproWrestler": false,
       "steelPipe": false,
       "kindnappedFemale": false,
-      "specialDrainsHealth": false,
+      "specialDrainsHealth": true,
       "oilDrums": false,
       "clowns": false,
       "yellowRedHealthBar": false,
@@ -23394,7 +23394,7 @@
     "perspective": "2.5D",
     "about": "about",
     "trivia": "trivia",
-    "country": "country",
+    "country": "France",
     "developer": "Watermelon Games",
     "publisher": "publisher",
     "releasedate": "16.12.2020",
@@ -23447,7 +23447,7 @@
       ""
     ],
     "videos": [
-      ""
+      "https://www.youtube.com/embed/ydMLculJDIc"
     ],
     "links": [
       "https://www.paprium.com/",
