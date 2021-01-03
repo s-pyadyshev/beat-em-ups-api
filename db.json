@@ -2489,7 +2489,6 @@
   },
   {
     "multigenre": "Yes",
-    "missing": true,
     "name": "Batman: Arkham Knight",
     "platform": "PC",
     "perspective": "3D",
@@ -12727,28 +12726,28 @@
     "otherPlatforms": null,
     "series": null,
     "players": 2,
-    "structure": "structure",
-    "difficulty": "difficulty",
-    "gangsize": null,
+    "structure": "Semi-branching",
+    "difficulty": "Hard",
+    "gangsize": "Huge (8)",
     "variety": [
-      "None"
+      "Platforming"
     ],
-    "playtime": null,
-    "buttons": null,
+    "playtime": "1:30",
+    "buttons": "Attack, Jump, Item",
     "combos": null,
-    "grabs": "grabs",
+    "grabs": "Contact",
     "dashing": "Double-tap",
-    "enemyHBars": null,
-    "itemPickup": null,
+    "enemyHBars": "Bosses",
+    "itemPickup": "Button",
     "itemStay": null,
     "weaponsStay": null,
     "deathBlow": null,
     "friendlyFire": null,
     "charSwitch": null,
-    "groundHit": "groundHit",
-    "revive": null,
+    "groundHit": "No",
+    "revive": "Invincibility",
     "restore": null,
-    "artStyle": "artStyle",
+    "artStyle": "Cartoony",
     "sprites": null,
     "setting": "Computer",
     "focus": "Hand-to-hand",
@@ -12764,7 +12763,7 @@
     "weapons": [
       null
     ],
-    "lives": null,
+    "lives": 2,
     "continues": null,
     "extend": null,
     "overallReview": "overallReview",
@@ -12780,7 +12779,7 @@
       "https://www.myabandonware.com/media/screenshots/e/electronic-popple-jui/electronic-popple_27.png"
     ],
     "videos": [
-      "https://www.youtube.com/embed/ofGwqUhgb7Y"
+      "https://www.youtube.com/embed/OCpKi6h3JjI"
     ],
     "links": [
       "https://www.mobygames.com/game/electronic-popple",
@@ -23360,6 +23359,101 @@
     ],
     "videos": [],
     "links": [],
+    "beatemupBingo": {
+      "go": false,
+      "sunsetEnding": false,
+      "healthMeat": false,
+      "sleevelessJacket": false,
+      "bossWithGun": false,
+      "fireBombs": false,
+      "twowordTitle": false,
+      "throwingKnife": false,
+      "subwayStage": false,
+      "exproWrestler": false,
+      "steelPipe": false,
+      "kindnappedFemale": false,
+      "specialDrainsHealth": false,
+      "oilDrums": false,
+      "clowns": false,
+      "yellowRedHealthBar": false,
+      "dominatrix": false,
+      "powerSpeedBalance": false,
+      "elevatorScene": false,
+      "mansionStage": false,
+      "mohawks": false,
+      "buildingSite": false,
+      "fatCharginMen": false,
+      "sharpSuits": false,
+      "graffiti": false
+    }
+  },
+  {
+    "missing": true,
+    "name": "Paprium",
+    "platform": "Genesis",
+    "perspective": "2.5D",
+    "about": "about",
+    "trivia": "trivia",
+    "country": "country",
+    "developer": "Watermelon Games",
+    "publisher": "publisher",
+    "releasedate": "16.12.2020",
+    "releaseYear": 2020,
+    "otherPlatforms": null,
+    "series": null,
+    "players": 1,
+    "structure": "structure",
+    "difficulty": "difficulty",
+    "gangsize": null,
+    "variety": [
+      "None"
+    ],
+    "playtime": null,
+    "buttons": null,
+    "combos": null,
+    "grabs": "Contact",
+    "dashing": "dashing",
+    "enemyHBars": null,
+    "itemPickup": null,
+    "itemStay": null,
+    "weaponsStay": null,
+    "deathBlow": null,
+    "friendlyFire": null,
+    "charSwitch": null,
+    "groundHit": "groundHit",
+    "revive": null,
+    "restore": null,
+    "artStyle": "artStyle",
+    "sprites": null,
+    "setting": "Urban",
+    "focus": "Hand-to-hand",
+    "music": [
+      "Video game"
+    ],
+    "tone": "tone",
+    "fighters": 5,
+    "stages": null,
+    "enemies": null,
+    "bosses": null,
+    "weapons": [
+      null
+    ],
+    "lives": null,
+    "continues": null,
+    "extend": null,
+    "overallReview": "overallReview",
+    "cover": "",
+    "images": [
+      ""
+    ],
+    "videos": [
+      ""
+    ],
+    "links": [
+      "https://www.paprium.com/",
+      "https://gamefaqs.gamespot.com/genesis/207897-paprium",
+      "https://papriumfiasco.wordpress.com/"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
