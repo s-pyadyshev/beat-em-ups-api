@@ -24554,6 +24554,104 @@
     }
   },
   {
+    "name": "Revilee",
+    "platform": "PC",
+    "perspective": "2.5D",
+    "about": "about",
+    "trivia": "trivia",
+    "country": "South Korea",
+    "developer": "ID Software (Korea)",
+    "publisher": "OK Interactive",
+    "releasedate": "unknown",
+    "releaseYear": 2000,
+    "otherPlatforms": null,
+    "series": null,
+    "players": 1,
+    "structure": "Linear",
+    "difficulty": "Medium",
+    "gangsize": "Gigantic (10)",
+    "variety": [
+      "None"
+    ],
+    "playtime": null,
+    "buttons": "Attack, Weapon1, Weapon2",
+    "combos": "No",
+    "grabs": "No",
+    "dashing": "No",
+    "enemyHBars": "No",
+    "itemPickup": "Contact",
+    "itemStay": "Stay",
+    "weaponsStay": "Stay",
+    "deathBlow": "N/A",
+    "friendlyFire": "N/A",
+    "charSwitch": "N/A",
+    "groundHit": "No",
+    "revive": "New area",
+    "restore": "Food only",
+    "artStyle": "CGI",
+    "sprites": null,
+    "setting": "Urban",
+    "focus": "Hand-to-hand, Weapons",
+    "music": [
+      "Video game"
+    ],
+    "tone": "Semi-serious",
+    "fighters": 1,
+    "stages": 6,
+    "enemies": null,
+    "bosses": null,
+    "weapons": [
+      "Bomb",
+      "Soccer ball",
+      "Stick"
+    ],
+    "lives": 1,
+    "continues": "Infinite",
+    "extend": null,
+    "overallReview": "overallReview",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/revilee/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/revilee/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/revilee/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/revilee/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/revilee/ss04.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/revilee/ss05.png"
+    ],
+    "videos": [
+      ""
+    ],
+    "links": [
+      ""
+    ],
+    "beatemupBingo": {
+      "go": false,
+      "sunsetEnding": false,
+      "healthMeat": false,
+      "sleevelessJacket": false,
+      "bossWithGun": false,
+      "fireBombs": false,
+      "twowordTitle": false,
+      "throwingKnife": false,
+      "subwayStage": false,
+      "exproWrestler": false,
+      "steelPipe": false,
+      "kindnappedFemale": false,
+      "specialDrainsHealth": false,
+      "oilDrums": false,
+      "clowns": false,
+      "yellowRedHealthBar": false,
+      "dominatrix": false,
+      "powerSpeedBalance": false,
+      "elevatorScene": false,
+      "mansionStage": false,
+      "mohawks": false,
+      "buildingSite": false,
+      "fatCharginMen": false,
+      "sharpSuits": false,
+      "graffiti": false
+    }
+  },
+  {
     "name": "Riot City",
     "platform": "Arcade",
     "perspective": "2.5D",
@@ -34379,7 +34477,6 @@
     }
   },
   {
-    "missing": true,
     "name": "Vectormen",
     "platform": "PC",
     "perspective": "2.5D",
@@ -34388,40 +34485,40 @@
     "country": "South Korea",
     "developer": "Magic Interactive",
     "publisher": "Magic Interactive",
-    "releasedate": "unknown",
+    "releasedate": "5.5.1999",
     "releaseYear": 1999,
     "otherPlatforms": null,
-    "series": null,
+    "series": "Vectormen",
     "players": 1,
-    "structure": "structure",
-    "difficulty": "difficulty",
-    "gangsize": null,
+    "structure": "Linear",
+    "difficulty": "Medium",
+    "gangsize": "Gigantic (10)",
     "variety": [
       "None"
     ],
     "playtime": null,
     "buttons": "Punch, Kick, Jump",
-    "combos": null,
-    "grabs": "grabs",
-    "dashing": "dashing",
-    "enemyHBars": null,
-    "itemPickup": null,
-    "itemStay": null,
-    "weaponsStay": null,
-    "deathBlow": null,
-    "friendlyFire": null,
-    "charSwitch": null,
-    "groundHit": "groundHit",
-    "revive": null,
-    "restore": null,
-    "artStyle": "artStyle",
+    "combos": "Static",
+    "grabs": "No",
+    "dashing": "No",
+    "enemyHBars": "Bosses",
+    "itemPickup": "Contact",
+    "itemStay": "Stay",
+    "weaponsStay": "N/A",
+    "deathBlow": "Health, charge",
+    "friendlyFire": "N/A",
+    "charSwitch": "N/A",
+    "groundHit": "No",
+    "revive": "Invincibility + Attack",
+    "restore": "Food only",
+    "artStyle": "CGI",
     "sprites": null,
-    "setting": "setting",
-    "focus": "focus",
+    "setting": "Urban",
+    "focus": "Hand-to-hand",
     "music": [
-      "Video game"
+      "Electronic"
     ],
-    "tone": "tone",
+    "tone": "Semi-serious",
     "fighters": 3,
     "stages": null,
     "enemies": null,
@@ -34435,17 +34532,17 @@
     "overallReview": "overallReview",
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/vectormen/cover.jpg",
     "images": [
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/vectormen/ss01.jpg",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/vectormen/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/vectormen/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/vectormen/ss02.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/vectormen/ss03.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/vectormen/ss04.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/vectormen/ss05.jpg"
     ],
     "videos": [
-      ""
+      "https://www.youtube.com/embed/qfqr9P6GGUo"
     ],
     "links": [
-      ""
+      "http://www.hardcoregaming101.net/korea/part2/games-other6.htm"
     ],
     "beatemupBingo": {
       "go": false,
@@ -34460,12 +34557,12 @@
       "exproWrestler": false,
       "steelPipe": false,
       "kindnappedFemale": false,
-      "specialDrainsHealth": false,
+      "specialDrainsHealth": true,
       "oilDrums": false,
       "clowns": false,
       "yellowRedHealthBar": false,
       "dominatrix": false,
-      "powerSpeedBalance": false,
+      "powerSpeedBalance": true,
       "elevatorScene": false,
       "mansionStage": false,
       "mohawks": false,
@@ -34476,7 +34573,6 @@
     }
   },
   {
-    "missing": true,
     "name": "Vectormen 2",
     "platform": "PC",
     "perspective": "2.5D",
@@ -34488,37 +34584,37 @@
     "releasedate": "unknown",
     "releaseYear": 2002,
     "otherPlatforms": null,
-    "series": null,
+    "series": "Vectormen",
     "players": 1,
     "structure": "Linear",
-    "difficulty": "difficulty",
-    "gangsize": null,
+    "difficulty": "Medium",
+    "gangsize": "Large (6)",
     "variety": [
       "None"
     ],
-    "playtime": null,
+    "playtime": "2:30",
     "buttons": "Punch, Kick, Jump",
     "combos": "Static",
     "grabs": "No",
     "dashing": "Double-tap",
-    "enemyHBars": null,
+    "enemyHBars": "No",
     "itemPickup": "Contact",
     "itemStay": "Fade",
-    "weaponsStay": null,
-    "deathBlow": null,
-    "friendlyFire": null,
-    "charSwitch": null,
+    "weaponsStay": "N/A",
+    "deathBlow": "Health, charge",
+    "friendlyFire": "No",
+    "charSwitch": "No",
     "groundHit": "No",
-    "revive": null,
-    "restore": null,
-    "artStyle": "artStyle",
+    "revive": "Invincibility",
+    "restore": "Food only",
+    "artStyle": "CGI",
     "sprites": null,
-    "setting": "setting",
+    "setting": "Various",
     "focus": "Hand-to-hand",
     "music": [
-      "Video game"
+      "Electronic"
     ],
-    "tone": "tone",
+    "tone": "Semi-serious",
     "fighters": 3,
     "stages": 13,
     "enemies": null,
@@ -34526,7 +34622,7 @@
     "weapons": [
       null
     ],
-    "lives": null,
+    "lives": 3,
     "continues": null,
     "extend": null,
     "overallReview": "overallReview",
@@ -34539,7 +34635,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/vectormen2/ss05.jpg"
     ],
     "videos": [
-      ""
+      "https://www.youtube.com/embed/ff6ByEJcByA"
     ],
     "links": [
       ""
