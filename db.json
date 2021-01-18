@@ -34184,7 +34184,9 @@
     "structure": "Linear",
     "difficulty": "Hardcore",
     "gangsize": "Trio (3)",
-    "variety": "None",
+    "variety": [
+      "None"
+    ],
     "playtime": "0: 30",
     "buttons": "Attack, Jump",
     "combos": "No",
@@ -34274,7 +34276,9 @@
     "structure": "Linear",
     "difficulty": "Medium",
     "gangsize": "Small (4)",
-    "variety": "Vehicle sections",
+    "variety": [
+      "Vehicle sections"
+    ],
     "playtime": "0:50",
     "buttons": "Attack, Jump",
     "combos": "Linear",
