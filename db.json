@@ -34206,13 +34206,17 @@
     "sprites": "Medium",
     "setting": "Cartoon",
     "focus": "Hand-to-hand",
-    "music": "Rock",
+    "music": [
+      "Rock"
+    ],
     "tone": "Humorous",
     "fighters": 1,
     "stages": 5,
     "enemies": null,
     "bosses": null,
-    "weapons": null,
+    "weapons": [
+      null
+    ],
     "lives": null,
     "continues": null,
     "extend": null,
@@ -34298,13 +34302,17 @@
     "sprites": "Small",
     "setting": "Cartoon",
     "focus": "Weapon",
-    "music": "Rock",
+    "music": [
+      "Rock"
+    ],
     "tone": "Humorous",
     "fighters": 4,
     "stages": null,
     "enemies": null,
     "bosses": null,
-    "weapons": null,
+    "weapons": [
+      null
+    ],
     "lives": 3,
     "continues": 3,
     "extend": null,
