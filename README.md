@@ -1,4 +1,4 @@
-Beat'em Ups "API"
+Beat'em UPI
 
 <b>Examples</b>
 <br/>
