@@ -6890,7 +6890,6 @@
     }
   },
   {
-    "missing": true,
     "name": "Cobra Kai: The Karate Kid Saga Continues",
     "platform": "PC",
     "perspective": "2.5D",
@@ -6907,7 +6906,7 @@
     "structure": "Stage select",
     "difficulty": "Hard",
     "gangsize": "Large (6)",
-    "variety": ["RPG Elements"],
+    "variety": ["RPG Elements", "Upgrades"],
     "playtime": "12:00",
     "buttons": "Punch, Kick, Counter, Jump, Special1, Special2, Ground Attack, Environment Attack",
     "combos": "Freeform",
@@ -6939,10 +6938,17 @@
     "extend": null,
     "overallReview": "overallReview",
     "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1279920/header.jpg?t=1610379569",
-    "images": [""],
+    "images": [
+      "https://steamuserimages-a.akamaihd.net/ugc/1755808457123651119/038F09FBC7EC94817F170D0C42845114F74CB650/",
+      "https://steamuserimages-a.akamaihd.net/ugc/1674743349332887144/9BE233106F8D74AE0810F73500CFA0DCC4DFED6A/",
+      "https://steamuserimages-a.akamaihd.net/ugc/1768193572636736698/AF679F5DC96F00E032EB16987A046324270E4114/",
+      "https://steamuserimages-a.akamaihd.net/ugc/1768193572636736517/32D9DBE8CAD846E51B9F43A73193FE1F3DDEECC4/",
+      "https://steamuserimages-a.akamaihd.net/ugc/1676994991508635891/B0CFF8FBE58743D8039A4F2CCC4649EE9BE591FC/"
+    ],
     "videos": ["https://www.youtube.com/embed/z1Xr3sJ9128"],
     "links": [
       "https://en.wikipedia.org/wiki/Cobra_Kai:_The_Karate_Kid_Saga_Continues",
+      "https://thekaratekid.fandom.com/wiki/Cobra_Kai:_The_Karate_Kid_Saga_Continues",
       "https://store.steampowered.com/app/1279920/Cobra_Kai_The_Karate_Kid_Saga_Continues/",
       "https://www.mobygames.com/game/cobra-kai-the-karate-kid-saga-continues",
       "https://gamefaqs.gamespot.com/ps4/298840-cobra-kai-the-karate-kid-saga-continues"
@@ -6970,7 +6976,7 @@
       "mansionStage": false,
       "mohawks": false,
       "buildingSite": false,
-      "fatCharginMen": false,
+      "fatCharginMen": true,
       "sharpSuits": false,
       "graffiti": false
     }
