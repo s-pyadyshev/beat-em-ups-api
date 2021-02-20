@@ -65,6 +65,7 @@
       "Japan",
       "Netherlands",
       "Poland",
+      "Russia",
       "Slovakia",
       "South Africa",
       "South Korea",
@@ -242,6 +243,7 @@
       "Video System",
       "Vindicate Games",
       "Virgin Interactive",
+      "Virtual Craft Studio",
       "Watermelon Games",
       "WayForward",
       "WB Games Montréal",
@@ -253,7 +255,8 @@
       "Winnie Soft",
       "Wolf Team",
       "Wolfire Games",
-      "World Software"
+      "World Software",
+      "yeo"
     ]
   },
   {
@@ -309,6 +312,7 @@
       "Hudson",
       "Hyundai",
       "IGS",
+      "IndieGala",
       "Intec Inc.",
       "Interabang Entertainment",
       "Irem",
@@ -405,7 +409,9 @@
       "Warner Bros. Interactive Entertainment",
       "White Dragon",
       "Wolf Team",
-      "Wolfire Games"
+      "Wolfire Games",
+      "yeo",
+      "Zoo Digital Publishing"
     ]
   },
   {
@@ -743,6 +749,7 @@
       "Punch, Kick, Jump, Super, Special",
       "Punch, Kick, Weapon, Jump",
       "Punch, Weapon, Jump, Block",
+      "Punch1, Punch2, Kick, Jump, Crouch, Lock-on",
       "Punch1, Punch2, Kick1, Kick2, Jump, Possess",
       "Rush Combo, Heavy Attack, Evade, Grab, Guard, Fighting Stance, Switch style, Taunt",
       "Slash, Punch, Jump, Projectile",
@@ -768,15 +775,7 @@
     "name": "combos",
     "filterName": "Combos",
     "description": "The nature of the combo attack in this game. Linear always plays the same sequence, distance means different attacks come out based on distance from opponents, and freeform means you can change your combo with directionals or button presses.",
-    "options": [
-      "Distance",
-      "Dynamic",
-      "Freeform",
-      "Linear",
-      "No",
-      "Smokeman only",
-      "Static"
-    ]
+    "options": ["Distance", "Dynamic", "No", "Smokeman only", "Static"]
   },
   {
     "name": "grabs",
@@ -1091,6 +1090,7 @@
       "Rock",
       "Rockabilly",
       "Ska",
+      "Symphonic",
       "Techno",
       "Techno/Rock",
       "Turtles music",
@@ -1141,7 +1141,7 @@
     "name": "stages",
     "filterName": "Stages",
     "description": "Total number of stages, aka levels or rounds.",
-    "options": [1, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 17, 22, 28, 50, null]
+    "options": [1, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 17, 18, 22, 28, 50, null]
   },
   {
     "name": "enemies",
