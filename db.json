@@ -7024,11 +7024,11 @@
     "overallReview": "overallReview",
     "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1279920/header.jpg?t=1610379569",
     "images": [
-      "https://steamuserimages-a.akamaihd.net/ugc/1755808457123651119/038F09FBC7EC94817F170D0C42845114F74CB650/",
-      "https://steamuserimages-a.akamaihd.net/ugc/1674743349332887144/9BE233106F8D74AE0810F73500CFA0DCC4DFED6A/",
-      "https://steamuserimages-a.akamaihd.net/ugc/1768193572636736698/AF679F5DC96F00E032EB16987A046324270E4114/",
-      "https://steamuserimages-a.akamaihd.net/ugc/1768193572636736517/32D9DBE8CAD846E51B9F43A73193FE1F3DDEECC4/",
-      "https://steamuserimages-a.akamaihd.net/ugc/1676994991508635891/B0CFF8FBE58743D8039A4F2CCC4649EE9BE591FC/"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/cobra-kai/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/cobra-kai/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/cobra-kai/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/cobra-kai/ss04.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/cobra-kai/ss05.png"
     ],
     "videos": ["https://www.youtube.com/embed/z1Xr3sJ9128"],
     "links": [
@@ -9078,7 +9078,6 @@
       "https://www.mobygames.com/images/promo/l/225549-death-by-degrees-screenshot.jpg",
       "https://www.mobygames.com/images/promo/l/225564-death-by-degrees-screenshot.jpg",
       "https://www.mobygames.com/images/promo/l/225560-death-by-degrees-screenshot.jpg",
-      "https://www.mobygames.com/images/promo/l/569667-death-by-degrees-screenshot.jpg",
       "https://www.mobygames.com/images/promo/l/151212-death-by-degrees-screenshot.jpg"
     ],
     "videos": ["https://www.youtube.com/embed/EHHxbJ-U6m4"],
@@ -18641,6 +18640,7 @@
     }
   },
   {
+    "multigenre": true,
     "name": "James Cameron's Dark Angel",
     "platform": "PS2",
     "perspective": "3D",
@@ -19156,11 +19156,10 @@
     }
   },
   {
-    "missing": true,
     "name": "Jjang: The Young Boss",
     "platform": "PC",
     "perspective": "2.5D",
-    "about": "about",
+    "about": "The game description says that there is a vehicle section and another ending probably.",
     "trivia": "trivia",
     "country": "South Korea",
     "developer": "Neonix, T3 Entertainment",
@@ -19204,8 +19203,15 @@
     "continues": null,
     "extend": null,
     "overallReview": "overallReview",
-    "cover": "",
-    "images": [""],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/jjang/poster.png",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/jjang/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/jjang/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/jjang/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/jjang/ss04.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/jjang/ss05.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/jjang/ss06.png"
+    ],
     "videos": ["https://www.youtube.com/embed/4gs2lRIUurc"],
     "links": [
       "https://oldpcgames.tistory.com/1728",
@@ -35619,6 +35625,7 @@
     }
   },
   {
+    "multigenre": "Yes",
     "name": "Urban Reign",
     "platform": "PS2",
     "perspective": "3D",
