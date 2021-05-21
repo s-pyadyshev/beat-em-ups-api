@@ -22275,7 +22275,7 @@
     "releasedate": "1993-06-11",
     "releaseYear": 1993,
     "otherPlatforms": [
-      { "name": "Mighty Final Fight", "platform": "PC" },
+      { "name": "Mighty Final Fight Rebirth", "platform": "PC" },
       "ZX Spectrum"
     ],
     "series": "Final Fight",
@@ -22457,7 +22457,7 @@
     "releaseYear": 2018,
     "otherPlatforms": [
       "NES",
-      { "name": "Mighty Final Fight", "platform": "ZX Spectrum" }
+      { "name": "Mighty Final Fight Rebirth", "platform": "PC" }
     ],
     "series": "Final Fight",
     "players": 1,
