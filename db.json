@@ -17017,7 +17017,7 @@
     "structure": "Branching",
     "difficulty": "Medium",
     "gangsize": "Average (5)",
-    "variety": ["Bonus stages"],
+    "variety": ["Bonus stages", "Team attack"],
     "playtime": "1:15",
     "buttons": "Attack, Jump, Special",
     "combos": "Distance",
@@ -22274,7 +22274,10 @@
     "publisher": "Capcom",
     "releasedate": "1993-06-11",
     "releaseYear": 1993,
-    "otherPlatforms": ["PC", "ZX Spectrum"],
+    "otherPlatforms": [
+      { "name": "Mighty Final Fight", "platform": "PC" },
+      "ZX Spectrum"
+    ],
     "series": "Final Fight",
     "players": 1,
     "structure": "Linear",
@@ -22351,7 +22354,6 @@
   },
   {
     "name": "Mighty Final Fight Rebirth",
-    "linkName": "Mighty Final Fight",
     "platform": "PC",
     "perspective": "2.5D",
     "about": "",
@@ -22361,7 +22363,10 @@
     "publisher": "Rein Bear",
     "releasedate": "releasedate",
     "releaseYear": 2021,
-    "otherPlatforms": ["NES", "ZX Spectrum"],
+    "otherPlatforms": [
+      { "name": "Mighty Final Fight", "platform": "NES" },
+      { "name": "Mighty Final Fight", "platform": "ZX Spectrum" }
+    ],
     "series": "Final Fight",
     "players": 3,
     "structure": "Linear",
@@ -22450,7 +22455,10 @@
     "publisher": "SaNchez",
     "releasedate": "2018-01-26",
     "releaseYear": 2018,
-    "otherPlatforms": ["NES", "PC"],
+    "otherPlatforms": [
+      "NES",
+      { "name": "Mighty Final Fight", "platform": "ZX Spectrum" }
+    ],
     "series": "Final Fight",
     "players": 1,
     "structure": "Linear",
