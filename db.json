@@ -3277,7 +3277,9 @@
     "publisher": "Tec Toy",
     "releasedate": "3Jan- '-Ja '93",
     "releaseYear": 1993,
-    "otherPlatforms": null,
+    "otherPlatforms": [
+      { "name": "Battletoads in Battlemaniacs", "platform": "SNES" }
+    ],
     "series": "Battletoads",
     "players": 1,
     "structure": "Linear",
@@ -3323,7 +3325,11 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/sms/bmaniacs/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://tcrf.net/Battlemaniacs"],
+    "links": [
+      "https://tcrf.net/Battlemaniacs",
+      "https://www.mobygames.com/game/sega-master-system/battletoads-in-battlemaniacs",
+      "https://gamefaqs.gamespot.com/sms/570282-battletoads-in-battlemaniacs"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -3363,7 +3369,7 @@
     "publisher": "Rare",
     "releasedate": "4Jan- '-Ja '94",
     "releaseYear": 1994,
-    "otherPlatforms": ["Game Boy", "Genesis", "NES"],
+    "otherPlatforms": null,
     "series": "Battletoads",
     "players": 3,
     "structure": "Linear",
@@ -3464,7 +3470,11 @@
     "publisher": "TradeWest",
     "releasedate": "1991-06-01",
     "releaseYear": 1991,
-    "otherPlatforms": ["Arcade", "Game Boy", "Genesis"],
+    "otherPlatforms": [
+      "Arcade",
+      { "name": "Battletoads in Ragnarok's World", "platform": "Game Boy" },
+      "Genesis"
+    ],
     "series": "Battletoads",
     "players": 2,
     "structure": "Linear",
@@ -3551,7 +3561,7 @@
     "publisher": "TradeWest",
     "releasedate": "1Nov- '-No '91Jan '94",
     "releaseYear": 1991,
-    "otherPlatforms": ["Arcade", "Genesis", "NES"],
+    "otherPlatforms": null,
     "series": "Battletoads",
     "players": 1,
     "structure": "Linear",
@@ -3599,7 +3609,8 @@
     "videos": [],
     "links": [
       "https://battletoads.fandom.com/wiki/Battletoads_(Game_Boy)",
-      "https://tcrf.net/Battletoads_(Game_Boy)"
+      "https://tcrf.net/Battletoads_(Game_Boy)",
+      "https://www.mobygames.com/game/gameboy/battletoads"
     ],
     "beatemupBingo": {
       "go": false,
@@ -3641,7 +3652,11 @@
     "publisher": "TradeWest",
     "releasedate": "releasedate",
     "releaseYear": 1993,
-    "otherPlatforms": ["Arcade", "Genesis", "NES"],
+    "otherPlatforms": [
+      { "name": "Battletoads in Ragnarok's World", "platform": "Game Boy" },
+      "Genesis",
+      "NES"
+    ],
     "series": "Battletoads",
     "players": 2,
     "structure": "Linear",
@@ -4168,7 +4183,7 @@
     "publisher": "TradeWest",
     "releasedate": "3Jun- '-Ju '93Jan '94",
     "releaseYear": 1993,
-    "otherPlatforms": null,
+    "otherPlatforms": [{ "name": "Battlemaniacs", "platform": "SMS" }],
     "series": "Battletoads",
     "players": 2,
     "structure": "Linear",
@@ -4217,7 +4232,9 @@
     "links": [
       "https://en.wikipedia.org/wiki/Battletoads_in_Battlemaniacs",
       "https://battletoads.fandom.com/wiki/Battletoads_in_Battlemaniacs",
-      "https://tcrf.net/Battletoads_in_Battlemaniacs_(SNES)"
+      "https://tcrf.net/Battletoads_in_Battlemaniacs_(SNES)",
+      "https://www.mobygames.com/game/snes/battletoads-in-battlemaniacs",
+      "https://gamefaqs.gamespot.com/snes/563520-battletoads-in-battlemaniacs"
     ],
     "beatemupBingo": {
       "go": false,
@@ -4873,7 +4890,7 @@
     "releasedate": "1Jan- '-Ja '91 jan91",
     "releaseYear": 1991,
     "otherPlatforms": null,
-    "series": "$series",
+    "series": null,
     "players": 2,
     "structure": "Linear",
     "difficulty": "Hardcore",
@@ -5092,9 +5109,11 @@
       "https://steamcdn-a.akamaihd.net/steam/apps/1108350/ss_52f05fffb88f84e941ca00ccaebf38740d70cbe0.1920x1080.jpg?t=1570546706",
       "https://steamcdn-a.akamaihd.net/steam/apps/1108350/ss_439f5c5f1d235151624222a1a4a420fb8411e7cf.1920x1080.jpg?t=1570546706"
     ],
-    "videos": [],
+    "videos": ["https://www.youtube.com/embed/5Wye___09Xw"],
     "links": [
+      "https://boetfighter.com/",
       "https://store.steampowered.com/app/1108350/Boet_Fighter/",
+      "https://gamefaqs.gamespot.com/pc/269856-boet-fighter",
       "https://www.criticalhit.net/review/boet-fighter-review-double-draggin/"
     ],
     "beatemupBingo": {
@@ -15204,8 +15223,8 @@
     "publisher": "Konami",
     "releasedate": "3Jan- '-Ja '93",
     "releaseYear": 1993,
-    "otherPlatforms": "",
-    "series": "$series",
+    "otherPlatforms": null,
+    "series": null,
     "players": 2,
     "structure": "Linear",
     "difficulty": "Casual",
@@ -15250,7 +15269,11 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/gpolis/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://en.wikipedia.org/wiki/Gaiapolis",
+      "https://gamefaqs.gamespot.com/arcade/583944-gaiapolis",
+      "https://www.mobygames.com/game/gaiapolis"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -15423,7 +15446,10 @@
       "https://cdn.cloudflare.steamstatic.com/steam/apps/1179220/ss_f2407739e186e76935750ba8dd773cedcd2170a4.1920x1080.jpg?t=1583503519",
       "https://cdn.cloudflare.steamstatic.com/steam/apps/1179220/ss_f0fe525fe1f4c0c59d0f704481f4ed3994e93263.1920x1080.jpg?t=1583503519"
     ],
-    "videos": ["https://www.youtube.com/embed/XnS4kq_G-bU"],
+    "videos": [
+      "https://www.youtube.com/embed/XnS4kq_G-bU",
+      "https://www.youtube.com/embed/dV_F3FXuuGc"
+    ],
     "links": [
       "https://store.steampowered.com/app/1179220/Gaijin_Troubles/",
       "https://grim-ork.itch.io/gaijinsim"
