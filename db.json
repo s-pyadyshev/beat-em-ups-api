@@ -3471,7 +3471,6 @@
     "releasedate": "1991-06-01",
     "releaseYear": 1991,
     "otherPlatforms": [
-      "Arcade",
       { "name": "Battletoads in Ragnarok's World", "platform": "Game Boy" },
       "Genesis"
     ],
@@ -4276,7 +4275,10 @@
     "publisher": "TradeWest",
     "releasedate": "3Jun- '-Ju '93",
     "releaseYear": 1993,
-    "otherPlatforms": null,
+    "otherPlatforms": [
+      { "name": "Battletoads", "platform": "Genesis" },
+      { "name": "Battletoads", "platform": "NES" }
+    ],
     "series": "Battletoads",
     "players": 1,
     "structure": "Linear",
