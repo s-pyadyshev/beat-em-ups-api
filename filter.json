@@ -168,6 +168,7 @@
       "MakinGames Ltd",
       "Malibu",
       "Mediatonic",
+      "Merso X",
       "Midway",
       "Migami",
       "Million",
@@ -211,6 +212,7 @@
       "Seta Corp.",
       "Sien Art",
       "Ska Studios",
+      "Sobaka Studio",
       "Soft Machine",
       "Softstar Entertainment",
       "Software Creations",
@@ -279,6 +281,7 @@
       "Bisco",
       "Bomber Games",
       "Brezzasoft",
+      "Buka Entertainment",
       "bWWd",
       "Califourways",
       "Capcom",
@@ -335,6 +338,7 @@
       "Ma-Ba",
       "Magifact",
       "Majesco",
+      "Merso X",
       "Midas",
       "Midas Interactive Entertainment Ltd.",
       "Midway",
@@ -476,6 +480,7 @@
       "Double Dragon",
       "Dungeons and Dragons",
       "Dynamite Dux",
+      "Dynasty Wars",
       "Eojjeonji Joheun Il-i Saenggil Geot Gateun Jeonyeok",
       "Fighting Force",
       "Final Fight",
@@ -598,7 +603,7 @@
       "Hidden areas",
       "Hungry/Feeling points",
       "Juggling",
-      "Mini-games",
+      "Minigames",
       "Mission goals",
       "Morality system",
       "Multiple endings",
@@ -726,6 +731,7 @@
       "Punch, Jump, Kick",
       "Punch, Jump, Kick, Recover, Special",
       "Punch, Kick",
+      "Punch, Kick, Block",
       "Punch, Kick, Dive",
       "Punch, Kick, Counter, Dodge, Special",
       "Punch, Kick, Counter, Jump, Special1, Special2, Ground Attack, Environment Attack",
@@ -749,6 +755,7 @@
       "Punch, Kick, Jump, Special",
       "Punch, Kick, Jump, Special 1, Special 2",
       "Punch, Kick, Jump, Special, Back Jump, Run",
+      "Punch, Kick, Jump, Special, Block, Run",
       "Punch, Kick, Jump, Special, Uppercut, Dodge",
       "Punch, Kick, Jump, Switch Item, Use Item",
       "Punch, Kick, Jump, Super, Special",
@@ -1122,7 +1129,7 @@
     "filterName": "Fighters",
     "description": "Number of playable characters.",
     "options": [
-      1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 15, 17, 18, 19, 20, 31, 59
+      1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 15, 17, 18, 19, 20, 21, 31, 59
     ]
   },
   {
