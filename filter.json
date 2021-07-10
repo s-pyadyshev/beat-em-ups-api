@@ -237,6 +237,7 @@
       "The Eccentric Ape",
       "Toaplan",
       "Toka",
+      "Tom Fulp",
       "Torus Games",
       "TOSE",
       "Treasure",
@@ -258,11 +259,11 @@
       "Winds",
       "Winkysoft",
       "Winnie Soft",
+      "Wiz",
       "Wolf Team",
       "Wolfire Games",
       "World Software",
-      "yeo",
-      "Zeebarf"
+      "yeo"
     ]
   },
   {
@@ -425,7 +426,6 @@
       "Wolfire Games",
       "Woongjin Media",
       "yeo",
-      "Zeebarf",
       "Zoo Digital Publishing"
     ]
   },
@@ -775,6 +775,7 @@
       "Punch, Weapon, Jump, Block",
       "Punch1, Punch2, Kick, Jump, Crouch, Lock-on",
       "Punch1, Punch2, Kick1, Kick2, Jump, Possess",
+      "Punch1, Punch2, Punch3, Kick1, Kick2, Kick3, Jump",
       "Rush Combo, Heavy Attack, Evade, Grab, Guard, Fighting Stance, Switch style, Taunt",
       "Slash, Punch, Jump, Projectile",
       "Slice, Sever, Jump, Transform",
