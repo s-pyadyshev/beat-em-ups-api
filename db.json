@@ -399,13 +399,13 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": "overallReview",
-    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/actoffigher/cover.jpg",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/actoffighter/cover.jpg",
     "images": [
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/actoffigher/ss01.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/actoffigher/ss02.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/actoffigher/ss03.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/actoffigher/ss04.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/actoffigher/ss05.png"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/actoffighter/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/actoffighter/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/actoffighter/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/actoffighter/ss04.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/actoffighter/ss05.png"
     ],
     "videos": ["https://www.youtube.com/embed/vSuVVbw71Co"],
     "links": ["https://www.old-games.com/download/1692/act-of-fighter"],
