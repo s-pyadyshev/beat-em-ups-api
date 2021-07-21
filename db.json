@@ -30367,7 +30367,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gen/streets/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Streets_of_Rage_(video_game)", "http://rq87.flyingomelette.com/RQ/R/GEN/SoR/1.html"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Streets_of_Rage_(video_game)",
+      "http://rq87.flyingomelette.com/RQ/R/GEN/SoR/1.html"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -34399,7 +34402,7 @@
     "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/The_Punisher_(1993_video_game)",
-      "https://gamefaqs.gamespot.com/arcade/583713-the-punisher"
+      "https://gamefaqs.gamespot.com/arcade/583713-the-punisher",
       "https://www.mobygames.com/game/arcade/punisher__",
       "http://rq87.flyingomelette.com/RQ/R/ARC/PUN/1.html",
       "http://www.hardcoregaming101.net/punisher-the-arcade/"
