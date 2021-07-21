@@ -83,7 +83,7 @@
       "powerSpeedBalance": false,
       "elevatorScene": false,
       "mansionStage": false,
-      "mohawks": false,
+      "mohawks": true,
       "buildingSite": false,
       "fatCharginMen": false,
       "sharpSuits": false,
@@ -1726,7 +1726,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/asterix/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Asterix_(arcade_game)"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Asterix_(arcade_game)",
+      "http://www.hardcoregaming101.net/asterix-arcade/"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -2775,9 +2778,9 @@
     "country": "USA",
     "developer": "Iguana",
     "publisher": "Acclaim",
-    "releasedate": "6Jan- '-Ja '96",
+    "releasedate": "unknown",
     "releaseYear": 1996,
-    "otherPlatforms": ["PC", "Playstation", "Saturn"],
+    "otherPlatforms": ["DOS", "PC", "Playstation", "Saturn"],
     "series": "Batman",
     "players": 2,
     "structure": "Linear",
@@ -2803,7 +2806,7 @@
     "sprites": "Large",
     "setting": "Gotham",
     "focus": "Hand-to-hand",
-    "music": ["Techno"],
+    "music": ["Rock", "Symphonic"],
     "tone": "Serious",
     "fighters": 2,
     "stages": 5,
@@ -2822,8 +2825,15 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/batman/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/batman/img/ss05.png"
     ],
-    "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Batman_Forever:_The_Arcade_Game"],
+    "videos": [
+      "https://www.youtube.com/embed/LJvrHS-kKZU",
+      "https://www.youtube.com/embed/hhvwYWc_vP0"
+    ],
+    "links": [
+      "https://en.wikipedia.org/wiki/Batman_Forever:_The_Arcade_Game",
+      "https://gamefaqs.gamespot.com/arcade/583663-batman-forever",
+      "https://www.mobygames.com/game/arcade/batman-forever__"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -5867,6 +5877,7 @@
     "focus": "Hand-to-hand",
     "music": ["Rock"],
     "tone": "Serious",
+    "gore": ["Blood"],
     "fighters": 4,
     "stages": 7,
     "enemies": 20,
@@ -5885,7 +5896,14 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/dinos/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://en.wikipedia.org/wiki/Cadillacs_and_Dinosaurs_(video_game)",
+      "https://www.arcade-museum.com/game_detail.php?game_id=7255",
+      "https://gamefaqs.gamespot.com/arcade/575551-cadillacs-and-dinosaurs",
+      "http://rq87.flyingomelette.com/RQ/R/ARC/C&D/1.html",
+      "https://capcom.fandom.com/wiki/Cadillacs_and_Dinosaurs",
+      "http://www.hardcoregaming101.net/cadillacs-dinosaurs/"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -6393,7 +6411,9 @@
     "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Captain_Commando",
-      "http://www.hardcoregaming101.net/captain-commando/"
+      "http://www.hardcoregaming101.net/captain-commando/",
+      "https://tcrf.net/Captain_Commando_(Arcade)",
+      "https://www.movie-censorship.com/report.php?ID=799531"
     ],
     "beatemupBingo": {
       "go": false,
@@ -18111,6 +18131,7 @@
     "links": [
       "https://en.wikipedia.org/wiki/Guardians_(video_game)",
       "https://gamefaqs.gamespot.com/arcade/924620-guardians",
+      "http://www.hardcoregaming101.net/guardians-denjin-makai-ii/",
       "https://namu.wiki/w/%EA%B0%80%EB%94%94%EC%96%B8%EC%A6%88(%EA%B2%8C%EC%9E%84)"
     ],
     "beatemupBingo": {
@@ -30294,7 +30315,7 @@
     "platform": "Genesis",
     "perspective": "2.5D",
     "about": "\n\nStreets of Rage is Sega's flagship brawler franchise for the Genesis. Created as a direct competitor to Final Fight on the SNES, it established the gold standard for console beat 'em ups with its simple gameplay, configurable challenge, legendary OST, and lagless two-player simultaneous action.\n",
-    "trivia": "Streets of Rage innovated the genre by adding the vault technique, which allows you to transition from a front to a back grab and unleash suplexes at will.The cover art features a Jason Voorhees-style enemy that isn't actually in the game. However, he would later make an appearance in Streets of Rage Remake on the PC.The cop car in the screen-clearing special attack animation is from another Sega game, Cyber Police E-SWAT. Additionally, the original title for this game was going to be Dragon SWAT or D-SWAT.Streets was developed by several members from Team Shinobi, who of course worked on the Shinobi series. It features the same font and several sound effects from Return of Shinobi on the Genesis.Streets of Rage is available on several modern platforms, including PSN, Xbox Live, Steam, Wii, 3DS, and even mobile phones. It's also part of the 6-Pak compilation on Sega Genesis along with Golden Axe.Streets of Rage was playable in arcades on Sega's Mega-Tech hardware, which was basically just a Genesis in an arcade cabinet.If you wait around on the character select screen long enough, Blaze will wink at you.Check out http://www.soronline.net for more Streets info!",
+    "trivia": "Streets of Rage innovated the genre by adding the vault technique, which allows you to transition from a front to a back grab and unleash suplexes at will.The cover art features a Jason Voorhees-style enemy that isn't actually in the game. However, he would later make an appearance in Streets of Rage Remake on the PC.The cop car in the screen-clearing special attack animation is from another Sega game, Cyber Police E-SWAT. Additionally, the original title for this game was going to be Dragon SWAT or D-SWAT.Streets was developed by several members from Team Shinobi, who of course worked on the Shinobi series. It features the same font and several sound effects from Return of Shinobi on the Genesis.Streets of Rage is available on several modern platforms, including PSN, Xbox Live, Steam, Wii, 3DS, and even mobile phones. It's also part of the 6-Pak compilation on Sega Genesis along with Golden Axe. Streets of Rage was playable in arcades on Sega's Mega-Tech hardware, which was basically just a Genesis in an arcade cabinet. If you wait around on the character select screen long enough, Blaze will wink at you. Check out http://www.soronline.net for more Streets info!",
     "country": "Japan",
     "developer": "Sega",
     "publisher": "Sega",
@@ -30346,7 +30367,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gen/streets/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Streets_of_Rage_(video_game)"],
+    "links": ["https://en.wikipedia.org/wiki/Streets_of_Rage_(video_game)", "http://rq87.flyingomelette.com/RQ/R/GEN/SoR/1.html"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -30614,7 +30635,8 @@
     "links": [
       "https://en.wikipedia.org/wiki/Streets_of_Rage_2",
       "https://gamefaqs.gamespot.com/genesis/563344-streets-of-rage-ii",
-      "https://www.mobygames.com/game/genesis/streets-of-rage-2"
+      "https://www.mobygames.com/game/genesis/streets-of-rage-2",
+      "http://rq87.flyingomelette.com/RQ/R/GEN/SoR2/1.html"
     ],
     "beatemupBingo": {
       "go": false,
@@ -30876,7 +30898,8 @@
     "links": [
       "https://en.wikipedia.org/wiki/Streets_of_Rage_3",
       "https://gamefaqs.gamespot.com/genesis/586496-streets-of-rage-3",
-      "https://www.mobygames.com/game/streets-of-rage-3"
+      "https://www.mobygames.com/game/streets-of-rage-3",
+      "http://rq87.flyingomelette.com/RQ/R/GEN/SoR3/1.html"
     ],
     "beatemupBingo": {
       "go": true,
@@ -32133,7 +32156,7 @@
     "cover": "",
     "images": [""],
     "videos": [],
-    "links": [],
+    "links": ["http://rq87.flyingomelette.com/RQ/R/GEN/TMNTH/1.html"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -34322,8 +34345,8 @@
     "platform": "Arcade",
     "perspective": "2.5D",
     "about": "\n\nThe Punisher is a late-generation brawler from Capcom that's a licensed adaptation of the Marvel Comics series. It features tons of weapons, automatic gun sequences, and unapologetic violence.\n",
-    "trivia": "The enemy Pretty Boy is based off the Marvel supervillain of the same name. In the comics, it's just one dude rather than an army of cyborgs.The Punisher was also ported to Sega Genesis, although it's missing some features.",
-    "country": "country",
+    "trivia": "The enemy Pretty Boy is based off the Marvel supervillain of the same name. In the comics, it's just one dude rather than an army of cyborgs. The Punisher was also ported to Sega Genesis, although it's missing some features.",
+    "country": "Japan",
     "developer": "Capcom",
     "publisher": "Capcom",
     "releasedate": "3May- '-Ma '93",
@@ -34374,7 +34397,13 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/punisher/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://en.wikipedia.org/wiki/The_Punisher_(1993_video_game)",
+      "https://gamefaqs.gamespot.com/arcade/583713-the-punisher"
+      "https://www.mobygames.com/game/arcade/punisher__",
+      "http://rq87.flyingomelette.com/RQ/R/ARC/PUN/1.html",
+      "http://www.hardcoregaming101.net/punisher-the-arcade/"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -36539,7 +36568,6 @@
     }
   },
   {
-    "missing": true,
     "name": "Unending Dusk",
     "platform": "PC",
     "perspective": "2.5D",
@@ -36553,29 +36581,29 @@
     "otherPlatforms": null,
     "series": null,
     "players": 4,
-    "structure": "structure",
-    "difficulty": "difficulty",
-    "gangsize": null,
-    "variety": ["RPG Elements"],
+    "structure": "Stage select",
+    "difficulty": null,
+    "gangsize": "Gigantic (10+)",
+    "variety": ["RPG Elements", "Survival mode"],
     "playtime": null,
     "buttons": null,
-    "combos": null,
+    "combos": "Static",
     "grabs": "Contact",
     "dashing": "Double-tap",
-    "enemyHBars": null,
-    "itemPickup": null,
-    "itemStay": null,
+    "enemyHBars": "Bosses only",
+    "itemPickup": "Contact",
+    "itemStay": "Stay",
     "weaponsStay": null,
     "deathBlow": null,
     "friendlyFire": null,
     "charSwitch": null,
-    "groundHit": "groundHit",
+    "groundHit": "No",
     "revive": null,
     "restore": null,
-    "artStyle": "artStyle",
-    "sprites": null,
+    "artStyle": "Semi-realistic",
+    "sprites": "Medium",
     "setting": "Post-apocalyptic",
-    "focus": "focus",
+    "focus": "Hand-to-hand",
     "music": ["Video game"],
     "tone": "Serious",
     "gore": ["Blood"],
@@ -37293,10 +37321,10 @@
     "country": "Japan",
     "developer": "Konami",
     "publisher": "Konami",
-    "releasedate": "3Jan- '-Ja '93",
+    "releasedate": "1993-07-26",
     "releaseYear": 1993,
     "otherPlatforms": null,
-    "series": null,
+    "series": "Crime Fighters",
     "players": 3,
     "structure": "Linear",
     "difficulty": "Casual",
@@ -37323,8 +37351,9 @@
     "focus": "Hand-to-hand",
     "music": ["80's Rock"],
     "tone": "Humorous",
+    "gore": ["Blood"],
     "fighters": 3,
-    "stages": null,
+    "stages": 7,
     "enemies": null,
     "bosses": null,
     "weapons": [null],
@@ -37340,32 +37369,40 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/vstorm/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/vstorm/img/ss05.png"
     ],
-    "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Violent_Storm"],
+    "videos": ["https://www.youtube.com/embed/BHVeG8ri4kA"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Violent_Storm",
+      "https://gamefaqs.gamespot.com/arcade/568096-violent-storm/faqs",
+      "https://www.mobygames.com/game/violent-storm",
+      "https://www.arcade-history.com/?n=violent-storm&page=detail&id=3077",
+      "https://konami.fandom.com/wiki/Violent_Storm",
+      "https://strategywiki.org/wiki/Violent_Storm",
+      "http://www.hardcoregaming101.net/violent-storm/"
+    ],
     "beatemupBingo": {
       "go": false,
-      "sunsetEnding": false,
+      "sunsetEnding": true,
       "healthMeat": false,
-      "sleevelessJacket": false,
+      "sleevelessJacket": true,
       "bossWithGun": false,
       "fireBombs": false,
-      "twowordTitle": false,
+      "twowordTitle": true,
       "throwingKnife": false,
       "subwayStage": false,
       "exproWrestler": false,
-      "steelPipe": false,
-      "kindnappedFemale": false,
-      "specialDrainsHealth": false,
-      "oilDrums": false,
+      "steelPipe": true,
+      "kindnappedFemale": true,
+      "specialDrainsHealth": true,
+      "oilDrums": true,
       "clowns": false,
-      "yellowRedHealthBar": false,
+      "yellowRedHealthBar": true,
       "dominatrix": false,
-      "powerSpeedBalance": false,
+      "powerSpeedBalance": true,
       "elevatorScene": false,
       "mansionStage": false,
       "mohawks": false,
       "buildingSite": false,
-      "fatCharginMen": false,
+      "fatCharginMen": true,
       "sharpSuits": false,
       "graffiti": false
     }
