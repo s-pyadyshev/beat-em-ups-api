@@ -22572,8 +22572,8 @@
     "name": "Mayhem Brawler",
     "platform": "PC",
     "perspective": "2.5D",
-    "about": "about",
-    "trivia": "trivia",
+    "about": "Mayhem Brawler is an urban fantasy themed beat 'em up. The game has a distinctly comic book vibe, with supernatural creatures situated in a ‘90s-style cop action comedy.",
+    "trivia": "A disturbance at the docks results in main characters busting a smuggling operation, which then leads them to a plot where an unknown force has stolen a deceased superhuman's body with plans to turn her powers into a bomb.",
     "country": "Turkey",
     "developer": "Hero Concept",
     "publisher": "Hero Concept",
@@ -22616,7 +22616,7 @@
     "lives": null,
     "continues": null,
     "extend": null,
-    "overallReview": "overallReview",
+    "overallReview": null,
     "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1306720/header.jpg?t=1629889931",
     "images": [
       "https://cdn.akamai.steamstatic.com/steam/apps/1306720/ss_23fd2dab23ad31e737b2dd572282a3b064fc0ed2.1920x1080.jpg?t=1629889931",
@@ -22640,7 +22640,9 @@
       "https://www.mobygames.com/game/windows/mayhem-brawler",
       "https://gamefaqs.gamespot.com/pc/305068-mayhem-brawler",
       "https://www.gameskinny.com/pmotn/mayhem-brawler-review-the-streets-are-only-sort-of-annoyed",
-      "https://hardcoregamer.com/reviews/review-mayhem-brawler/408259/"
+      "https://hardcoregamer.com/reviews/review-mayhem-brawler/408259/",
+      "https://www.pcinvasion.com/mayhem-brawler-review/",
+      "https://www.thexboxhub.com/mayhem-brawler-review/"
     ],
     "beatemupBingo": {
       "go": true,
@@ -22652,7 +22654,7 @@
       "twowordTitle": true,
       "throwingKnife": true,
       "subwayStage": false,
-      "exproWrestler": false,
+      "exproWrestler": true,
       "steelPipe": false,
       "kindnappedFemale": false,
       "specialDrainsHealth": false,
