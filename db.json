@@ -36730,7 +36730,10 @@
     "cover": "",
     "images": [""],
     "videos": [""],
-    "links": ["https://en.wikipedia.org/wiki/Prime_(comics)#Appearances_in_other_media", "https://www.mobygames.com/game/ultraverse-prime-microcosm"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Prime_(comics)#Appearances_in_other_media",
+      "https://www.mobygames.com/game/ultraverse-prime-microcosm"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -38555,7 +38558,11 @@
     "cover": "",
     "images": [""],
     "videos": [""],
-    "links": ["https://en.wikipedia.org/wiki/WWF_Betrayal"],
+    "links": [
+      "https://en.wikipedia.org/wiki/WWF_Betrayal",
+      "https://gamefaqs.gamespot.com/gbc/481084-wwf-betrayal",
+      "https://www.mobygames.com/game/wwf-betrayal"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
