@@ -14389,7 +14389,6 @@
     }
   },
   {
-    "missing": true,
     "name": "Fighting Force",
     "platform": "PC",
     "perspective": "3D",
@@ -14429,7 +14428,7 @@
     "music": ["Electronic"],
     "tone": "Serious",
     "fighters": 4,
-    "stages": 12,
+    "stages": 8,
     "enemies": null,
     "bosses": null,
     "weapons": [null],
@@ -14437,16 +14436,28 @@
     "continues": null,
     "extend": 100000,
     "overallReview": "overallReview",
-    "cover": "https://www.mobygames.com/images/covers/l/6689-fighting-force-playstation-front-cover.jpg",
-    "images": [""],
-    "videos": ["https://www.youtube.com/embed/izOPJA2MyC0"],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/fforce/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/fforce/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/fforce/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/fforce/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/fforce/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/fforce/ss05.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/fforce/ss06.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/fforce/ss07.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/fforce/ss08.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/fforce/ss09.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/fforce/ss10.jpg"
+    ],
+    "videos": ["https://www.youtube.com/embed/LRvfRsrfzsw"],
     "links": [
       "https://en.wikipedia.org/wiki/Fighting_Force",
       "https://fightingforce.fandom.com/wiki/Fighting_Force",
-      "https://www.mobygames.com/game/playstation/fighting-force",
-      "https://gamefaqs.gamespot.com/ps/197329-fighting-force",
       "https://strategywiki.org/wiki/Fighting_Force",
-      "https://www.pcgamingwiki.com/wiki/Fighting_Force"
+      "https://www.pcgamingwiki.com/wiki/Fighting_Force",
+      "https://www.myabandonware.com/game/fighting-force-bgp",
+      "https://www.mobygames.com/game/windows/fighting-force",
+      "https://gamefaqs.gamespot.com/pc/610787-fighting-force"
     ],
     "beatemupBingo": {
       "go": false,
@@ -14473,11 +14484,10 @@
       "buildingSite": false,
       "fatCharginMen": false,
       "sharpSuits": true,
-      "graffiti": false
+      "graffiti": true
     }
   },
   {
-    "missing": true,
     "name": "Fighting Force",
     "platform": "PlayStation",
     "perspective": "3D",
@@ -14517,7 +14527,7 @@
     "music": ["Electronic"],
     "tone": "Serious",
     "fighters": 4,
-    "stages": 12,
+    "stages": 8,
     "enemies": null,
     "bosses": null,
     "weapons": [null],
@@ -14525,16 +14535,32 @@
     "continues": null,
     "extend": 100000,
     "overallReview": "overallReview",
-    "cover": "https://www.mobygames.com/images/covers/l/6689-fighting-force-playstation-front-cover.jpg",
-    "images": [""],
-    "videos": ["https://www.youtube.com/embed/izOPJA2MyC0"],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/fforce/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/fforce/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/fforce/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/fforce/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/fforce/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/fforce/ss05.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/fforce/ss06.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/fforce/ss07.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/fforce/ss08.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/fforce/ss09.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/fforce/ss10.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/fforce/ss11.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/fforce/ss12.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/fforce/ss13.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/fforce/ss14.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/fforce/ss15.jpg"
+    ],
+    "videos": ["https://www.youtube.com/embed/xE_nd6OCqUU"],
     "links": [
       "https://en.wikipedia.org/wiki/Fighting_Force",
       "https://fightingforce.fandom.com/wiki/Fighting_Force",
-      "https://www.mobygames.com/game/playstation/fighting-force",
-      "https://gamefaqs.gamespot.com/ps/197329-fighting-force",
       "https://strategywiki.org/wiki/Fighting_Force",
-      "https://www.pcgamingwiki.com/wiki/Fighting_Force"
+      "https://www.pcgamingwiki.com/wiki/Fighting_Force",
+      "https://www.mobygames.com/game/n64/fighting-force",
+      "https://gamefaqs.gamespot.com/n64/197332-fighting-force-64"
     ],
     "beatemupBingo": {
       "go": false,
@@ -14561,11 +14587,10 @@
       "buildingSite": false,
       "fatCharginMen": false,
       "sharpSuits": true,
-      "graffiti": false
+      "graffiti": true
     }
   },
   {
-    "missing": true,
     "name": "Fighting Force",
     "platform": "Nintendo 64",
     "perspective": "3D",
@@ -14574,8 +14599,8 @@
     "country": "UK",
     "developer": "Core Design",
     "publisher": "Eidos Interactive",
-    "releasedate": "1997-10-31",
-    "releaseYear": 1997,
+    "releasedate": "1999-06-01",
+    "releaseYear": 1999,
     "otherPlatforms": ["PC", "PlayStation"],
     "series": "Fighting Force",
     "players": 2,
@@ -14605,7 +14630,7 @@
     "music": ["Electronic"],
     "tone": "Serious",
     "fighters": 4,
-    "stages": 12,
+    "stages": 8,
     "enemies": null,
     "bosses": null,
     "weapons": [null],
@@ -14613,9 +14638,15 @@
     "continues": null,
     "extend": 100000,
     "overallReview": "overallReview",
-    "cover": "https://www.mobygames.com/images/covers/l/6689-fighting-force-playstation-front-cover.jpg",
-    "images": [""],
-    "videos": ["https://www.youtube.com/embed/izOPJA2MyC0"],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/n64/fforce/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/n64/fforce/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/n64/fforce/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/n64/fforce/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/n64/fforce/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/n64/fforce/ss05.jpg"
+    ],
+    "videos": ["https://www.youtube.com/embed/8Dr0Or2IWPg"],
     "links": [
       "https://en.wikipedia.org/wiki/Fighting_Force",
       "https://fightingforce.fandom.com/wiki/Fighting_Force",
@@ -14649,7 +14680,7 @@
       "buildingSite": false,
       "fatCharginMen": false,
       "sharpSuits": true,
-      "graffiti": false
+      "graffiti": true
     }
   },
   {
