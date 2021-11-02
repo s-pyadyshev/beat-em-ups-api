@@ -1,18 +1,15 @@
   - Aeon Flux (PS2)
-  - Fantastic Four (PS1)?
   - Futari wa Precure Max Heart Danzen! DS de Precure Chikara o Awasete Dai Battle
   - GetBackers Dakkanya: Urashinshiku Saikyou Battle (Japan) PS2 (GetBackers Dakkanya - Dakkandayo! Zenin Shuugou!!)
   - Hulk (2003 PC)
-  - Metro Siege (Amiga 500)
+  - Metro Siege (Amiga 500) - In development
   - Rampage Knights (PC)?
   - Redeemer (PC)?
   - Two Crude Dudes? (Arcade, Genesis)
   - Ikkitousen Xcross Impact PSP
-  - PS2 Ikki Tousen: Shining Dragon, Kenka Banchou, The Mini Bijo Keikan, Street Warrior, The Transformers: Call of the Future
+  - Ikki Tousen: Shining Dragon, Kenka Banchou, The Mini Bijo Keikan, Street Warrior, The Transformers: Call of the Future PS2
   - Dungeons: The Eye of Draconus
-  - Knights of Valour 3 (Arcade)
   - Lin Zexu No Smoking (NES)
-  - Manic Game Girl
   - Moonstone (Amiga)
   - Pirates Plund-Arrr
   - GP Daenantu ~ GP!!! Dairantou (Kor) (지피대난투 (GP Daenantu)/ GP Fight - Windows (November 15, 2002))
@@ -35,7 +32,7 @@
   - Unbound Saga (XBLA)
   - The Ninja Warriors Once Again in Japan and The Ninja Saviors: Return of the Warriors
   - PuLiRuLa ports
-  - Saturn: Warriors of Fate Saturn, Die Hard Arcade, Batman Forever, Dungeons and Dragons, Nekketsu Oyako
+  - Saturn: Warriors of Fate, Batman Forever, Dungeons and Dragons, Nekketsu Oyako
   - Asterix & Obélix Bash Them All - Game Boy Advance
   - Fist of the North Star: Ken's Rage 2 - PS3
   - Splatterhouse PS3
