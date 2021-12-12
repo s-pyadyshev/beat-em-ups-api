@@ -32123,7 +32123,7 @@
     "country": null,
     "developer": null,
     "publisher": null,
-    "releasedate": null,
+    "releasedate": "releasedate",
     "releaseYear": null,
     "otherPlatforms": null,
     "series": null,
