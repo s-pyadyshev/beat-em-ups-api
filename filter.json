@@ -90,6 +90,7 @@
     "filterName": "Developer",
     "description": "Who developed this game",
     "options": [
+      "7thChord",
       "9TH.ART",
       "A&A",
       "Ablaze Entertainment",
@@ -133,6 +134,7 @@
       "Core Design",
       "Cream",
       "Danbi",
+      "Daou Infosys",
       "Dark Blue Games",
       "Darkwind Media",
       "Data East",
@@ -161,6 +163,7 @@
       "Foster City Studio",
       "Frankenstein Studio",
       "Freedom Factory Studios",
+      "FuturecopLGF",
       "Game No Limit",
       "Gravity Co., Ltd.",
       "Gray Matter",
@@ -287,6 +290,7 @@
       "TG Entertainment",
       "Thatcher Productions",
       "The Behemoth",
+      "The Dome Software Developments",
       "The Eccentric Ape",
       "Toaplan",
       "Toka",
@@ -358,6 +362,7 @@
       "Culture Brain",
       "D3Publisher",
       "Danbi",
+      "Daou Infosys",
       "Dark Blue Games",
       "Darkwind Media",
       "Data East",
@@ -465,6 +470,7 @@
       "Pierwolf",
       "Playmates",
       "Pop",
+      "Psygnosis",
       "QuByte Interactive",
       "Rake in Grass",
       "Rare",
@@ -1233,6 +1239,7 @@
       "Chiptune Rock",
       "Electronic",
       "Electronic Medieval",
+      "Experimental",
       "Grunge",
       "Hard Rock",
       "Hip hop",
@@ -1277,7 +1284,7 @@
     "filterName": "Fighters",
     "description": "Number of playable characters.",
     "options": [
-      1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 15, 17, 18, 19, 20, 21, 31, 58, 59
+      1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 15, 17, 18, 19, 20, 21, 25, 31, 58, 59
     ]
   },
   {
