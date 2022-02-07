@@ -1,5 +1,4 @@
   - Two Crude Dudes? (Arcade, Genesis)
-  - The Story Of Atria Land
   - https://blog.naver.com/kisswing0/221423583987
   - Rushing Beat Of Rage (https://store.steampowered.com/app/1498840/Rushing_Beat_Of_Rage/)
   - https://bootleggames.fandom.com/wiki/Shui_Hu_Feng_Yun_Zhuan
@@ -17,7 +16,7 @@
   - Asterix and Obelix: PAF! Them All! (GBA)
   - Blade (GBC)?
   - https://emanuelepepi.altervista.org/
-  - The Fighting Wolf AT (MSX) ?
+  - The Fighting Wolf AT (MSX) ? - too simple
   - Ridegear Guybrave (PS) ?
   - Simple 2000 Series Vol. 60: The Tokusatsu Henshin Hero ?
   - He Jin Zhuang Bei II (GBC)
@@ -37,7 +36,11 @@
   - 더블 드라곤 (Double Dragon) - MSX (http://www.hardcoregaming101.net/korea/part3/company-gamepark.htm#dungeonandguarder)
   - 미니비 (MiniB) - Windows (December 12, 2002) (http://www.hardcoregaming101.net/korea/part2/company-taff.htm#minib)
   - 비지란테 (Vigilante) - MSX (1990) (http://www.hardcoregaming101.net/korea/part1/company-clover.htm#vigilante)
-  - 열혈강호 (Yulhyul Kangho) - Windows (June 22, 2001) (http://www.hardcoregaming101.net/korea/part2/company-krg.htm#yulgang)
+  - 열혈강호 (Yulhyul Kangho) - Windows (June 22, 2001) (http://www.hardcoregaming101.net/korea/part2/company-krg.htm#yulgang) ?
   - Street Fighting Man (DOS 1989)
+  - 짱구는 못말려 3：돌아온 짱구 , JJangGu 3 ?
+  - 라그나로크 배틀 , Ragnarok Battle ?
+  - 나이트 오브 나이츠 , Knight of Knights
+  - Yulhyul Kangho ?
   - Missing overall reviews: Silent Dragon, TMNT (GEN), Vendetta, Spider-man and Venom (SNES), The Gladiator
   - PuLiRuLa ports - Saturn, PS. Saturn: Warriors of Fate, Batman Forever, Dungeons and Dragons, Nekketsu Oyako
