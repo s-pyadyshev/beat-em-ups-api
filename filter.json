@@ -929,6 +929,7 @@
       "Strike, Counter, Stun",
       "Weak, Medium, Strong, Jump kick, Special, Grab",
       "Weak, Strong",
+      "Weak, Strong, Block, Pick Up",
       "Weak, Strong, Dodge, Throw, Special 1, Special 2",
       "Weak, Strong, Dodge, Grab",
       "Weak, Strong, Counter, Grab, Run",
