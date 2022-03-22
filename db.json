@@ -1610,14 +1610,13 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "https://www.mobygames.com/images/covers/l/422803-anett-futatabi-sega-cd-front-cover.jpg",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/afutatabi/cover.jpg",
     "images": [
-      "https://replayers.org/wp-content/uploads/2018/03/382698-anett-futatabi-sega-cd-screenshot-title-screen.png",
-      "https://replayers.org/wp-content/uploads/2018/03/382700-anett-futatabi-sega-cd-screenshot-time-to-fight.png",
-      "https://replayers.org/wp-content/uploads/2018/03/382701-anett-futatabi-sega-cd-screenshot-he-s-trying-to-hide-behind.png",
-      "https://replayers.org/wp-content/uploads/2018/03/382702-anett-futatabi-sega-cd-screenshot-that-soda-can-will-restore.png",
-      "https://replayers.org/wp-content/uploads/2018/03/382703-anett-futatabi-sega-cd-screenshot-one-of-the-special-moves.png",
-      "https://replayers.org/wp-content/uploads/2018/03/382704-anett-futatabi-sega-cd-screenshot-the-first-boss.png"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/afutatabi/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/afutatabi/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/afutatabi/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/afutatabi/ss04.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/afutatabi/ss05.png"
     ],
     "videos": ["https://www.youtube.com/embed/j6mcdxHSul8"],
     "links": [
@@ -9587,7 +9586,9 @@
     "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Crisis_Beat",
-      "https://gamefaqs.gamespot.com/ps/572766-crisis-beat"
+      "https://gamefaqs.gamespot.com/ps/572766-crisis-beat",
+      "https://www.mobygames.com/game/playstation/crisis-beat",
+      "http://www.hardcoregaming101.net/crisis-beat/"
     ],
     "beatemupBingo": {
       "go": false,
@@ -9958,7 +9959,7 @@
     "overallReview": [
       {
         "author": "Kotix",
-        "text": "I really enjoyed its enemies' friendly fire gimmick, it's fun to see them stabbing, shooting and bombing each other. The game has a lot of small touches giving it a unique charm. OST is nice and fits well. The difficulty is too cheap sometimes so even enemies literally laugh at you."
+        "text": "I really enjoyed its enemies' friendly fire gimmick, it's fun to see them stabbing, shooting and bombing each other. Beware of slightly sluggish controls. The game has a lot of small touches giving it a unique charm. OST is nice and fits well. The difficulty is too cheap sometimes so even enemies literally laugh at you."
       }
     ],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/cyberlaw/cover.png",
@@ -10067,7 +10068,7 @@
     "overallReview": [
       {
         "author": "Kotix",
-        "text": "I really enjoyed its enemies' friendly fire gimmick, it's fun to see them stabbing, shooting and bombing each other. The game has a lot of small touches giving it a unique charm. OST is nice and fits well. The difficulty is too cheap sometimes so even enemies literally laugh at you."
+        "text": "I really enjoyed its enemies' friendly fire gimmick, it's fun to see them stabbing, shooting and bombing each other. Beware of slightly sluggish controls. The game has a lot of small touches giving it a unique charm. OST is nice and fits well. The difficulty is too cheap sometimes so even enemies literally laugh at you."
       }
     ],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/cyberlaw/cover.png",
@@ -41495,11 +41496,11 @@
     "continues": null,
     "extend": null,
     "overallReview": [],
-    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/psx/tekken3/cover.jpg",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/tekken3/cover.jpg",
     "images": [
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/psx/tekken3/ss01.jpg",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/psx/tekken3/ss02.jpg",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/psx/tekken3/ss03.jpg"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/tekken3/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/tekken3/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/tekken3/ss03.jpg"
     ],
     "videos": ["https://www.youtube.com/embed/hrnb5U3w4wU"],
     "links": [
@@ -46405,14 +46406,14 @@
     "continues": null,
     "extend": null,
     "overallReview": [],
-    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/uvp/cover.jpg",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/uvprime/cover.jpg",
     "images": [
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/uvp/ss01.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/uvp/ss02.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/uvp/ss03.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/uvp/ss04.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/uvp/ss05.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/uvp/ss06.png"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/uvprime/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/uvprime/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/uvprime/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/uvprime/ss04.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/uvprime/ss05.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/uvprime/ss06.png"
     ],
     "videos": ["https://www.youtube.com/embed/0y55dYdUWZk"],
     "links": [
