@@ -444,7 +444,9 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": ["https://www.youtube.com/embed/-FX7dFAC4j8"],
+    "videos": [
+      "https://www.youtube.com/embed/-FX7dFAC4j8"
+    ],
     "links": [
       "https://en.wikipedia.org/wiki/Absolver",
       "https://absolver.fandom.com/wiki/Absolver_Wiki",
@@ -1943,12 +1945,11 @@
     }
   },
   {
-    "missing": true,
     "name": "Asian Dynamite",
     "platform": "Arcade",
     "perspective": "3D",
-    "about": null,
-    "trivia": "Asian Dynamite, known as Dynamite Deka EX: Asian Dynamite is a direct sequel to Dynamite Deka, meaning in its localised form, Asian Dynamite is a direct sequel to Die Hard Arcade, with the references to the movie franchise removed. It is extremely similar to Dynamite Cop in design, simply sporting an updated Asian aesthetic and replacing Jean Ivy and Eddie Brown with Caroline Powell and Jennifer Genuine, respectively.",
+    "about": "Asian Dynamite, known as Dynamite Deka EX: Asian Dynamite is a direct sequel to Dynamite Deka, meaning in its localised form, Asian Dynamite is a direct sequel to Die Hard Arcade, with the references to the movie franchise removed. It is extremely similar to Dynamite Cop in design, simply sporting an updated Asian aesthetic and replacing Jean Ivy and Eddie Brown with Caroline Powell and Jennifer Genuine, respectively.",
+    "trivia": "Mechanically the only difference is in the power-up system. There are 3 colored briefcases which change character's costume and add different moveset.",
     "country": "China",
     "developer": "Sega",
     "publisher": "Sega (Shanghai) Software Co., Ltd",
@@ -1956,32 +1957,33 @@
     "releaseYear": 2007,
     "otherPlatforms": null,
     "series": null,
-    "players": 1,
-    "structure": null,
-    "difficulty": null,
-    "gangsize": null,
-    "variety": ["None"],
-    "playtime": null,
-    "buttons": null,
-    "combos": null,
-    "grabs": null,
-    "dashing": null,
-    "enemyHBars": null,
-    "itemPickup": null,
-    "itemStay": null,
-    "weaponsStay": null,
-    "deathBlow": null,
-    "friendlyFire": null,
-    "charSwitch": null,
-    "groundHit": null,
-    "revive": null,
-    "restore": null,
-    "artStyle": null,
+    "players": 2,
+    "structure": "Semi-branching",
+    "difficulty": "Medium",
+    "gangsize": "Trio (3)",
+    "variety": ["Survival mode", "VS. mode"],
+    "playtime": "0:30",
+    "buttons": "Punch, Kick, Jump",
+    "combos": "Dynamic",
+    "grabs": "Contact",
+    "dashing": "Double-tap",
+    "enemyHBars": "Bosses + Names",
+    "itemPickup": "Button",
+    "itemStay": "Fade",
+    "weaponsStay": "Ammo, Durability",
+    "deathBlow": "Energy",
+    "friendlyFire": "No",
+    "charSwitch": "No",
+    "groundHit": "Yes",
+    "revive": "Invincibility",
+    "restore": "Food only",
+    "artStyle": "Realistic",
     "sprites": null,
-    "setting": "Asia",
-    "focus": null,
-    "music": ["music"],
-    "tone": null,
+    "setting": "Various",
+    "focus": "Hand-to-hand, Weapons",
+    "music": ["Video game"],
+    "tone": "Serious",
+    "gore": ["Blood"],
     "fighters": 3,
     "stages": null,
     "enemies": null,
@@ -2002,11 +2004,13 @@
       "https://www.mobygames.com/images/shots/l/945309-asian-dynamite-arcade-screenshot-you-guys-should-ve-kept-cooking.png",
       "https://www.mobygames.com/images/shots/l/945313-asian-dynamite-arcade-screenshot-why-am-i-supposed-to-fight.png"
     ],
-    "videos": ["https://www.youtube.com/embed/htYyBxtWD9A"],
+    "videos": [
+      "https://www.youtube.com/embed/htYyBxtWD9A"
+    ],
     "links": [
       "https://segaretro.org/Asian_Dynamite",
-      "https://www.mobygames.com/game/asian-dynamite",
       "https://gamefaqs.gamespot.com/arcade/937094-dynamite-deka-ex-asian-dynamite",
+      "https://www.mobygames.com/game/asian-dynamite",
       "http://www.hardcoregaming101.net/dynamite-deka-ex-asian-dynamite/"
     ],
     "beatemupBingo": {
@@ -11328,18 +11332,20 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "https://www.mobygames.com/images/covers/l/412912-demolishfist-arcade-front-cover.png",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/dfist/cover.jpg",
     "images": [
-      "https://miro.medium.com/max/1000/1*4FPxpmzE9Mqef53HRdJPpQ.png",
-      "https://miro.medium.com/max/1400/1*oF-83sYuZcPc8uzPiBToww.png",
-      "https://miro.medium.com/max/1000/1*J5PYyEQhfbighNPKNc6i-Q.png",
-      "https://miro.medium.com/max/1000/1*MrZ0_yvqiWl45CCocF-XoA.png",
-      "https://miro.medium.com/max/1000/1*FGkIu0G8Dsg4iCW7l4eeAQ.png"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/dfist/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/dfist/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/dfist/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/dfist/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/dfist/ss05.jpg"
     ],
-    "videos": ["https://www.youtube.com/embed/tVT9TGGZ7R4"],
+    "videos": [
+      "https://www.youtube.com/embed/tVT9TGGZ7R4"
+    ],
     "links": [
-      "https://www.mobygames.com/game/arcade/demolishfist",
       "https://gamefaqs.gamespot.com/arcade/921883-demolish-fist",
+      "https://www.mobygames.com/game/arcade/demolishfist",
       "https://medium.com/@katcolonel/demolish-fist-144374d24bf4",
       "http://www.vazcomics.org/mamend/D/demofist.htm"
     ],
@@ -12965,8 +12971,8 @@
     "country": "Japan",
     "developer": "Technos",
     "publisher": "Acclaim",
-    "releasedate": "1Dec- '-De '91",
-    "releaseYear": 1991,
+    "releasedate": "1990-12-07",
+    "releaseYear": 1990,
     "otherPlatforms": null,
     "series": "Double Dragon",
     "players": 2,
@@ -13018,7 +13024,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon2/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/gameboy/563268-double-dragon-ii"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -13056,9 +13064,9 @@
     "country": "Japan",
     "developer": "Technos",
     "publisher": "Technos",
-    "releasedate": "8Jan- '-Ja '88",
+    "releasedate": "unknown",
     "releaseYear": 1988,
-    "otherPlatforms": ["Genesis", "NES", "PC Engine"],
+    "otherPlatforms": ["Genesis", "NES", "PC Engine CD"],
     "series": "Double Dragon",
     "players": 2,
     "structure": "Linear",
@@ -13109,7 +13117,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/ddragon2/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/arcade/563965-double-dragon-ii-the-revenge"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -13143,13 +13153,13 @@
     "platform": "NES",
     "perspective": "2.5D",
     "about": "\n\nDouble Dragon II: The Revenge is a port of the arcade version with very few similarities. It's a completely re-designed game that features new moves, enemies, stages, cutscenes, and a unique soundtrack that's at least on par with its predecessor. It also has 2-player simultaneous co-op gameplay and three difficulty settings.\n",
-    "trivia": "This version of Double Dragon II was so successful that the PC Engine port was based on this version rather than the original arcade game.Double Dragon Neon uses the character sprites from this game on the stage select screen.",
+    "trivia": "This version of Double Dragon II was so successful that the PC Engine port was based on this version rather than the original arcade game. Double Dragon Neon uses the character sprites from this game on the stage select screen.",
     "country": "Japan",
     "developer": "Technos",
     "publisher": "TradeWest",
-    "releasedate": "0Jan- '-Ja '90Dec '89",
+    "releasedate": "1989-12-22",
     "releaseYear": 1989,
-    "otherPlatforms": ["Arcade", "Genesis", "PC Engine"],
+    "otherPlatforms": ["Arcade", "Genesis", "PC Engine CD"],
     "series": "Double Dragon",
     "players": 2,
     "structure": "Linear",
@@ -13206,7 +13216,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nes/ddragon2/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/nes/587237-double-dragon-ii-the-revenge"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -13244,9 +13256,9 @@
     "country": "Japan",
     "developer": "Technos",
     "publisher": "PalSoft",
-    "releasedate": "1Dec- '-De '91",
+    "releasedate": "1991-12-20",
     "releaseYear": 1991,
-    "otherPlatforms": ["Arcade", "NES", "PC Engine"],
+    "otherPlatforms": ["Arcade", "NES", "PC Engine CD"],
     "series": "Double Dragon",
     "players": 2,
     "structure": "Linear",
@@ -13297,7 +13309,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gen/ddragon2/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/genesis/578883-double-dragon-ii-the-revenge"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -13335,7 +13349,7 @@
     "country": "Japan",
     "developer": "Kid",
     "publisher": "Naxat Soft",
-    "releasedate": "3Mar- '-Ma '93",
+    "releasedate": "1993-03-12",
     "releaseYear": 1993,
     "otherPlatforms": ["Arcade", "Genesis", "NES"],
     "series": "Double Dragon",
@@ -13388,7 +13402,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pce/ddragon2/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/turbocd/589259-double-dragon-ii-the-revenge"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -13470,8 +13486,8 @@
     "images": [""],
     "videos": [],
     "links": [
-      "http://www.hardcoregaming101.net/double-dragon-ii-wander-of-the-dragons/",
-      "https://doubledragon.fandom.com/wiki/Double_Dragon_II:_Wander_of_the_Dragons"
+      "https://doubledragon.fandom.com/wiki/Double_Dragon_II:_Wander_of_the_Dragons",
+      "http://www.hardcoregaming101.net/double-dragon-ii-wander-of-the-dragons/"
     ],
     "beatemupBingo": {
       "go": false,
@@ -13510,9 +13526,18 @@
     "country": "UK",
     "developer": "Software Creations",
     "publisher": "Flying Edge",
-    "releasedate": "2Jan- '-Ja '92",
+    "releasedate": "unknown",
     "releaseYear": 1992,
-    "otherPlatforms": null,
+    "otherPlatforms": [
+      {
+        "name": "Double Dragon III: The Rosetta Stone",
+        "platform": "Arcade"
+      },
+      {
+        "name": "Double Dragon III: The Sacred Stones",
+        "platform": "NES"
+      }
+    ],
     "series": "Double Dragon",
     "players": 2,
     "structure": "Linear",
@@ -13563,7 +13588,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gen/ddragon3/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/genesis/586146-double-dragon-3-the-arcade-game"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -13601,9 +13628,18 @@
     "country": "Japan",
     "developer": "East Technology",
     "publisher": "Technos",
-    "releasedate": "0Jan- '-Ja '90",
+    "releasedate": "unknown",
     "releaseYear": 1990,
-    "otherPlatforms": null,
+    "otherPlatforms": [
+      {
+        "name": "Double Dragon III: The Arcade Game",
+        "platform": "Genesis"
+      },
+      {
+        "name": "Double Dragon III: The Sacred Stones",
+        "platform": "NES"
+      }
+    ],
     "series": "Double Dragon",
     "players": 2,
     "structure": "Linear",
@@ -13654,7 +13690,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/ddragon3/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/arcade/563966-double-dragon-3-the-rosetta-stone"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -13694,7 +13732,16 @@
     "publisher": "Acclaim",
     "releasedate": "1991-02-22",
     "releaseYear": 1991,
-    "otherPlatforms": null,
+    "otherPlatforms": [
+      {
+        "name": "Double Dragon III: The Rosetta Stone",
+        "platform": "Arcade"
+      },
+      {
+        "name": "Double Dragon III: The Arcade Game",
+        "platform": "Genesis"
+      }
+    ],
     "series": "Double Dragon",
     "players": 2,
     "structure": "Linear",
@@ -13899,7 +13946,7 @@
     "country": "USA",
     "developer": "WayForward",
     "publisher": "Majesco",
-    "releasedate": "2Sep- '-Se '12Dec '13",
+    "releasedate": "2012-09-11",
     "releaseYear": 2012,
     "otherPlatforms": null,
     "series": "Double Dragon",
@@ -13951,9 +13998,12 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps3/ddragonn/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps3/ddragonn/img/ss05.png"
     ],
-    "videos": [],
+    "videos": [
+      "https://www.youtube.com/embed/VzTDoYrrAQM"
+    ],
     "links": [
       "https://en.wikipedia.org/wiki/Double_Dragon_Neon",
+      "https://store.steampowered.com/app/252350/Double_Dragon_Neon/",
       "http://www.hardcoregaming101.net/double-dragon-neon/"
     ],
     "beatemupBingo": {
@@ -15807,7 +15857,7 @@
     "platform": "Arcade",
     "perspective": "2.5D",
     "about": "\n\nDynamite Dux is a cutesy early brawler from Sega. It's the only beat 'em up that completely lacks human characters, and also the only one with a stage progress bar. Its unusual combat engine is defined by charge attacks, one-hit enemies, and heavy emphasis on projectiles.\n",
-    "trivia": "Bean the Dynamite is a character based off of Bin and Pin that appears in a Saturn game called Sonic Fighters.Dynamite Dux is also available on the Sega Master System.",
+    "trivia": "Bean the Dynamite is a character based off of Bin and Pin that appears in a Saturn game called Sonic Fighters. Dynamite Dux is also available on the Sega Master System.",
     "country": "Japan",
     "developer": "Sega",
     "publisher": "Sega",
@@ -22252,7 +22302,7 @@
     "platform": "PSP",
     "perspective": "2.5D",
     "about": "\n\nGuilty Gear Judgment is a spin-off of the Guilty Gear series of fighting games from Arc System Works for the PSP. Although it's a brawler, it features many qualities of the original such as a ton of playable characters, gigantic advanced movesets, fluid animations, and rapid gameplay. Besides that, it's a traditional beat 'em up in terms of enemy design and structure. It has 2-player co-op gameplay via the PSP's ad-hoc multiplayer as well as a standalone fighting game in addition to the brawler portion.\n",
-    "trivia": "Arc System Works also gave run 'n' gun shooters a shot by developing Hard Corps: Uprising, a modern Contra game from Konami available on Xbox Live and PSN.Daisuke Ishiwatara, creator of Guilty Gear, personally handles several aspects of game development such as design, art, and music.",
+    "trivia": "Arc System Works also gave run 'n' gun shooters a shot by developing Hard Corps: Uprising, a modern Contra game from Konami available on Xbox Live and PSN. Daisuke Ishiwatara, creator of Guilty Gear, personally handles several aspects of game development such as design, art, and music.",
     "country": "Japan",
     "developer": "Arc System Works",
     "publisher": "Majesco",
@@ -22573,7 +22623,9 @@
     "cover": "",
     "images": [""],
     "videos": [""],
-    "links": ["https://en.wikipedia.org/wiki/Hidden_Invasion"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Hidden_Invasion"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -22659,7 +22711,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/hkn/ss04.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/hkn/ss05.jpg"
     ],
-    "videos": ["https://www.youtube.com/embed/yV6H1LBlvBQ"],
+    "videos": [
+      "https://www.youtube.com/embed/yV6H1LBlvBQ"
+    ],
     "links": [],
     "beatemupBingo": {
       "go": true,
@@ -22698,7 +22752,7 @@
     "country": "Japan",
     "developer": "Irem",
     "publisher": "Irem",
-    "releasedate": "2Jan- '-Ja '92",
+    "releasedate": "unknown",
     "releaseYear": 1992,
     "otherPlatforms": null,
     "series": null,
@@ -23659,7 +23713,7 @@
     "extend": "N/A",
     "overallReview": [{
       "author": "Kotix",
-      "text": "You get what you expect to see: tons of fightings, stunts and broken stuff. Although the game can be considered as half-platformer its combat is very diverse and satisfying especially regarding weapons. I wish common enemies could be more interesting, thus all Oscars go to Jackie and charismatic bosses. Throwing bad guys into breakable stuff is priceless."
+      "text": "You get what you expect to see: tons of breakable stuff to throw bad guys into. Although the game can be considered as half-platformer its combat is very diverse and satisfying especially regarding weapons. I wish common enemies could be more varied and numerous."
     }],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/jcsm/cover.jpg",
     "images": [
@@ -24909,7 +24963,7 @@
     "platform": "PS2",
     "perspective": "3D",
     "about": null,
-    "trivia": null,
+    "trivia": "Also known as Fighting Beauty Wulong.",
     "country": "Japan",
     "developer": "DreamFactory",
     "publisher": "Bandai",
@@ -24956,7 +25010,10 @@
     "cover": "",
     "images": [""],
     "videos": [""],
-    "links": ["https://gamefaqs.gamespot.com/ps2/931994-kakutou-bijin-wulong"],
+    "links": [
+      "https://gamefaqs.gamespot.com/ps2/931994-kakutou-bijin-wulong",
+      "https://www.mobygames.com/game/ps2/fighting-beauty-wulong"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -37230,13 +37287,13 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "https://www.mobygames.com/images/covers/l/283505-sleeping-dogs-windows-front-cover.jpg",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/sdogs/cover.jpg",
     "images": [
-      "https://videogameinterfaces.com/media/pages/ui/united-front-games/sleeping-dogs/in-game/3579595070-1591817797/sleeping-dogs-in-game-ui-4.jpg",
-      "https://videogameinterfaces.com/media/pages/ui/united-front-games/sleeping-dogs/in-game/905567486-1591817797/sleeping-dogs-in-game-ui-12.jpg",
-      "https://www.mobygames.com/images/shots/l/584141-sleeping-dogs-windows-screenshot-an-environmental-finishing.jpg",
-      "https://www.mobygames.com/images/shots/l/769329-sleeping-dogs-windows-screenshot-off-you-go.png",
-      "https://www.mobygames.com/images/shots/l/769351-sleeping-dogs-windows-screenshot-that-s-just-brutal-there.png"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/sdogs/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/sdogs/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/sdogs/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/sdogs/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/sdogs/ss05.jpg"
     ],
     "videos": [
       "https://www.youtube.com/embed/rb-hkbt_Ah8",
@@ -37252,10 +37309,10 @@
       "go": false,
       "sunsetEnding": false,
       "healthMeat": false,
-      "sleevelessJacket": false,
+      "sleevelessJacket": true,
       "bossWithGun": false,
       "fireBombs": false,
-      "twoWordTitle": false,
+      "twoWordTitle": true,
       "throwingKnife": false,
       "subwayStage": false,
       "exproWrestler": false,
@@ -37270,9 +37327,9 @@
       "elevatorScene": false,
       "mansionStage": false,
       "mohawks": false,
-      "buildingSite": false,
+      "buildingSite": true,
       "fatCharginMen": false,
-      "sharpSuits": false,
+      "sharpSuits": true,
       "graffiti": false
     }
   },
@@ -44326,13 +44383,13 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "https://www.mobygames.com/images/covers/l/126940-the-rage-windows-front-cover.jpg",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/trage/cover.jpg",
     "images": [
-      "https://www.old-games.ru/games/pc/rage__the/screenshots/2035_5a910d9d9a6a5.jpg",
-      "https://www.old-games.ru/games/pc/rage__the/screenshots/2035_5a910eb900be9.jpg",
-      "https://www.old-games.ru/games/pc/rage__the/screenshots/2035_5a910dec720a1.jpg",
-      "https://www.old-games.ru/games/pc/rage__the/screenshots/2035_5a910f2c674e8.jpg",
-      "https://www.old-games.ru/games/pc/rage__the/screenshots/2035_5a911283911f2.jpg"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/trage/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/trage/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/trage/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/trage/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/trage/ss05.jpg"
     ],
     "videos": ["https://www.youtube.com/embed/QZ-LLH5i1rQ"],
     "links": [
@@ -44417,23 +44474,23 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "https://gamefaqs1.cbsistatic.com/screen/full/3/2/7/233327.jpg",
+    "cover": "https://gamefaqs.gamespot.com/a/screen/full/3/2/7/233327.jpg",
     "images": [
-      "https://gamefaqs1.cbsistatic.com/screen/full/3/4/2/233342.jpg",
-      "https://gamefaqs1.cbsistatic.com/screen/full/3/4/8/233348.jpg",
-      "https://gamefaqs1.cbsistatic.com/screen/full/3/5/5/233355.jpg",
-      "https://gamefaqs1.cbsistatic.com/screen/full/3/6/8/233368.jpg",
-      "https://gamefaqs1.cbsistatic.com/screen/full/3/7/3/233373.jpg",
-      "https://gamefaqs1.cbsistatic.com/screen/full/3/7/6/233376.jpg",
-      "https://gamefaqs1.cbsistatic.com/screen/full/3/8/1/233381.jpg",
-      "https://gamefaqs1.cbsistatic.com/screen/full/3/8/3/233383.jpg",
-      "https://gamefaqs1.cbsistatic.com/screen/full/3/9/4/233394.jpg",
-      "https://gamefaqs1.cbsistatic.com/screen/full/3/9/7/233397.jpg",
-      "https://gamefaqs1.cbsistatic.com/screen/full/3/9/9/233399.jpg",
-      "https://gamefaqs1.cbsistatic.com/screen/full/4/0/2/233402.jpg",
-      "https://gamefaqs1.cbsistatic.com/screen/full/4/0/8/233408.jpg",
-      "https://gamefaqs1.cbsistatic.com/screen/full/4/2/7/233427.jpg",
-      "https://gamefaqs1.cbsistatic.com/screen/full/4/2/9/233429.jpg"
+      "https://gamefaqs.gamespot.com/a/screen/full/4/2/4/233342.jpg",
+      "https://gamefaqs.gamespot.com/a/screen/full/3/4/8/233348.jpg",
+      "https://gamefaqs.gamespot.com/a/screen/full/3/5/5/233355.jpg",
+      "https://gamefaqs.gamespot.com/a/screen/full/3/6/8/233368.jpg",
+      "https://gamefaqs.gamespot.com/a/screen/full/3/7/3/233373.jpg",
+      "https://gamefaqs.gamespot.com/a/screen/full/3/7/6/233376.jpg",
+      "https://gamefaqs.gamespot.com/a/screen/full/3/8/1/233381.jpg",
+      "https://gamefaqs.gamespot.com/a/screen/full/3/8/3/233383.jpg",
+      "https://gamefaqs.gamespot.com/a/screen/full/3/9/4/233394.jpg",
+      "https://gamefaqs.gamespot.com/a/screen/full/3/9/7/233397.jpg",
+      "https://gamefaqs.gamespot.com/a/screen/full/3/9/9/233399.jpg",
+      "https://gamefaqs.gamespot.com/a/screen/full/4/0/2/233402.jpg",
+      "https://gamefaqs.gamespot.com/a/screen/full/4/0/8/233408.jpg",
+      "https://gamefaqs.gamespot.com/a/screen/full/4/2/7/233427.jpg",
+      "https://gamefaqs.gamespot.com/a/screen/full/4/2/9/233429.jpg"
     ],
     "videos": [
       "https://www.youtube.com/embed/Aho_11KsTjM",
@@ -44831,7 +44888,7 @@
     "platform": "Amiga",
     "perspective": "2.5D",
     "about": null,
-    "trivia": null,
+    "trivia": "This game can be played with 6 players simultaneously. 2 players in story mode only.",
     "country": "Slovakia",
     "developer": "Ablaze Entertainment",
     "publisher": "Vulcan Software",
@@ -44841,8 +44898,8 @@
     "series": null,
     "players": 2,
     "structure": "Linear",
-    "difficulty": null,
-    "gangsize": null,
+    "difficulty": "Hard",
+    "gangsize": "Large (6)",
     "variety": [
       "Practice mode",
       "Timer",
@@ -44853,11 +44910,11 @@
     "combos": "Static",
     "grabs": "After stun",
     "dashing": "No",
-    "enemyHBars": null,
+    "enemyHBars": "No",
     "itemPickup": "Button",
     "itemStay": null,
     "weaponsStay": null,
-    "deathBlow": null,
+    "deathBlow": "N/A",
     "friendlyFire": null,
     "charSwitch": null,
     "groundHit": "Yes",
@@ -44867,13 +44924,14 @@
     "sprites": null,
     "setting": "Various",
     "focus": "Hand-to-hand, Weapons",
-    "music": ["music"],
-    "tone": null,
+    "music": ["Electronic", "Industrial", "Techno"],
+    "tone": "Serious",
     "gore": [
       "Blood",
+      "Decapitation",
       "Mutilation"
     ],
-    "fighters": null,
+    "fighters": 1,
     "stages": null,
     "enemies": null,
     "bosses": null,
