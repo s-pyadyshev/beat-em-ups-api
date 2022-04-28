@@ -1,6 +1,6 @@
 [
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "198X",
     "platform": "PC",
     "perspective": "2.5D",
@@ -388,7 +388,6 @@
     }
   },
   {
-    "missing": true,
     "multigenre": true,
     "name": "Absolver",
     "platform": "PC",
@@ -411,21 +410,21 @@
       "RPG Elements",
       "Upgrades"
     ],
-    "playtime": null,
+    "playtime": "4:00",
     "buttons": "Punch, Kick, Block, Dodge, Stance change, Lock on, Shard use, Power 1, Power 2, Unfold weapon",
     "combos": "Dynamic",
-    "grabs": null,
+    "grabs": "No",
     "dashing": "No",
     "enemyHBars": "Yes",
     "itemPickup": "Button",
     "itemStay": "Stay",
-    "weaponsStay": null,
+    "weaponsStay": "Durability",
     "deathBlow": null,
-    "friendlyFire": null,
+    "friendlyFire": "N/A",
     "charSwitch": "N/A",
-    "groundHit": null,
-    "revive": null,
-    "restore": null,
+    "groundHit": "No",
+    "revive": "Checkpoint",
+    "restore": "Items only, weaked enemy",
     "artStyle": "Realistic",
     "sprites": null,
     "setting": "Various",
@@ -442,8 +441,14 @@
     "continues": null,
     "extend": null,
     "overallReview": null,
-    "cover": "",
-    "images": [""],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/absolver/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/absolver/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/absolver/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/absolver/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/absolver/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/absolver/ss05.jpg"
+    ],
     "videos": [
       "https://www.youtube.com/embed/-FX7dFAC4j8"
     ],
@@ -2704,7 +2709,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Batman: Arkham Asylum",
     "platform": "PC",
     "perspective": "3D",
@@ -2799,7 +2804,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Batman: Arkham Asylum",
     "platform": "PS3",
     "perspective": "3D",
@@ -2893,7 +2898,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Batman: Arkham Asylum",
     "platform": "PS4",
     "perspective": "3D",
@@ -2990,7 +2995,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Batman: Arkham Asylum",
     "platform": "Xbox 360",
     "perspective": "3D",
@@ -3086,7 +3091,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Batman: Arkham Asylum",
     "platform": "Xbox One",
     "perspective": "3D",
@@ -3182,7 +3187,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Batman: Arkham City",
     "platform": "PC",
@@ -3190,37 +3195,37 @@
     "about": null,
     "trivia": null,
     "country": "UK",
-    "developer": "developer",
-    "publisher": "publisher",
+    "developer": "Rocksteady Studios",
+    "publisher": "Warner Bros. Interactive Entertainment",
     "releasedate": "2011-11-22",
     "releaseYear": 2011,
-    "otherPlatforms": ["PS3", "PS4", "Wii U", "Xbox 360", "Xbox One"],
+    "otherPlatforms": null,
     "series": "Batman",
     "players": 1,
-    "structure": null,
-    "difficulty": null,
-    "gangsize": null,
-    "variety": ["Stealth"],
+    "structure": "Open world",
+    "difficulty": "Medium",
+    "gangsize": "Gigantic (10+)",
+    "variety": ["Stealth", "Upgrades"],
     "playtime": null,
     "buttons": null,
-    "combos": null,
+    "combos": "Dynamic",
     "grabs": "Auto",
     "dashing": null,
     "enemyHBars": null,
-    "itemPickup": null,
-    "itemStay": null,
-    "weaponsStay": null,
+    "itemPickup": "Button",
+    "itemStay": "Stay",
+    "weaponsStay": "Ammo",
     "deathBlow": null,
-    "friendlyFire": null,
+    "friendlyFire": "N/A",
     "charSwitch": null,
     "groundHit": "Yes",
     "revive": null,
     "restore": null,
-    "artStyle": null,
+    "artStyle": "Realistic",
     "sprites": null,
-    "setting": null,
+    "setting": "Urban",
     "focus": "Hand-to-hand",
-    "music": ["music"],
+    "music": ["Video game"],
     "tone": null,
     "fighters": null,
     "stages": null,
@@ -3267,7 +3272,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Batman: Arkham Origins",
     "platform": "PC",
     "perspective": "3D",
@@ -3359,7 +3364,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Batman: Arkham Origins Blackgate",
     "platform": "PC",
@@ -3452,7 +3457,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Batman: Arkham Knight",
     "platform": "PC",
     "perspective": "3D",
@@ -4270,7 +4275,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Battlemaniacs",
     "platform": "SMS",
     "perspective": "2.5D",
@@ -4473,7 +4478,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Battletoads",
     "platform": "NES",
     "perspective": "2.5D",
@@ -4571,7 +4576,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Battletoads",
     "platform": "Game Boy",
     "perspective": "2.5D",
@@ -4668,7 +4673,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Battletoads",
     "platform": "Genesis",
     "perspective": "2.5D",
@@ -4763,7 +4768,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Battletoads",
     "platform": "PC",
     "perspective": "2.5D",
@@ -5226,7 +5231,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Battletoads in Battlemaniacs",
     "platform": "SNES",
     "perspective": "2.5D",
@@ -5325,7 +5330,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Battletoads in Ragnarok's World",
     "platform": "Game Boy",
     "perspective": "2.5D",
@@ -8868,7 +8873,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Comix Zone",
     "platform": "Genesis",
     "perspective": "2D",
@@ -11106,10 +11111,9 @@
     }
   },
   {
-    "missing": true,
     "name": "Dawn of the Monsters",
     "platform": "PC",
-    "perspective": "2D",
+    "perspective": "2.5D",
     "about": null,
     "trivia": null,
     "country": "Canada",
@@ -11120,33 +11124,37 @@
     "otherPlatforms": null,
     "series": null,
     "players": 2,
-    "structure": null,
+    "structure": "Linear",
     "difficulty": null,
-    "gangsize": null,
-    "variety": ["None"],
-    "playtime": null,
-    "buttons": null,
-    "combos": null,
-    "grabs": null,
-    "dashing": null,
-    "enemyHBars": null,
-    "itemPickup": null,
+    "gangsize": "Medium (5)",
+    "variety": [
+      "RPG Elements",
+      "Timer",
+      "Upgrades"
+    ],
+    "playtime": "4:00",
+    "buttons": "Weak, Strong, Dash attack, Strong hold, Dodge, Block, Pick up",
+    "combos": "Dynamic",
+    "grabs": "No",
+    "dashing": "Attack only",
+    "enemyHBars": "Yes",
+    "itemPickup": "Button",
     "itemStay": null,
-    "weaponsStay": null,
-    "deathBlow": null,
-    "friendlyFire": null,
-    "charSwitch": null,
-    "groundHit": null,
-    "revive": null,
-    "restore": null,
-    "artStyle": null,
+    "weaponsStay": "Durability",
+    "deathBlow": "Energy",
+    "friendlyFire": "No",
+    "charSwitch": "End of stage",
+    "groundHit": "Yes",
+    "revive": "Checkpoint",
+    "restore": "Items only, weaked enemy",
+    "artStyle": "Cartoony",
     "sprites": null,
-    "setting": null,
-    "focus": null,
-    "music": ["Video game"],
-    "tone": null,
-    "gore": [null],
-    "fighters": null,
+    "setting": "Urban",
+    "focus": "Hand-to-hand",
+    "music": ["Electronic"],
+    "tone": "Serious",
+    "gore": ["Decapitation"],
+    "fighters": 4,
     "stages": null,
     "enemies": null,
     "bosses": null,
@@ -11155,15 +11163,23 @@
     "continues": null,
     "extend": null,
     "overallReview": null,
-    "cover": "",
-    "images": [""],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/dotm/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/dotm/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/dotm/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/dotm/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/dotm/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/dotm/ss05.jpg"
+    ],
     "videos": [
-      "https://www.youtube.com/embed/vnVpi7rz2Z8"
+      "https://www.youtube.com/embed/vnVpi7rz2Z8",
+      "https://www.youtube.com/embed/CImV1blv0ws"
     ],
     "links": [
       "http://www.13amgames.com/dotm",
       "https://store.steampowered.com/app/1642170/Dawn_of_the_Monsters/",
-      "https://gamefaqs.gamespot.com/pc/269082-dawn-of-the-monsters"
+      "https://gamefaqs.gamespot.com/pc/269082-dawn-of-the-monsters",
+      "https://www.mobygames.com/game/dawn-of-the-monsters"
     ],
     "beatemupBingo": {
       "go": false,
@@ -11243,14 +11259,16 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "https://www.mobygames.com/images/covers/l/94600-death-by-degrees-playstation-2-front-cover.jpg",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/dbdegrees/cover.jpg",
     "images": [
-      "https://www.mobygames.com/images/promo/l/225549-death-by-degrees-screenshot.jpg",
-      "https://www.mobygames.com/images/promo/l/225564-death-by-degrees-screenshot.jpg",
-      "https://www.mobygames.com/images/promo/l/225560-death-by-degrees-screenshot.jpg",
-      "https://www.mobygames.com/images/promo/l/151212-death-by-degrees-screenshot.jpg"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/dbdegrees/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/dbdegrees/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/dbdegrees/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/dbdegrees/ss04.jpg"
     ],
-    "videos": ["https://www.youtube.com/embed/EHHxbJ-U6m4"],
+    "videos": [
+      "https://www.youtube.com/embed/EHHxbJ-U6m4"
+    ],
     "links": [
       "https://en.wikipedia.org/wiki/Death_by_Degrees",
       "https://gamefaqs.gamespot.com/ps2/918964-death-by-degrees",
@@ -12112,7 +12130,7 @@
     "country": "Japan",
     "developer": "Technos",
     "publisher": "Technos",
-    "releasedate": "7Jan- '-Ja '87",
+    "releasedate": "1987-04-22",
     "releaseYear": 1987,
     "otherPlatforms": [
       "Game Boy",
@@ -12210,7 +12228,7 @@
     "country": "Japan",
     "developer": "Technos",
     "publisher": "TradeWest",
-    "releasedate": "8Jun- '-Ju '88Apr '88",
+    "releasedate": "1988-04-08",
     "releaseYear": 1988,
     "otherPlatforms": [
       "Arcade",
@@ -12270,7 +12288,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nes/ddragon/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/nes/563405-double-dragon"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -12308,7 +12328,7 @@
     "country": "Japan",
     "developer": "Technos",
     "publisher": "Rare",
-    "releasedate": "0Aug- '-Au '90Jul '90",
+    "releasedate": "1990-07-20",
     "releaseYear": 1990,
     "otherPlatforms": ["Arcade", "Game Gear", "Genesis", "NES", "SMS", "Zeebo"],
     "series": "Double Dragon",
@@ -12361,7 +12381,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/gameboy/197144-double-dragon"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -12399,8 +12421,8 @@
     "country": "USA",
     "developer": "Ballistic",
     "publisher": "Accolade",
-    "releasedate": "3Jan- '-Ja '93",
-    "releaseYear": 1993,
+    "releasedate": "1992-04-29",
+    "releaseYear": 1992,
     "otherPlatforms": [
       "Arcade",
       "Game Boy",
@@ -12459,7 +12481,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gen/ddragon/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/genesis/586145-double-dragon"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -12497,7 +12521,7 @@
     "country": "Japan",
     "developer": "Sega",
     "publisher": "Sega",
-    "releasedate": "8Oct- '-Oc '88",
+    "releasedate": "1988-10-01",
     "releaseYear": 1988,
     "otherPlatforms": [
       "Arcade",
@@ -12557,7 +12581,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/sms/ddragon/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/sms/588056-double-dragon"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -12595,7 +12621,7 @@
     "country": "USA",
     "developer": "Realtime Associates",
     "publisher": "MTO",
-    "releasedate": "3Jan- '-Ja '93",
+    "releasedate": "unknown",
     "releaseYear": 1993,
     "otherPlatforms": ["Arcade", "Game Boy", "Genesis", "NES", "SMS", "Zeebo"],
     "series": "Double Dragon",
@@ -12649,6 +12675,7 @@
     ],
     "videos": [],
     "links": [
+      "https://gamefaqs.gamespot.com/gamegear/586678-double-dragon",
       "http://www.hardcoregaming101.net/double-dragon-the-revenge-of-billy-lee/"
     ],
     "beatemupBingo": {
@@ -12744,7 +12771,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/zeebo/dd/ss06.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/zeebo/dd/ss07.jpg"
     ],
-    "videos": ["https://www.youtube.com/embed/KsXzJBzU9A4"],
+    "videos": [
+      "https://www.youtube.com/embed/KsXzJBzU9A4"
+    ],
     "links": [
       "https://doubledragon.fandom.com/wiki/Double_Dragon_(Zeebo)",
       "https://gamefaqs.gamespot.com/zeebo/991382-double-dragon",
@@ -12789,7 +12818,7 @@
     "country": "UK",
     "developer": "Sales Curve Interactive",
     "publisher": "Acclaim",
-    "releasedate": "2Aug- '-Au '92",
+    "releasedate": "unknown",
     "releaseYear": 1992,
     "otherPlatforms": null,
     "series": "Double Dragon",
@@ -12842,7 +12871,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon3/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/gameboy/585690-double-dragon-3-the-arcade-game"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -12880,7 +12911,7 @@
     "country": "Japan",
     "developer": "Million",
     "publisher": "Atlus",
-    "releasedate": "3Nov- '-No '03Mar '04",
+    "releasedate": "2003-11-12",
     "releaseYear": 2003,
     "otherPlatforms": null,
     "series": "Double Dragon",
@@ -12933,7 +12964,11 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/ddragona/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/gba/915388-double-dragon-advance",
+      "https://tcrf.net/Double_Dragon_Advance",
+      "http://www.hardcoregaming101.net/double-dragon-advance/"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -12942,6 +12977,94 @@
       "bossWithGun": false,
       "fireBombs": false,
       "twoWordTitle": false,
+      "throwingKnife": false,
+      "subwayStage": false,
+      "exproWrestler": false,
+      "steelPipe": false,
+      "kindnappedFemale": false,
+      "specialDrainsHealth": false,
+      "oilDrums": false,
+      "clowns": false,
+      "yellowRedHealthBar": false,
+      "dominatrix": false,
+      "powerSpeedBalance": false,
+      "elevatorScene": false,
+      "mansionStage": false,
+      "mohawks": false,
+      "buildingSite": false,
+      "fatCharginMen": false,
+      "sharpSuits": false,
+      "graffiti": false
+    }
+  },
+  {
+    "missing": true,
+    "name": "Double Dragon II: The Revenge",
+    "platform": "DOS",
+    "perspective": "2.5D",
+    "about": null,
+    "trivia": null,
+    "country": "UK",
+    "developer": "Binary Design",
+    "publisher": "Virgin Games",
+    "releasedate": "unknown",
+    "releaseYear": 1989,
+    "otherPlatforms": null,
+    "series": "Double Dragon",
+    "players": 2,
+    "structure": "Linear",
+    "difficulty": "Hardcore",
+    "gangsize": "Average (5)",
+    "variety": ["None"],
+    "playtime": "0:50",
+    "buttons": "Left, right",
+    "combos": "Static",
+    "grabs": "After stun",
+    "dashing": "No",
+    "enemyHBars": "No",
+    "itemPickup": "Button",
+    "itemStay": "Stay",
+    "weaponsStay": "Hold",
+    "deathBlow": "No",
+    "friendlyFire": "Yes",
+    "charSwitch": "No",
+    "groundHit": "No",
+    "revive": "Invincibility",
+    "restore": "End of stage",
+    "artStyle": "Semi-realistic",
+    "sprites": "Medium",
+    "setting": "Post-apocalyptic",
+    "focus": "Hand-to-hand",
+    "music": ["Rock"],
+    "tone": "Serious",
+    "gore": [null],
+    "fighters": 2,
+    "stages": null,
+    "enemies": null,
+    "bosses": null,
+    "weapons": [null],
+    "lives": null,
+    "continues": null,
+    "extend": null,
+    "overallReview": null,
+    "cover": "",
+    "images": [""],
+    "videos": [
+      "https://www.youtube.com/embed/L_uL9Oru4_M"
+    ],
+    "links": [
+      "https://gamefaqs.gamespot.com/pc/974903-double-dragon-ii-the-revenge",
+      "https://www.mobygames.com/game/dos/double-dragon-ii-the-revenge",
+      "https://tcrf.net/Double_Dragon_II:_The_Revenge_(DOS)"
+    ],
+    "beatemupBingo": {
+      "go": false,
+      "sunsetEnding": false,
+      "healthMeat": false,
+      "sleevelessJacket": false,
+      "bossWithGun": false,
+      "fireBombs": false,
+      "twowordTitle": false,
       "throwingKnife": false,
       "subwayStage": false,
       "exproWrestler": false,
@@ -13025,7 +13148,8 @@
     ],
     "videos": [],
     "links": [
-      "https://gamefaqs.gamespot.com/gameboy/563268-double-dragon-ii"
+      "https://gamefaqs.gamespot.com/gameboy/563268-double-dragon-ii",
+      "https://tcrf.net/Double_Dragon_II_(Game_Boy)"
     ],
     "beatemupBingo": {
       "go": false,
@@ -13217,7 +13341,8 @@
     ],
     "videos": [],
     "links": [
-      "https://gamefaqs.gamespot.com/nes/587237-double-dragon-ii-the-revenge"
+      "https://gamefaqs.gamespot.com/nes/587237-double-dragon-ii-the-revenge",
+      "https://tcrf.net/Double_Dragon_II:_The_Revenge_(NES)"
     ],
     "beatemupBingo": {
       "go": false,
@@ -13401,9 +13526,12 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pce/ddragon2/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pce/ddragon2/img/ss05.png"
     ],
-    "videos": [],
+    "videos": [
+      "https://www.youtube.com/embed/RgDb-clhL9g"
+    ],
     "links": [
-      "https://gamefaqs.gamespot.com/turbocd/589259-double-dragon-ii-the-revenge"
+      "https://gamefaqs.gamespot.com/turbocd/589259-double-dragon-ii-the-revenge",
+      "https://tcrf.net/Double_Dragon_II:_The_Revenge_(TurboGrafx-CD)"
     ],
     "beatemupBingo": {
       "go": false,
@@ -14082,13 +14210,27 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/ddra/cover.gif",
     "images": [
-      "http://www.chronocrash.com/apps/wiki/obor/images/4/45/Ddanim2.gif",
-      "http://www.chronocrash.com/apps/wiki/obor/images/0/08/DDanimHW2s.gif",
-      "http://www.chronocrash.com/apps/wiki/obor/images/6/68/DDanim3.1.0s.gif"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/ddra/ss01.gif",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/ddra/ss02.gif",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/ddra/ss03.gif",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/ddra/ss04.gif",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/ddra/ss05.gif",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/ddra/ss06.gif",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/ddra/ss07.gif",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/ddra/ss08.gif",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/ddra/ss09.gif",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/ddra/ss10.gif",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/ddra/ss11.gif",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/ddra/ss12.gif",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/ddra/ss13.gif",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/ddra/ss14.gif",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/ddra/ss15.gif"
     ],
-    "videos": ["https://www.youtube.com/embed/GGwuN7jZ3sI"],
+    "videos": [
+      "https://www.youtube.com/embed/GGwuN7jZ3sI"
+    ],
     "links": [
       "http://www.chronocrash.com/apps/wiki/obor/index.php?title=Double_Dragon_Reloaded_Alternate",
       "https://www.chronocrash.com/forum/index.php?topic=3717.0"
@@ -16803,7 +16945,6 @@
     }
   },
   {
-    "missing": true,
     "name": "Executioners",
     "platform": "DOS",
     "perspective": "2.5D",
@@ -16816,48 +16957,64 @@
     "releaseYear": 1992,
     "otherPlatforms": null,
     "series": null,
-    "players": 1,
-    "structure": null,
-    "difficulty": null,
-    "gangsize": null,
-    "variety": ["None"],
-    "playtime": null,
-    "buttons": null,
-    "combos": null,
-    "grabs": null,
-    "dashing": null,
-    "enemyHBars": null,
-    "itemPickup": null,
-    "itemStay": null,
-    "weaponsStay": null,
-    "deathBlow": null,
-    "friendlyFire": null,
-    "charSwitch": null,
-    "groundHit": null,
-    "revive": null,
-    "restore": null,
-    "artStyle": null,
+    "players": 2,
+    "structure": "Linear",
+    "difficulty": "Hard",
+    "gangsize": "Medium (5)",
+    "variety": ["Timer"],
+    "playtime": "1:50",
+    "buttons": "Attack, Jump",
+    "combos": "Static",
+    "grabs": "Contact",
+    "dashing": "No",
+    "enemyHBars": "No",
+    "itemPickup": "Button",
+    "itemStay": "Stay",
+    "weaponsStay": "Forever",
+    "deathBlow": "N/A",
+    "friendlyFire": "Yes",
+    "charSwitch": "No",
+    "groundHit": "No",
+    "revive": "Invincibility",
+    "restore": "Food only",
+    "artStyle": "MS Paint",
     "sprites": null,
-    "setting": null,
-    "focus": null,
+    "setting": "Urban",
+    "focus": "Hand-to-hand",
     "music": ["Video game"],
-    "tone": null,
-    "gore": [null],
-    "fighters": null,
+    "tone": "Humorous",
+    "gore": ["Blood"],
+    "fighters": 2,
     "stages": null,
     "enemies": null,
     "bosses": null,
-    "weapons": [null],
+    "weapons": [
+      "Axe",
+      "Machine gun"
+    ],
     "lives": null,
     "continues": null,
     "extend": null,
     "overallReview": [],
-    "cover": "",
-    "images": [""],
-    "videos": [""],
-    "links": [],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/executioners/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/executioners/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/executioners/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/executioners/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/executioners/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/executioners/ss05.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/Irs-Bcs49Ss"
+    ],
+    "links": [
+      "https://gamefaqs.gamespot.com/pc/980822-executioners/cheats",
+      "https://www.mobygames.com/game/executioners",
+      "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Executioners",
+      "https://www.myabandonware.com/game/executioners-gjx"
+    ],
     "beatemupBingo": {
-      "go": false,
+      "go": true,
       "sunsetEnding": false,
       "healthMeat": false,
       "sleevelessJacket": false,
@@ -18553,7 +18710,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Fist Of The North Star: Lost Paradise",
     "platform": "PS4",
@@ -19284,7 +19441,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Gaijin Troubles",
     "platform": "PC",
@@ -21113,11 +21270,11 @@
     "perspective": "2.5D",
     "about": null,
     "trivia": null,
-    "country": null,
-    "developer": "developer",
-    "publisher": "publisher",
-    "releasedate": "unknown",
-    "releaseYear": null,
+    "country": "Japan",
+    "developer": "Bandai",
+    "publisher": "Bandai",
+    "releasedate": "2002-02-28",
+    "releaseYear": 2002,
     "otherPlatforms": null,
     "series": null,
     "players": 1,
@@ -21158,8 +21315,12 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
-    "links": [],
+    "videos": ["https://www.youtube.com/embed/zmEtmgg5xAA"],
+    "links": [
+      "https://gamefaqs.gamespot.com/wsc/566157-golden-axe",
+      "https://strategywiki.org/wiki/Golden_Axe/Versions#WonderSwan_Color",
+      "https://tcrf.net/Golden_Axe_(WonderSwan_Color)"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -23586,7 +23747,7 @@
     "structure": "Linear",
     "difficulty": "Medium",
     "gangsize": "Small (4)",
-    "variety": ["None"],
+    "variety": ["Practice mode"],
     "playtime": "1:00",
     "buttons": "Punch, Kick, Jump",
     "combos": "Dynamic",
@@ -24676,7 +24837,7 @@
   },
   {
     "missing": true,
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Judgment",
     "platform": "PS4",
     "perspective": "2.5D",
@@ -27777,7 +27938,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Lost Castle",
     "platform": "PC",
@@ -28039,7 +28200,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Mad Max",
     "platform": "PC",
     "perspective": "3D",
@@ -30834,7 +30995,7 @@
     "platform": "Arcade",
     "perspective": "2.5D",
     "about": "\n\nNekketsu Kouha Kunio-kun created the brawler genre with its revolutionary combat system and urban aesthetics. Except for co-op, it's got everything that make beat 'em ups great: many simultaneous opponents, combos, back attacks, throws, jump kicks, and even ground attacks.\n",
-    "trivia": "Nekketsu Kōha Kunio-kun would spawn several spin-offs, such as the Downtown Nekketsu Monogatari (River City Ransom) games and a bunch of sports-themed minigame titles. Most of these were localized out West but not under the Kunio license. Some examples include Nintendo World Cup on Game Boy and Crash 'n' The Boys on NES.\"Nekketsu\" is Japanese for \"hot-blooded.\" It's the name of Kunio's high school as well as a description of his character. \"Kōha\" means \"tough guy.\"Double Dragon II, also from Technōs, uses this game's unique right-left attacking system. However, in that game you can freely face left or right so you can use your powerful back kick all the time. This is the only arcade brawler that is single player only. Besides that, it has a remarkable number of features that brawlers to this day still use.",
+    "trivia": "Nekketsu Kōha Kunio-kun would spawn several spin-offs, such as the Downtown Nekketsu Monogatari (River City Ransom) games and a bunch of sports-themed minigame titles. Most of these were localized out West but not under the Kunio license. Some examples include Nintendo World Cup on Game Boy and Crash 'n' The Boys on NES. \"Nekketsu\" is Japanese for \"hot-blooded.\" It's the name of Kunio's high school as well as a description of his character. \"Kōha\" means \"tough guy.\" Double Dragon II, also from Technōs, uses this game's unique right-left attacking system. However, in that game you can freely face left or right so you can use your powerful back kick all the time. This is the only arcade brawler that is single player only. Besides that, it has a remarkable number of features that brawlers to this day still use.",
     "country": "Japan",
     "developer": "Technos",
     "publisher": "Technos",
@@ -30891,7 +31052,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/kunio/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Kunio-kun"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Kunio-kun"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -31188,7 +31351,7 @@
     "platform": "PlayStation",
     "perspective": "2.5D",
     "about": null,
-    "trivia": "The game takes place in the year 2064 but it seems that it occurs in an alternate universe in the '80s.",
+    "trivia": "The game takes place in the year 2064 but it seems that it occurs in an alternate universe in the '80s. In the PS, it is possible to gain more health than 100%.",
     "country": "Japan",
     "developer": "Technosoft",
     "publisher": "Technosoft",
@@ -31238,19 +31401,29 @@
     "continues": "Infinite",
     "extend": null,
     "overallReview": [],
-    "cover": "https://www.mobygames.com/images/covers/l/708757-nekketsu-oyako-playstation-front-cover.jpg",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/noyako/cover.jpg",
     "images": [
-      "https://www.video-games-museum.com/en/screenshots/Playstation/1/36188-title-Nekketsu-Oyako.jpg",
-      "https://www.video-games-museum.com/en/screenshots/Playstation/2/36188-menu-Nekketsu-Oyako.jpg",
-      "https://www.video-games-museum.com/en/screenshots/Playstation/3/36188-ingame-Nekketsu-Oyako.jpg",
-      "https://www.video-games-museum.com/en/screenshots/Playstation/4/36188-ingame-Nekketsu-Oyako.jpg"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/noyako/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/noyako/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/noyako/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/noyako/ss04.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/noyako/ss05.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/noyako/ss06.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/noyako/ss07.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/noyako/ss08.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/noyako/ss09.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/noyako/ss10.png"
     ],
     "videos": [
       "https://www.youtube.com/embed/VA41ZXhg5u4",
       "https://www.youtube.com/embed/2pxKXRgWGbk"
     ],
     "links": [
+      "https://simple.wikipedia.org/wiki/Nekketsu_Oyako",
+      "https://gamefaqs.gamespot.com/ps/573265-nekketsu-oyako",
       "https://www.mobygames.com/game/playstation/nekketsu-oyako",
+      "https://segaretro.org/Nekketsu_Oyako",
+      "http://www.hardcoregaming101.net/nekketsu-oyako/",
       "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/NekketsuOyako",
       "https://adventuresinvideogames.blogspot.com/2016/03/nekketsu-oyako-sony-playstation.html",
       "http://www.rvgfanatic.com/7506/1026215.html",
@@ -31260,22 +31433,129 @@
       "https://www.romhacking.net/games/583/"
     ],
     "beatemupBingo": {
-      "go": false,
+      "go": true,
       "sunsetEnding": false,
       "healthMeat": false,
-      "sleevelessJacket": false,
+      "sleevelessJacket": true,
       "bossWithGun": false,
       "fireBombs": false,
       "twoWordTitle": true,
       "throwingKnife": false,
       "subwayStage": false,
-      "exproWrestler": false,
+      "exproWrestler": true,
       "steelPipe": false,
-      "kindnappedFemale": false,
-      "specialDrainsHealth": false,
-      "oilDrums": false,
+      "kindnappedFemale": true,
+      "specialDrainsHealth": true,
+      "oilDrums": true,
       "clowns": false,
-      "yellowRedHealthBar": false,
+      "yellowRedHealthBar": true,
+      "dominatrix": false,
+      "powerSpeedBalance": true,
+      "elevatorScene": false,
+      "mansionStage": false,
+      "mohawks": false,
+      "buildingSite": false,
+      "fatCharginMen": false,
+      "sharpSuits": false,
+      "graffiti": false
+    }
+  },
+  {
+    "name": "Nekketsu Oyako",
+    "platform": "Saturn",
+    "perspective": "2.5D",
+    "about": null,
+    "trivia": "The game takes place in the year 2064 but it seems that it occurs in an alternate universe in the '80s. The Saturn version does not use translucent textures for see-through effects.",
+    "country": "Japan",
+    "developer": "Technosoft",
+    "publisher": "Technosoft",
+    "releasedate": "1994-12-03",
+    "releaseYear": 1994,
+    "otherPlatforms": ["PlayStation"],
+    "series": null,
+    "players": 2,
+    "structure": "Linear",
+    "difficulty": "Medium",
+    "gangsize": "Gigantic (10)",
+    "variety": ["Timer"],
+    "playtime": "1:15",
+    "buttons": "Attack, Jump, Special",
+    "combos": "Static",
+    "grabs": "Contact",
+    "dashing": "Double-tap",
+    "enemyHBars": "Bosses + Names",
+    "itemPickup": "Button",
+    "itemStay": "Stay",
+    "weaponsStay": "Ammo, Forever",
+    "deathBlow": "Health",
+    "friendlyFire": "No",
+    "charSwitch": "No",
+    "groundHit": "No",
+    "revive": "Invincibility + Knockdown",
+    "restore": "Food only",
+    "artStyle": "Anime",
+    "sprites": "Huge",
+    "setting": "Futuristic",
+    "focus": "Hand-to-hand",
+    "music": ["80's Synth"],
+    "tone": "Humorous",
+    "fighters": 3,
+    "stages": 5,
+    "enemies": null,
+    "bosses": 6,
+    "weapons": [
+      "Bazooka",
+      "Boomerang disc",
+      "Grenade",
+      "Knife",
+      "Machine gun",
+      "Rifle"
+    ],
+    "lives": null,
+    "continues": "Infinite",
+    "extend": null,
+    "overallReview": [],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/sat/noyako/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/sat/noyako/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/sat/noyako/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/sat/noyako/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/sat/noyako/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/sat/noyako/ss05.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/VA41ZXhg5u4",
+      "https://www.youtube.com/embed/2pxKXRgWGbk"
+    ],
+    "links": [
+      "https://simple.wikipedia.org/wiki/Nekketsu_Oyako",
+      "https://gamefaqs.gamespot.com/saturn/577520-nekketsu-oyako",
+      "https://www.mobygames.com/game/sega-saturn/nekketsu-oyako",
+      "https://segaretro.org/Nekketsu_Oyako",
+      "http://www.hardcoregaming101.net/nekketsu-oyako/",
+      "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/NekketsuOyako",
+      "https://adventuresinvideogames.blogspot.com/2016/03/nekketsu-oyako-sony-playstation.html",
+      "http://www.rvgfanatic.com/7506/1026215.html",
+      "https://obscurevideogames.com/2013/05/18/nekketsu-oyako-for-sega-saturn-information-and-review/",
+      "https://gameexhibition.wordpress.com/2016/01/28/nekketsu-oyako/",
+    ],
+    "beatemupBingo": {
+      "go": true,
+      "sunsetEnding": false,
+      "healthMeat": false,
+      "sleevelessJacket": true,
+      "bossWithGun": false,
+      "fireBombs": false,
+      "twoWordTitle": true,
+      "throwingKnife": false,
+      "subwayStage": false,
+      "exproWrestler": true,
+      "steelPipe": false,
+      "kindnappedFemale": true,
+      "specialDrainsHealth": true,
+      "oilDrums": true,
+      "clowns": false,
+      "yellowRedHealthBar": true,
       "dominatrix": false,
       "powerSpeedBalance": true,
       "elevatorScene": false,
@@ -31673,7 +31953,7 @@
     "publisher": "Tecmo",
     "releasedate": "unknown",
     "releaseYear": 1988,
-    "otherPlatforms": ["DOS"],
+    "otherPlatforms": [null],
     "series": "Ninja Gaiden",
     "players": 2,
     "structure": "Linear",
@@ -31726,7 +32006,9 @@
     "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Ninja_Gaiden_(arcade_game)",
-      "https://gamefaqs.gamespot.com/arcade/568362-ninja-gaiden"
+      "https://gamefaqs.gamespot.com/arcade/568362-ninja-gaiden",
+      "https://www.mobygames.com/game/arcade/ninja-gaiden____",
+      "http://www.hardcoregaming101.net/ninja-gaiden-arcade/"
     ],
     "beatemupBingo": {
       "go": false,
@@ -31735,7 +32017,7 @@
       "sleevelessJacket": false,
       "bossWithGun": false,
       "fireBombs": false,
-      "twoWordTitle": false,
+      "twoWordTitle": true,
       "throwingKnife": false,
       "subwayStage": false,
       "exproWrestler": false,
@@ -31764,10 +32046,10 @@
     "about": null,
     "trivia": null,
     "country": null,
-    "developer": "developer",
-    "publisher": "publisher",
+    "developer": "Tecmo",
+    "publisher": "Hi Tech Expressions",
     "releasedate": "unknown",
-    "releaseYear": null,
+    "releaseYear": 1990,
     "otherPlatforms": ["Arcade"],
     "series": null,
     "players": 1,
@@ -31809,7 +32091,9 @@
     "cover": "",
     "images": [""],
     "videos": [""],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/pc/170131-ninja-gaiden"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -32032,7 +32316,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Oni",
     "platform": "PC",
     "perspective": "3D",
@@ -36820,7 +37104,7 @@
     "charSwitch": "N/A",
     "groundHit": "Yes",
     "revive": "Checkpoint",
-    "restore": "Enemy takedowns, Shrines",
+    "restore": "Items only, weaked enemy",
     "artStyle": "Realistic",
     "sprites": null,
     "setting": "Urban",
@@ -37231,7 +37515,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Sleeping Dogs",
     "platform": "PC",
     "perspective": "3D",
@@ -41752,7 +42036,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Tekken 3",
     "platform": "PlayStation",
     "perspective": "2.5D",
@@ -41844,7 +42128,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Tekken 4",
     "platform": "PS2",
@@ -41926,7 +42210,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Tekken 5",
     "platform": "PS2",
@@ -44474,23 +44758,23 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "https://gamefaqs.gamespot.com/a/screen/full/3/2/7/233327.jpg",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tshadow/cover.jpg",
     "images": [
-      "https://gamefaqs.gamespot.com/a/screen/full/4/2/4/233342.jpg",
-      "https://gamefaqs.gamespot.com/a/screen/full/3/4/8/233348.jpg",
-      "https://gamefaqs.gamespot.com/a/screen/full/3/5/5/233355.jpg",
-      "https://gamefaqs.gamespot.com/a/screen/full/3/6/8/233368.jpg",
-      "https://gamefaqs.gamespot.com/a/screen/full/3/7/3/233373.jpg",
-      "https://gamefaqs.gamespot.com/a/screen/full/3/7/6/233376.jpg",
-      "https://gamefaqs.gamespot.com/a/screen/full/3/8/1/233381.jpg",
-      "https://gamefaqs.gamespot.com/a/screen/full/3/8/3/233383.jpg",
-      "https://gamefaqs.gamespot.com/a/screen/full/3/9/4/233394.jpg",
-      "https://gamefaqs.gamespot.com/a/screen/full/3/9/7/233397.jpg",
-      "https://gamefaqs.gamespot.com/a/screen/full/3/9/9/233399.jpg",
-      "https://gamefaqs.gamespot.com/a/screen/full/4/0/2/233402.jpg",
-      "https://gamefaqs.gamespot.com/a/screen/full/4/0/8/233408.jpg",
-      "https://gamefaqs.gamespot.com/a/screen/full/4/2/7/233427.jpg",
-      "https://gamefaqs.gamespot.com/a/screen/full/4/2/9/233429.jpg"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tshadow/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tshadow/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tshadow/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tshadow/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tshadow/ss05.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tshadow/ss06.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tshadow/ss07.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tshadow/ss08.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tshadow/ss09.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tshadow/ss10.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tshadow/ss11.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tshadow/ss12.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tshadow/ss13.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tshadow/ss14.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tshadow/ss15.jpg"
     ],
     "videos": [
       "https://www.youtube.com/embed/Aho_11KsTjM",
@@ -45345,7 +45629,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "The Warriors",
     "platform": "PS2",
     "perspective": "3D",
@@ -47492,7 +47776,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Urban Reign",
     "platform": "PS2",
     "perspective": "3D",
@@ -48779,7 +49063,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/wa/ss05.png"
     ],
     "videos": ["https://www.youtube.com/embed/zkxwLEdH3LM"],
-    "links": ["http://www.abandonia.com/en/games/938/West+Adventure.html"],
+    "links": [
+      "http://www.abandonia.com/en/games/938/West+Adventure.html"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -48787,7 +49073,7 @@
       "sleevelessJacket": false,
       "bossWithGun": false,
       "fireBombs": false,
-      "twoWordTitle": false,
+      "twoWordTitle": true,
       "throwingKnife": false,
       "subwayStage": false,
       "exproWrestler": false,
@@ -48796,9 +49082,9 @@
       "specialDrainsHealth": false,
       "oilDrums": false,
       "clowns": false,
-      "yellowRedHealthBar": false,
+      "yellowRedHealthBar": true,
       "dominatrix": false,
-      "powerSpeedBalance": false,
+      "powerSpeedBalance": true,
       "elevatorScene": false,
       "mansionStage": false,
       "mohawks": false,
@@ -49793,7 +50079,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza",
     "platform": "PS2",
@@ -49875,7 +50161,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza 2",
     "platform": "PS2",
@@ -49957,7 +50243,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza 3",
     "platform": "PC",
@@ -50039,7 +50325,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza 4",
     "platform": "PC",
@@ -50121,7 +50407,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza 5",
     "platform": "PC",
@@ -50203,7 +50489,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "name": "Yakuza 0",
     "platform": "PC",
     "perspective": "3D",
@@ -50314,7 +50600,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza 6: The Song of Life",
     "platform": "PC",
@@ -50482,7 +50768,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza Kiwami",
     "platform": "PC",
@@ -50564,7 +50850,7 @@
     }
   },
   {
-    "multigenre": "Yes",
+    "multigenre": true,
     "missing": true,
     "name": "Yakuza Kiwami 2",
     "platform": "PC",
