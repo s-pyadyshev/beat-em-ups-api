@@ -31145,7 +31145,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nes/kunio/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Kunio-kun"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Kunio-kun"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -31183,7 +31185,7 @@
     "country": "Japan",
     "developer": "Technos",
     "publisher": "Technos",
-    "releasedate": "0Dec- '-De '90",
+    "releasedate": "unknown",
     "releaseYear": 1990,
     "otherPlatforms": null,
     "series": "Kunio-kun",
@@ -31537,7 +31539,7 @@
       "https://adventuresinvideogames.blogspot.com/2016/03/nekketsu-oyako-sony-playstation.html",
       "http://www.rvgfanatic.com/7506/1026215.html",
       "https://obscurevideogames.com/2013/05/18/nekketsu-oyako-for-sega-saturn-information-and-review/",
-      "https://gameexhibition.wordpress.com/2016/01/28/nekketsu-oyako/",
+      "https://gameexhibition.wordpress.com/2016/01/28/nekketsu-oyako/"
     ],
     "beatemupBingo": {
       "go": true,
