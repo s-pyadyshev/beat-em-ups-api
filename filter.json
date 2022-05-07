@@ -924,6 +924,7 @@
       "Punch, Kick, Jump, Block, Grab, Dodge, Gadget, Switch Gadget",
       "Punch, Kick, Jump, Block/Grab, Crouch",
       "Punch, Kick, Jump, Crouch",
+      "Punch, Kick, Jump, Crouch, Special",
       "Punch, Kick, Jump, Crouch, Use hypo, Reload",
       "Punch, Kick, Jump, Grab",
       "Punch, Kick, Jump, Grab, Dash, Sample, Inject Life, Inject Berserk",
@@ -1120,7 +1121,8 @@
       "On death",
       "Shop",
       "Stock",
-      "Story"
+      "Story",
+      "Switch spot"
     ]
   },
   {
