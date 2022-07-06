@@ -3755,59 +3755,67 @@
     }
   },
   {
-    "missing": true,
     "name": "Batman: The Brave and the Bold – The Videogame",
     "platform": "Wii",
     "perspective": "2D",
     "about": null,
     "trivia": null,
     "country": "USA",
-    "developer": "developer",
-    "publisher": "publisher",
+    "developer": "WayForward",
+    "publisher": "Warner Bros. Interactive Entertainment",
     "releasedate": "2010-10-07",
     "releaseYear": 2010,
     "otherPlatforms": null,
     "series": null,
     "players": 1,
-    "structure": null,
+    "structure": "Linear",
     "difficulty": null,
-    "gangsize": null,
-    "variety": ["None"],
-    "playtime": null,
-    "buttons": null,
-    "combos": null,
-    "grabs": null,
-    "dashing": null,
-    "enemyHBars": null,
-    "itemPickup": null,
+    "gangsize": "Large (6)",
+    "variety": ["CPU partner", "Platforming", "Upgrades"],
+    "playtime": "5:00",
+    "buttons": "Attack, Jump, Block",
+    "combos": "Static",
+    "grabs": "Button",
+    "dashing": "Auto",
+    "enemyHBars": "Bosses only",
+    "itemPickup": "Contact",
     "itemStay": null,
-    "weaponsStay": null,
-    "deathBlow": null,
-    "friendlyFire": null,
-    "charSwitch": null,
-    "groundHit": null,
-    "revive": null,
-    "restore": null,
-    "artStyle": null,
+    "weaponsStay": "Forever",
+    "deathBlow": "Energy",
+    "friendlyFire": "No",
+    "charSwitch": "End of stage",
+    "groundHit": "Yes",
+    "revive": "Invincibility + Attack",
+    "restore": "Food only",
+    "artStyle": "Cartoony",
     "sprites": null,
-    "setting": null,
-    "focus": null,
+    "setting": "Various",
+    "focus": "Hand-to-hand",
     "music": ["Video game"],
-    "tone": null,
-    "fighters": null,
+    "tone": "Serious",
+    "fighters": 5,
     "stages": null,
     "enemies": null,
     "bosses": null,
-    "weapons": [null],
+    "weapons": ["Batman weapons"],
     "lives": null,
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "",
-    "images": [""],
-    "videos": [],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/wii/btbatb/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/wii/btbatb/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/wii/btbatb/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/wii/btbatb/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/wii/btbatb/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/wii/btbatb/ss05.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/wii/btbatb/ss06.jpg"
+    ],
+    "videos": ["https://www.youtube.com/embed/6ceA1RPjBtc"],
     "links": [
-      "https://en.wikipedia.org/wiki/Batman:_The_Brave_and_the_Bold_%E2%80%93_The_Videogame"
+      "https://en.wikipedia.org/wiki/Batman:_The_Brave_and_the_Bold_%E2%80%93_The_Videogame",
+      "https://gamefaqs.gamespot.com/wii/990005-batman-the-brave-and-the-bold-the-videogame",
+      "https://www.mobygames.com/game/batman-the-brave-and-the-bold-the-videogame_"
     ],
     "beatemupBingo": {
       "go": false,
@@ -4495,7 +4503,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gen/btoads/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/genesis/586053-battletoads",
+      "http://scrollboss.illmosis.net/review.php?r=battletoads-gen"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -6205,7 +6216,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/bbrothers/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Brawl_Brothers"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Brawl_Brothers",
+      "http://scrollboss.illmosis.net/review.php?r=brawlbrothers-snes"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -6951,7 +6965,8 @@
     "links": [
       "https://en.wikipedia.org/wiki/Burning_Fight",
       "https://gamefaqs.gamespot.com/arcade/575702-burning-fight",
-      "https://www.mobygames.com/game/arcade/burning-fight"
+      "https://www.mobygames.com/game/arcade/burning-fight",
+      "http://scrollboss.illmosis.net/review.php?r=burningfight-ng"
     ],
     "beatemupBingo": {
       "go": true,
@@ -7582,7 +7597,8 @@
     "links": [
       "https://en.wikipedia.org/wiki/Captain_America_and_The_Avengers",
       "https://gamefaqs.gamespot.com/genesis/586093-captain-america-and-the-avengers",
-      "https://www.mobygames.com/game/genesis/captain-america-and-the-avengers"
+      "https://www.mobygames.com/game/genesis/captain-america-and-the-avengers",
+      "http://scrollboss.illmosis.net/review.php?r=captainamericaandtheavengers-gen"
     ],
     "beatemupBingo": {
       "go": false,
@@ -7774,7 +7790,8 @@
     "links": [
       "https://en.wikipedia.org/wiki/Captain_Commando",
       "https://gamefaqs.gamespot.com/snes/588242-captain-commando",
-      "http://www.hardcoregaming101.net/captain-commando/"
+      "http://www.hardcoregaming101.net/captain-commando/",
+      "http://scrollboss.illmosis.net/review.php?r=captaincommando-snes"
     ],
     "beatemupBingo": {
       "go": false,
@@ -10087,7 +10104,7 @@
     "country": "Hungary",
     "developer": "Novotrade",
     "publisher": "Sega",
-    "releasedate": "2Apr- '-Ap '92",
+    "releasedate": "unknown",
     "releaseYear": 1992,
     "otherPlatforms": null,
     "series": null,
@@ -10140,7 +10157,11 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gen/cjustice/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Cyborg_Justice"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Cyborg_Justice",
+      "https://gamefaqs.gamespot.com/genesis/586126-cyborg-justice",
+      "https://www.mobygames.com/game/cyborg-justice"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -11304,7 +11325,7 @@
     "country": "Japan",
     "developer": "Winkysoft",
     "publisher": "Banpresto",
-    "releasedate": "4Jan- '-Ja '94",
+    "releasedate": "1994-02-01",
     "releaseYear": 1994,
     "otherPlatforms": [{ "name": "Ghost Chaser Densei", "platform": "SNES" }],
     "series": "Denjin Makai",
@@ -11356,11 +11377,12 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/dmakai/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/dmakai/img/ss05.png"
     ],
-    "videos": [],
+    "videos": ["https://www.youtube.com/embed/lf8rc7_rbxQ"],
     "links": [
       "https://en.wikipedia.org/wiki/Denjin_Makai",
       "https://gamefaqs.gamespot.com/arcade/690984-denjin-makai",
-      "https://www.mobygames.com/game/denjinmakai"
+      "https://www.mobygames.com/game/denjinmakai",
+      "http://www.hardcoregaming101.net/denjin-makai/"
     ],
     "beatemupBingo": {
       "go": false,
@@ -13238,7 +13260,8 @@
       "https://gamefaqs.gamespot.com/nes/587237-double-dragon-ii-the-revenge",
       "https://www.mobygames.com/game/nes/double-dragon-ii-the-revenge_",
       "https://www.romhacking.net/games/1126/",
-      "https://tcrf.net/Double_Dragon_II:_The_Revenge_(NES)"
+      "https://tcrf.net/Double_Dragon_II:_The_Revenge_(NES)",
+      "http://scrollboss.illmosis.net/review.php?r=doubledragon2-nes"
     ],
     "beatemupBingo": {
       "go": false,
@@ -13456,7 +13479,6 @@
     }
   },
   {
-    "missing": true,
     "name": "Double Dragon II: Wander of the Dragons",
     "platform": "Xbox 360",
     "perspective": "3D",
@@ -13470,48 +13492,64 @@
     "otherPlatforms": null,
     "series": "Double Dragon",
     "players": 2,
-    "structure": null,
-    "difficulty": null,
-    "gangsize": null,
-    "variety": ["Survival mode", "VS. mode"],
-    "playtime": null,
-    "buttons": null,
-    "combos": null,
-    "grabs": null,
-    "dashing": null,
-    "enemyHBars": null,
-    "itemPickup": null,
-    "itemStay": null,
-    "weaponsStay": null,
-    "deathBlow": null,
-    "friendlyFire": null,
+    "structure": "Linear",
+    "difficulty": "Hard",
+    "gangsize": "Small (4)",
+    "variety": ["Multiple endings", "Survival mode", "VS. mode"],
+    "playtime": "1:50",
+    "buttons": "Punch, Kick, Guard",
+    "combos": "Dynamic",
+    "grabs": "No",
+    "dashing": "Auto",
+    "enemyHBars": "Bosses only",
+    "itemPickup": "Contact",
+    "itemStay": "Stay",
+    "weaponsStay": "Durability",
+    "deathBlow": "Energy",
+    "friendlyFire": "No",
     "charSwitch": null,
-    "groundHit": null,
+    "groundHit": "No",
     "revive": null,
-    "restore": null,
-    "artStyle": null,
+    "restore": "Food only",
+    "artStyle": "Semi-realistic",
     "sprites": null,
-    "setting": null,
-    "focus": null,
+    "setting": "Various",
+    "focus": "Hand-to-hand",
     "music": ["Electronic"],
-    "tone": null,
-    "fighters": null,
-    "stages": null,
+    "tone": "Serious",
+    "fighters": 4,
+    "stages": 15,
     "enemies": null,
     "bosses": null,
-    "weapons": [null],
+    "weapons": ["Bomb", "Hand grenade", "Knife", "Shovel", "Stick"],
     "lives": null,
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "",
-    "images": [""],
-    "videos": ["https://www.youtube.com/embed/yQkRzNzHbEs"],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/xbox/dd2wotdragons/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/xbox/dd2wotdragons/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/xbox/dd2wotdragons/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/xbox/dd2wotdragons/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/xbox/dd2wotdragons/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/xbox/dd2wotdragons/ss05.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/xbox/dd2wotdragons/ss06.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/xbox/dd2wotdragons/ss07.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/xbox/dd2wotdragons/ss08.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/xbox/dd2wotdragons/ss09.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/xbox/dd2wotdragons/ss10.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/yQkRzNzHbEs",
+      "https://www.youtube.com/embed/5YkaDXdSBmk"
+    ],
     "links": [
       "https://doubledragon.fandom.com/wiki/Double_Dragon_II:_Wander_of_the_Dragons",
       "https://gamefaqs.gamespot.com/xbox360/685554-double-dragon-ii-wander-of-the-dragons",
       "https://www.mobygames.com/game/double-dragon-ii-wander-of-the-dragons",
-      "http://www.hardcoregaming101.net/double-dragon-ii-wander-of-the-dragons/"
+      "http://www.hardcoregaming101.net/double-dragon-ii-wander-of-the-dragons/",
+      "https://www.gameinformer.com/games/double_dragon_ii_wander_of_the_dragons/b/xbox360/archive/2013/04/05/double-dragon-ii-review-shame-of-the-dragons.aspx",
+      "https://crappygames.miraheze.org/wiki/Double_Dragon_II:_Wander_of_the_Dragons"
     ],
     "beatemupBingo": {
       "go": false,
@@ -13532,7 +13570,7 @@
       "yellowRedHealthBar": false,
       "dominatrix": false,
       "powerSpeedBalance": false,
-      "elevatorScene": false,
+      "elevatorScene": true,
       "mansionStage": false,
       "mohawks": false,
       "buildingSite": false,
@@ -14426,7 +14464,7 @@
     "country": "Japan",
     "developer": "Seta Corp.",
     "publisher": "Romstar",
-    "releasedate": "9Jan- '-Ja '89",
+    "releasedate": "unknown",
     "releaseYear": 1989,
     "otherPlatforms": null,
     "series": null,
@@ -14479,7 +14517,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/downtown/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": ["https://gamefaqs.gamespot.com/arcade/566994-down-town"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -14517,7 +14555,7 @@
     "country": "Japan",
     "developer": "Kid",
     "publisher": "Naxat Soft",
-    "releasedate": "3Dec- '-De '93",
+    "releasedate": "1993-12-24",
     "releaseYear": 1993,
     "otherPlatforms": null,
     "series": null,
@@ -14570,7 +14608,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pce/rcransom/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://en.wikipedia.org/wiki/River_City_Ransom",
+      "https://gamefaqs.gamespot.com/turbocd/589262-downtown-nekketsu-monogatari"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -14703,7 +14744,7 @@
     "country": "Japan",
     "developer": "Technos",
     "publisher": "Technos",
-    "releasedate": "3Dec- '-De '93",
+    "releasedate": "1993-12-22",
     "releaseYear": 1993,
     "otherPlatforms": null,
     "series": "Kunio-kun",
@@ -14755,9 +14796,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/jidaigeki/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/jidaigeki/img/ss05.png"
     ],
-    "videos": [],
+    "videos": ["https://www.youtube.com/embed/HWm_IT2jXX8"],
     "links": [
-      "https://kuniokun.fandom.com/wiki/Downtown_Special_Kunio-kun%27s_Historical_Period_Drama!"
+      "https://kuniokun.fandom.com/wiki/Downtown_Special_Kunio-kun%27s_Historical_Period_Drama!",
+      "https://gamefaqs.gamespot.com/gameboy/569839-downtown-special-kunio-kun-no-jidaigeki-dayo-zenin-shuugou"
     ],
     "beatemupBingo": {
       "go": false,
@@ -14795,9 +14837,9 @@
     "about": null,
     "trivia": null,
     "country": "Japan",
-    "developer": "developer",
-    "publisher": "publisher",
-    "releasedate": "unknown",
+    "developer": "Tamsoft Corporation",
+    "publisher": "D3Publisher",
+    "releasedate": "2005-11-10",
     "releaseYear": 2005,
     "otherPlatforms": null,
     "series": null,
@@ -15304,7 +15346,8 @@
       "https://en.wikipedia.org/wiki/Dungeon_Magic",
       "https://gamefaqs.gamespot.com/arcade/568165-dungeon-magic",
       "https://www.mobygames.com/game/dungeon-magic",
-      "http://www.hardcoregaming101.net/dungeon-magic/"
+      "http://www.hardcoregaming101.net/dungeon-magic/",
+      "http://scrollboss.illmosis.net/review.php?r=dungeonmagic-arc"
     ],
     "beatemupBingo": {
       "go": false,
@@ -15994,7 +16037,7 @@
     "country": "Japan",
     "developer": "Sega",
     "publisher": "Sega",
-    "releasedate": "9Jan- '-Ja '89",
+    "releasedate": "unknown",
     "releaseYear": 1989,
     "otherPlatforms": null,
     "series": "Dynamite Dux",
@@ -17709,7 +17752,7 @@
     "country": "Japan",
     "developer": "Capcom",
     "publisher": "Capcom",
-    "releasedate": "9Dec- '-De '89",
+    "releasedate": "unknown",
     "releaseYear": 1989,
     "otherPlatforms": ["Sega CD", "SNES"],
     "series": "Final Fight",
@@ -17762,7 +17805,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/ffight/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Final_Fight_(video_game)"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Final_Fight_(video_game)",
+      "https://gamefaqs.gamespot.com/arcade/563208-final-fight"
+    ],
     "beatemupBingo": {
       "go": true,
       "sunsetEnding": false,
@@ -17850,8 +17896,10 @@
     "videos": ["https://www.youtube.com/embed/z-Ly3ByTuUQ"],
     "links": [
       "https://en.wikipedia.org/wiki/Final_Fight_(video_game)",
+      "https://gamefaqs.gamespot.com/segacd/587948-final-fight-cd",
       "https://www.mobygames.com/game/sega-cd/final-fight",
-      "http://rq87.flyingomelette.com/FF/F/1/cd.html"
+      "http://rq87.flyingomelette.com/FF/F/1/cd.html",
+      "http://scrollboss.illmosis.net/review.php?r=finalfightcd-segacd"
     ],
     "beatemupBingo": {
       "go": true,
@@ -17890,7 +17938,7 @@
     "country": "Japan",
     "developer": "Capcom",
     "publisher": "Capcom",
-    "releasedate": "1Sep- '-Se '91Dec '90",
+    "releasedate": "1990-12-21",
     "releaseYear": 1990,
     "otherPlatforms": ["Arcade", "Sega CD"],
     "series": "Final Fight",
@@ -17945,8 +17993,10 @@
     "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Final_Fight_(video_game)",
+      "https://gamefaqs.gamespot.com/snes/588332-final-fight",
       "https://www.mobygames.com/game/snes/final-fight_",
-      "http://rq87.flyingomelette.com/FF/F/1/SNESr.html"
+      "http://rq87.flyingomelette.com/FF/F/1/SNESr.html",
+      "http://scrollboss.illmosis.net/review.php?r=finalfight-snes"
     ],
     "beatemupBingo": {
       "go": false,
@@ -17985,7 +18035,7 @@
     "country": "Japan",
     "developer": "Capcom",
     "publisher": "Capcom",
-    "releasedate": "3Aug- '-Au '93May '93",
+    "releasedate": "1993-05-22",
     "releaseYear": 1993,
     "otherPlatforms": null,
     "series": "Final Fight",
@@ -18038,7 +18088,11 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/ffight2/img/ss05.png"
     ],
     "videos": [],
-    "links": ["http://rq87.flyingomelette.com/FF/F/2/reg.html"],
+    "links": [
+      "https://gamefaqs.gamespot.com/snes/588333-final-fight-2",
+      "http://rq87.flyingomelette.com/FF/F/2/reg.html",
+      "http://scrollboss.illmosis.net/review.php?r=finalfight2-snes"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -18076,7 +18130,7 @@
     "country": "Japan",
     "developer": "Capcom",
     "publisher": "Capcom",
-    "releasedate": "6Jan- '-Ja '96Dec '95",
+    "releasedate": "1995-12-22",
     "releaseYear": 1995,
     "otherPlatforms": null,
     "series": "Final Fight",
@@ -18133,7 +18187,8 @@
       "https://en.wikipedia.org/wiki/Final_Fight_3",
       "https://gamefaqs.gamespot.com/snes/588334-final-fight-3",
       "http://www.hardcoregaming101.net/final-fight-3/",
-      "http://rq87.flyingomelette.com/FF/F/3/reg.html"
+      "http://rq87.flyingomelette.com/FF/F/3/reg.html",
+      "http://scrollboss.illmosis.net/review.php?r=finalfight3-snes"
     ],
     "beatemupBingo": {
       "go": false,
@@ -18172,7 +18227,7 @@
     "country": "Japan",
     "developer": "Capcom",
     "publisher": "Capcom",
-    "releasedate": "4Jun- '-Ju '94Mar '92",
+    "releasedate": "1992-03-20",
     "releaseYear": 1992,
     "otherPlatforms": null,
     "series": "Final Fight",
@@ -18225,7 +18280,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/ffightguy/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": ["https://gamefaqs.gamespot.com/snes/588335-final-fight-guy"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -18263,7 +18318,7 @@
     "country": null,
     "developer": "Sun-Tec",
     "publisher": "Capcom",
-    "releasedate": "1Sep- '-Se '01May '01",
+    "releasedate": "2001-05-25",
     "releaseYear": 2001,
     "otherPlatforms": null,
     "series": "Final Fight",
@@ -18316,7 +18371,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/ffightone/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": ["https://gamefaqs.gamespot.com/gba/471041-final-fight-one"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -18598,7 +18653,8 @@
     "links": [
       "https://numskullgames.com/game/final-vendetta/",
       "https://store.steampowered.com/app/1891090/Final_Vendetta/",
-      "https://gamefaqs.gamespot.com/pc/357907-final-vendetta"
+      "https://gamefaqs.gamespot.com/pc/357907-final-vendetta",
+      "https://jiggeh.com/2022/07/02/final-vendetta-what-it-gets-right-and-where-it-misses-the-mark/"
     ],
     "beatemupBingo": {
       "go": true,
@@ -18637,8 +18693,8 @@
     "about": null,
     "trivia": null,
     "country": "Japan",
-    "developer": "developer",
-    "publisher": "publisher",
+    "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "Sega",
     "releasedate": "2018-03-08",
     "releaseYear": 2018,
     "otherPlatforms": null,
@@ -19275,7 +19331,7 @@
     "country": "Japan",
     "developer": "Konami",
     "publisher": "Konami",
-    "releasedate": "3Jan- '-Ja '93",
+    "releasedate": "unknown",
     "releaseYear": 1993,
     "otherPlatforms": null,
     "series": null,
@@ -19370,7 +19426,7 @@
     "country": "Japan",
     "developer": "Noise Factory",
     "publisher": "Noise Factory",
-    "releasedate": "9Jan- '-Ja '99",
+    "releasedate": "unknown",
     "releaseYear": 1999,
     "otherPlatforms": null,
     "series": null,
@@ -19423,7 +19479,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/gcrusaders/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": ["https://gamefaqs.gamespot.com/arcade/922133-gaia-crusaders"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -19646,7 +19702,7 @@
     "country": "Japan",
     "developer": "Konami",
     "publisher": "Konami",
-    "releasedate": "9Jan- '-Ja '89",
+    "releasedate": "1989-01-04",
     "releaseYear": 1989,
     "otherPlatforms": null,
     "series": null,
@@ -19737,7 +19793,7 @@
     "country": "Japan",
     "developer": "Konami",
     "publisher": "Konami",
-    "releasedate": "3Dec- '-De '93",
+    "releasedate": "1993-12-22",
     "releaseYear": 1993,
     "otherPlatforms": null,
     "series": null,
@@ -19820,7 +19876,7 @@
     }
   },
   {
-    "name": "Ganbare Goemon 4: Karakuri Dochu ",
+    "name": "Ganbare Goemon 4: Karakuri Dochu",
     "platform": "SNES",
     "perspective": "2.5D",
     "about": "\n\nGanbare Goemon 4: Karakuri Dochu is the final installment in Konami's long-running Goemon series (known as Legend of the Mystical Ninja in the west.) Much like Goemon 1 and 2, this game features a mix of River City Ransom-esque town segments and action platformer stages. However, this game lets you choose stages unique to one of four characters and play them in any order.\n",
@@ -19828,7 +19884,7 @@
     "country": "Japan",
     "developer": "Konami",
     "publisher": "Konami",
-    "releasedate": "5Dec- '-De '95",
+    "releasedate": "1995-12-22",
     "releaseYear": 1995,
     "otherPlatforms": null,
     "series": null,
@@ -19919,7 +19975,7 @@
     "country": "Japan",
     "developer": "Konami",
     "publisher": "Konami",
-    "releasedate": "6Jul- '-Ju '86",
+    "releasedate": "1986-07-30",
     "releaseYear": 1986,
     "otherPlatforms": null,
     "series": null,
@@ -20010,7 +20066,7 @@
     "country": "Japan",
     "developer": "Konami",
     "publisher": "Konami",
-    "releasedate": "1Dec- '-De '91",
+    "releasedate": "1991-12-25",
     "releaseYear": 1991,
     "otherPlatforms": null,
     "series": null,
@@ -20101,7 +20157,7 @@
     "country": "Japan",
     "developer": "Alpha Denshi",
     "publisher": "SNK",
-    "releasedate": "9Jan- '-Ja '89",
+    "releasedate": "unknown",
     "releaseYear": 1989,
     "otherPlatforms": null,
     "series": null,
@@ -20557,7 +20613,7 @@
     "country": "Japan",
     "developer": "Winkysoft",
     "publisher": "Banpresto",
-    "releasedate": "4Sep- '-Se '94",
+    "releasedate": "1994-09-23",
     "releaseYear": 1994,
     "otherPlatforms": [{ "name": "Denjin Makai", "platform": "Arcade" }],
     "series": "Denjin Makai",
@@ -20610,7 +20666,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/gchaser/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": ["https://gamefaqs.gamespot.com/snes/567027-ghost-chaser-densei"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -20828,7 +20884,7 @@
     "country": "Japan",
     "developer": "Sega",
     "publisher": "Sega",
-    "releasedate": "9Jun- '-Ju '89",
+    "releasedate": "unknown",
     "releaseYear": 1989,
     "otherPlatforms": ["Genesis", "SMS", "PC Engine CD", "PS2"],
     "series": "Golden Axe",
@@ -20882,6 +20938,8 @@
     ],
     "videos": [],
     "links": [
+      "https://en.wikipedia.org/wiki/Golden_Axe_(video_game)",
+      "https://gamefaqs.gamespot.com/arcade/563980-golden-axe",
       "http://retrovania-vgjunk.blogspot.com/2017/06/golden-axe-arcade.html"
     ],
     "beatemupBingo": {
@@ -20921,7 +20979,7 @@
     "country": "Japan",
     "developer": "Sega",
     "publisher": "Sega",
-    "releasedate": "9Dec- '-De '89",
+    "releasedate": "1989-12-22",
     "releaseYear": 1989,
     "otherPlatforms": ["Arcade", "SMS", "PC Engine CD", "PS2"],
     "series": "Golden Axe",
@@ -20974,7 +21032,12 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gen/goldenaxe/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://en.wikipedia.org/wiki/Golden_Axe_(video_game)",
+      "https://gamefaqs.gamespot.com/genesis/563326-golden-axe",
+      "https://www.mobygames.com/game/genesis/golden-axe",
+      "http://scrollboss.illmosis.net/review.php?r=goldenaxe-gen"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -21012,7 +21075,7 @@
     "country": "Japan",
     "developer": "Sega",
     "publisher": "Sega",
-    "releasedate": "9Jan- '-Ja '89",
+    "releasedate": "unknown",
     "releaseYear": 1989,
     "otherPlatforms": ["Arcade", "Genesis", "PC Engine CD", "PS2"],
     "series": "Golden Axe",
@@ -21065,7 +21128,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/sms/goldenaxe/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://en.wikipedia.org/wiki/Golden_Axe_(video_game)",
+      "https://gamefaqs.gamespot.com/sms/588074-golden-axe"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -21103,7 +21169,7 @@
     "country": "Japan",
     "developer": "Treasure",
     "publisher": "Nippon Telenet",
-    "releasedate": "0Mar- '-Ma '90",
+    "releasedate": "1990-03-16",
     "releaseYear": 1990,
     "otherPlatforms": ["Arcade", "Genesis", "PS2", "SMS"],
     "series": "Golden Axe",
@@ -21156,7 +21222,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pce/goldenaxe/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://en.wikipedia.org/wiki/Golden_Axe_(video_game)",
+      "https://gamefaqs.gamespot.com/turbocd/589311-golden-axe"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -21240,7 +21309,8 @@
     "links": [
       "https://en.wikipedia.org/wiki/Golden_Axe_(video_game)",
       "https://gamefaqs.gamespot.com/ps2/916724-sega-ages-2500-series-vol-5-golden-axe",
-      "https://www.mobygames.com/game/sega-ages-2500-vol5-golden-axe"
+      "https://www.mobygames.com/game/sega-ages-2500-vol5-golden-axe",
+      "http://scrollboss.illmosis.net/review.php?r=goldenaxe-scc-ps2"
     ],
     "beatemupBingo": {
       "go": false,
@@ -21365,7 +21435,7 @@
     "country": "Japan",
     "developer": "Sega",
     "publisher": "Sega",
-    "releasedate": "1Dec- '-De '91",
+    "releasedate": "1991-12-26",
     "releaseYear": 1991,
     "otherPlatforms": null,
     "series": "Golden Axe",
@@ -21418,7 +21488,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gen/goldenaxe2/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://en.wikipedia.org/wiki/Golden_Axe_II",
+      "https://gamefaqs.gamespot.com/genesis/586214-golden-axe-ii"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -21456,7 +21529,7 @@
     "country": "Japan",
     "developer": "Sega",
     "publisher": "Sega",
-    "releasedate": "3Jun- '-Ju '93",
+    "releasedate": "1993-06-25",
     "releaseYear": 1993,
     "otherPlatforms": null,
     "series": "Golden Axe",
@@ -21551,7 +21624,7 @@
     "country": "Japan",
     "developer": "Sega",
     "publisher": "Sega",
-    "releasedate": "2Jan- '-Ja '92",
+    "releasedate": "unknown",
     "releaseYear": 1992,
     "otherPlatforms": null,
     "series": "Golden Axe",
@@ -21820,7 +21893,7 @@
     "country": "Japan",
     "developer": "Winds",
     "publisher": "Virgin Interactive",
-    "releasedate": "5Sep- '-Se '95",
+    "releasedate": "1995-09-29",
     "releaseYear": 1995,
     "otherPlatforms": null,
     "series": null,
@@ -21910,90 +21983,6 @@
     }
   },
   {
-    "missing": true,
-    "name": "GP Daenantu - GP!!! Dairantou",
-    "platform": "GP32",
-    "perspective": "2.5D",
-    "about": "Also known as 지피대난투 (GP Daenantu)/ GP Fight.",
-    "trivia": null,
-    "country": "South Korea",
-    "developer": "developer",
-    "publisher": "GamePark",
-    "releasedate": "2002-11-15",
-    "releaseYear": 2002,
-    "otherPlatforms": null,
-    "series": null,
-    "players": 1,
-    "structure": null,
-    "difficulty": null,
-    "gangsize": null,
-    "variety": ["None"],
-    "playtime": null,
-    "buttons": null,
-    "combos": null,
-    "grabs": null,
-    "dashing": null,
-    "enemyHBars": null,
-    "itemPickup": null,
-    "itemStay": null,
-    "weaponsStay": null,
-    "deathBlow": null,
-    "friendlyFire": null,
-    "charSwitch": null,
-    "groundHit": null,
-    "revive": null,
-    "restore": null,
-    "artStyle": null,
-    "sprites": null,
-    "setting": null,
-    "focus": null,
-    "music": ["Video game"],
-    "tone": null,
-    "gore": [null],
-    "fighters": null,
-    "stages": null,
-    "enemies": null,
-    "bosses": null,
-    "weapons": [null],
-    "lives": null,
-    "continues": null,
-    "extend": null,
-    "overallReview": [],
-    "cover": "",
-    "images": [""],
-    "videos": [""],
-    "links": [
-      "http://www.hardcoregaming101.net/korea//part2/games-other-old9.htm"
-    ],
-    "beatemupBingo": {
-      "go": false,
-      "sunsetEnding": false,
-      "healthMeat": false,
-      "sleevelessJacket": false,
-      "bossWithGun": false,
-      "fireBombs": false,
-      "twoWordTitle": false,
-      "throwingKnife": false,
-      "subwayStage": false,
-      "exproWrestler": false,
-      "steelPipe": false,
-      "kindnappedFemale": false,
-      "specialDrainsHealth": false,
-      "oilDrums": false,
-      "clowns": false,
-      "yellowRedHealthBar": false,
-      "dominatrix": false,
-      "powerSpeedBalance": false,
-      "elevatorScene": false,
-      "mansionStage": false,
-      "mohawks": false,
-      "buildingSite": false,
-      "fatCharginMen": false,
-      "sharpSuits": false,
-      "graffiti": false
-    }
-  },
-  {
     "name": "Growl",
     "platform": "Arcade",
     "perspective": "2.5D",
@@ -22002,7 +21991,7 @@
     "country": "Japan",
     "developer": "Taito",
     "publisher": "Taito",
-    "releasedate": "0Jan- '-Ja '90",
+    "releasedate": "unknown",
     "releaseYear": 1990,
     "otherPlatforms": ["Genesis"],
     "series": "Growl",
@@ -22058,7 +22047,8 @@
     "links": [
       "https://en.wikipedia.org/wiki/Growl_(video_game)",
       "https://gamefaqs.gamespot.com/arcade/575746-growl",
-      "https://namu.wiki/w/%EB%A3%A8%EB%82%98%ED%81%AC"
+      "https://namu.wiki/w/%EB%A3%A8%EB%82%98%ED%81%AC",
+      "http://scrollboss.illmosis.net/review.php?r=growl-arc"
     ],
     "beatemupBingo": {
       "go": false,
@@ -22097,7 +22087,7 @@
     "country": "Japan",
     "developer": "Taito",
     "publisher": "Taito",
-    "releasedate": "1Jan- '-Ja '91 jan91",
+    "releasedate": "1991-11-15",
     "releaseYear": 1991,
     "otherPlatforms": ["Arcade"],
     "series": "Growl",
@@ -22283,7 +22273,7 @@
     "country": "USA",
     "developer": "Atari",
     "publisher": "Atari",
-    "releasedate": "2Jan- '-Ja '92",
+    "releasedate": "unknown",
     "releaseYear": 1992,
     "otherPlatforms": null,
     "series": null,
@@ -22378,7 +22368,7 @@
     "country": "Japan",
     "developer": "Winkysoft",
     "publisher": "Banpresto",
-    "releasedate": "5Jan- '-Ja '95",
+    "releasedate": "unknown",
     "releaseYear": 1995,
     "otherPlatforms": null,
     "series": "Denjin Makai",
@@ -22565,7 +22555,7 @@
     "country": "Japan",
     "developer": "Jaleco",
     "publisher": "Jaleco",
-    "releasedate": "9Jan- '-Ja '89",
+    "releasedate": "unknown",
     "releaseYear": 1989,
     "otherPlatforms": null,
     "series": null,
@@ -23183,7 +23173,7 @@
     "country": "Japan",
     "developer": "SNK",
     "publisher": "SNK",
-    "releasedate": "9Jan- '-Ja '89",
+    "releasedate": "unknown",
     "releaseYear": 1989,
     "otherPlatforms": null,
     "series": null,
@@ -23274,7 +23264,7 @@
     "country": "Japan",
     "developer": "SNK",
     "publisher": "SNK",
-    "releasedate": "1Feb- '-Fe '91Mar '90",
+    "releasedate": "unknown",
     "releaseYear": 1990,
     "otherPlatforms": null,
     "series": null,
@@ -24065,13 +24055,13 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "https://www.mobygames.com/images/covers/l/20894-james-cameron-s-dark-angel-playstation-2-front-cover.jpg",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/jcdangel/cover.jpg",
     "images": [
-      "https://www.mobygames.com/images/shots/l/61951-james-cameron-s-dark-angel-xbox-screenshot-when-it-s-not-happening.jpg",
-      "https://www.mobygames.com/images/shots/l/61958-james-cameron-s-dark-angel-xbox-screenshot-when-combos-won.jpg",
-      "https://www.mobygames.com/images/shots/l/61955-james-cameron-s-dark-angel-xbox-screenshot-when-in-rage-mode.jpg",
-      "https://www.mobygames.com/images/shots/l/61957-james-cameron-s-dark-angel-xbox-screenshot-why-do-games-always.jpg",
-      "https://www.mobygames.com/images/shots/l/61956-james-cameron-s-dark-angel-xbox-screenshot-igniting-the-fuel.jpg"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/jcdangel/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/jcdangel/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/jcdangel/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/jcdangel/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/jcdangel/ss05.jpg"
     ],
     "videos": ["https://www.youtube.com/embed/LyM_ufOTZZA"],
     "links": [
@@ -24108,12 +24098,11 @@
     }
   },
   {
-    "missing": true,
     "name": "Janggun-ui Adeul",
     "platform": "SMS",
     "perspective": "2.5D",
     "about": null,
-    "trivia": "NES is actually a fighting game. There is no much fights with multiple enemies in SMS version though.",
+    "trivia": "NES version is actually a fighting game. There is no much fights with multiple enemies in SMS version though.",
     "country": "South Korea",
     "developer": "Daou Infosys",
     "publisher": "Daou Infosys",
@@ -24122,34 +24111,34 @@
     "otherPlatforms": null,
     "series": null,
     "players": 1,
-    "structure": null,
-    "difficulty": null,
-    "gangsize": null,
-    "variety": ["Fighting sections"],
+    "structure": "Linear",
+    "difficulty": "Hard",
+    "gangsize": "Duo (2)",
+    "variety": ["Timer"],
     "playtime": "0:15",
-    "buttons": null,
-    "combos": null,
-    "grabs": null,
-    "dashing": null,
-    "enemyHBars": null,
-    "itemPickup": null,
-    "itemStay": null,
-    "weaponsStay": null,
-    "deathBlow": null,
-    "friendlyFire": null,
-    "charSwitch": null,
-    "groundHit": null,
-    "revive": null,
-    "restore": null,
-    "artStyle": null,
+    "buttons": "Punch, Kick, Jump",
+    "combos": "Static",
+    "grabs": "No",
+    "dashing": "No",
+    "enemyHBars": "Yes",
+    "itemPickup": "N/A",
+    "itemStay": "N/A",
+    "weaponsStay": "N/A",
+    "deathBlow": "N/A",
+    "friendlyFire": "N/A",
+    "charSwitch": "N/A",
+    "groundHit": "No",
+    "revive": "New area",
+    "restore": "End of stage",
+    "artStyle": "Semi-realistic",
     "sprites": null,
-    "setting": null,
-    "focus": null,
+    "setting": "Urban",
+    "focus": "Hand-to-hand",
     "music": ["Video game"],
-    "tone": null,
+    "tone": "Serious",
     "gore": [null],
-    "fighters": null,
-    "stages": null,
+    "fighters": 1,
+    "stages": 5,
     "enemies": null,
     "bosses": null,
     "weapons": [null],
@@ -24157,8 +24146,13 @@
     "continues": null,
     "extend": null,
     "overallReview": null,
-    "cover": "",
-    "images": [""],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/sms/jadeul/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/sms/jadeul/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/sms/jadeul/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/sms/jadeul/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/sms/jadeul/ss04.png"
+    ],
     "videos": ["https://www.youtube.com/embed/ibkaOP20dMI"],
     "links": [
       "https://segaretro.org/Janggun-ui_Adeul",
@@ -24168,13 +24162,13 @@
       "https://blog.naver.com/kisswing0/221429455976"
     ],
     "beatemupBingo": {
-      "go": false,
+      "go": true,
       "sunsetEnding": false,
       "healthMeat": false,
       "sleevelessJacket": false,
       "bossWithGun": false,
       "fireBombs": false,
-      "twoWordTitle": false,
+      "twoWordTitle": true,
       "throwingKnife": false,
       "subwayStage": false,
       "exproWrestler": false,
@@ -24423,7 +24417,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [],
+    "videos": ["https://www.youtube.com/embed/8snietermYs"],
     "links": [
       "https://en.wikipedia.org/wiki/Jet_Li:_Rise_to_Honor",
       "https://gamefaqs.gamespot.com/ps2/562133-rise-to-honor",
@@ -24466,7 +24460,7 @@
     "country": "Australia",
     "developer": "Beam Software",
     "publisher": "Playmates",
-    "releasedate": "5Nov- '-No '95",
+    "releasedate": "unknown",
     "releaseYear": 1995,
     "otherPlatforms": null,
     "series": null,
@@ -24752,7 +24746,7 @@
     "country": "USA",
     "developer": "Midway",
     "publisher": "Acclaim",
-    "releasedate": "2Jan- '-Ja '92",
+    "releasedate": "unknown",
     "releaseYear": 1992,
     "otherPlatforms": null,
     "series": null,
@@ -25035,7 +25029,7 @@
     "country": "USA",
     "developer": "WayForward",
     "publisher": "Warner Bros",
-    "releasedate": "6Oct- '-Oc '06Nov '06",
+    "releasedate": "2006-10-17",
     "releaseYear": 2006,
     "otherPlatforms": null,
     "series": null,
@@ -25088,7 +25082,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/jlhflash/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://en.wikipedia.org/wiki/Justice_League_Heroes:_The_Flash",
+      "https://gamefaqs.gamespot.com/gba/933902-justice-league-heroes-the-flash"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -25305,7 +25302,7 @@
     "country": "Japan",
     "developer": "Video System",
     "publisher": "Video System",
-    "releasedate": "1Jan- '-Ja '91 jan91Jan '91 jan91",
+    "releasedate": "unknown",
     "releaseYear": 1991,
     "otherPlatforms": null,
     "series": null,
@@ -26592,7 +26589,7 @@
     "country": "Taiwan",
     "developer": "IGS",
     "publisher": "IGS",
-    "releasedate": "9Jan- '-Ja '99",
+    "releasedate": "unknown",
     "releaseYear": 1999,
     "otherPlatforms": null,
     "series": "Knights of Valour",
@@ -26645,7 +26642,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/kov/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Knights_of_Valour"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Knights_of_Valour",
+      "https://gamefaqs.gamespot.com/arcade/580999-knights-of-valour"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -26683,7 +26683,7 @@
     "country": "Taiwan",
     "developer": "IGS",
     "publisher": "IGS",
-    "releasedate": "0Jan- '-Ja '00",
+    "releasedate": "unknown",
     "releaseYear": 2000,
     "otherPlatforms": null,
     "series": "Knights of Valour",
@@ -26736,7 +26736,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/kov2/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/arcade/581000-knights-of-valour-2"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -27002,7 +27004,8 @@
       "https://en.wikipedia.org/wiki/Knuckle_Bash",
       "https://gamefaqs.gamespot.com/arcade/583814-knuckle-bash",
       "https://www.mobygames.com/game/knuckle-bash",
-      "http://retrovania-vgjunk.blogspot.com/2014/11/knuckle-bash-arcade.html"
+      "http://retrovania-vgjunk.blogspot.com/2014/11/knuckle-bash-arcade.html",
+      "http://scrollboss.illmosis.net/review.php?r=knucklebash-arc"
     ],
     "beatemupBingo": {
       "go": false,
@@ -27477,7 +27480,7 @@
     "country": "France",
     "developer": "Arcade Zone LTD",
     "publisher": "Seika Corp.",
-    "releasedate": "4Apr- '-Ap '94",
+    "releasedate": "unknown",
     "releaseYear": 1994,
     "otherPlatforms": null,
     "series": "Legend",
@@ -27663,7 +27666,7 @@
     "country": "Japan",
     "developer": "Konami",
     "publisher": "Konami",
-    "releasedate": "2Feb- '-Fe '92Jul '91",
+    "releasedate": "1991-07-19",
     "releaseYear": 1991,
     "otherPlatforms": null,
     "series": null,
@@ -27716,7 +27719,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/lmninja/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": ["https://en.wikipedia.org/wiki/The_Legend_of_the_Mystical_Ninja"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -27754,7 +27757,7 @@
     "country": "Japan",
     "developer": "TAD Corp.",
     "publisher": "Fabtek",
-    "releasedate": "2Jan- '-Ja '92",
+    "releasedate": "unknown",
     "releaseYear": 1992,
     "otherPlatforms": null,
     "series": null,
@@ -27850,7 +27853,7 @@
     "country": "UK",
     "developer": "Ocean",
     "publisher": "Eurocom",
-    "releasedate": "3Apr- '-Ap '93",
+    "releasedate": "unknown",
     "releaseYear": 1993,
     "otherPlatforms": null,
     "series": null,
@@ -27903,7 +27906,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nes/lweapon/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Lethal_Weapon_(video_game)"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Lethal_Weapon_(video_game)",
+      "https://gamefaqs.gamespot.com/nes/563434-lethal-weapon"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -29022,7 +29028,7 @@
     "country": "Japan",
     "developer": "Konami",
     "publisher": "Konami",
-    "releasedate": "3Jan- '-Ja '93",
+    "releasedate": "unknown",
     "releaseYear": 1993,
     "otherPlatforms": null,
     "series": null,
@@ -29074,8 +29080,16 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/mforce/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/mforce/img/ss05.png"
     ],
-    "videos": [],
-    "links": [],
+    "videos": [
+      "https://www.youtube.com/embed/UIGq3zGX1uo",
+      "https://www.youtube.com/embed/Qu-6gw9Q24o"
+    ],
+    "links": [
+      "https://en.wikipedia.org/wiki/Metamorphic_Force",
+      "https://gamefaqs.gamespot.com/arcade/568264-metamorphic-force",
+      "https://www.mobygames.com/game/metamorphic-force",
+      "http://www.hardcoregaming101.net/metamorphic-force/"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -29730,7 +29744,6 @@
     }
   },
   {
-    "missing": true,
     "multigenre": true,
     "name": "Minority Report: Everybody Runs",
     "platform": "PS2",
@@ -29745,7 +29758,7 @@
     "otherPlatforms": null,
     "series": null,
     "players": 1,
-    "structure": null,
+    "structure": "Linear",
     "difficulty": "Hard",
     "gangsize": null,
     "variety": ["Shooting", "Upgrades"],
@@ -29758,7 +29771,7 @@
     "itemPickup": "Contact",
     "itemStay": "Stay",
     "weaponsStay": "Ammo",
-    "deathBlow": null,
+    "deathBlow": "N/A",
     "friendlyFire": "N/A",
     "charSwitch": "N/A",
     "groundHit": "Yes",
@@ -29775,7 +29788,7 @@
     "stages": null,
     "enemies": null,
     "bosses": null,
-    "weapons": [null],
+    "weapons": ["Grenade launcher", "Machine gun", "Shotgun"],
     "lives": null,
     "continues": null,
     "extend": null,
@@ -29789,7 +29802,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/mrer/ss05.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/mrer/ss06.jpg"
     ],
-    "videos": [""],
+    "videos": ["https://www.youtube.com/embed/YmrgspKuNVc"],
     "links": [
       "https://en.wikipedia.org/wiki/Minority_Report:_Everybody_Runs",
       "https://gamefaqs.gamespot.com/ps2/530236-minority-report-everybody-runs",
@@ -30523,7 +30536,7 @@
     "country": "Italy",
     "developer": "Electronic Devices",
     "publisher": "Electronic Devices",
-    "releasedate": "0Jan- '-Ja '90",
+    "releasedate": "unknown",
     "releaseYear": 1990,
     "otherPlatforms": null,
     "series": null,
@@ -30712,7 +30725,7 @@
     "country": "Japan",
     "developer": "SNK",
     "publisher": "SNK",
-    "releasedate": "2Mar- '-Ma '92",
+    "releasedate": "1992-03-16",
     "releaseYear": 1992,
     "otherPlatforms": null,
     "series": null,
@@ -30765,7 +30778,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/mnation/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://en.wikipedia.org/wiki/Mutation_Nation",
+      "https://gamefaqs.gamespot.com/arcade/562896-mutation-nation"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -30894,7 +30910,7 @@
     "country": "Japan",
     "developer": "Kid",
     "publisher": "Dreamworks/NCS",
-    "releasedate": "2Jan- '-Ja '92Oct '91",
+    "releasedate": "1991-10-25",
     "releaseYear": 1991,
     "otherPlatforms": null,
     "series": null,
@@ -30947,7 +30963,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gen/mfighter/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Mystical_Fighter_(video_game)"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Mystical_Fighter_(video_game)",
+      "https://gamefaqs.gamespot.com/genesis/586335-mystical-fighter"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -31081,7 +31100,7 @@
     "country": "Japan",
     "developer": "Technos",
     "publisher": "Technos",
-    "releasedate": "6Dec- '-De '86May '86",
+    "releasedate": "unknown",
     "releaseYear": 1986,
     "otherPlatforms": ["NES"],
     "series": "Kunio-kun",
@@ -31134,7 +31153,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/kunio/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Kunio-kun"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Kunio-kun",
+      "https://gamefaqs.gamespot.com/arcade/577036-renegade"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -31658,7 +31680,7 @@
     "country": "Japan",
     "developer": "Data East",
     "publisher": "Data East",
-    "releasedate": "3Jan- '-Ja '93",
+    "releasedate": "unknown",
     "releaseYear": 1993,
     "otherPlatforms": null,
     "series": "Night Slashers",
@@ -31839,7 +31861,7 @@
     "country": "Japan",
     "developer": "Irem",
     "publisher": "Irem",
-    "releasedate": "3Jan- '-Ja '93",
+    "releasedate": "unknown",
     "releaseYear": 1993,
     "otherPlatforms": null,
     "series": null,
@@ -31940,7 +31962,7 @@
     "country": null,
     "developer": "Strata",
     "publisher": "Strata",
-    "releasedate": "1Jan- '-Ja '91 jan91",
+    "releasedate": "unknown",
     "releaseYear": 1991,
     "otherPlatforms": null,
     "series": null,
@@ -31994,6 +32016,7 @@
     ],
     "videos": [],
     "links": [
+      "https://gamefaqs.gamespot.com/arcade/565999-ninja-clowns",
       "https://www.mobygames.com/game/arcade/ninja-clowns",
       "https://www.arcade-history.com/?n=ninja-clowns&page=detail&id=1777"
     ],
@@ -32763,7 +32786,7 @@
     "country": "Japan",
     "developer": "SNK",
     "publisher": "SNK",
-    "releasedate": "8Aug- '-Au '88",
+    "releasedate": "1988-08-15",
     "releaseYear": 1988,
     "otherPlatforms": ["NES"],
     "series": "P.O.W. - Prisoners of War",
@@ -32859,7 +32882,7 @@
     "country": "Japan",
     "developer": "SNK",
     "publisher": "SNK",
-    "releasedate": "9Sep- '-Se '89Jun '89",
+    "releasedate": "1989-06-30",
     "releaseYear": 1989,
     "otherPlatforms": ["Arcade"],
     "series": "P.O.W. - Prisoners of War",
@@ -34299,7 +34322,7 @@
     "country": "Japan",
     "developer": "Technos",
     "publisher": "Technos",
-    "releasedate": "6Dec- '-De '86May '86",
+    "releasedate": "unknown",
     "releaseYear": 1986,
     "otherPlatforms": ["NES", "SMS"],
     "series": "Kunio-kun",
@@ -34495,7 +34518,7 @@
     "country": "Japan",
     "developer": "Natsume",
     "publisher": "Sega",
-    "releasedate": "3Jan- '-Ja '93",
+    "releasedate": "unknown",
     "releaseYear": 1993,
     "otherPlatforms": ["Arcade", "NES"],
     "series": null,
@@ -34550,6 +34573,7 @@
     "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Renegade_(video_game)",
+      "https://gamefaqs.gamespot.com/sms/575713-renegade",
       "https://strategywiki.org/wiki/Renegade"
     ],
     "beatemupBingo": {
@@ -34671,7 +34695,7 @@
     "country": "Japan",
     "developer": "Westone",
     "publisher": "Sega",
-    "releasedate": "1May- '-Ma '91",
+    "releasedate": "unknown",
     "releaseYear": 1991,
     "otherPlatforms": null,
     "series": null,
@@ -34726,6 +34750,7 @@
     "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Riot_City",
+      "https://gamefaqs.gamespot.com/arcade/567499-riot-city",
       "http://www.hardcoregaming101.net/riot-city-riot-zone-crest-of-wolf-%e7%8b%bc%e7%9a%84%e7%b4%8b%e7%ab%a0-arcade-turbografx-16-cd-wii-1991/"
     ],
     "beatemupBingo": {
@@ -34818,7 +34843,12 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/rturf/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Rival_Turf!"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Rival_Turf!",
+      "https://gamefaqs.gamespot.com/snes/588616-rival-turf",
+      "https://www.mobygames.com/game/snes/rival-turf",
+      "http://scrollboss.illmosis.net/review.php?r=rivalturf-snes"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -34911,7 +34941,10 @@
     "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/River_City_Ransom",
-      "https://tcrf.net/River_City_Ransom"
+      "https://gamefaqs.gamespot.com/nes/563453-river-city-ransom",
+      "https://www.mobygames.com/game/nes/river-city-ransom",
+      "https://tcrf.net/River_City_Ransom",
+      "http://scrollboss.illmosis.net/review.php?r=rivercityransom-nes"
     ],
     "beatemupBingo": {
       "go": false,
@@ -35466,7 +35499,7 @@
     "structure": "Open world",
     "difficulty": "Hard",
     "gangsize": null,
-    "variety": ["None"],
+    "variety": ["Exploration", "Upgrades"],
     "playtime": null,
     "buttons": null,
     "combos": null,
@@ -35542,7 +35575,7 @@
     "country": "Japan",
     "developer": "SNK",
     "publisher": "SNK",
-    "releasedate": "1Oct- '-Oc '91",
+    "releasedate": "1991-10-30",
     "releaseYear": 1991,
     "otherPlatforms": null,
     "series": null,
@@ -35595,7 +35628,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/roboarmy/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://en.wikipedia.org/wiki/Robo_Army",
+      "https://gamefaqs.gamespot.com/arcade/575709-robo-army"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -35603,7 +35639,7 @@
       "sleevelessJacket": false,
       "bossWithGun": false,
       "fireBombs": false,
-      "twoWordTitle": false,
+      "twoWordTitle": true,
       "throwingKnife": false,
       "subwayStage": false,
       "exproWrestler": false,
@@ -35633,7 +35669,7 @@
     "country": "Japan",
     "developer": "Konami",
     "publisher": "Konami",
-    "releasedate": "1Jan- '-Ja '91 jan91",
+    "releasedate": "unknown",
     "releaseYear": 1991,
     "otherPlatforms": ["NES"],
     "series": "Rollergames",
@@ -35728,7 +35764,7 @@
     "country": "Japan",
     "developer": "Konami",
     "publisher": "Konami",
-    "releasedate": "0Sep- '-Se '90Oct '91",
+    "releasedate": "unknown",
     "releaseYear": 1990,
     "otherPlatforms": ["Arcade"],
     "series": "Rollergames",
@@ -35824,8 +35860,8 @@
     "country": null,
     "developer": null,
     "publisher": null,
-    "releasedate": "unknown",
-    "releaseYear": null,
+    "releasedate": "2022-02-10",
+    "releaseYear": 2022,
     "otherPlatforms": null,
     "series": null,
     "players": 1,
@@ -35905,7 +35941,7 @@
     "country": "Japan",
     "developer": "Banpresto",
     "publisher": "Banpresto",
-    "releasedate": "5Mar- '-Ma '95",
+    "releasedate": "1995-03-22",
     "releaseYear": 1995,
     "otherPlatforms": null,
     "series": "Sailor Moon",
@@ -35958,7 +35994,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/smoon/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/arcade/566730-pretty-soldier-sailor-moon"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -35996,7 +36034,7 @@
     "country": "Japan",
     "developer": "Bandai",
     "publisher": "Bandai",
-    "releasedate": "3Aug- '-Au '93",
+    "releasedate": "1993-08-27",
     "releaseYear": 1993,
     "otherPlatforms": null,
     "series": "Sailor Moon",
@@ -36049,7 +36087,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/smoon/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/snes/564188-bishoujo-senshi-sailor-moon"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -36087,7 +36127,7 @@
     "country": null,
     "developer": "Opera House",
     "publisher": "Culture Brain",
-    "releasedate": "3Dec- '-De '93",
+    "releasedate": "1993-12-29",
     "releaseYear": 1993,
     "otherPlatforms": null,
     "series": "Sailor Moon",
@@ -36140,7 +36180,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/smoonr/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/snes/564189-bishoujo-senshi-sailor-moon-r"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -36440,7 +36482,7 @@
     "country": "Japan",
     "developer": "SNK",
     "publisher": "SNK",
-    "releasedate": "1Feb- '-Fe '91",
+    "releasedate": "1991-02-12",
     "releaseYear": 1991,
     "otherPlatforms": null,
     "series": "Sengoku",
@@ -36493,7 +36535,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/sengoku/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": ["https://gamefaqs.gamespot.com/arcade/575710-sengoku"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -36531,7 +36573,7 @@
     "country": "Japan",
     "developer": "SNK",
     "publisher": "SNK",
-    "releasedate": "3Feb- '-Fe '93",
+    "releasedate": "1993-02-18",
     "releaseYear": 1993,
     "otherPlatforms": null,
     "series": "Sengoku",
@@ -36584,7 +36626,11 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/sengoku2/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://en.wikipedia.org/wiki/Sengoku_2",
+      "https://gamefaqs.gamespot.com/arcade/575711-sengoku-2",
+      "https://www.mobygames.com/game/arcade/sengoku-2"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -36622,7 +36668,7 @@
     "country": "Japan",
     "developer": "Noise Factory",
     "publisher": "SNK",
-    "releasedate": "1Jan- '-Ja '01",
+    "releasedate": "2001-07-18",
     "releaseYear": 2001,
     "otherPlatforms": null,
     "series": "Sengoku",
@@ -36675,7 +36721,12 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/sengoku3/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://en.wikipedia.org/wiki/Sengoku_3",
+      "https://snk.fandom.com/wiki/Sengoku_3",
+      "https://gamefaqs.gamespot.com/arcade/562755-sengoku-3",
+      "https://www.mobygames.com/game/arcade/sengoku-3"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -36713,7 +36764,7 @@
     "country": "Japan",
     "developer": "Technos",
     "publisher": "Technos",
-    "releasedate": "2Jan- '-Ja '92",
+    "releasedate": "unknown",
     "releaseYear": 1992,
     "otherPlatforms": null,
     "series": null,
@@ -36765,10 +36816,12 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/sforce/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/sforce/img/ss05.png"
     ],
-    "videos": [],
+    "videos": ["https://www.youtube.com/embed/iETTJOyH7xA"],
     "links": [
+      "https://gamefaqs.gamespot.com/arcade/568695-shadow-force",
+      "https://www.mobygames.com/game/arcade/shadow-force",
       "https://tcrf.net/Shadow_Force",
-      "https://gamefaqs.gamespot.com/arcade/568695-shadow-force"
+      "http://www.hardcoregaming101.net/shadow-force-arcade-1993/"
     ],
     "beatemupBingo": {
       "go": false,
@@ -36777,7 +36830,7 @@
       "sleevelessJacket": false,
       "bossWithGun": false,
       "fireBombs": false,
-      "twoWordTitle": false,
+      "twoWordTitle": true,
       "throwingKnife": false,
       "subwayStage": false,
       "exproWrestler": false,
@@ -36888,7 +36941,7 @@
     "country": "Japan",
     "developer": "Technos",
     "publisher": "Technos",
-    "releasedate": "4Apr- '-Ap '94",
+    "releasedate": "1994-04-29",
     "releaseYear": 1994,
     "otherPlatforms": null,
     "series": "Kunio-kun",
@@ -36941,7 +36994,11 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/kuniob/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://kuniokun.fandom.com/wiki/Shin_Nekketsu_K%C5%8Dha:_Kunio-tachi_no_Banka",
+      "https://gamefaqs.gamespot.com/snes/578854-shin-nekketsu-kouha-kunio-tachi-no-banka",
+      "https://www.spriters-resource.com/snes/shinkunio/"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -36979,7 +37036,7 @@
     "country": "Japan",
     "developer": "Technos",
     "publisher": "Technos",
-    "releasedate": "2Aug- '-Au '92",
+    "releasedate": "1992-08-07",
     "releaseYear": 1992,
     "otherPlatforms": null,
     "series": "Kunio-kun",
@@ -37159,7 +37216,7 @@
     "country": "Taiwan",
     "developer": "Never Ending Soft",
     "publisher": "Never Ending Soft",
-    "releasedate": "6Jan- '-Ja '96",
+    "releasedate": "unknown",
     "releaseYear": 1996,
     "otherPlatforms": null,
     "series": null,
@@ -37213,6 +37270,7 @@
     ],
     "videos": [],
     "links": [
+      "https://gamefaqs.gamespot.com/genesis/181508-water-margin-a-tales-of-clouds-and-winds",
       "https://segaretro.org/Shui_Hu:_Feng_Yun_Zhuan",
       "https://bootleggames.fandom.com/wiki/Shui_Hu_Feng_Yun_Zhuan",
       "http://lunaticobscurity.blogspot.com/2009/05/shui-hu-feng-yun-zhuan-mega-drive.html"
@@ -37348,7 +37406,7 @@
     "country": "Japan",
     "developer": "Taito",
     "publisher": "Taito",
-    "releasedate": "2Jan- '-Ja '92",
+    "releasedate": "unknown",
     "releaseYear": 1992,
     "otherPlatforms": null,
     "series": null,
@@ -37396,7 +37454,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/sdragon/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/arcade/568723-silent-dragon",
+      "https://www.mobygames.com/game/silent-dragon"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -37516,7 +37577,7 @@
     "country": "USA",
     "developer": "Atari",
     "publisher": "Atari",
-    "releasedate": "9Jan- '-Ja '89",
+    "releasedate": "unknown",
     "releaseYear": 1989,
     "otherPlatforms": null,
     "series": null,
@@ -37571,6 +37632,7 @@
     "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Skull_%26_Crossbones",
+      "https://gamefaqs.gamespot.com/arcade/568732-skull-and-crossbones",
       "https://www.mobygames.com/game/arcade/skull-crossbones"
     ],
     "beatemupBingo": {
@@ -38162,7 +38224,7 @@
     "country": "UK",
     "developer": "Software Creations",
     "publisher": "Acclaim",
-    "releasedate": "4Sep- '-Se '94",
+    "releasedate": "1994-09-16",
     "releaseYear": 1994,
     "otherPlatforms": null,
     "series": null,
@@ -38210,7 +38272,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/spiderman/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/snes/588683-spider-man-and-venom-maximum-carnage"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -38248,7 +38312,7 @@
     "country": "UK",
     "developer": "Software Creations",
     "publisher": "Acclaim",
-    "releasedate": "5Nov- '-No '95",
+    "releasedate": "unknown",
     "releaseYear": 1995,
     "otherPlatforms": null,
     "series": null,
@@ -38429,7 +38493,7 @@
     "country": "UK",
     "developer": "Software Creations",
     "publisher": "Acclaim",
-    "releasedate": "4Sep- '-Se '94May '95",
+    "releasedate": "1994-09-16",
     "releaseYear": 1994,
     "otherPlatforms": null,
     "series": null,
@@ -38482,7 +38546,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gen/spiderman/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/genesis/586308-spider-man-and-venom-maximum-carnage"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -38801,7 +38867,7 @@
     "country": "Japan",
     "developer": "Amusement Vision",
     "publisher": "Sega",
-    "releasedate": "2001-07-01",
+    "releasedate": "unknown",
     "releaseYear": 2001,
     "otherPlatforms": null,
     "series": "Spikeout",
@@ -39751,7 +39817,10 @@
     "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Streets_of_Rage_(video_game)",
-      "http://rq87.flyingomelette.com/RQ/R/GEN/SoR/1.html"
+      "https://gamefaqs.gamespot.com/genesis/454496-streets-of-rage",
+      "https://www.mobygames.com/game/genesis/streets-of-rage",
+      "http://rq87.flyingomelette.com/RQ/R/GEN/SoR/1.html",
+      "http://scrollboss.illmosis.net/review.php?r=streetsofrage-gen"
     ],
     "beatemupBingo": {
       "go": false,
@@ -40036,7 +40105,8 @@
       "https://en.wikipedia.org/wiki/Streets_of_Rage_2",
       "https://gamefaqs.gamespot.com/genesis/563344-streets-of-rage-ii",
       "https://www.mobygames.com/game/genesis/streets-of-rage-2",
-      "http://rq87.flyingomelette.com/RQ/R/GEN/SoR2/1.html"
+      "http://rq87.flyingomelette.com/RQ/R/GEN/SoR2/1.html",
+      "http://scrollboss.illmosis.net/review.php?r=streetsofrage2-gen"
     ],
     "beatemupBingo": {
       "go": false,
@@ -40075,7 +40145,7 @@
     "country": "Japan",
     "developer": "Biox",
     "publisher": "Sega",
-    "releasedate": "3Jul- '-Ju '93Jul '93",
+    "releasedate": "1993-07-23",
     "releaseYear": 1993,
     "otherPlatforms": ["3DS", "Genesis", "SMS"],
     "series": "Streets of Rage",
@@ -40128,7 +40198,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gg/streets2/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/gamegear/586826-streets-of-rage-2"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -40166,7 +40238,7 @@
     "country": "Japan",
     "developer": "Biox",
     "publisher": "Sega",
-    "releasedate": "3Jan- '-Ja '93",
+    "releasedate": "unknown",
     "releaseYear": 1993,
     "otherPlatforms": ["3DS", "Game Gear", "Genesis"],
     "series": "Streets of Rage",
@@ -40219,7 +40291,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/sms/streets2/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": ["https://gamefaqs.gamespot.com/sms/570231-streets-of-rage-2"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -40803,7 +40875,7 @@
     "country": "USA",
     "developer": "Handheld Games",
     "publisher": "Midway",
-    "releasedate": "3Oct- '-Oc '03",
+    "releasedate": "2003-10-26",
     "releaseYear": 2003,
     "otherPlatforms": null,
     "series": null,
@@ -40854,7 +40926,36 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/sdsumos/img/ss03.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/sdsumos/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/sdsumos/img/ss05.png"
-    ]
+    ],
+    "videos": [],
+    "links": ["https://gamefaqs.gamespot.com/gba/914925-super-duper-sumos"],
+    "beatemupBingo": {
+      "go": false,
+      "sunsetEnding": false,
+      "healthMeat": false,
+      "sleevelessJacket": false,
+      "bossWithGun": false,
+      "fireBombs": false,
+      "twoWordTitle": false,
+      "throwingKnife": false,
+      "subwayStage": false,
+      "exproWrestler": false,
+      "steelPipe": false,
+      "kindnappedFemale": false,
+      "specialDrainsHealth": false,
+      "oilDrums": false,
+      "clowns": false,
+      "yellowRedHealthBar": false,
+      "dominatrix": false,
+      "powerSpeedBalance": false,
+      "elevatorScene": false,
+      "mansionStage": false,
+      "mohawks": false,
+      "buildingSite": false,
+      "fatCharginMen": false,
+      "sharpSuits": false,
+      "graffiti": false
+    }
   },
   {
     "missing": true,
@@ -41115,7 +41216,7 @@
     "country": "UK",
     "developer": "Software Creations",
     "publisher": "Taito",
-    "releasedate": "0Mar- '-Ma '90",
+    "releasedate": "unknown",
     "releaseYear": 1990,
     "otherPlatforms": ["PC", "ZX Spectrum"],
     "series": "Target: Renegade",
@@ -41388,7 +41489,7 @@
     "country": "Japan",
     "developer": "Konami",
     "publisher": "Konami",
-    "releasedate": "9Jan- '-Ja '89",
+    "releasedate": "unknown",
     "releaseYear": 1989,
     "otherPlatforms": null,
     "series": "Teenage Mutant Ninja Turtles",
@@ -41442,6 +41543,8 @@
     ],
     "videos": [],
     "links": [
+      "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(arcade_game)",
+      "https://gamefaqs.gamespot.com/arcade/575651-teenage-mutant-ninja-turtles",
       "http://retrovania-vgjunk.blogspot.com/2017/04/teenage-mutant-ninja-turtles-arcade.html"
     ],
     "beatemupBingo": {
@@ -42323,7 +42426,7 @@
     "country": "Japan",
     "developer": "Konami",
     "publisher": "Konami",
-    "releasedate": "1Jan- '-Ja '91 jan91",
+    "releasedate": "unknown",
     "releaseYear": 1991,
     "otherPlatforms": null,
     "series": "Teenage Mutant Ninja Turtles",
@@ -42376,7 +42479,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/tmnt2/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/arcade/575653-teenage-mutant-ninja-turtles-turtles-in-time"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -42850,7 +42955,7 @@
     "country": "South Korea",
     "developer": "UNICO",
     "publisher": "UNICO",
-    "releasedate": "0Jan- '-Ja '00",
+    "releasedate": "unknown",
     "releaseYear": 2000,
     "otherPlatforms": null,
     "series": null,
@@ -42903,7 +43008,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/aoheroes/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://www.mobygames.com/game/age-of-heroes-silkroad-2"],
+    "links": [
+      "https://gamefaqs.gamespot.com/arcade/238786-the-age-of-heroes-silkroad-2",
+      "https://www.mobygames.com/game/age-of-heroes-silkroad-2"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -43104,7 +43212,7 @@
     "country": "Japan",
     "developer": "Technos",
     "publisher": "Technos",
-    "releasedate": "0Jan- '-Ja '90",
+    "releasedate": "unknown",
     "releaseYear": 1990,
     "otherPlatforms": ["SNES"],
     "series": "The Combatribes",
@@ -43158,7 +43266,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/ctribes/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/The_Combatribes"],
+    "links": [
+      "https://en.wikipedia.org/wiki/The_Combatribes",
+      "https://gamefaqs.gamespot.com/arcade/584133-the-combatribes"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -43196,7 +43307,7 @@
     "country": "Japan",
     "developer": "Technos",
     "publisher": "Technos",
-    "releasedate": "3Mar- '-Ma '93Dec '92",
+    "releasedate": "1992-12-23",
     "releaseYear": 1992,
     "otherPlatforms": ["Arcade"],
     "series": "The Combatribes",
@@ -43251,6 +43362,7 @@
     "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/The_Combatribes",
+      "https://gamefaqs.gamespot.com/snes/588261-the-combatribes",
       "https://obscurevideogames.com/category/snes-the-combatribes/"
     ],
     "beatemupBingo": {
@@ -43373,7 +43485,7 @@
     "country": "Japan",
     "developer": "Brezzasoft",
     "publisher": "Brezzasoft",
-    "releasedate": "1Feb- '-Fe '01",
+    "releasedate": "2001-02-11",
     "releaseYear": 2001,
     "otherPlatforms": null,
     "series": null,
@@ -43426,7 +43538,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/cokings/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/arcade/929978-the-crystal-of-kings"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -43464,7 +43578,7 @@
     "country": "USA",
     "developer": "Blizzard",
     "publisher": "SunSoft",
-    "releasedate": "4Aug- '-Au '94",
+    "releasedate": "unknown",
     "releaseYear": 1994,
     "otherPlatforms": null,
     "series": null,
@@ -43517,7 +43631,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/superman/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/snes/588273-the-death-and-return-of-superman"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -43648,7 +43764,7 @@
     "country": "Taiwan",
     "developer": "IGS",
     "publisher": "IGS",
-    "releasedate": "0Jan- '-Ja '00",
+    "releasedate": "unknown",
     "releaseYear": 2000,
     "otherPlatforms": null,
     "series": null,
@@ -43696,7 +43812,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/theglad/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://www.mobygames.com/game/gladiator___"],
+    "links": [
+      "https://gamefaqs.gamespot.com/arcade/915403-the-gladiator",
+      "https://www.mobygames.com/game/gladiator___"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -44002,7 +44121,7 @@
     "country": "South Korea",
     "developer": "Million",
     "publisher": "UNICO",
-    "releasedate": "9Jan- '-Ja '99",
+    "releasedate": "unknown",
     "releaseYear": 1999,
     "otherPlatforms": null,
     "series": null,
@@ -44056,6 +44175,7 @@
     ],
     "videos": [],
     "links": [
+      "https://gamefaqs.gamespot.com/arcade/568155-the-legend-of-silkroad",
       "https://www.mobygames.com/game/arcade/legend-of-silkroad",
       "https://blog.naver.com/kisswing0/221556271281",
       "http://www.honestgamers.com/5919/arcade/the-legend-of-silkroad/review.html"
@@ -44263,7 +44383,7 @@
     "country": "Japan",
     "developer": "Taito",
     "publisher": "Taito",
-    "releasedate": "0Jan- '-Ja '90",
+    "releasedate": "unknown",
     "releaseYear": 1990,
     "otherPlatforms": null,
     "series": null,
@@ -44724,7 +44844,7 @@
     "country": "Japan",
     "developer": "Capcom",
     "publisher": "Capcom",
-    "releasedate": "3May- '-Ma '93",
+    "releasedate": "unknown",
     "releaseYear": 1993,
     "otherPlatforms": null,
     "series": "The Punisher",
@@ -44822,7 +44942,7 @@
     "country": "USA",
     "developer": "Sculptured Software",
     "publisher": "Capcom",
-    "releasedate": "4Jun- '-Ju '94",
+    "releasedate": "unknown",
     "releaseYear": 1994,
     "otherPlatforms": null,
     "series": "The Punisher",
@@ -44875,7 +44995,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gen/punisher/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": ["https://gamefaqs.gamespot.com/genesis/586402-the-punisher"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -45732,7 +45852,7 @@
     "country": "UK",
     "developer": "Software Creations",
     "publisher": "Fox Interactive",
-    "releasedate": "4Dec- '-De '94",
+    "releasedate": "1994",
     "releaseYear": 1994,
     "otherPlatforms": null,
     "series": "The Tick",
@@ -45785,7 +45905,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tick/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": ["https://gamefaqs.gamespot.com/snes/588790-the-tick"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -45823,7 +45943,7 @@
     "country": "UK",
     "developer": "Software Creations",
     "publisher": "Fox Interactive",
-    "releasedate": "4Jan- '-Ja '94",
+    "releasedate": "unknown",
     "releaseYear": 1994,
     "otherPlatforms": null,
     "series": "The Tick",
@@ -45876,7 +45996,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gen/tick/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": ["https://gamefaqs.gamespot.com/genesis/586538-the-tick"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -46705,7 +46825,7 @@
     "country": "Japan",
     "developer": "SunSoft",
     "publisher": "Sega",
-    "releasedate": "8Jan- '-Ja '88",
+    "releasedate": "unknown",
     "releaseYear": 1988,
     "otherPlatforms": null,
     "series": null,
@@ -46758,7 +46878,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/tturf/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": ["https://gamefaqs.gamespot.com/arcade/569052-tough-turf"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -46795,7 +46915,7 @@
     "country": "Japan",
     "developer": "TOSE",
     "publisher": "Bandai",
-    "releasedate": "2Apr- '-Ap '92",
+    "releasedate": "unknown",
     "releaseYear": 1992,
     "otherPlatforms": ["Genesis"],
     "series": "Toxic Crusaders",
@@ -46847,8 +46967,8 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nes/toxic/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nes/toxic/img/ss05.png"
     ],
-    "videos": [""],
-    "links": [],
+    "videos": [],
+    "links": ["https://gamefaqs.gamespot.com/nes/587723-toxic-crusaders"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -46885,7 +47005,7 @@
     "country": "France",
     "developer": "Infogrames",
     "publisher": "Sega",
-    "releasedate": "0Jan- '-Ja '70",
+    "releasedate": "unknown",
     "releaseYear": 1992,
     "otherPlatforms": ["NES"],
     "series": "Toxic Crusaders",
@@ -46937,7 +47057,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gen/toxic/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gen/toxic/img/ss05.png"
     ],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Toxic_Crusaders_(video_game)",
       "https://gamefaqs.gamespot.com/genesis/586556-toxic-crusaders",
@@ -47517,7 +47637,7 @@
     "country": "Japan",
     "developer": "Irem",
     "publisher": "Irem",
-    "releasedate": "2Jul- '-Ju '92",
+    "releasedate": "unknown",
     "releaseYear": 1992,
     "otherPlatforms": ["SNES"],
     "series": "Undercover Cops",
@@ -47622,7 +47742,7 @@
     "country": "Japan",
     "developer": "Irem",
     "publisher": "Varie",
-    "releasedate": "5Mar- '-Ma '95",
+    "releasedate": "1995-03-03",
     "releaseYear": 1995,
     "otherPlatforms": ["Arcade"],
     "series": "Undercover Cops",
@@ -47675,7 +47795,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/uccops/img/ss05.png"
     ],
     "videos": ["https://www.youtube.com/embed/pmidTAbti4E"],
-    "links": [],
+    "links": ["https://gamefaqs.gamespot.com/snes/571242-undercover-cops"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -48662,7 +48782,7 @@
     "country": "Japan",
     "developer": "Konami",
     "publisher": "Konami",
-    "releasedate": "1Jan- '-Ja '91 jan91Jan '91 jan91",
+    "releasedate": "unknown",
     "releaseYear": 1991,
     "otherPlatforms": null,
     "series": "Crime Fighters",
@@ -48710,7 +48830,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/vendetta/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Vendetta_(1991_video_game)"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Vendetta_(1991_video_game)",
+      "https://gamefaqs.gamespot.com/arcade/583961-vendetta"
+    ],
     "beatemupBingo": {
       "go": true,
       "sunsetEnding": true,
@@ -49124,7 +49247,7 @@
     "country": "Japan",
     "developer": "Taito",
     "publisher": "Taito",
-    "releasedate": "1Jan- '-Ja '91 jan91",
+    "releasedate": "unknown",
     "releaseYear": 1991,
     "otherPlatforms": null,
     "series": null,
@@ -49177,7 +49300,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/wblade/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/arcade/575555-warrior-blade-rastan-saga-episode-iii"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -49215,7 +49340,7 @@
     "country": "Japan",
     "developer": "Capcom",
     "publisher": "Capcom",
-    "releasedate": "2Sep- '-Se '92",
+    "releasedate": "unknown",
     "releaseYear": 1992,
     "otherPlatforms": null,
     "series": null,
@@ -49268,7 +49393,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/wof/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": ["https://gamefaqs.gamespot.com/arcade/564356-warriors-of-fate"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -49478,7 +49603,7 @@
     "country": "Japan",
     "developer": "Tecmo",
     "publisher": "Tecmo",
-    "releasedate": "9Jan- '-Ja '89",
+    "releasedate": "unknown",
     "releaseYear": 1989,
     "otherPlatforms": null,
     "series": null,
@@ -49532,7 +49657,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/wildfang/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": ["https://gamefaqs.gamespot.com/arcade/575532-tecmo-knight"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -49940,7 +50065,7 @@
     "country": "Japan",
     "developer": "Konami",
     "publisher": "Konami",
-    "releasedate": "2Jan- '-Ja '92",
+    "releasedate": "unknown",
     "releaseYear": 1992,
     "otherPlatforms": null,
     "series": "X-Men",
@@ -49993,7 +50118,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/xmen/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": ["https://gamefaqs.gamespot.com/arcade/575527-x-men"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -50193,7 +50318,7 @@
     "country": "USA",
     "developer": "Digital Eclipse",
     "publisher": "Activision",
-    "releasedate": "1Sep- '-Se '01Oct '01",
+    "releasedate": "2001-09-25",
     "releaseYear": 2001,
     "otherPlatforms": null,
     "series": "X-Men",
@@ -50246,7 +50371,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/xmen/img/ss05.png"
     ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://gamefaqs.gamespot.com/gba/478178-x-men-reign-of-apocalypse"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -51569,7 +51696,7 @@
     "country": "Japan",
     "developer": "Seibu Kaihatsu",
     "publisher": "Seibu Kaihatsu",
-    "releasedate": "3Jan- '-Ja '93",
+    "releasedate": "unknown",
     "releaseYear": 1993,
     "otherPlatforms": null,
     "series": null,
@@ -51623,10 +51750,10 @@
     ],
     "videos": [],
     "links": [
-      "http://www.hardcoregaming101.net/zero-team/",
       "https://gamefaqs.gamespot.com/arcade/569234-zero-team",
       "https://www.mobygames.com/game/arcade/zero-team-usa",
-      "https://www.arcade-museum.com/game_detail.php?game_id=10528"
+      "https://www.arcade-museum.com/game_detail.php?game_id=10528",
+      "http://www.hardcoregaming101.net/zero-team/"
     ],
     "beatemupBingo": {
       "go": false,
