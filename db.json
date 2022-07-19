@@ -4191,20 +4191,20 @@
         "text": "Battletoads is the raunchiest and most violent arcade brawler. You can drill the heads off rats, punch them until they puke, and at one point you grab the enemy's dick and punch him in the nuts. Its combat is simple, but its challenge is usually intense. Like any other 'Toads game, it has a lot of variety to mix things up. Unfortunately, it ends abruptly."
       }
     ],
-    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/btoads/img/poster.png",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/btoads/poster.png",
     "images": [
-      "https://www.mobygames.com/images/shots/l/666073-battletoads-arcade-screenshot-starting-the-game.png",
-      "https://www.mobygames.com/images/shots/l/666074-battletoads-arcade-screenshot-kicking-a-pig-off-the-screen.png",
-      "https://www.mobygames.com/images/shots/l/666075-battletoads-arcade-screenshot-exploding-crate.png",
-      "https://www.mobygames.com/images/shots/l/666076-battletoads-arcade-screenshot-gory-finisher.png",
-      "https://www.mobygames.com/images/shots/l/666082-battletoads-arcade-screenshot-picked-up-uzis.png",
-      "https://www.mobygames.com/images/shots/l/666084-battletoads-arcade-screenshot-dark-queen-is-always-a-welcome.png",
-      "https://www.mobygames.com/images/shots/l/666087-battletoads-arcade-screenshot-hitting-baddies-in-the-groin.png",
-      "https://www.mobygames.com/images/shots/l/666088-battletoads-arcade-screenshot-robo-rat-boss.png",
-      "https://www.mobygames.com/images/shots/l/666090-battletoads-arcade-screenshot-bonus-level-destroy-the-fighter.png",
-      "https://www.mobygames.com/images/shots/l/666092-battletoads-arcade-screenshot-going-down-the-tube.png",
-      "https://www.mobygames.com/images/shots/l/666096-battletoads-arcade-screenshot-huge-stomping-boss.png",
-      "https://www.mobygames.com/images/shots/l/666100-battletoads-arcade-screenshot-fighting-robo-manus.png"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/btoads/img/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/btoads/img/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/btoads/img/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/btoads/img/ss04.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/btoads/img/ss05.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/btoads/img/ss06.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/btoads/img/ss07.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/btoads/img/ss08.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/btoads/img/ss09.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/btoads/img/ss10.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/btoads/img/ss11.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/btoads/img/ss12.png"
     ],
     "videos": [],
     "links": [
@@ -4231,8 +4231,8 @@
       "oilDrums": false,
       "clowns": false,
       "yellowRedHealthBar": false,
-      "dominatrix": false,
-      "powerSpeedBalance": false,
+      "dominatrix": true,
+      "powerSpeedBalance": true,
       "elevatorScene": false,
       "mansionStage": false,
       "mohawks": false,
@@ -17367,6 +17367,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "name": "Fighting Force",
     "platform": "PC",
     "perspective": "3D",
@@ -17569,6 +17570,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "name": "Fighting Force",
     "platform": "Nintendo 64",
     "perspective": "3D",
@@ -17840,6 +17842,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "name": "Final Fight",
     "platform": "Sega CD",
     "perspective": "2.5D",
@@ -22081,6 +22084,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "name": "Growl",
     "platform": "Genesis",
     "perspective": "2.5D",
@@ -24929,6 +24933,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "missing": true,
     "name": "Judgement Force",
     "platform": "Saturn",
@@ -36721,7 +36726,7 @@
     "stages": null,
     "enemies": null,
     "bosses": null,
-    "weapons": [null],
+    "weapons": ["Bomb", "Kunai", "Plate", "Shuriken"],
     "lives": 2,
     "continues": 1,
     "extend": null,
