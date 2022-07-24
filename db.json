@@ -855,7 +855,7 @@
     "buttons": "Attack, Roll, Special",
     "combos": "Distance",
     "grabs": "No",
-    "dashing": "Button",
+    "dashing": "Double-tap",
     "enemyHBars": "No",
     "itemPickup": "Contact",
     "itemStay": "Fade",
@@ -930,6 +930,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "name": "Alien Storm",
     "platform": "Genesis",
     "perspective": "2.5D",
@@ -1025,6 +1026,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "name": "Alien Storm",
     "platform": "SMS",
     "perspective": "2.5D",
@@ -4439,6 +4441,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "multigenre": true,
     "name": "Battletoads",
     "platform": "Genesis",
@@ -4628,6 +4631,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "name": "Battletoads & Double Dragon: The Ultimate Team",
     "platform": "SNES",
     "perspective": "2.5D",
@@ -4782,7 +4786,7 @@
       },
       {
         "author": "Kotix",
-        "text": "Pure joy madness with high speed chase, extreme platforming, giant spaceship duel and bone-rattling fights. It is one of few brawlers where player has different attacks for specific enemies thus making it super fun to combine such attacks of Toads and Dragons. Hit sounds are ones of the most satisfying. I hardly can find anything to complain about really."
+        "text": "Pure joy madness with high speed chase, extreme platforming, giant spaceship duel, defenestrations and bone-rattling fights. It is one of few brawlers where player has different attacks for specific enemies thus making it super fun to combine such attacks of Toads and Dragons. Hit sounds are ones of the most satisfying. I hardly can find anything to complain about really."
       }
     ],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nes/btadd/img/poster.png",
@@ -4831,6 +4835,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "name": "Battletoads & Double Dragon: The Ultimate Team",
     "platform": "Game Boy",
     "perspective": "2.5D",
@@ -4927,6 +4932,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "name": "Battletoads & Double Dragon: The Ultimate Team",
     "platform": "Genesis",
     "perspective": "2.5D",
@@ -5125,6 +5131,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "multigenre": true,
     "name": "Battletoads in Ragnarok's World",
     "platform": "Game Boy",
@@ -7539,7 +7546,7 @@
     "perspective": "2.5D",
     "about": "\n\nCaptain America and the Avengers is a faithful port of the arcade game by Data East. It stars Captain America, Iron Man, Hawkeye, and Vision. Its somewhat unique combat puts a strong emphasis on projectiles.\n",
     "trivia": "This game has the most digitized voice samples of any Genesis brawler. The large robot fought at the end of the first shooter section is a Sentinel, which is originally from X-Men.",
-    "country": "Japa",
+    "country": "Japan",
     "developer": "Opera House",
     "publisher": "Data East",
     "releasedate": "unknown",
@@ -10947,6 +10954,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "name": "Darkside Story",
     "platform": "PC",
     "perspective": "2.5D",
@@ -13959,7 +13967,12 @@
     "lives": null,
     "continues": null,
     "extend": null,
-    "overallReview": [],
+    "overallReview": [
+      {
+        "author": "Kotix",
+        "text": "I was disappointed at the very beginning. I liked a bit improved combat and new enemies but the rest (e.g. long plain levels with weakly placed bad guys) is totally uninspiring to play again."
+      }
+    ],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/dd4/cover.jpg",
     "images": [
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/dd4/ss01.jpg",
@@ -14549,6 +14562,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "name": "Downtown Nekketsu Monogatari",
     "platform": "PC Engine",
     "perspective": "2.5D",
@@ -17758,7 +17772,11 @@
     "publisher": "Capcom",
     "releasedate": "unknown",
     "releaseYear": 1989,
-    "otherPlatforms": ["Sega CD", "SNES"],
+    "otherPlatforms": [
+      { "name": "Final Fight One", "platform": "GBA" },
+      "Sega CD",
+      "SNES"
+    ],
     "series": "Final Fight",
     "players": 2,
     "structure": "Linear",
@@ -17778,7 +17796,7 @@
     "friendlyFire": "Always",
     "charSwitch": "On death",
     "groundHit": "No",
-    "revive": "Invincibility + Attack",
+    "revive": "Invincibility + Knockdown",
     "restore": "End of stage",
     "artStyle": "Realistic",
     "sprites": "Huge",
@@ -17853,7 +17871,11 @@
     "publisher": "Capcom",
     "releasedate": "1993-03-25",
     "releaseYear": 1993,
-    "otherPlatforms": ["Arcade", "SNES"],
+    "otherPlatforms": [
+      "Arcade",
+      { "name": "Final Fight One", "platform": "GBA" },
+      "SNES"
+    ],
     "series": "Final Fight",
     "players": 2,
     "structure": "Linear",
@@ -17935,6 +17957,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "name": "Final Fight",
     "platform": "SNES",
     "perspective": "2.5D",
@@ -17945,7 +17968,11 @@
     "publisher": "Capcom",
     "releasedate": "1990-12-21",
     "releaseYear": 1990,
-    "otherPlatforms": ["Arcade", "Sega CD"],
+    "otherPlatforms": [
+      "Arcade",
+      { "name": "Final Fight One", "platform": "GBA" },
+      "Sega CD"
+    ],
     "series": "Final Fight",
     "players": 1,
     "structure": "Linear",
@@ -18224,6 +18251,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "name": "Final Fight Guy",
     "platform": "SNES",
     "perspective": "2.5D",
@@ -18315,17 +18343,23 @@
     }
   },
   {
+    "unalteredPort": true,
     "name": "Final Fight One",
     "platform": "GBA",
     "perspective": "2.5D",
     "about": "\n\nFinal Fight One is a port of Capcom's timeless arcade classic to the GBA. Although it features the same graphics as the SNES port, it restores Guy and the missing industrial stage as well as adding system-link co-op gameplay. It also features tons of onscreen enemies, remixed enemy waves, alternate costumes for Cody and Guy, and boss cutscenes.\n",
     "trivia": "Despite restoring so much content from the original Final Fight, Poison and Roxy are still censored as Sid and Billy. Also, the music for the Industrial Stage is missing. This game has a few powerups introduced in Final Fight Guy: one that gives a 1-Up and one that grants brief invincibility.",
-    "country": null,
+    "country": "Japan",
     "developer": "Sun-Tec",
     "publisher": "Capcom",
     "releasedate": "2001-05-25",
     "releaseYear": 2001,
-    "otherPlatforms": null,
+    "otherPlatforms": [
+      {
+        "name": "Final Fight",
+        "platform": "Arcade"
+      }
+    ],
     "series": "Final Fight",
     "players": 2,
     "structure": "Linear",
@@ -19100,17 +19134,17 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "https://www.mobygames.com/images/covers/l/448387-franko-the-crazy-revenge-amiga-manual.png",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/ftcrevenge/cover.jpg",
     "images": [
-      "https://www.mobygames.com/images/shots/l/256213-franko-the-crazy-revenge-amiga-screenshot-level-1-using-both.png",
-      "https://www.mobygames.com/images/shots/l/256215-franko-the-crazy-revenge-amiga-screenshot-level-1-a-punk-moans.png",
-      "https://www.mobygames.com/images/shots/l/256216-franko-the-crazy-revenge-amiga-screenshot-level-1-effective.png",
-      "https://www.mobygames.com/images/shots/l/256217-franko-the-crazy-revenge-amiga-screenshot-level-1-a-judoman.png",
-      "https://www.mobygames.com/images/shots/l/256219-franko-the-crazy-revenge-amiga-screenshot-level-1-throwing.png",
-      "https://www.mobygames.com/images/shots/l/256224-franko-the-crazy-revenge-amiga-screenshot-bonus-level-driving.png",
-      "https://www.mobygames.com/images/shots/l/256231-franko-the-crazy-revenge-amiga-screenshot-level-2-this-time.png",
-      "https://www.mobygames.com/images/shots/l/256242-franko-the-crazy-revenge-amiga-screenshot-level-3-beating.png",
-      "https://www.mobygames.com/images/shots/l/256245-franko-the-crazy-revenge-amiga-screenshot-level-3-main-boss.png"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/ftcrevenge/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/ftcrevenge/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/ftcrevenge/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/ftcrevenge/ss04.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/ftcrevenge/ss05.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/ftcrevenge/ss06.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/ftcrevenge/ss07.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/ftcrevenge/ss08.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/ftcrevenge/ss09.png"
     ],
     "videos": ["https://www.youtube.com/embed/S9oWuHAwErM"],
     "links": [
@@ -19149,6 +19183,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "name": "Franko: The Crazy Revenge",
     "platform": "DOS",
     "perspective": "2.5D",
@@ -19197,13 +19232,13 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "https://www.mobygames.com/images/covers/l/448387-franko-the-crazy-revenge-amiga-manual.png",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/ftcrevenge/cover.jpg",
     "images": [
-      "https://www.mobygames.com/images/shots/l/149474-franko-the-crazy-revenge-dos-screenshot-you-can-play-as-franko.gif",
-      "https://www.mobygames.com/images/shots/l/583375-franko-the-crazy-revenge-dos-screenshot-i-hate-cops.png",
-      "https://www.mobygames.com/images/shots/l/583382-franko-the-crazy-revenge-dos-screenshot-but-not-in-the-head.png",
-      "https://www.mobygames.com/images/shots/l/583395-franko-the-crazy-revenge-dos-screenshot-kick-worth-a-view.png",
-      "https://www.mobygames.com/images/shots/l/583402-franko-the-crazy-revenge-dos-screenshot-military-reserve-training.png"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/ftcrevenge/ss01.gif",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/ftcrevenge/ss02.gif",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/ftcrevenge/ss03.gif",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/ftcrevenge/ss04.gif",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/ftcrevenge/ss05.gif"
     ],
     "videos": ["https://www.youtube.com/embed/8fDf7Bgp9xo"],
     "links": [
@@ -23874,7 +23909,7 @@
     "overallReview": [
       {
         "author": "Kotix",
-        "text": "You get what you expect to see: tons of breakable stuff to throw bad guys into. Although the game can be considered as half-platformer its combat is very diverse and satisfying especially regarding weapons. I wish common enemies could be more varied and numerous."
+        "text": "You get what you expect to see: tons of breakable stuff to throw bad guys into. Some platforming stunts feel quite challenging as it should be. Although the game can be considered as platformer partially its combat is very diverse and satisfying especially regarding weapons. I wish common enemies could be more varied and numerous. Music fits well but it is forgettable."
       }
     ],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/jcsm/cover.jpg",
@@ -27106,13 +27141,13 @@
     "continues": "Infinite",
     "extend": "N/A",
     "overallReview": [],
-    "cover": "https://www.mobygames.com/images/shots/l/998715-koryu-no-mimi-snes-screenshot-title-screen.png",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/knmimi/cover.png",
     "images": [
-      "https://www.mobygames.com/images/shots/l/998719-koryu-no-mimi-snes-screenshot-luchando.png",
-      "https://www.mobygames.com/images/shots/l/998720-koryu-no-mimi-snes-screenshot-road-rash-wannabe.png",
-      "https://www.mobygames.com/images/shots/l/998721-koryu-no-mimi-snes-screenshot-lightning.png",
-      "https://www.mobygames.com/images/shots/l/998727-koryu-no-mimi-snes-screenshot-round-3.png",
-      "https://www.mobygames.com/images/shots/l/998733-koryu-no-mimi-snes-screenshot-all-boring.png"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/knmimi/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/knmimi/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/knmimi/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/knmimi/ss04.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/knmimi/ss05.png"
     ],
     "videos": [
       "https://www.youtube.com/embed/xUfkmyTyhXc",
@@ -27154,47 +27189,46 @@
     }
   },
   {
-    "missing": true,
     "name": "Kung Fu Strike - The Warrior's Rise",
     "platform": "PC",
     "perspective": "3D",
     "about": null,
     "trivia": null,
-    "country": null,
-    "developer": "developer",
-    "publisher": "publisher",
+    "country": "China",
+    "developer": "Qooc Software",
+    "publisher": "Qooc Software",
     "releasedate": "2012-07-24",
     "releaseYear": 2012,
     "otherPlatforms": null,
     "series": null,
-    "players": 1,
-    "structure": null,
+    "players": 2,
+    "structure": "Linear",
     "difficulty": null,
-    "gangsize": null,
-    "variety": ["None"],
+    "gangsize": "Gigantic (10+)",
+    "variety": ["Upgrades", "VS. mode"],
     "playtime": null,
     "buttons": null,
-    "combos": null,
+    "combos": "Dynamic",
     "grabs": null,
-    "dashing": null,
-    "enemyHBars": null,
+    "dashing": "Auto",
+    "enemyHBars": "Yes",
     "itemPickup": null,
     "itemStay": null,
-    "weaponsStay": null,
-    "deathBlow": null,
+    "weaponsStay": "N/A",
+    "deathBlow": "Stock",
     "friendlyFire": null,
-    "charSwitch": null,
+    "charSwitch": "N/A",
     "groundHit": null,
     "revive": null,
-    "restore": null,
-    "artStyle": null,
+    "restore": "Food only",
+    "artStyle": "Semi-realistic",
     "sprites": null,
-    "setting": null,
-    "focus": null,
-    "music": ["Video game"],
-    "tone": null,
-    "fighters": null,
-    "stages": null,
+    "setting": "Medieval China",
+    "focus": "Hand-to-hand",
+    "music": ["Chinese"],
+    "tone": "Serious",
+    "fighters": 1,
+    "stages": 28,
     "enemies": null,
     "bosses": null,
     "weapons": [null],
@@ -27202,11 +27236,22 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "",
-    "images": [""],
-    "videos": [],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/kfstwrise/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/kfstwrise/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/kfstwrise/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/kfstwrise/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/kfstwrise/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/kfstwrise/ss05.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/kfstwrise/ss06.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/kfstwrise/ss07.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/kfstwrise/ss08.jpg"
+    ],
+    "videos": ["https://www.youtube.com/embed/qSqxOjLDg7Q"],
     "links": [
-      "https://store.steampowered.com/app/212030/Kung_Fu_Strike__The_Warriors_Rise/"
+      "https://store.steampowered.com/app/212030/Kung_Fu_Strike__The_Warriors_Rise/",
+      "https://gamefaqs.gamespot.com/pc/677973-kung-fu-strike-the-warriors-rise",
+      "https://www.mobygames.com/game/windows/kung-fu-strike-the-warriors-rise"
     ],
     "beatemupBingo": {
       "go": false,
@@ -30138,6 +30183,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "name": "Mortal Kombat: Shaolin Monks",
     "platform": "Xbox",
     "perspective": "3D",
@@ -42044,7 +42090,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tmnt/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/tmnt/img/ss05.png"
     ],
-    "videos": [],
+    "videos": ["https://www.youtube.com/embed/wpz0xxjZuCw"],
     "links": [
       "https://gamefaqs.gamespot.com/snes/588779-teenage-mutant-ninja-turtles-iv-turtles-in-time"
     ],
@@ -43323,6 +43369,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "name": "The Combatribes",
     "platform": "SNES",
     "perspective": "2.5D",
@@ -44870,7 +44917,7 @@
     "publisher": "Capcom",
     "releasedate": "unknown",
     "releaseYear": 1993,
-    "otherPlatforms": null,
+    "otherPlatforms": ["Genesis"],
     "series": "The Punisher",
     "players": 2,
     "structure": "Linear",
@@ -44958,6 +45005,7 @@
     }
   },
   {
+    "unalteredPort": true,
     "name": "The Punisher",
     "platform": "Genesis",
     "perspective": "2.5D",
@@ -44968,7 +45016,7 @@
     "publisher": "Capcom",
     "releasedate": "unknown",
     "releaseYear": 1994,
-    "otherPlatforms": null,
+    "otherPlatforms": "Arcade",
     "series": "The Punisher",
     "players": 2,
     "structure": "Linear",
@@ -45019,7 +45067,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gen/punisher/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://gamefaqs.gamespot.com/genesis/586402-the-punisher"],
+    "links": [
+      "https://en.wikipedia.org/wiki/The_Punisher_(1993_video_game)",
+      "https://gamefaqs.gamespot.com/genesis/586402-the-punisher"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
