@@ -146,6 +146,7 @@
       "Darkwind Media",
       "Data East",
       "Deadline Games",
+      "Deck Six",
       "DreamFactory",
       "DreamWorks Interactive",
       "DGRM",
@@ -331,6 +332,7 @@
       "UNICO",
       "Ubisoft",
       "Ubisoft Montreal",
+      "Ubisoft Singapore",
       "United Front Games",
       "Vanillaware",
       "Vap Inc.",
@@ -471,6 +473,7 @@
       "Magifact",
       "Majesco",
       "Maple Whispering Limited",
+      "Marksoft",
       "Merso X",
       "Microids",
       "Midas",
@@ -900,6 +903,7 @@
       "Attack, Jump, Special, Item",
       "Attack, Jump, Special, Lift, Block",
       "Attack, Jump, Special, Magic",
+      "Attack, Jump, Special, Pick up",
       "Attack, Jump, Special, Roll",
       "Attack, Jump, Special, Weapon",
       "Attack, Jump, Special, Weapon, Grab, Parry, Burst, Tag",
@@ -1037,8 +1041,7 @@
       "No",
       "Vs. grounded, Bud only",
       "Vs. weaked",
-      "While jumping",
-      "Yes"
+      "While jumping"
     ]
   },
   {
@@ -1052,9 +1055,7 @@
       "Double-tap",
       "Double-tap, Button",
       "No",
-      "Perceval only",
-      "Skate only",
-      "SOR3 characters only",
+      "Some characters only",
       "Yes"
     ]
   },
@@ -1170,6 +1171,7 @@
     "description": "What happens when you come back from death. Can grant invincibility, knockdown, and/or an attack.",
     "options": [
       "Checkpoint",
+      "Choose revival spot",
       "Invincibility",
       "Invincibility + Attack",
       "Invincibility + Knockdown",
@@ -1188,6 +1190,7 @@
       "Assessment Day",
       "Combos",
       "Cooking only",
+      "Defeat enemy",
       "End of stage",
       "Food, End of area",
       "Food only",
@@ -1266,6 +1269,7 @@
       "Medieval",
       "Medieval China",
       "Medieval Fantasy",
+      "Medieval Fantasy China",
       "Medieval Futuristic Fantasy",
       "Medieval Japan",
       "Military",

@@ -1,8 +1,6 @@
   - Two Crude Dudes? (Arcade, Genesis)
   - https://blog.naver.com/kisswing0/221423583987
   - Rushing Beat Of Rage (https://store.steampowered.com/app/1498840/Rushing_Beat_Of_Rage/)
-  - https://bootleggames.fandom.com/wiki/Shui_Hu_Feng_Yun_Zhuan
-  - https://segaretro.org/Yi_Men_Ying_Lie:_Yang_Jia_Jiang
   - Her Knights: All for the Princess (GP32)
   - Splatterhouse PS3
   - Hi Hi Puffy AmiYumi: The Genie and the Amp (DS)
@@ -11,8 +9,6 @@
   - Bully Beatdown
   - Zone4?
   - https://dummydojo.itch.io/underling-uprising-free-demo
-  - Metal Kombat (Amiga)
-  - https://rawg.io/utags/beat-em-up
   - Asterix and Obelix: PAF! Them All! (GBA)
   - Blade (GBC)?
   - https://emanuelepepi.altervista.org/
@@ -20,6 +16,7 @@
   - Ridegear Guybrave (PS) ?
   - Simple 2000 Series Vol. 60: The Tokusatsu Henshin Hero ?
   - He Jin Zhuang Bei II (GBC)
+  - School Fighter (GBC)
   - Chandragupta: Warrior Prince (PSP) ?
   - Ninpu Sentai Hurricanger (Playstation) ?
   - Realm of the Dead (PS2) ?
@@ -51,4 +48,6 @@
   - Maximus 2
   - Detained: Too Good For School
   - BVOVB: An Old Timey John Wick Unleashes the Bruising Vengeance of the Vintage Boxer 
+  - Justice League Heroes PS2
   https://strategywiki.org/wiki/Category:Beat_%27em_up
+  - https://rawg.io/utags/beat-em-up
