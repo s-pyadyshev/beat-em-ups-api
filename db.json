@@ -8724,7 +8724,7 @@
     "publisher": "Sega",
     "releasedate": "1995-08-02",
     "releaseYear": 1995,
-    "otherPlatforms": ["GBA", "PC"],
+    "otherPlatforms": [null],
     "series": null,
     "players": 1,
     "structure": "Semi-branching",
@@ -18141,7 +18141,8 @@
     "links": [
       "https://gamefaqs.gamespot.com/snes/588333-final-fight-2",
       "http://rq87.flyingomelette.com/FF/F/2/reg.html",
-      "http://scrollboss.illmosis.net/review.php?r=finalfight2-snes"
+      "http://scrollboss.illmosis.net/review.php?r=finalfight2-snes",
+      "https://www.romhacking.net/games/3380/"
     ],
     "beatemupBingo": {
       "go": false,
@@ -22089,8 +22090,8 @@
     "links": [
       "https://store.steampowered.com/app/1104460/Gourmet_Warriors/",
       "https://en.wikipedia.org/wiki/Gurume_Sentai_Barayar%C5%8D",
-      "https://www.mobygames.com/game/gourmet-warriors",
       "https://gamefaqs.gamespot.com/snes/571351-gourmet-sentai-bara-yarou",
+      "https://www.mobygames.com/game/gourmet-warriors",
       "https://www.romhacking.net/translations/288/",
       "http://retrovania-vgjunk.blogspot.com/2012/03/gourmet-sentai-bara-yarou-snes.html"
     ],
@@ -40128,13 +40129,13 @@
     "publisher": "Sega",
     "releasedate": "1991-08-02",
     "releaseYear": 1991,
-    "otherPlatforms": ["3DS", "Arcade", "Game Gear", "Sega CD", "SMS", "Wii"],
+    "otherPlatforms": ["Game Gear", "SMS"],
     "series": "Streets of Rage",
     "players": 2,
     "structure": "Linear",
     "difficulty": "Hardcore",
     "gangsize": "Gigantic (10+)",
-    "variety": ["None"],
+    "variety": ["Multiple endings", "Team attack"],
     "playtime": "0:50",
     "buttons": "Attack, Jump, Special",
     "combos": "Static",
@@ -40225,14 +40226,7 @@
     "publisher": "Sega",
     "releasedate": "1993-01-01",
     "releaseYear": 1993,
-    "otherPlatforms": [
-      "3DS",
-      "Arcade",
-      "Game Gear",
-      "Genesis",
-      "Sega CD",
-      "Wii"
-    ],
+    "otherPlatforms": ["Game Gear", "Genesis"],
     "series": "Streets of Rage",
     "players": 1,
     "structure": "Linear",
@@ -40323,7 +40317,7 @@
     "publisher": "Sega",
     "releasedate": "1992-11-27",
     "releaseYear": 1992,
-    "otherPlatforms": ["3DS", "Arcade", "Genesis", "Sega CD", "SMS", "Wii"],
+    "otherPlatforms": ["Genesis", "SMS"],
     "series": "Streets of Rage",
     "players": 2,
     "structure": "Linear",
@@ -40522,7 +40516,7 @@
     "buttons": "Attack, Jump",
     "combos": "Static",
     "grabs": "Contact",
-    "dashing": "Skate only",
+    "dashing": "Some characters only",
     "enemyHBars": "Yes",
     "itemPickup": "Button",
     "itemStay": "Stay",
