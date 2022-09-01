@@ -1382,7 +1382,26 @@
     "name": "stages",
     "filterName": "Stages",
     "description": "Total number of stages, aka levels or rounds.",
-    "options": [1, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 17, 18, 22, 28, 50, null]
+    "options": [
+      1,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14,
+      16,
+      17,
+      18,
+      22,
+      28,
+      40,
+      50,
+      null
+    ]
   },
   {
     "name": "enemies",
