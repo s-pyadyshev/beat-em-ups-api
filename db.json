@@ -8846,7 +8846,7 @@
     "sprites": "Medium",
     "setting": "Cartoon",
     "focus": "Hand-to-hand, projectiles",
-    "music": "Jazzy",
+    "music": ["Jazzy"],
     "tone": "Lighthearted",
     "gore": [null],
     "fighters": 4,
