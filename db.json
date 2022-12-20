@@ -1464,7 +1464,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://kamenrider.fandom.com/wiki/All_Kamen_Rider:_Rider_Generation_2",
       "https://gamefaqs.gamespot.com/ds/668739-all-kamen-rider-rider-generation-2"
@@ -6504,7 +6504,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -6873,7 +6873,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer:_Chaos_Bleeds",
       "https://gamefaqs.gamespot.com/ps2/914682-buffy-the-vampire-slayer-chaos-bleeds",
@@ -10837,7 +10837,7 @@
       "https://gamefaqs1.cbsistatic.com/screen/full/2/4/5/402245.jpg",
       "https://gamefaqs1.cbsistatic.com/screen/full/2/4/8/402248.jpg"
     ],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Darkman_(video_game)",
       "https://www.mobygames.com/game/gameboy/darkman_",
@@ -14462,7 +14462,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": ["https://store.steampowered.com/app/1148880/Down_In_The_Dark/"],
     "beatemupBingo": {
       "go": false,
@@ -17184,7 +17184,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Fantastic_Four_(1997_video_game)",
       "https://gamefaqs.gamespot.com/ps/197292-fantastic-four",
@@ -17761,7 +17761,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://bootleggames.fandom.com/wiki/Final_Fantasy_X:_Fantasy_War"
     ],
@@ -18625,7 +18625,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "http://lunaticobscurity.blogspot.com/2016/01/final-justice-pc.html"
     ],
@@ -19363,7 +19363,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://prettycure.fandom.com/wiki/Futari_wa_Pretty_Cure_Max_Heart_-_DANZEN!_DS_de_Pretty_Cure_Chikara_wo_Awasete_Dai_Battle"
     ],
@@ -19599,18 +19599,18 @@
     "players": 1,
     "structure": "Open world",
     "difficulty": null,
-    "gangsize": null,
-    "variety": ["Exploration"],
+    "gangsize": "Large (6)",
+    "variety": ["Exploration", "RPG"],
     "playtime": null,
-    "buttons": null,
-    "combos": null,
+    "buttons": "Weak, Strong, Block, Dodge, Change Weapon, Change Item, Use Item",
+    "combos": "Static",
     "grabs": "Button",
     "dashing": "Button",
-    "enemyHBars": "Names",
+    "enemyHBars": "Yes",
     "itemPickup": "Button",
     "itemStay": "Stay",
     "weaponsStay": null,
-    "deathBlow": null,
+    "deathBlow": "Energy",
     "friendlyFire": "N/A",
     "charSwitch": "N/A",
     "groundHit": "Yes",
@@ -20563,7 +20563,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": ["https://gamefaqs.gamespot.com/gba/924492-genseijin-justirisers"],
     "beatemupBingo": {
       "go": false,
@@ -20645,7 +20645,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://gamefaqs.gamespot.com/ps2/921029-getbackers-dakkanya-urashinshiku-saikyou-battle"
     ],
@@ -21740,7 +21740,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [""],
     "beatemupBingo": {
       "go": false,
@@ -21964,24 +21964,24 @@
     "perspective": "3D",
     "about": null,
     "trivia": null,
-    "country": null,
-    "developer": null,
-    "publisher": null,
-    "releasedate": "unknown",
-    "releaseYear": null,
+    "country": "Canada",
+    "developer": "WB Games Montréal",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "releasedate": "21-10-2022",
+    "releaseYear": 2022,
     "otherPlatforms": null,
     "series": null,
-    "players": 1,
-    "structure": null,
+    "players": 2,
+    "structure": "Open world",
     "difficulty": null,
-    "gangsize": null,
-    "variety": ["None"],
+    "gangsize": "Gigantic (10+)",
+    "variety": ["Stealth", "Team attack"],
     "playtime": null,
     "buttons": null,
     "combos": null,
     "grabs": null,
     "dashing": null,
-    "enemyHBars": null,
+    "enemyHBars": "Yes",
     "itemPickup": null,
     "itemStay": null,
     "weaponsStay": null,
@@ -21991,14 +21991,14 @@
     "groundHit": null,
     "revive": null,
     "restore": null,
-    "artStyle": null,
+    "artStyle": "Realistic",
     "sprites": null,
-    "setting": null,
-    "focus": null,
+    "setting": "Urban",
+    "focus": "Hand-to-hand, Weapons",
     "music": ["Video game"],
-    "tone": null,
+    "tone": "Serious",
     "gore": [null],
-    "fighters": null,
+    "fighters": 4,
     "stages": null,
     "enemies": null,
     "bosses": null,
@@ -22009,8 +22009,11 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
-    "links": ["https://en.wikipedia.org/wiki/Gotham_Knights_(video_game)"],
+    "videos": [],
+    "links": [
+      "https://en.wikipedia.org/wiki/Gotham_Knights_(video_game)",
+      "https://store.steampowered.com/app/1496790/Gotham_Knights/"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -22936,7 +22939,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/Hidden_Invasion"],
     "beatemupBingo": {
       "go": false,
@@ -23290,7 +23293,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": ["https://gamefaqs.gamespot.com/pc/589693-hulk"],
     "beatemupBingo": {
       "go": false,
@@ -23554,7 +23557,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://ikkitousen.fandom.com/wiki/Ikkitousen:_Shining_Dragon",
       "https://gamefaqs.gamespot.com/ps2/938919-ikki-tousen-shining-dragon",
@@ -23640,7 +23643,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://gamefaqs.gamespot.com/psp/977826-ikki-tousen-xross-impact"
     ],
@@ -25245,7 +25248,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "http://retrovania-vgjunk.blogspot.com/2018/01/jue-zhan-tian-huang-arcade.html"
     ],
@@ -25423,7 +25426,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://gamefaqs.gamespot.com/ps2/931994-kakutou-bijin-wulong",
       "https://www.mobygames.com/game/ps2/fighting-beauty-wulong"
@@ -25697,7 +25700,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Kaze_Kiri",
       "https://gamefaqs.gamespot.com/turbocd/916061-kazekiri"
@@ -25782,7 +25785,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -25864,7 +25867,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": ["https://www.romhacking.net/translations/2531/"],
     "beatemupBingo": {
       "go": false,
@@ -27076,7 +27079,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Knights_of_Valour",
       "https://gamefaqs.gamespot.com/arcade/270850-knights-of-valour-3"
@@ -27160,7 +27163,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://gamefaqs.gamespot.com/arcade/935855-knights-of-valour-the-seven-spirits",
       "https://www.mobygames.com/game/knights-of-valour-the-seven-spirits",
@@ -27532,7 +27535,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://kuniokun.fandom.com/wiki/Kunio-kun_no_Sangokushida_yo_Zen%27in_Sh%C5%ABg%C5%8D!"
     ],
@@ -28258,7 +28261,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [""],
     "beatemupBingo": {
       "go": false,
@@ -28422,7 +28425,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://gamefaqs.gamespot.com/xbox360/605745-lucha-fury",
       "https://www.mobygames.com/game/lucha-fury"
@@ -28704,7 +28707,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Mad_Stalker:_Full_Metal_Forth",
       "https://gamefaqs.gamespot.com/ps/573176-mad-stalker-full-metal-force"
@@ -28885,7 +28888,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://gamefaqs.gamespot.com/ps/206592-manic-game-girl",
       "https://www.mobygames.com/game/manic-game-girl",
@@ -29338,7 +29341,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://gamefaqs.gamespot.com/amiga/662714-metal-kombat",
       "https://www.mobygames.com/game/amiga/metal-kombat",
@@ -29524,7 +29527,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": ["https://bitbeamcannon.com/metro-siege/"],
     "beatemupBingo": {
       "go": false,
@@ -30071,7 +30074,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers:_The_Movie_(video_game)",
       "https://gamefaqs.gamespot.com/genesis/586325-mighty-morphin-power-rangers-the-movie"
@@ -30250,7 +30253,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/Moonstone:_A_Hard_Days_Knight"],
     "beatemupBingo": {
       "go": false,
@@ -30859,7 +30862,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -32559,7 +32562,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": ["https://gamefaqs.gamespot.com/pc/170131-ninja-gaiden"],
     "beatemupBingo": {
       "go": false,
@@ -33569,7 +33572,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [""],
     "beatemupBingo": {
       "go": false,
@@ -35028,7 +35031,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": ["https://gamefaqs.gamespot.com/turbocd/563762-renny-blaster"],
     "beatemupBingo": {
       "go": false,
@@ -35654,7 +35657,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://kuniokun.fandom.com/wiki/River_City:_Rival_Showdown",
       "https://strategywiki.org/wiki/River_City:_Rival_Showdown",
@@ -38018,7 +38021,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": ["https://gamejolt.com/games/treehouseofhorror/27481"],
     "beatemupBingo": {
       "go": false,
@@ -38195,7 +38198,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://segaretro.org/Slashout",
       "https://gamefaqs.gamespot.com/arcade/581529-slash-out",
@@ -38929,7 +38932,7 @@
     "overallReview": [],
     "cover": "https://www.mobygames.com/images/covers/l/84132-venom-spider-man-separation-anxiety-windows-front-cover.jpg",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Venom/Spider-Man:_Separation_Anxiety",
       "https://gamefaqs.gamespot.com/pc/713492-spider-man-and-venom-separation-anxiety",
@@ -39671,7 +39674,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith_(video_game)",
       "https://gamefaqs.gamespot.com/gba/925150-star-wars-episode-iii-revenge-of-the-sith",
@@ -40117,7 +40120,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": ["https://store.steampowered.com/app/350910/Streets_of_Fury_EX/"],
     "beatemupBingo": {
       "go": false,
@@ -41218,7 +41221,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": ["https://gamefaqs.gamespot.com/sinclair/215070-subway-vigilante"],
     "beatemupBingo": {
       "go": false,
@@ -41566,7 +41569,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [],
     "beatemupBingo": {
       "go": false,
@@ -43026,7 +43029,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Turtles_in_Time_Re-Shelled"
     ],
@@ -43284,7 +43287,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": ["https://tekken.fandom.com/wiki/Devil_Within_(Mode)"],
     "beatemupBingo": {
       "go": false,
@@ -43366,7 +43369,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": ["https://tekken.fandom.com/wiki/Scenario_Campaign"],
     "beatemupBingo": {
       "go": false,
@@ -44810,7 +44813,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/The_Matrix:_Path_of_Neo"],
     "beatemupBingo": {
       "go": false,
@@ -44893,7 +44896,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [""],
     "beatemupBingo": {
       "go": false,
@@ -46004,7 +46007,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/The_Sopranos:_Road_to_Respect"],
     "beatemupBingo": {
       "go": false,
@@ -46092,7 +46095,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/thesoul/ss05.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/thesoul/ss06.jpg"
     ],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://www.mobygames.com/game/soul_",
       "http://egloos.zum.com/jampuri/v/7467266",
@@ -46631,7 +46634,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/Transformers_(2003_video_game)"],
     "beatemupBingo": {
       "go": false,
@@ -48151,7 +48154,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": ["https://en.wikipedia.org/wiki/Unbound_Saga"],
     "beatemupBingo": {
       "go": false,
@@ -48429,7 +48432,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [""],
     "beatemupBingo": {
       "go": false,
@@ -48700,7 +48703,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [""],
     "beatemupBingo": {
       "go": false,
@@ -50022,7 +50025,7 @@
     "overallReview": null,
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://store.steampowered.com/app/625680/Way_of_the_Passive_Fist/",
       "http://www.hardcoregaming101.net/way-of-the-passive-fist/"
@@ -51783,7 +51786,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://gamefaqs.gamespot.com/ps2/925948-yakuza-fury",
       "http://www.hardcoregaming101.net/yakuza-fury-simple-2000-series-vol-72-the-ninkyo-%e4%bb%bb%e4%be%a0-playstation-2-2005/",
@@ -52033,7 +52036,7 @@
     "overallReview": [],
     "cover": "",
     "images": [""],
-    "videos": [""],
+    "videos": [],
     "links": [
       "https://gamefaqs.gamespot.com/genesis/661907-yang-jia-jiang-yang-warrior-family",
       "https://segaretro.org/Yi_Men_Ying_Lie:_Yang_Jia_Jiang"
@@ -52123,7 +52126,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/yk2xf/ss04.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/yk2xf/ss05.jpg"
     ],
-    "videos": [""],
+    "videos": [],
     "links": [
       "http://www.hardcoregaming101.net/korea/gameindex-retail-genre.htm"
     ],
@@ -52550,7 +52553,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/zzang/ss04.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/zzang/ss05.jpg"
     ],
-    "videos": [""],
+    "videos": [],
     "links": ["http://www.hardcoregaming101.net/korea/part2/games-other6.htm"],
     "beatemupBingo": {
       "go": false,

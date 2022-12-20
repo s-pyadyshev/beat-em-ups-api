@@ -991,6 +991,7 @@
       "Strike, Counter, Stun",
       "Weak, Medium, Strong, Jump kick, Special, Grab",
       "Weak, Strong",
+      "Weak, Strong, Block, Dodge, Change Weapon, Change Item, Use Item",
       "Weak, Strong, Block, Pick Up",
       "Weak, Strong, Dash attack, Grab, Jump, Special",
       "Weak, Strong, Dash attack, Strong hold, Dodge, Block, Pick up",
