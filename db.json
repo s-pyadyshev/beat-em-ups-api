@@ -1182,6 +1182,10 @@
       {
         "author": "Slamson",
         "text": "Alien vs. Predator is definitely one of the genre's greats, but I don't put it on a pedestal like most other people seem to. It definitely has top-notch, deep freeform combat, huge gangs of enemies, and killer graphics. But for a Capcom game, it's severely lacking in personality, enemy variety, and music."
+      },
+      {
+        "author": "Kotix",
+        "text": "Oldgamers know this one for sure as classic high quality brawler compliant with beat'em up standards. If you don't - play it offhand to dive into alien swarming sci-fi action."
       }
     ],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/avp/img/poster.png",
@@ -2676,7 +2680,12 @@
     "lives": null,
     "continues": null,
     "extend": null,
-    "overallReview": null,
+    "overallReview": [
+      {
+        "author": "Kotix",
+        "text": "Quite interesting and brutal beat'em up made with Flash. Good moveset, nice enemy and stage variety, so it's definitely worth check out. Weird plot is included."
+      }
+    ],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/flash/bttb/cover.png",
     "images": [
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/flash/bttb/ss01.png",
@@ -6407,7 +6416,12 @@
     "lives": null,
     "continues": null,
     "extend": "N/A",
-    "overallReview": [],
+    "overallReview": [
+      {
+        "author": "Kotix",
+        "text": "It is a blasphemy, shame and \"how to make everything wrong\" role model. One of those games you make a deep sigh and facepalm every time your hear its title."
+      }
+    ],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/xbox/blqdragon/cover.jpg",
     "images": [
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/xbox/blqdragon/ss01.jpg",
@@ -11296,7 +11310,12 @@
     "lives": null,
     "continues": null,
     "extend": "N/A",
-    "overallReview": [],
+    "overallReview": [
+      {
+        "author": "Kotix",
+        "text": "Fast-paced action filled with swarms of bizarre enemies and bosses. Punching them is a pleasure, especially with lightning-fast special move. And you can throw cars into bad guys."
+      }
+    ],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/dfist/cover.jpg",
     "images": [
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/dfist/ss01.jpg",
@@ -15463,7 +15482,12 @@
     "lives": null,
     "continues": null,
     "extend": null,
-    "overallReview": [],
+    "overallReview": [
+      {
+        "author": "Kotix",
+        "text": "Despite the weird plot and \"humour\" it could be okay if it wasn't for bad hit detection, shallow and scarce combat mechanics. It may insult Golden Axe fans as well."
+      }
+    ],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/dteodraconus/cover.jpg",
     "images": [
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/dteodraconus/ss01.jpg",
@@ -15826,7 +15850,12 @@
     "lives": null,
     "continues": null,
     "extend": null,
-    "overallReview": [],
+    "overallReview": [
+      {
+        "author": "Kotix",
+        "text": "Funny bizarre 3D brawler with huge moveset, tons of weapons and unstoppable action. Giant octopus is included."
+      }
+    ],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/dcop/cover.jpg",
     "images": [
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/dcop/ss01.jpg",
@@ -19075,7 +19104,12 @@
     "lives": null,
     "continues": null,
     "extend": "N/A",
-    "overallReview": [],
+    "overallReview": [
+      {
+        "author": "Kotix",
+        "text": "Foul Play has rather unique setting of theatrical performance where you should \"act\" (beat them up) intensively to attract spectators' attention. It also has a nice parry/grab mechanics which works especially well in the air. But it's a foul play to make the game sooo lengthy."
+      }
+    ],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/fplay/cover.jpg",
     "images": [
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/fplay/ss01.jpg",
@@ -19583,7 +19617,6 @@
   },
   {
     "multigenre": true,
-    "missing": true,
     "name": "Gaijin Troubles",
     "platform": "PC",
     "perspective": "3D",
@@ -19615,7 +19648,7 @@
     "charSwitch": "N/A",
     "groundHit": "Yes",
     "revive": "Checkpoint",
-    "restore": null,
+    "restore": "Food only",
     "artStyle": "Anime",
     "sprites": null,
     "setting": "School",
@@ -30757,7 +30790,12 @@
     "lives": null,
     "continues": null,
     "extend": "N/A",
-    "overallReview": [],
+    "overallReview": [
+      {
+        "author": "Kotix",
+        "text": "The game is superb by default if you can play as Sergei. It is not for casual players and those scared of blood and gore. Its deep combat is stand-out among other titles."
+      }
+    ],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/mrb/cover.jpg",
     "images": [
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/mrb/ss01.jpg",
@@ -31034,7 +31072,12 @@
     "lives": null,
     "continues": null,
     "extend": null,
-    "overallReview": [],
+    "overallReview": [
+      {
+        "author": "Kotix",
+        "text": "The only and reasonably forgotten beat'em up on CD-i. It is very long to cope with shallow combat and gameplay. Even unique design and bizarre enemies can't help."
+      }
+    ],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/cdi/mutant-rampage/cover.jpg",
     "images": [
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/cdi/mutant-rampage/ss01.png",
@@ -32798,7 +32841,7 @@
     "publisher": "Gathering of Developers",
     "releasedate": "2001-01-26",
     "releaseYear": 2001,
-    "otherPlatforms": ["PS2"],
+    "otherPlatforms": [],
     "series": null,
     "players": 1,
     "structure": "Semi-branching",
@@ -32840,14 +32883,25 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/oni/ss01.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/oni/ss02.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/oni/ss03.jpg",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/oni/ss04.jpg"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/oni/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/oni/ss05.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/oni/ss06.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/oni/ss07.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/oni/ss08.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/oni/ss09.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/oni/ss10.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/oni/ss11.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/oni/ss12.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/oni/ss13.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/oni/ss14.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/oni/ss15.jpg"
     ],
     "videos": ["https://www.youtube.com/embed/Q0lAR6OAIos"],
     "links": [
       "https://en.wikipedia.org/wiki/Oni_(video_game)",
-      "https://www.mobygames.com/game/oni",
+      "https://wiki.oni2.net/Anniversary_Edition",
       "https://gamefaqs.gamespot.com/pc/256399-oni",
-      "https://wiki.oni2.net/Anniversary_Edition"
+      "https://www.mobygames.com/game/oni"
     ],
     "beatemupBingo": {
       "go": false,
@@ -34003,7 +34057,12 @@
     "lives": null,
     "continues": null,
     "extend": "N/A",
-    "overallReview": [],
+    "overallReview": [
+      {
+        "author": "Kotix",
+        "text": "It combines aspects of classic Power Rangers video games for the SNES and Genesis, as well as adding original elements. Nice example of OpenBOR brawler done right."
+      }
+    ],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/prbopse/cover.webp",
     "images": [
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/prbopse/ss01.webp",
@@ -34644,7 +34703,12 @@
     "lives": null,
     "continues": null,
     "extend": null,
-    "overallReview": [],
+    "overallReview": [
+      {
+        "author": "Kotix",
+        "text": "It is entertaining at first to give away punches, kicks and environment finishers but artificial increase of the game length via tons of enemies is a wrong choice."
+      }
+    ],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/redeemer/cover.jpg",
     "images": [
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/redeemer/ss01.jpg",
@@ -39388,7 +39452,12 @@
     "lives": null,
     "continues": null,
     "extend": "N/A",
-    "overallReview": [],
+    "overallReview": [
+      {
+        "author": "Kotix",
+        "text": "Badass and fun 3D arena brawler with 8 characters, deep combat and huge moveset. I'd call it proto-Urban Reign but Spikers series is definitely a unique one and deserves more attention."
+      }
+    ],
     "cover": "https://segaretro.org/images/7/71/SpikersBattle_NAOMI_JP_Flyer1.jpg",
     "images": [
       "https://www.mobygames.com/images/shots/l/974150-spikers-battle-arcade-screenshot-choose-1-out-of-8-fighters.png",
@@ -47652,7 +47721,7 @@
     "platform": "PS2",
     "perspective": "3D",
     "about": null,
-    "trivia": null,
+    "trivia": "It is based on the popular Japanese live-action TV series Space Sheriff trilogy.",
     "country": "Japan",
     "developer": "Digifloyd",
     "publisher": "Namco Bandai Games",
@@ -48057,7 +48126,12 @@
     "lives": null,
     "continues": null,
     "extend": null,
-    "overallReview": [],
+    "overallReview": [
+      {
+        "author": "Kotix",
+        "text": "Looks like there are enough features to be a good beat'em up: good moveset, weird enemies and decent graphics. But it feels undercooked overall."
+      }
+    ],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/uvprime/cover.jpg",
     "images": [
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/uvprime/ss01.png",
