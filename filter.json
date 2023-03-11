@@ -35,7 +35,7 @@
       "SNES",
       "Saturn",
       "Wii",
-      "WonderSwan",
+      "WonderSwan Color",
       "X68000",
       "Xbox",
       "Xbox 360",
@@ -1178,7 +1178,7 @@
     "name": "groundHit",
     "filterName": "Ground Hit",
     "description": "If you can attack grounded opponents.",
-    "options": ["Bosses only", "No", "Throws", "Yes"]
+    "options": ["Bosses only", "No", "Yes"]
   },
   {
     "name": "revive",
