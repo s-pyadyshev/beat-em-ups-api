@@ -14997,7 +14997,6 @@
     }
   },
   {
-    "missing": true,
     "name": "Dragon Sisters",
     "platform": "PS2",
     "perspective": "2.5D",
@@ -15014,25 +15013,25 @@
     "structure": "Linear",
     "difficulty": null,
     "gangsize": null,
-    "variety": ["Upgrades"],
-    "playtime": null,
+    "variety": ["Bonus stages", "Upgrades"],
+    "playtime": "1:40",
     "buttons": null,
     "combos": "Dynamic",
     "grabs": "No",
     "dashing": "Auto",
-    "enemyHBars": null,
+    "enemyHBars": "Bosses only",
     "itemPickup": "Contact",
     "itemStay": "Fade",
     "weaponsStay": "N/A",
-    "deathBlow": null,
+    "deathBlow": "Stock",
     "friendlyFire": "Yes",
-    "charSwitch": null,
+    "charSwitch": "No",
     "groundHit": "Yes",
-    "revive": null,
+    "revive": "New area",
     "restore": "Items only",
     "artStyle": "Anime",
     "sprites": null,
-    "setting": null,
+    "setting": "Futuristic Steampunk",
     "focus": "Hand-to-hand",
     "music": ["Electronic"],
     "tone": "Serious",
@@ -15045,12 +15044,19 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "",
-    "images": [""],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/dsisters/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/dsisters/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/dsisters/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/dsisters/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/dsisters/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/dsisters/ss05.jpg"
+    ],
     "videos": ["https://www.youtube.com/embed/C9DqgLhanlM"],
     "links": [
+      "https://thevideogamedatabase.fandom.com/wiki/Dragon_Sisters",
       "https://gamefaqs.gamespot.com/ps2/929372-dragon-sisters",
-      "https://www.mobygames.com/game/dragon-sisters"
+      "https://www.mobygames.com/game/67055/dragon-sisters/"
     ],
     "beatemupBingo": {
       "go": false,
@@ -15059,7 +15065,7 @@
       "sleevelessJacket": false,
       "bossWithGun": false,
       "fireBombs": false,
-      "twoWordTitle": false,
+      "twoWordTitle": true,
       "throwingKnife": false,
       "subwayStage": false,
       "exproWrestler": false,
@@ -24326,7 +24332,7 @@
     "overallReview": [
       {
         "author": "Kotix",
-        "text": "You get what you expect to see: tons of breakable stuff to throw bad guys into. Some platforming stunts feel quite challenging as it should be. Although the game can be considered as platformer partially its combat is very diverse and satisfying especially regarding weapons. I wish common enemies could be more varied and numerous. Music fits well but it is forgettable."
+        "text": "You get what you expect to see: tons of breakable stuff to throw bad guys into. Although the game can be considered as platformer partially its combat is very diverse and satisfying especially regarding weapons. Some platforming stunts feel quite challenging as it should be. I wish common enemies could be more varied and numerous. Music fits well but it is forgettable."
       }
     ],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/jcsm/cover.jpg",
@@ -33555,7 +33561,7 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/oni/ss04.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/oni/ss05.jpg"
     ],
-    "videos": ["https://www.youtube.com/embed/Q0lAR6OAIos"],
+    "videos": ["https://www.youtube.com/embed/sbdMLxqerac"],
     "links": [
       "https://en.wikipedia.org/wiki/Oni_(video_game)",
       "https://wiki.oni2.net/Anniversary_Edition",
@@ -39064,8 +39070,8 @@
     "country": "Poland",
     "developer": "Blue Sunset Games",
     "publisher": "Console Labs S.A.",
-    "releasedate": "2013-04-28",
-    "releaseYear": 2013,
+    "releasedate": "2023-04-28",
+    "releaseYear": 2023,
     "otherPlatforms": null,
     "series": null,
     "players": 1,
@@ -44804,7 +44810,7 @@
     "structure": "Linear",
     "difficulty": "Brutal",
     "gangsize": "Trio (3)",
-    "variety": ["Driving", "Shooting"],
+    "variety": ["Driving", "Multiple endings", "Shooting"],
     "playtime": "0:30",
     "buttons": "Punch, Kick",
     "combos": "No",
