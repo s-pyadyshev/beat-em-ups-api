@@ -28319,13 +28319,13 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/legend/img/cover.jpg",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/legend/cover.jpg",
     "images": [
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/legend/img/ss01.jpg",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/legend/img/ss02.jpg",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/legend/img/ss03.jpg",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/legend/img/ss04.jpg",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/legend/img/ss05.jpg"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/legend/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/legend/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/legend/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/legend/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/psx/legend/ss05.jpg"
     ],
     "videos": ["https://www.youtube.com/embed/fdKeLiVoSHQ"],
     "links": [
