@@ -50,6 +50,7 @@
     "overallReview": [],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/198x/cover.jpg",
     "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/198x/ss00.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/198x/ss01.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/198x/ss02.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/198x/ss03.jpg"
@@ -238,6 +239,7 @@
     "overallReview": [],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/99vidas/cover.jpg",
     "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/99vidas/ss00.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/99vidas/ss01.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/99vidas/ss02.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/99vidas/ss03.jpg",
@@ -248,7 +250,8 @@
     "links": [
       "http://99vidasthegame.qubyteinteractive.com/",
       "https://en.wikipedia.org/wiki/99Vidas",
-      "https://gamefaqs.gamespot.com/pc/203187-99vidas"
+      "https://gamefaqs.gamespot.com/pc/203187-99vidas",
+      "https://store.steampowered.com/app/557040/99Vidas/"
     ],
     "beatemupBingo": {
       "go": false,
@@ -431,6 +434,7 @@
     "overallReview": null,
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/absolver/cover.jpg",
     "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/absolver/ss00.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/absolver/ss01.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/absolver/ss02.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/absolver/ss03.jpg",
@@ -523,6 +527,7 @@
     "overallReview": [],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/actoffighter/cover.jpg",
     "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/actoffighter/ss00.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/actoffighter/ss01.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/actoffighter/ss02.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/actoffighter/ss03.png",
@@ -702,6 +707,7 @@
     "overallReview": [],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/aflux/cover.jpg",
     "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/aflux/ss00.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/aflux/ss01.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/aflux/ss02.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/aflux/ss03.jpg",
@@ -711,7 +717,8 @@
     "videos": ["https://www.youtube.com/embed/FBK9UskFTGI"],
     "links": [
       "https://en.wikipedia.org/wiki/%C3%86on_Flux_(video_game)",
-      "https://gamefaqs.gamespot.com/ps2/927234-aeon-flux"
+      "https://gamefaqs.gamespot.com/ps2/927234-aeon-flux",
+      "https://www.mobygames.com/game/20311/%C3%A6on-flux/"
     ],
     "beatemupBingo": {
       "go": false,
@@ -1377,6 +1384,7 @@
     "overallReview": null,
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nds/akrrg/cover.jpg",
     "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nds/akrrg/ss00.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nds/akrrg/ss01.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nds/akrrg/ss02.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nds/akrrg/ss03.jpg"
@@ -1467,6 +1475,7 @@
     "overallReview": null,
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nds/akrrg2/cover.jpg",
     "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nds/akrrg2/ss00.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nds/akrrg2/ss01.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nds/akrrg2/ss02.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nds/akrrg2/ss03.jpg",
@@ -1651,6 +1660,7 @@
     "overallReview": [],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/afutatabi/cover.jpg",
     "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/afutatabi/ss00.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/afutatabi/ss01.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/afutatabi/ss02.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/scd/afutatabi/ss03.png",
@@ -1660,8 +1670,8 @@
     "videos": ["https://www.youtube.com/embed/j6mcdxHSul8"],
     "links": [
       "https://en.wikipedia.org/wiki/Anett_Futatabi",
-      "https://www.mobygames.com/game/sega-cd/anett-futatabi/",
-      "http://www.hardcoregaming101.net/annet-futatabi/"
+      "http://www.hardcoregaming101.net/annet-futatabi/",
+      "https://www.mobygames.com/game/32623/anett-futatabi/"
     ],
     "beatemupBingo": {
       "go": false,
@@ -2125,11 +2135,11 @@
     "overallReview": [],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/assaultofhellkaiser/cover.jpg",
     "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/assaultofhellkaiser/cover.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/assaultofhellkaiser/ss01.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/assaultofhellkaiser/ss02.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/assaultofhellkaiser/ss03.jpg",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/assaultofhellkaiser/ss04.jpg",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/assaultofhellkaiser/ss05.jpg"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/assaultofhellkaiser/ss04.jpg"
     ],
     "videos": ["https://www.youtube.com/embed/qle0vVGXg9E"],
     "links": [
@@ -2310,6 +2320,7 @@
     "overallReview": [],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/aosta/cover.jpg",
     "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/aosta/ss00.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/aosta/ss01.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/aosta/ss02.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/aosta/ss03.jpg",
@@ -2408,11 +2419,19 @@
     "continues": null,
     "extend": null,
     "overallReview": null,
-    "cover": "",
-    "images": [""],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/aosta2/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/aosta2/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/aosta2/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/aosta2/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/aosta2/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/aosta2/ss05.jpg"
+    ],
     "videos": [""],
     "links": [
-      "https://store.steampowered.com/app/2360250/Asterix__Obelix_Slap_Them_All_2/"
+      "https://store.steampowered.com/app/2360250/Asterix__Obelix_Slap_Them_All_2/",
+      "https://gamefaqs.gamespot.com/pc/412123-asterix-and-obelix-slap-them-all-2",
+      "https://www.mobygames.com/game/212593/asterix-obelix-slap-them-all-2/"
     ],
     "beatemupBingo": {
       "go": false,
@@ -2500,6 +2519,7 @@
     "overallReview": null,
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/atria2/cover.jpg",
     "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/atria2/ss00.webp",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/atria2/ss01.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/atria2/ss02.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/atria2/ss03.jpg",
@@ -4112,6 +4132,7 @@
       "https://gamefaqs.gamespot.com/snes/567474-battle-zeque-den",
       "https://www.mobygames.com/game/battle-zeque-den",
       "https://www.spriters-resource.com/snes/battlezeque/",
+      "https://ephemeralenigmascom.wordpress.com/2023/11/21/battle-zeque-den/",
       "http://lunaticobscurity.blogspot.com/2012/09/battle-zeque-den-snes.html",
       "https://archive.org/details/battle-zeque-den-jpn/mode/2up",
       "http://www.videogameden.com/sfc.htm?bzd"
@@ -6448,7 +6469,6 @@
       "https://en.wikipedia.org/wiki/Bruce_Lee:_Quest_of_the_Dragon",
       "https://gamefaqs.gamespot.com/xbox/481080-bruce-lee-quest-of-the-dragon",
       "https://www.mobygames.com/game/bruce-lee-quest-of-the-dragon",
-      "https://crappygames.miraheze.org/wiki/Bruce_Lee:_Quest_of_the_Dragon",
       "http://www.game-over.net/reviews/xbox/Bruce_Lee:_Quest_of_the_Dragon.html"
     ],
     "beatemupBingo": {
@@ -8597,13 +8617,13 @@
     "continues": null,
     "extend": null,
     "overallReview": [],
-    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/cobra-kai/cover.jpg",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/ckai/cover.jpg",
     "images": [
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/cobra-kai/ss01.jpg",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/cobra-kai/ss02.jpg",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/cobra-kai/ss03.jpg",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/cobra-kai/ss04.jpg",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/cobra-kai/ss05.jpg"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/ckai/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/ckai/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/ckai/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/ckai/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/ckai/ss05.jpg"
     ],
     "videos": ["https://www.youtube.com/embed/z1Xr3sJ9128"],
     "links": [
@@ -8691,12 +8711,22 @@
     "continues": null,
     "extend": null,
     "overallReview": null,
-    "cover": "",
-    "images": [""],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/ckai2/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/ckai2/ss00.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/ckai2/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/ckai2/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/ckai2/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/ckai2/ss04.jpg"
+    ],
     "videos": [""],
     "links": [
       "https://thekaratekid.fandom.com/wiki/Cobra_Kai_2:_Dojos_Rising",
-      "https://store.steampowered.com/app/1681870/Cobra_Kai_2_Dojos_Rising/"
+      "https://gamefaqs.gamespot.com/pc/372346-cobra-kai-2-dojos-rising",
+      "https://www.mobygames.com/game/194219/cobra-kai-2-dojos-rising/",
+      "https://store.steampowered.com/app/1681870/Cobra_Kai_2_Dojos_Rising/",
+      "https://waytoomany.games/2022/12/19/review-cobra-kai-2-dojos-rising/",
+      "https://www.gamingnexus.com/Article/7736/Cobra-Kai-2-Dojos-Rising/"
     ],
     "beatemupBingo": {
       "go": false,
@@ -9442,10 +9472,12 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pce/cowolf/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pce/cowolf/img/ss05.png"
     ],
-    "videos": [],
+    "videos": ["https://www.youtube.com/embed/kiwRgNKFM6k"],
     "links": [
       "https://en.wikipedia.org/wiki/Riot_Zone",
-      "https://www.mobygames.com/game/riot-zone"
+      "https://gamefaqs.gamespot.com/turbocd/563763-riot-zone",
+      "https://www.mobygames.com/game/riot-zone",
+      "https://ephemeralenigmascom.wordpress.com/2023/05/23/riot-zone/"
     ],
     "beatemupBingo": {
       "go": false,
@@ -12551,13 +12583,13 @@
         "text": "Double Dragon is a re-worked port of the NES version that gets rid of the XP system and slightly reworks the stages and enemy layouts. Although you only fight two enemies at once, it has the NES version's complete moveset. The graphics are good and the music is iconic as ever."
       }
     ],
-    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon/img/poster.png",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon/poster.png",
     "images": [
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon/img/ss01.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon/img/ss02.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon/img/ss03.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon/img/ss04.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon/img/ss05.png"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon/ss04.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon/ss05.png"
     ],
     "videos": [],
     "links": ["https://gamefaqs.gamespot.com/gameboy/197144-double-dragon"],
@@ -13034,13 +13066,13 @@
         "text": "Double Dragon 3 is barely playable. Basically, you can only hit enemies when you're vertically above them. This is an oddity not seen in any other brawler. Even when abusing that, the gameplay is still extremely sloppy yet brutal. The enemy variety is nearly non-existent. Thankfully, bosses are somewhat manageable. The graphics and music are not great."
       }
     ],
-    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon3/img/poster.png",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon3/poster.png",
     "images": [
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon3/img/ss01.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon3/img/ss02.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon3/img/ss03.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon3/img/ss04.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon3/img/ss05.png"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon3/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon3/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon3/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon3/ss04.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon3/ss05.png"
     ],
     "videos": ["https://www.youtube.com/embed/a_YRlqbPcd4"],
     "links": [
@@ -13127,13 +13159,13 @@
         "text": "Forget Neon, this is the definitive Double Dragon game. It has a retarded number of moves from across most every game in the series, huge waves of diverse enemies, multiple gameplay modes including co-op, and a serious challenge. Its graphics and sound definitely aren't the best but are still well above average, especially the excellent musical compositions."
       }
     ],
-    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/ddragona/img/poster.png",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/ddragona/poster.png",
     "images": [
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/ddragona/img/ss01.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/ddragona/img/ss02.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/ddragona/img/ss03.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/ddragona/img/ss04.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/ddragona/img/ss05.png"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/ddragona/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/ddragona/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/ddragona/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/ddragona/ss04.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/ddragona/ss05.png"
     ],
     "videos": ["https://www.youtube.com/embed/_oB7ldanBoM"],
     "links": [
@@ -13171,7 +13203,6 @@
     }
   },
   {
-    "missing": true,
     "name": "Double Dragon II: The Revenge",
     "platform": "DOS",
     "perspective": "2.5D",
@@ -13220,8 +13251,14 @@
     "continues": null,
     "extend": null,
     "overallReview": null,
-    "cover": "",
-    "images": [""],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/dd2/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/dd2/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/dd2/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/dd2/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/dd2/ss04.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/dd2/ss05.png"
+    ],
     "videos": ["https://www.youtube.com/embed/L_uL9Oru4_M"],
     "links": [
       "https://gamefaqs.gamespot.com/pc/974903-double-dragon-ii-the-revenge",
@@ -13309,13 +13346,13 @@
         "text": "Mang, I love this game. The attacks are fun to use and feel as violent as a Game Boy game can convey. The excellent high-energy music is definitely the highlight of the package, and the graphics are clear and feature distinct areas. Unfortunately, the combat could be a lot better because uppercuts dominate everything."
       }
     ],
-    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon2/img/poster.png",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon2/poster.png",
     "images": [
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon2/img/ss01.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon2/img/ss02.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon2/img/ss03.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon2/img/ss04.png",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon2/img/ss05.png"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon2/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon2/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon2/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon2/ss04.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gb/ddragon2/ss05.png"
     ],
     "videos": [],
     "links": [
@@ -13808,8 +13845,7 @@
       "https://gamefaqs.gamespot.com/xbox360/685554-double-dragon-ii-wander-of-the-dragons",
       "https://www.mobygames.com/game/double-dragon-ii-wander-of-the-dragons",
       "http://www.hardcoregaming101.net/double-dragon-ii-wander-of-the-dragons/",
-      "https://www.gameinformer.com/games/double_dragon_ii_wander_of_the_dragons/b/xbox360/archive/2013/04/05/double-dragon-ii-review-shame-of-the-dragons.aspx",
-      "https://crappygames.miraheze.org/wiki/Double_Dragon_II:_Wander_of_the_Dragons"
+      "https://www.gameinformer.com/games/double_dragon_ii_wander_of_the_dragons/b/xbox360/archive/2013/04/05/double-dragon-ii-review-shame-of-the-dragons.aspx"
     ],
     "beatemupBingo": {
       "go": false,
@@ -14314,10 +14350,17 @@
     "continues": null,
     "extend": null,
     "overallReview": null,
-    "cover": "",
-    "images": [""],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/ddgaiden/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/ddgaiden/ss00.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/ddgaiden/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/ddgaiden/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/ddgaiden/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/ddgaiden/ss04.jpg"
+    ],
     "videos": [""],
     "links": [
+      "https://doubledragon.fandom.com/wiki/Double_Dragon_Gaiden:_Rise_of_the_Dragons",
       "https://store.steampowered.com/app/1967260/Double_Dragon_Gaiden_Rise_Of_The_Dragons/"
     ],
     "beatemupBingo": {
@@ -19627,7 +19670,6 @@
       "https://en.wikipedia.org/wiki/Franko:_The_Crazy_Revenge",
       "https://gamefaqs.gamespot.com/amiga/997317-franko-the-crazy-revenge",
       "https://www.mobygames.com/game/amiga/franko-the-crazy-revenge",
-      "https://crappygames.miraheze.org/wiki/Franko:_The_Crazy_Revenge",
       "http://www.hardcoregaming101.net/franko-the-crazy-revenge/"
     ],
     "beatemupBingo": {
@@ -19721,7 +19763,6 @@
       "https://en.wikipedia.org/wiki/Franko:_The_Crazy_Revenge",
       "https://gamefaqs.gamespot.com/pc/997316-franko-the-crazy-revenge",
       "https://www.mobygames.com/game/dos/franko-the-crazy-revenge",
-      "https://crappygames.miraheze.org/wiki/Franko:_The_Crazy_Revenge",
       "http://www.hardcoregaming101.net/franko-the-crazy-revenge/",
       "https://archive.org/details/FrankoTCR",
       "http://www.abandonia.com/en/games/25472/Franko+-+The+Crazy+Revenge.html"
@@ -26887,9 +26928,8 @@
     "videos": ["https://www.youtube.com/embed/ejNnjshtfPM"],
     "links": [
       "https://en.wikipedia.org/wiki/Kick-Ass_2:_The_Game",
-      "https://crappygames.miraheze.org/wiki/Kick-Ass_2",
-      "https://www.mobygames.com/game/kick-ass-2",
       "https://gamefaqs.gamespot.com/pc/733816-kick-ass-2",
+      "https://www.mobygames.com/game/kick-ass-2",
       "https://store.steampowered.com/app/304170/KickAss_2/"
     ],
     "beatemupBingo": {
@@ -27631,7 +27671,7 @@
     "restore": "End of stage",
     "artStyle": "Semi-realistic",
     "sprites": "Large",
-    "setting": "Medieval",
+    "setting": "Medieval Fantasy China",
     "focus": "Weapons",
     "music": ["Rock"],
     "tone": "Serious",
@@ -27728,7 +27768,7 @@
     "restore": "End of stage",
     "artStyle": "Semi-realistic",
     "sprites": "Large",
-    "setting": "Medieval",
+    "setting": "Medieval Fantasy China",
     "focus": "Weapons",
     "music": ["Rock"],
     "tone": "Serious",
@@ -27787,9 +27827,8 @@
     }
   },
   {
-    "missing": true,
     "name": "Knights of Valour 3",
-    "platform": "PC",
+    "platform": "Arcade",
     "perspective": "2.5D",
     "about": null,
     "trivia": "Also known as: Sanguo Zhan Ji 3 - Knights of Valour 3.",
@@ -27800,34 +27839,34 @@
     "releaseYear": 2011,
     "otherPlatforms": null,
     "series": null,
-    "players": 1,
-    "structure": null,
+    "players": 2,
+    "structure": "Branching",
     "difficulty": null,
-    "gangsize": null,
-    "variety": ["None"],
+    "gangsize": "Gigantic (10+)",
+    "variety": ["Boss Rush"],
     "playtime": null,
     "buttons": null,
-    "combos": null,
-    "grabs": null,
-    "dashing": null,
-    "enemyHBars": null,
-    "itemPickup": null,
-    "itemStay": null,
+    "combos": "Static",
+    "grabs": "No",
+    "dashing": "Double-tap",
+    "enemyHBars": "Bosses + Names",
+    "itemPickup": "Button",
+    "itemStay": "Fade",
     "weaponsStay": null,
-    "deathBlow": null,
-    "friendlyFire": null,
-    "charSwitch": null,
-    "groundHit": null,
-    "revive": null,
+    "deathBlow": "Energy",
+    "friendlyFire": "No",
+    "charSwitch": "On death",
+    "groundHit": "No",
+    "revive": "Invincibility + Knockdown",
     "restore": null,
-    "artStyle": null,
-    "sprites": null,
-    "setting": null,
-    "focus": null,
-    "music": ["Video game"],
-    "tone": null,
+    "artStyle": "Semi-realistic",
+    "sprites": "Large",
+    "setting": "Medieval Fantasy China",
+    "focus": "Weapons",
+    "music": ["Chinese", "Electronic", "Rock"],
+    "tone": "Serious",
     "gore": [null],
-    "fighters": null,
+    "fighters": 10,
     "stages": null,
     "enemies": null,
     "bosses": null,
@@ -27836,11 +27875,18 @@
     "continues": null,
     "extend": null,
     "overallReview": [],
-    "cover": "",
-    "images": [""],
-    "videos": [],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/kov3/ss00.png",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/kov3/ss00.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/kov3/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/kov3/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/kov3/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/kov3/ss04.png"
+    ],
+    "videos": ["https://www.youtube.com/embed/DbUxF1jwCP0"],
     "links": [
       "https://en.wikipedia.org/wiki/Knights_of_Valour",
+      "https://kov.fandom.com/wiki/Knights_of_Valour_3",
       "https://gamefaqs.gamespot.com/arcade/270850-knights-of-valour-3"
     ],
     "beatemupBingo": {
@@ -27859,7 +27905,7 @@
       "specialDrainsHealth": false,
       "oilDrums": false,
       "clowns": false,
-      "yellowRedHealthBar": false,
+      "yellowRedHealthBar": true,
       "dominatrix": false,
       "powerSpeedBalance": false,
       "elevatorScene": false,
@@ -27919,8 +27965,9 @@
     "continues": null,
     "extend": null,
     "overallReview": [],
-    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/kovtsp/cover.jpg",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/kovtsp/ss00.jpg",
     "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/kovtsp/ss00.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/kovtsp/ss01.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/kovtsp/ss02.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/kovtsp/ss03.jpg",
@@ -28158,7 +28205,6 @@
     }
   },
   {
-    "missing": true,
     "name": "Kung Food",
     "platform": "Atari Lynx",
     "perspective": "2.5D",
@@ -28172,31 +28218,31 @@
     "otherPlatforms": null,
     "series": null,
     "players": 1,
-    "structure": null,
-    "difficulty": null,
+    "structure": "Linear",
+    "difficulty": "Hardcore",
     "gangsize": null,
     "variety": ["None"],
-    "playtime": null,
+    "playtime": "0:30",
     "buttons": null,
-    "combos": null,
-    "grabs": null,
-    "dashing": null,
+    "combos": "No",
+    "grabs": "No",
+    "dashing": "No",
     "enemyHBars": null,
-    "itemPickup": null,
+    "itemPickup": "Contact",
     "itemStay": null,
     "weaponsStay": null,
     "deathBlow": null,
-    "friendlyFire": null,
-    "charSwitch": null,
-    "groundHit": null,
+    "friendlyFire": "N/A",
+    "charSwitch": "N/A",
+    "groundHit": "No",
     "revive": null,
     "restore": null,
-    "artStyle": null,
+    "artStyle": "Semi-cartoony",
     "sprites": null,
-    "setting": null,
+    "setting": "Various",
     "focus": "Hand-to-hand",
     "music": ["Video game"],
-    "tone": null,
+    "tone": "Humorous",
     "gore": [null],
     "fighters": 1,
     "stages": null,
@@ -28207,9 +28253,15 @@
     "continues": null,
     "extend": null,
     "overallReview": null,
-    "cover": "",
-    "images": [""],
-    "videos": [""],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/atari/kfood/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/atari/kfood/ss00.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/atari/kfood/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/atari/kfood/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/atari/kfood/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/atari/kfood/ss04.png"
+    ],
+    "videos": ["https://www.youtube.com/embed/9ClfI5UfY1w"],
     "links": [
       "https://en.wikipedia.org/wiki/Kung_Food",
       "https://gamefaqs.gamespot.com/lynx/586963-kung-food",
@@ -28436,7 +28488,7 @@
     "otherPlatforms": null,
     "series": null,
     "players": 1,
-    "structure": null,
+    "structure": "Linear",
     "difficulty": null,
     "gangsize": null,
     "variety": ["None"],
@@ -28462,7 +28514,7 @@
     "music": ["Video game"],
     "tone": null,
     "gore": [null],
-    "fighters": null,
+    "fighters": 1,
     "stages": null,
     "enemies": null,
     "bosses": null,
@@ -28471,8 +28523,14 @@
     "continues": null,
     "extend": null,
     "overallReview": null,
-    "cover": "",
-    "images": [""],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/lahero/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/lahero/ss00.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/lahero/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/lahero/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/lahero/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/lahero/ss04.png"
+    ],
     "videos": ["https://www.youtube.com/embed/Lj7VkzejIKE"],
     "links": [
       "https://en.wikipedia.org/wiki/Last_Action_Hero_(video_game)",
@@ -28508,7 +28566,6 @@
     }
   },
   {
-    "missing": true,
     "name": "Last Hero in China",
     "platform": "DOS",
     "perspective": "2.5D",
@@ -28529,17 +28586,17 @@
     "playtime": null,
     "buttons": null,
     "combos": null,
-    "grabs": null,
-    "dashing": null,
+    "grabs": "No",
+    "dashing": "No",
     "enemyHBars": "Yes",
     "itemPickup": null,
-    "itemStay": null,
+    "itemStay": "Fade",
     "weaponsStay": null,
     "deathBlow": "Health",
     "friendlyFire": "N/A",
     "charSwitch": "N/A",
     "groundHit": "No",
-    "revive": "New game",
+    "revive": "Knockdown",
     "restore": null,
     "artStyle": "Realistic",
     "sprites": null,
@@ -28559,6 +28616,7 @@
     "overallReview": null,
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/lhinchina/cover.webp",
     "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/lhinchina/ss00.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/lhinchina/ss01.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/lhinchina/ss02.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/lhinchina/ss03.png",
@@ -28566,7 +28624,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/lhinchina/ss05.png"
     ],
     "videos": ["https://www.youtube.com/embed/VsdVtIdybiE"],
-    "links": [""],
+    "links": [
+      "https://cn-dos-games.fandom.com/zh/wiki/%E9%BB%84%E9%A3%9E%E9%B8%BF%E9%93%81%E5%85%AC%E9%B8%A1%E6%96%97%E8%9C%88%E8%9A%A3_(1995)?variant=zh-tw"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -28583,7 +28643,7 @@
       "specialDrainsHealth": false,
       "oilDrums": false,
       "clowns": false,
-      "yellowRedHealthBar": false,
+      "yellowRedHealthBar": true,
       "dominatrix": false,
       "powerSpeedBalance": false,
       "elevatorScene": false,
@@ -30421,29 +30481,28 @@
     }
   },
   {
-    "missing": true,
     "name": "Metal Kombat",
     "platform": "Amiga",
     "perspective": "2.5D",
     "about": null,
-    "trivia": null,
+    "trivia": "The game is set in the future after a nuclear war which wiped out humanity. There were some factories left which started production of robots. Two systems are leading the war - Aminet and PC. You are playing as Aminet and your mission is to destroy the PC main processor to end the war.",
     "country": "Poland",
     "developer": "Deck Six",
-    "publisher": "Marksoft",
+    "publisher": "MarkSoft",
     "releasedate": "unknown",
     "releaseYear": 1995,
     "otherPlatforms": null,
     "series": null,
     "players": 2,
-    "structure": null,
-    "difficulty": null,
+    "structure": "Linear",
+    "difficulty": "Hardcore",
     "gangsize": null,
     "variety": ["None"],
     "playtime": null,
-    "buttons": null,
-    "combos": null,
-    "grabs": null,
-    "dashing": null,
+    "buttons": "Attack, Jump",
+    "combos": "No",
+    "grabs": "Button",
+    "dashing": "No",
     "enemyHBars": null,
     "itemPickup": null,
     "itemStay": null,
@@ -30451,17 +30510,17 @@
     "deathBlow": null,
     "friendlyFire": null,
     "charSwitch": null,
-    "groundHit": null,
+    "groundHit": "No",
     "revive": null,
     "restore": null,
     "artStyle": null,
     "sprites": null,
-    "setting": null,
-    "focus": null,
-    "music": ["Video game"],
-    "tone": null,
+    "setting": "Post-apocalyptic",
+    "focus": "Hand-to-hand",
+    "music": ["Electronic"],
+    "tone": "Serious",
     "gore": [null],
-    "fighters": null,
+    "fighters": 6,
     "stages": null,
     "enemies": null,
     "bosses": null,
@@ -30470,13 +30529,24 @@
     "continues": null,
     "extend": null,
     "overallReview": null,
-    "cover": "",
-    "images": [""],
-    "videos": ["https://www.youtube.com/embed/f1Ie2HvQbxo"],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/mkombat/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/mkombat/ss00.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/mkombat/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/mkombat/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/mkombat/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/mkombat/ss04.png"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/f1Ie2HvQbxo",
+      "https://www.youtube.com/embed/_ucILw3bcmI"
+    ],
     "links": [
+      "https://www.lemonamiga.com/games/details.php?id=3237",
       "https://gamefaqs.gamespot.com/amiga/662714-metal-kombat",
       "https://www.mobygames.com/game/amiga/metal-kombat",
       "https://hol.abime.net/4617",
+      "https://thecompany.pl/game/Metal+Kombat",
       "https://www.myabandonware.com/game/metal-kombat-7fp"
     ],
     "beatemupBingo": {
@@ -30486,7 +30556,7 @@
       "sleevelessJacket": false,
       "bossWithGun": false,
       "fireBombs": false,
-      "twowordTitle": false,
+      "twowordTitle": true,
       "throwingKnife": false,
       "subwayStage": false,
       "exproWrestler": false,
@@ -31333,7 +31403,6 @@
     }
   },
   {
-    "missing": true,
     "name": "Moonstone: A Hard Days Knight",
     "platform": "Amiga",
     "perspective": "2.5D",
@@ -31342,20 +31411,20 @@
     "country": "Canada",
     "developer": "Rob Anderson",
     "publisher": "Mindscape Inc.",
-    "releasedate": "unknown",
+    "releasedate": "1991-04-24",
     "releaseYear": 1991,
     "otherPlatforms": null,
     "series": null,
-    "players": 1,
-    "structure": null,
+    "players": 4,
+    "structure": "Open world",
     "difficulty": null,
     "gangsize": null,
-    "variety": ["None"],
-    "playtime": null,
+    "variety": ["RPG Elements", "Upgrades", "VS. mode"],
+    "playtime": "1:10",
     "buttons": null,
-    "combos": null,
-    "grabs": null,
-    "dashing": null,
+    "combos": "No",
+    "grabs": "No",
+    "dashing": "No",
     "enemyHBars": null,
     "itemPickup": null,
     "itemStay": null,
@@ -31363,17 +31432,17 @@
     "deathBlow": null,
     "friendlyFire": null,
     "charSwitch": null,
-    "groundHit": null,
-    "revive": null,
-    "restore": null,
-    "artStyle": null,
+    "groundHit": "No",
+    "revive": "New game",
+    "restore": "End of stage",
+    "artStyle": "Semi-realistic",
     "sprites": null,
-    "setting": null,
+    "setting": "Medieval Fantasy",
     "focus": "Weapons",
     "music": ["Video game"],
-    "tone": null,
-    "gore": [null],
-    "fighters": null,
+    "tone": "Serious",
+    "gore": ["Blood", "Decapitation", "Mutilation"],
+    "fighters": 4,
     "stages": null,
     "enemies": null,
     "bosses": null,
@@ -31382,10 +31451,24 @@
     "continues": null,
     "extend": null,
     "overallReview": null,
-    "cover": "",
-    "images": [""],
-    "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Moonstone:_A_Hard_Days_Knight"],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/msahdknight/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/msahdknight/ss00.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/msahdknight/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/msahdknight/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/msahdknight/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/msahdknight/ss04.png"
+    ],
+    "videos": ["https://www.youtube.com/embed/RuqpISemjeQ"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Moonstone:_A_Hard_Days_Knight",
+      "http://moonstonetavern.co.uk/",
+      "https://gamefaqs.gamespot.com/amiga/582888-moonstone",
+      "https://www.mobygames.com/game/2702/moonstone-a-hard-days-knight/",
+      "https://www.pcgamingwiki.com/wiki/Moonstone:_A_Hard_Days_Knight",
+      "https://www.lemonamiga.com/games/docs.php?id=1109",
+      "https://www.gog.com/en/game/moonstone_a_hard_days_knight"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -31394,7 +31477,7 @@
       "bossWithGun": false,
       "fireBombs": false,
       "twoWordTitle": false,
-      "throwingKnife": false,
+      "throwingKnife": true,
       "subwayStage": false,
       "exproWrestler": false,
       "steelPipe": false,
@@ -35004,10 +35087,7 @@
     "cover": "",
     "images": [""],
     "videos": [],
-    "links": [
-      "https://en.wikipedia.org/wiki/Perfect_Weapon_(video_game)",
-      "https://crappygames.miraheze.org/wiki/Perfect_Weapon"
-    ],
+    "links": ["https://en.wikipedia.org/wiki/Perfect_Weapon_(video_game)"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -40186,6 +40266,100 @@
     }
   },
   {
+    "multigenre": true,
+    "name": "Sabor",
+    "platform": "DOS",
+    "perspective": "2.5D",
+    "about": "Also known as Соборъ.",
+    "trivia": null,
+    "country": "Russia",
+    "developer": "Gamos",
+    "publisher": "Gamos",
+    "releasedate": "unknown",
+    "releaseYear": 1991,
+    "otherPlatforms": null,
+    "series": null,
+    "players": 2,
+    "structure": "Linear",
+    "difficulty": null,
+    "gangsize": "Medium (5)",
+    "variety": ["Practice mode"],
+    "playtime": null,
+    "buttons": null,
+    "combos": "No",
+    "grabs": "No",
+    "dashing": "No",
+    "enemyHBars": "No",
+    "itemPickup": "N/A",
+    "itemStay": "N/A",
+    "weaponsStay": "N/A",
+    "deathBlow": "N/A",
+    "friendlyFire": null,
+    "charSwitch": "Button",
+    "groundHit": "No",
+    "revive": null,
+    "restore": null,
+    "artStyle": "Semi-realistic",
+    "sprites": null,
+    "setting": "Ancient Russia",
+    "focus": "Hand-to-hand",
+    "music": ["Video game"],
+    "tone": "Serious",
+    "gore": [null],
+    "fighters": 1,
+    "stages": null,
+    "enemies": 5,
+    "bosses": null,
+    "weapons": [null],
+    "lives": null,
+    "continues": null,
+    "extend": null,
+    "overallReview": null,
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/sabor/cover.png",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/sabor/ss00.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/sabor/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/sabor/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/sabor/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/dos/sabor/ss04.png"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/qL5LyPz1h-I",
+      "https://www.youtube.com/embed/f8h2-qhphlU"
+    ],
+    "links": [
+      "https://www.mobygames.com/game/22796/sabor/",
+      "https://www.goodolddays.net/game/id%2C939/Sabor.html"
+    ],
+    "beatemupBingo": {
+      "go": false,
+      "sunsetEnding": false,
+      "healthMeat": false,
+      "sleevelessJacket": false,
+      "bossWithGun": false,
+      "fireBombs": false,
+      "twowordTitle": false,
+      "throwingKnife": false,
+      "subwayStage": false,
+      "exproWrestler": false,
+      "steelPipe": false,
+      "kindnappedFemale": false,
+      "specialDrainsHealth": false,
+      "oilDrums": false,
+      "clowns": false,
+      "yellowRedHealthBar": false,
+      "dominatrix": false,
+      "powerSpeedBalance": false,
+      "elevatorScene": false,
+      "mansionStage": false,
+      "mohawks": false,
+      "buildingSite": false,
+      "fatCharginMen": false,
+      "sharpSuits": false,
+      "graffiti": false
+    }
+  },
+  {
     "name": "Sonic Blast Man",
     "platform": "SNES",
     "perspective": "2.5D",
@@ -41904,6 +42078,100 @@
       "bossWithGun": false,
       "fireBombs": false,
       "twoWordTitle": false,
+      "throwingKnife": false,
+      "subwayStage": false,
+      "exproWrestler": false,
+      "steelPipe": false,
+      "kindnappedFemale": false,
+      "specialDrainsHealth": false,
+      "oilDrums": false,
+      "clowns": false,
+      "yellowRedHealthBar": false,
+      "dominatrix": false,
+      "powerSpeedBalance": false,
+      "elevatorScene": false,
+      "mansionStage": false,
+      "mohawks": false,
+      "buildingSite": false,
+      "fatCharginMen": false,
+      "sharpSuits": false,
+      "graffiti": false
+    }
+  },
+  {
+    "missing": true,
+    "name": "Street Hassle",
+    "platform": "PC",
+    "perspective": "2D",
+    "about": null,
+    "trivia": "Game is an unofficial conversion of Bad Street Brawler from the Spectrum version. Coded in 2 weeks by the developers because it was one of their favourite games.",
+    "country": "Poland",
+    "developer": null,
+    "publisher": null,
+    "releasedate": "unknown",
+    "releaseYear": 1994,
+    "otherPlatforms": null,
+    "series": null,
+    "players": 1,
+    "structure": "Linear",
+    "difficulty": null,
+    "gangsize": null,
+    "variety": ["None"],
+    "playtime": null,
+    "buttons": null,
+    "combos": null,
+    "grabs": null,
+    "dashing": null,
+    "enemyHBars": null,
+    "itemPickup": null,
+    "itemStay": null,
+    "weaponsStay": null,
+    "deathBlow": null,
+    "friendlyFire": null,
+    "charSwitch": null,
+    "groundHit": null,
+    "revive": null,
+    "restore": null,
+    "artStyle": "Semi-realistic",
+    "sprites": null,
+    "setting": "Urban",
+    "focus": "Hand-to-hand",
+    "music": ["Electronic"],
+    "tone": "Humorous",
+    "gore": ["Blood"],
+    "fighters": 1,
+    "stages": null,
+    "enemies": null,
+    "bosses": null,
+    "weapons": [null],
+    "lives": null,
+    "continues": null,
+    "extend": null,
+    "overallReview": null,
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/shassle/ss00.png",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/shassle/ss00.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/shassle/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/shassle/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/shassle/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/shassle/ss04.png"
+    ],
+    "videos": ["https://www.youtube.com/embed/PzZLQ37qjBw"],
+    "links": [
+      "https://thecompany.pl/game/Street+Hassle",
+      "https://amiga.abime.net/games/view/street-hassle",
+      "https://www.lemonamiga.com/games/details.php?id=2537",
+      "https://www.mobygames.com/game/66323/street-hassle/",
+      "https://www.myabandonware.com/game/street-hassle-7id"
+    ],
+    "beatemupBingo": {
+      "go": false,
+      "sunsetEnding": false,
+      "healthMeat": false,
+      "sleevelessJacket": false,
+      "bossWithGun": false,
+      "fireBombs": false,
+      "twowordTitle": true,
       "throwingKnife": false,
       "subwayStage": false,
       "exproWrestler": false,
@@ -43777,8 +44045,7 @@
     "images": [""],
     "videos": [],
     "links": [
-      "https://powerrangers.fandom.com/wiki/Super_Sentai_Battle:_Ranger_Cross",
-      "https://crappygames.miraheze.org/wiki/Super_Sentai_Battle_Ranger_Cross"
+      "https://powerrangers.fandom.com/wiki/Super_Sentai_Battle:_Ranger_Cross"
     ],
     "beatemupBingo": {
       "go": false,
@@ -46964,7 +47231,7 @@
     "cover": "",
     "images": [""],
     "videos": [],
-    "links": ["https://crappygames.miraheze.org/wiki/The_Legend_of_Korra"],
+    "links": ["https://en.wikipedia.org/wiki/The_Legend_of_Korra_(video_game)"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -47960,6 +48227,7 @@
     "overallReview": [],
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/tqman/cover.jpg",
     "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/tqman/ss00.webp",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/tqman/ss01.webp",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/tqman/ss02.webp",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/tqman/ss03.webp",
@@ -47969,7 +48237,7 @@
     "videos": ["https://www.youtube.com/embed/98tog6anQlc"],
     "links": [
       "https://en.wikipedia.org/wiki/The_Quiet_Man_(video_game)",
-      "https://crappygames.miraheze.org/wiki/The_Quiet_Man"
+      "https://www.mobygames.com/game/115793/the-quiet-man/"
     ],
     "beatemupBingo": {
       "go": false,
@@ -48476,8 +48744,8 @@
     "about": null,
     "trivia": "Also known as 아트리아대륙전기, Atria Daeryuk Jeon'gi.",
     "country": "South Korea",
-    "developer": null,
-    "publisher": null,
+    "developer": "Jamie System",
+    "publisher": "KOGA",
     "releasedate": "unknown",
     "releaseYear": 1997,
     "otherPlatforms": null,
@@ -48498,7 +48766,7 @@
     "weaponsStay": null,
     "deathBlow": null,
     "friendlyFire": null,
-    "charSwitch": null,
+    "charSwitch": "Button",
     "groundHit": null,
     "revive": null,
     "restore": null,
@@ -48518,8 +48786,15 @@
     "continues": null,
     "extend": null,
     "overallReview": null,
-    "cover": "",
-    "images": [""],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/tsoaland/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/tsoaland/ss00.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/tsoaland/ss01.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/tsoaland/ss02.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/tsoaland/ss03.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/tsoaland/ss04.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/tsoaland/ss05.png"
+    ],
     "videos": ["https://www.youtube.com/embed/pal7Uqe_Fww"],
     "links": ["https://namu.wiki/w/아트리아%20대륙전기"],
     "beatemupBingo": {
@@ -50679,7 +50954,10 @@
     "cover": "",
     "images": [""],
     "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/Unbound_Saga"],
+    "links": [
+      "https://en.wikipedia.org/wiki/Unbound_Saga",
+      "https://ephemeralenigmascom.wordpress.com/2023/02/07/unbound-saga/"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -53381,7 +53659,7 @@
     "cover": "",
     "images": [""],
     "videos": [],
-    "links": ["https://crappygames.miraheze.org/wiki/X-Men:_Destiny"],
+    "links": ["https://en.wikipedia.org/wiki/X-Men:_Destiny"],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
