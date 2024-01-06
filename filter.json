@@ -197,6 +197,7 @@
       "Handheld Games",
       "Hero Concept",
       "Hi-Bit Studios",
+      "High Voltage Software",
       "Hothouse Creations",
       "Household Games Inc.",
       "Hörberg Productions",
@@ -253,11 +254,13 @@
       "Namco Bandai Games",
       "NAPS Team",
       "Natsume",
+      "NatsumeAtari",
       "Naxat Soft",
       "Neko Entertainment",
       "Neonix, T3 Entertainment",
       "Never Ending Soft",
       "Newgrounds",
+      "Next Level Games",
       "Nickelodeon",
       "Niemi Bros Entertainment",
       "Noise Factory",
@@ -1069,6 +1072,7 @@
     "options": [
       "After combo + button",
       "After stun",
+      "After stun/button",
       "After stun/parry",
       "After stun/block",
       "After stun/Vs. grounded",
@@ -1339,7 +1343,8 @@
       "Urban, Jungle",
       "Urban/Space",
       "Various",
-      "Video game"
+      "Video game",
+      "World War II alternate history"
     ]
   },
   {
