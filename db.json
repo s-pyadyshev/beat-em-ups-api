@@ -49211,7 +49211,7 @@
     "publisher": "Capcom",
     "releasedate": "unknown",
     "releaseYear": 1994,
-    "otherPlatforms": "Arcade",
+    "otherPlatforms": ["Arcade"],
     "series": "The Punisher",
     "players": 2,
     "structure": "Linear",
