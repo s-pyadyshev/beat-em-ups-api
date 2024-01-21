@@ -22598,7 +22598,7 @@
     "releasedate": "2008-10-14",
     "releaseYear": 2008,
     "otherPlatforms": null,
-    "series": null,
+    "series": "Golden Axe",
     "players": 1,
     "structure": "Linear",
     "difficulty": "Hard",
@@ -39945,13 +39945,13 @@
     "continues": null,
     "extend": null,
     "overallReview": null,
-    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/sqalreborn/cover.jpg",
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/sfalreborn/cover.jpg",
     "images": [
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/sqalreborn/ss01.jpg",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/sqalreborn/ss02.jpg",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/sqalreborn/ss03.jpg",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/sqalreborn/ss04.jpg",
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/sqalreborn/ss05.jpg"
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/sfalreborn/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/sfalreborn/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/sfalreborn/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/sfalreborn/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/sfalreborn/ss05.jpg"
     ],
     "videos": ["https://www.youtube.com/embed/5_hTBi1Z2MA"],
     "links": [
