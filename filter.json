@@ -1186,6 +1186,7 @@
     "filterName": "Death Blow",
     "description": "How death-blow attacks work. They can take some health, require energy, or sometimes require stock.",
     "options": [
+      "Charge",
       "Energy",
       "Energy/Health",
       "Health",
