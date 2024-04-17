@@ -40931,7 +40931,7 @@
     "players": 2,
     "structure": "Open world",
     "difficulty": "Hard",
-    "gangsize": "Large (6)",
+    "gangsize": "Small (4)",
     "variety": ["Platforming", "RPG Elements"],
     "playtime": "0:50",
     "buttons": "Punch, Kick, Jump, Magic",
