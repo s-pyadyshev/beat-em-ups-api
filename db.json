@@ -21860,7 +21860,6 @@
     }
   },
   {
-    "missing": true,
     "name": "Generals of the Yang Family: Clan of Heroes",
     "platform": "Genesis",
     "perspective": "2.5D",
@@ -27782,7 +27781,7 @@
     "releasedate": "2005-06-09",
     "releaseYear": 2005,
     "otherPlatforms": null,
-    "series": null,
+    "series": "Kenka Banchou",
     "players": 1,
     "structure": "Open world",
     "difficulty": null,
@@ -27878,7 +27877,7 @@
     "releasedate": "2007-03-08",
     "releaseYear": 2007,
     "otherPlatforms": null,
-    "series": null,
+    "series": "Kenka Banchou",
     "players": 1,
     "structure": "Open world",
     "difficulty": null,
@@ -27958,6 +27957,7 @@
     }
   },
   {
+    "multigenre": true,
     "name": "Kenka Banchou: Badass Rumble",
     "platform": "PSP",
     "perspective": "3D",
@@ -27969,7 +27969,7 @@
     "releasedate": "2008-11-27",
     "releaseYear": 2008,
     "otherPlatforms": null,
-    "series": null,
+    "series": "Kenka Banchou",
     "players": 1,
     "structure": "Open world",
     "difficulty": null,
@@ -44291,7 +44291,7 @@
     "difficulty": null,
     "gangsize": null,
     "variety": ["Customization", "Upgrades"],
-    "playtime": null,
+    "playtime": "2:30",
     "buttons": null,
     "combos": "Dynamic",
     "grabs": "No",
@@ -50054,7 +50054,6 @@
     }
   },
   {
-    "missing": true,
     "name": "The Karate Kid: Street Rumble",
     "platform": "PC",
     "perspective": "2.5D",
