@@ -2558,7 +2558,7 @@
     }
   },
   {
-    "name": "Asterix & Obelix Slap Them All! 2",
+    "name": "Asterix & Obelix: Slap Them All! 2",
     "platform": "PC",
     "perspective": "2.5D",
     "about": null,
@@ -2774,9 +2774,9 @@
     "variety": ["None"],
     "playtime": null,
     "buttons": null,
-    "combos": null,
-    "grabs": null,
-    "dashing": null,
+    "combos": "Dynamic",
+    "grabs": "Contact",
+    "dashing": "Double-tap",
     "enemyHBars": null,
     "itemPickup": null,
     "itemStay": null,
@@ -2787,7 +2787,7 @@
     "groundHit": null,
     "revive": null,
     "restore": null,
-    "artStyle": null,
+    "artStyle": "Semi-cartoony",
     "sprites": null,
     "setting": null,
     "focus": null,
@@ -5653,7 +5653,7 @@
     "perspective": "2.5D",
     "about": "A fan-made remake for PC, the Battletoads game of the same name on the NES.",
     "trivia": null,
-    "country": null,
+    "country": "Russia",
     "developer": "DOC88HZ",
     "publisher": "DOC88HZ",
     "releasedate": "2023-10-12",
@@ -17005,7 +17005,8 @@
     "links": [
       "https://en.wikipedia.org/wiki/Dynamite_D%C3%BCx",
       "https://gamefaqs.gamespot.com/arcade/575750-dynamite-dux",
-      "https://www.mobygames.com/game/arcade/dynamite-dx"
+      "https://www.mobygames.com/game/arcade/dynamite-dx",
+      "https://gaminghell.co.uk/ShortsDynamiteDux.html"
     ],
     "beatemupBingo": {
       "go": false,
@@ -20878,7 +20879,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/gpolis/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/gpolis/img/ss05.png"
     ],
-    "videos": [],
+    "videos": [
+      "https://www.youtube.com/embed/1dMtWvOHjTY"
+    ],
     "links": [
       "https://en.wikipedia.org/wiki/Gaiapolis",
       "https://gamefaqs.gamespot.com/arcade/583944-gaiapolis",
@@ -22074,7 +22077,7 @@
     "overallReview": null,
     "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/gjustirisers/cover.jpg",
     "images": [
-      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/gjustirisers/ss00.png",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/gjustirisers/ss00.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/gjustirisers/ss01.webp",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/gjustirisers/ss02.webp",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gba/gjustirisers/ss03.webp",
@@ -25157,7 +25160,7 @@
     "difficulty": null,
     "gangsize": null,
     "variety": ["None"],
-    "playtime": null,
+    "playtime": "3:00",
     "buttons": null,
     "combos": null,
     "grabs": null,
@@ -25196,7 +25199,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/hulk/ss04.jpg",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/hulk/ss05.jpg"
     ],
-    "videos": [],
+    "videos": [
+      "https://www.youtube.com/embed/1-tGqWJA18M"
+    ],
     "links": [
       "https://gamefaqs.gamespot.com/pc/589693-hulk"
     ],
@@ -25289,8 +25294,12 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/ikari3/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/ikari3/img/ss05.png"
     ],
-    "videos": [],
-    "links": [],
+    "videos": [
+      "https://www.youtube.com/embed/sJzxqtEqvlQ"
+    ],
+    "links": [
+      "https://en.wikipedia.org/wiki/Ikari_III:_The_Rescue"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -25380,8 +25389,12 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nes/ikari3/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/nes/ikari3/img/ss05.png"
     ],
-    "videos": [],
-    "links": [],
+    "videos": [
+      "https://www.youtube.com/embed/Ut0F-p00A8c"
+    ],
+    "links": [
+      "https://en.wikipedia.org/wiki/Ikari_III:_The_Rescue"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -26605,7 +26618,7 @@
     "links": [
       "https://en.wikipedia.org/wiki/Jet_Li:_Rise_to_Honor",
       "https://gamefaqs.gamespot.com/ps2/562133-rise-to-honor",
-      "https://www.mobygames.com/game/ps2/rise-to-honor",
+      "https://www.mobygames.com/game/13250/jet-li-rise-to-honor/",
       "http://www.honestgamers.com/2342/playstation-2/rise-to-honor/review.html"
     ],
     "beatemupBingo": {
@@ -27075,7 +27088,10 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/jdredd/img/ss05.png"
     ],
     "videos": [],
-    "links": ["https://gamefaqs.gamespot.com/arcade/568024-judge-dredd"],
+    "links": [
+      "https://gamefaqs.gamespot.com/arcade/568024-judge-dredd",
+      "https://gaminghell.co.uk/ShortsJudgeDredd.html"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -27394,6 +27410,90 @@
       "mohawks": false,
       "buildingSite": false,
       "fatCharginMen": true,
+      "sharpSuits": false,
+      "graffiti": false
+    }
+  },
+  {
+    "missing": true,
+    "name": "Just Beat Em Up : World of Fury",
+    "platform": "PC",
+    "perspective": "2.5D",
+    "about": null,
+    "trivia": null,
+    "country": "France",
+    "developer": "Zudenan Digital",
+    "publisher": "Zudenan Digital",
+    "releasedate": "2018-08-30",
+    "releaseYear": 2018,
+    "otherPlatforms": null,
+    "series": null,
+    "players": 1,
+    "structure": null,
+    "difficulty": null,
+    "gangsize": null,
+    "variety": ["None"],
+    "playtime": null,
+    "buttons": null,
+    "combos": null,
+    "grabs": null,
+    "dashing": null,
+    "enemyHBars": null,
+    "itemPickup": null,
+    "itemStay": null,
+    "weaponsStay": null,
+    "deathBlow": null,
+    "friendlyFire": null,
+    "charSwitch": null,
+    "groundHit": null,
+    "revive": null,
+    "restore": null,
+    "artStyle": null,
+    "sprites": null,
+    "setting": null,
+    "focus": null,
+    "music": ["Video game"],
+    "tone": null,
+    "gore": [null],
+    "fighters": null,
+    "stages": null,
+    "enemies": null,
+    "bosses": null,
+    "weapons": [null],
+    "lives": null,
+    "continues": null,
+    "extend": null,
+    "overallReview": null,
+    "cover": "",
+    "images": [""],
+    "videos": [""],
+    "links": [
+      "https://store.steampowered.com/app/857420/Just_Beat_Em_Up__World_of_Fury"
+    ],
+    "beatemupBingo": {
+      "go": false,
+      "sunsetEnding": false,
+      "healthMeat": false,
+      "sleevelessJacket": false,
+      "bossWithGun": false,
+      "fireBombs": false,
+      "twowordTitle": false,
+      "throwingKnife": false,
+      "subwayStage": false,
+      "exproWrestler": false,
+      "steelPipe": false,
+      "kindnappedFemale": false,
+      "specialDrainsHealth": false,
+      "oilDrums": false,
+      "clowns": false,
+      "yellowRedHealthBar": false,
+      "dominatrix": false,
+      "powerSpeedBalance": false,
+      "elevatorScene": false,
+      "mansionStage": false,
+      "mohawks": false,
+      "buildingSite": false,
+      "fatCharginMen": false,
       "sharpSuits": false,
       "graffiti": false
     }
@@ -27742,7 +27842,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/kblazers/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/kblazers/img/ss05.png"
     ],
-    "videos": [],
+    "videos": [
+      "https://www.youtube.com/embed/fsgtt-3J15M"
+    ],
     "links": [
       "https://gamefaqs.gamespot.com/arcade/568032-karate-blazers",
       "https://www.mobygames.com/game/arcade/karate-blazers"
@@ -32209,7 +32311,7 @@
     "missing": true,
     "undev": true,
     "name": "Metro Siege",
-    "platform": "PC",
+    "platform": "Amiga",
     "perspective": "2.5D",
     "about": null,
     "trivia": null,
@@ -32220,7 +32322,7 @@
     "releaseYear": null,
     "otherPlatforms": null,
     "series": null,
-    "players": 1,
+    "players": 2,
     "structure": null,
     "difficulty": null,
     "gangsize": null,
@@ -32237,7 +32339,7 @@
     "deathBlow": null,
     "friendlyFire": null,
     "charSwitch": null,
-    "groundHit": null,
+    "groundHit": "Yes",
     "revive": null,
     "restore": null,
     "artStyle": null,
@@ -32247,7 +32349,7 @@
     "music": ["Video game"],
     "tone": null,
     "gore": [null],
-    "fighters": null,
+    "fighters": 2,
     "stages": null,
     "enemies": null,
     "bosses": null,
@@ -32256,9 +32358,16 @@
     "continues": null,
     "extend": null,
     "overallReview": null,
-    "cover": "",
-    "images": [""],
-    "videos": [],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/msiege/cover.png",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/msiege/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/msiege/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/msiege/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/amg/msiege/ss04.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/_uaOaCGwZZ8"
+    ],
     "links": [
       "https://bitbeamcannon.com/metro-siege/"
     ],
@@ -34032,7 +34141,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/mnation/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/mnation/img/ss05.png"
     ],
-    "videos": [],
+    "videos": [
+      "https://www.youtube.com/embed/dYNCIQF3gJg"
+    ],
     "links": [
       "https://en.wikipedia.org/wiki/Mutation_Nation",
       "https://gamefaqs.gamespot.com/arcade/562896-mutation-nation"
@@ -34730,8 +34841,8 @@
     "about": null,
     "trivia": null,
     "country": "Japan",
-    "developer": "developer",
-    "publisher": "publisher",
+    "developer": "Avit-Niigata",
+    "publisher": "Arc System Works",
     "releasedate": "2011-12-15",
     "releaseYear": 2011,
     "otherPlatforms": null,
@@ -34740,7 +34851,7 @@
     "structure": null,
     "difficulty": null,
     "gangsize": null,
-    "variety": ["None"],
+    "variety": ["Battle Royale", "Minigames", "RPG Elements"],
     "playtime": null,
     "buttons": null,
     "combos": null,
@@ -34760,7 +34871,7 @@
     "sprites": null,
     "setting": null,
     "focus": null,
-    "music": ["music"],
+    "music": ["Video game"],
     "tone": null,
     "fighters": null,
     "stages": null,
@@ -34771,9 +34882,17 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "",
-    "images": [""],
-    "videos": [],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/3ds/nkkkspecial/cover.webp",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/3ds/nkkkspecial/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/3ds/nkkkspecial/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/3ds/nkkkspecial/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/3ds/nkkkspecial/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/3ds/nkkkspecial/ss05.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/5Ms20qIAgxw"
+    ],
     "links": [
       "https://kuniokun.fandom.com/wiki/Nekketsu_K%C5%8Dha_Kunio-kun_Special"
     ],
@@ -37251,10 +37370,18 @@
     "continues": null,
     "extend": null,
     "overallReview": null,
-    "cover": "",
-    "images": [""],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/pdclash2/cover.webp",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/pdclash2/ss01.webp",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/pdclash2/ss02.webp",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/pdclash2/ss03.webp",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/pdclash2/ss04.webp",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ob/pdclash2/ss05.webp"
+    ],
     "videos": [""],
-    "links": ["https://gamejolt.com/games/pocket-dimensional-clash-2/194726"],
+    "links": [
+      "https://gamejolt.com/games/pocket-dimensional-clash-2/194726"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -38051,12 +38178,12 @@
     "platform": "PC",
     "perspective": "2.5D",
     "about": null,
-    "trivia": null,
-    "country": null,
-    "developer": "developer",
-    "publisher": "publisher",
-    "releasedate": "unknown",
-    "releaseYear": null,
+    "trivia": "This early demo features 3 stages (the 2nd and 3rd still don't have final boss and 'Romerales' miss an animation), single player or up to 4P multiplayer and an unlockable Survival game mode.",
+    "country": "Spain",
+    "developer": "Anarkade",
+    "publisher": "itch.io",
+    "releasedate": "2018-01-05",
+    "releaseYear": 2018,
     "otherPlatforms": null,
     "series": null,
     "players": 2,
@@ -38094,10 +38221,19 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "",
-    "images": [""],
-    "videos": [],
-    "links": ["https://yurinka.itch.io/rawal-rumble"],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/rrumble/ss01.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/rrumble/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/rrumble/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/rrumble/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/rrumble/ss04.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/Dm15LOc8rL0"
+    ],
+    "links": [
+      "https://yurinka.itch.io/rawal-rumble"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -38105,7 +38241,7 @@
       "sleevelessJacket": false,
       "bossWithGun": false,
       "fireBombs": false,
-      "twoWordTitle": false,
+      "twoWordTitle": true,
       "throwingKnife": false,
       "subwayStage": false,
       "exproWrestler": false,
@@ -40499,7 +40635,8 @@
     ],
     "videos": [],
     "links": [
-      "https://gamefaqs.gamespot.com/arcade/566730-pretty-soldier-sailor-moon"
+      "https://gamefaqs.gamespot.com/arcade/566730-pretty-soldier-sailor-moon",
+      "https://gaminghell.co.uk/ShortsPrettySoldierSailorMoon.html"
     ],
     "beatemupBingo": {
       "go": false,
@@ -42490,90 +42627,6 @@
     }
   },
   {
-    "missing": true,
-    "name": "Simpsons Treehouse of horror",
-    "platform": "OpenBOR",
-    "perspective": "2.5D",
-    "about": "OpenBOR fan game. Demo only.",
-    "trivia": null,
-    "country": null,
-    "developer": null,
-    "publisher": null,
-    "releasedate": "unknown",
-    "releaseYear": null,
-    "otherPlatforms": null,
-    "series": null,
-    "players": 1,
-    "structure": null,
-    "difficulty": null,
-    "gangsize": null,
-    "variety": ["None"],
-    "playtime": null,
-    "buttons": null,
-    "combos": null,
-    "grabs": null,
-    "dashing": null,
-    "enemyHBars": null,
-    "itemPickup": null,
-    "itemStay": null,
-    "weaponsStay": null,
-    "deathBlow": null,
-    "friendlyFire": null,
-    "charSwitch": null,
-    "groundHit": null,
-    "revive": null,
-    "restore": null,
-    "artStyle": null,
-    "sprites": null,
-    "setting": null,
-    "focus": null,
-    "music": ["Video game"],
-    "tone": null,
-    "gore": [null],
-    "fighters": null,
-    "stages": null,
-    "enemies": null,
-    "bosses": null,
-    "weapons": [null],
-    "lives": null,
-    "continues": null,
-    "extend": null,
-    "overallReview": [],
-    "cover": "",
-    "images": [""],
-    "videos": [],
-    "links": [
-      "https://gamejolt.com/games/treehouseofhorror/27481"
-    ],
-    "beatemupBingo": {
-      "go": false,
-      "sunsetEnding": false,
-      "healthMeat": false,
-      "sleevelessJacket": false,
-      "bossWithGun": false,
-      "fireBombs": false,
-      "twoWordTitle": false,
-      "throwingKnife": false,
-      "subwayStage": false,
-      "exproWrestler": false,
-      "steelPipe": false,
-      "kindnappedFemale": false,
-      "specialDrainsHealth": false,
-      "oilDrums": false,
-      "clowns": false,
-      "yellowRedHealthBar": false,
-      "dominatrix": false,
-      "powerSpeedBalance": false,
-      "elevatorScene": false,
-      "mansionStage": false,
-      "mohawks": false,
-      "buildingSite": false,
-      "fatCharginMen": false,
-      "sharpSuits": false,
-      "graffiti": false
-    }
-  },
-  {
     "name": "Skinny & Franko: Fists of Violence",
     "platform": "PC",
     "perspective": "2.5D",
@@ -43352,6 +43405,7 @@
   },
   {
     "missing": true,
+    "undev": true,
     "name": "Space Hunters",
     "platform": "PC",
     "perspective": "2.5D",
@@ -43403,7 +43457,9 @@
     "cover": "",
     "images": [""],
     "videos": [""],
-    "links": ["https://store.steampowered.com/app/2731720/Space_Hunters/"],
+    "links": [
+      "https://store.steampowered.com/app/2731720/Space_Hunters/"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -43792,7 +43848,7 @@
   },
   {
     "unalteredPort": true,
-    "name": "Spider-Man & Venom: Separation Anxiety",
+    "name": "Spider-Man and Venom: Separation Anxiety",
     "platform": "PC",
     "perspective": "2.5D",
     "about": null,
@@ -49833,7 +49889,7 @@
     "structure": "Linear",
     "difficulty": "Medium",
     "gangsize": "Large (7)",
-    "variety": ["Morality system"],
+    "variety": ["Morality system", "Multiple endings"],
     "playtime": "0:50",
     "buttons": "Jump, Attack, Magic",
     "combos": "Static",
@@ -50611,11 +50667,19 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "",
-    "images": [""],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/tlokorra/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/tlokorra/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/tlokorra/ss02.webp",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/tlokorra/ss03.webp",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/tlokorra/ss04.webp",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/pc/tlokorra/ss05.webp"
+    ],
     "videos": [],
     "links": [
-      "https://en.wikipedia.org/wiki/The_Legend_of_Korra_(video_game)"
+      "https://en.wikipedia.org/wiki/The_Legend_of_Korra_(video_game)",
+      "https://gamefaqs.gamespot.com/pc/812161-the-legend-of-korra",
+      "https://www.mobygames.com/game/75345/the-legend-of-korra/"
     ],
     "beatemupBingo": {
       "go": false,
@@ -50890,7 +50954,11 @@
     "cover": "",
     "images": [""],
     "videos": [],
-    "links": [""],
+    "links": [
+      "https://gamefaqs.gamespot.com/ps2/929371-the-mini-bijo-keikan",
+      "https://wiki.pcsx2.net/Simple_2000_Series_Vol._88:_The_Mini_Bijo_Keikan",
+      "https://tcrf.net/The_Mini_Bijo_Keikan"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -51535,11 +51603,13 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/punisher/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/punisher/img/ss05.png"
     ],
-    "videos": [],
+    "videos": [
+      "https://www.youtube.com/embed/G8pE3kOAW8I"
+    ],
     "links": [
       "https://en.wikipedia.org/wiki/The_Punisher_(1993_video_game)",
       "https://gamefaqs.gamespot.com/arcade/583713-the-punisher",
-      "https://www.mobygames.com/game/arcade/punisher__",
+      "https://www.mobygames.com/game/28848/the-punisher/",
       "http://rq87.flyingomelette.com/RQ/R/ARC/PUN/1.html",
       "http://www.hardcoregaming101.net/punisher-the-arcade/",
       "http://retrovania-vgjunk.blogspot.com/2010/05/punisher.html",
@@ -51635,7 +51705,9 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gen/punisher/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/gen/punisher/img/ss05.png"
     ],
-    "videos": [],
+    "videos": [
+      "https://www.youtube.com/embed/qvVVl348NCk"
+    ],
     "links": [
       "https://en.wikipedia.org/wiki/The_Punisher_(1993_video_game)",
       "https://gamefaqs.gamespot.com/genesis/586402-the-punisher"
@@ -52103,7 +52175,9 @@
     "cover": "",
     "images": [""],
     "videos": [],
-    "links": ["https://en.wikipedia.org/wiki/The_Sopranos:_Road_to_Respect"],
+    "links": [
+      "https://en.wikipedia.org/wiki/The_Sopranos:_Road_to_Respect"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -54687,10 +54761,13 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/uccops/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/arc/uccops/img/ss05.png"
     ],
-    "videos": ["https://www.youtube.com/embed/YRWHu-7EFt4"],
+    "videos": [
+      "https://www.youtube.com/embed/YRWHu-7EFt4"
+    ],
     "links": [
       "https://en.wikipedia.org/wiki/Undercover_Cops",
       "https://gamefaqs.gamespot.com/arcade/567405-undercover-cops",
+      "http://www.hardcoregaming101.net/undercover-cops/",
       "https://gaminghell.co.uk/UndercoverCops.html",
       "https://gaminghell.co.uk/ShortsUndercoverCops.html"
     ],
@@ -54783,8 +54860,16 @@
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/uccops/img/ss04.png",
       "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/snes/uccops/img/ss05.png"
     ],
-    "videos": ["https://www.youtube.com/embed/pmidTAbti4E"],
-    "links": ["https://gamefaqs.gamespot.com/snes/571242-undercover-cops"],
+    "videos": [
+      "https://www.youtube.com/embed/pmidTAbti4E"
+    ],
+    "links": [
+      "https://en.wikipedia.org/wiki/Undercover_Cops",
+      "https://gamefaqs.gamespot.com/snes/571242-undercover-cops",
+      "http://www.hardcoregaming101.net/undercover-cops/",
+      "https://gaminghell.co.uk/UndercoverCops.html",
+      "https://gaminghell.co.uk/ShortsUndercoverCops.html"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -58486,8 +58571,8 @@
     "country": null,
     "developer": "developer",
     "publisher": "publisher",
-    "releasedate": "unknown",
-    "releaseYear": null,
+    "releasedate": "2005-11-16",
+    "releaseYear": 2005,
     "otherPlatforms": null,
     "series": null,
     "players": 1,
@@ -58526,9 +58611,17 @@
     "continues": null,
     "extend": null,
     "overallReview": [],
-    "cover": "",
-    "images": [""],
-    "videos": [],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/yfury/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/yfury/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/yfury/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/yfury/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/yfury/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps2/yfury/ss05.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/MgSXkfABBao"
+    ],
     "links": [
       "https://gamefaqs.gamespot.com/ps2/925948-yakuza-fury",
       "http://www.hardcoregaming101.net/yakuza-fury-simple-2000-series-vol-72-the-ninkyo-%e4%bb%bb%e4%be%a0-playstation-2-2005/",
@@ -58582,7 +58675,7 @@
     "difficulty": null,
     "gangsize": null,
     "variety": ["None"],
-    "playtime": null,
+    "playtime": "12:00",
     "buttons": null,
     "combos": null,
     "grabs": null,
@@ -58601,7 +58694,7 @@
     "sprites": null,
     "setting": null,
     "focus": null,
-    "music": ["music"],
+    "music": ["Electronic", "Rock"],
     "tone": null,
     "fighters": null,
     "stages": null,
@@ -58612,10 +58705,23 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "",
-    "images": [""],
-    "videos": [],
-    "links": [],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps3/ykiwami/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps3/ykiwami/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps3/ykiwami/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps3/ykiwami/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps3/ykiwami/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps3/ykiwami/ss05.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/9mXpqjNS0Yk"
+    ],
+    "links": [
+      "https://en.wikipedia.org/wiki/Yakuza_Kiwami",
+      "https://yakuza.fandom.com/wiki/Yakuza_Kiwami",
+      "https://gamefaqs.gamespot.com/ps3/181319-ryu-ga-gotoku-kiwami",
+      "https://segaretro.org/Yakuza_Kiwami"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -58694,10 +58800,20 @@
     "continues": null,
     "extend": "N/A",
     "overallReview": [],
-    "cover": "",
-    "images": [""],
+    "cover": "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps4/ykiwami2/cover.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps4/ykiwami2/ss01.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps4/ykiwami2/ss02.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps4/ykiwami2/ss03.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps4/ykiwami2/ss04.jpg",
+      "https://raw.githubusercontent.com/s-pyadyshev/beat-em-up-world/master/src/assets/img/games/ps4/ykiwami2/ss05.jpg"
+    ],
     "videos": [],
-    "links": [],
+    "links": [
+      "https://en.wikipedia.org/wiki/Yakuza_Kiwami_2",
+      "https://yakuza.fandom.com/wiki/Yakuza_Kiwami_2",
+      "https://gamefaqs.gamespot.com/ps4/218734-yakuza-kiwami-2"
+    ],
     "beatemupBingo": {
       "go": false,
       "sunsetEnding": false,
@@ -58785,7 +58901,8 @@
     ],
     "videos": [],
     "links": [
-      "http://www.hardcoregaming101.net/korea/gameindex-retail-genre.htm"
+      "http://www.hardcoregaming101.net/korea/gameindex-retail-genre.htm",
+      "https://en.namu.wiki/w/%EC%97%B4%ED%98%88%EA%B0%95%ED%98%B8(%EA%B2%8C%EC%9E%84)"
     ],
     "beatemupBingo": {
       "go": false,
